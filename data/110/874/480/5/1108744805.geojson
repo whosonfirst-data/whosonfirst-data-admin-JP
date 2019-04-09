@@ -1,0 +1,77 @@
+{
+  "id": 1108744805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002058,
+    "geom:area_square_m":20411998.704098,
+    "geom:bbox":"136.619308472,36.6260681152,136.692901611,36.7012672424",
+    "geom:latitude":36.664574,
+    "geom:longitude":136.657463,
+    "iso:country":"JP",
+    "lbl:latitude":36.664591,
+    "lbl:longitude":136.65802,
+    "meso:admin_1":"Ishikawa Ken",
+    "meso:gadm_admin":"Uchinada",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Utinadamati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"17365",
+    "meso:mps_x":136.65802,
+    "meso:mps_y":36.664591,
+    "meso:name_alt":"Uchinada",
+    "meso:name_en":"Uchinada Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":36.664591,
+    "mps:longitude":136.65802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Uchinada"
+    ],
+    "name:eng_x_variant":[
+        "Utinadamati",
+        "Uchinada Machi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152273,
+    "wof:geomhash":"30c5bc99ad2967117145a18adb70fcae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744805,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1108744805,
+    "wof:lastmodified":1511300755,
+    "wof:name":"Uchinada",
+    "wof:parent_id":85672741,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741889
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.61930847168,
+    36.6260681152344,
+    136.69290161132804,
+    36.70126724243163
+],
+  "geometry": {"coordinates":[[[136.66909790039102,36.70126724243163],[136.68670654296903,36.69466781616208],[136.68170166015597,36.68853378295901],[136.69290161132804,36.68226623535162],[136.68600463867193,36.67426681518553],[136.68220520019503,36.66986846923834],[136.66349792480503,36.65039825439448],[136.64520263671901,36.63700103759774],[136.63240051269503,36.6260681152344],[136.62870788574202,36.63006591796877],[136.62179565429702,36.63566589355469],[136.61930847168,36.63813400268553],[136.62179565429702,36.6399345397949],[136.64610290527304,36.66986846923834],[136.66909790039102,36.70126724243163]]],"type":"Polygon"}
+}

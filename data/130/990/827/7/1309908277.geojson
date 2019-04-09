@@ -1,0 +1,75 @@
+{
+  "id": 1309908277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.53883,40.22376,140.53883,40.22376",
+    "geom:latitude":40.22376,
+    "geom:longitude":140.53883,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Terazaki",
+    "gn:country_code":"JP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456322,
+    "gn:latitude":40.22376,
+    "gn:longitude":140.53883,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Terazaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bfa\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u3066\u3089\u3056\u304d",
+        "\u30c6\u30e9\u30b6\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456322
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b7e870b57e317f8c9e69259071de3157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1309908277,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1309908277,
+    "wof:lastmodified":1537650917,
+    "wof:name":"Terazaki",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.53883000000002,
+    40.22376,
+    140.53883000000002,
+    40.22376
+],
+  "geometry": {"coordinates":[140.53883000000002,40.22376],"type":"Point"}
+}

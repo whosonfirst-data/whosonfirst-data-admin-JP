@@ -1,0 +1,75 @@
+{
+  "id": 1226803117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.69749,35.84546,139.69749,35.84546",
+    "geom:latitude":35.84546,
+    "geom:longitude":139.69749,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859726.0",
+    "gn:asciiname":"Ikari",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034883,
+    "gn:latitude":35.84546,
+    "gn:longitude":139.69749,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4f0a\u5208"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u304b\u308a",
+        "\u30a4\u30ab\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034883
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c0c555fdbed22ef17c204170dcaa9ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740423,
+            "locality_id":1226803117,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1226803117,
+    "wof:lastmodified":1537652131,
+    "wof:name":"Ikari",
+    "wof:parent_id":1108740423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.69749,
+    35.84546,
+    139.69749,
+    35.84546
+],
+  "geometry": {"coordinates":[139.69748999999999,35.84546],"type":"Point"}
+}

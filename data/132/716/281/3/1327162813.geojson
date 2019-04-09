@@ -1,0 +1,76 @@
+{
+  "id": 1327162813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.13333,34.25,135.13333,34.25",
+    "geom:latitude":34.25,
+    "geom:longitude":135.13333,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"1848936.0",
+    "gn:asciiname":"Matsue-naka",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855900,
+    "gn:latitude":34.25,
+    "gn:longitude":135.13333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Matsue-naka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u6c5f\u4e2d"
+    ],
+    "name:und_x_variant":[
+        "Matsue",
+        "Naka-matsue",
+        "Matsue-naka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672795,
+        1108742629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855900
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7eb4eac8b03df7a09ec3f64e1d8b8e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742629,
+            "locality_id":1327162813,
+            "region_id":85672795
+        }
+    ],
+    "wof:id":1327162813,
+    "wof:lastmodified":1537650084,
+    "wof:name":"Matsue-naka",
+    "wof:parent_id":1108742629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.13333,
+    34.25,
+    135.13333,
+    34.25
+],
+  "geometry": {"coordinates":[135.13333,34.25],"type":"Point"}
+}

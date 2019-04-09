@@ -1,0 +1,75 @@
+{
+  "id": 1226003371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.53202,32.8644,130.53202,32.8644",
+    "geom:latitude":32.8644,
+    "geom:longitude":130.53202,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850743.0",
+    "gn:asciiname":"Daiei",
+    "gn:country_code":"JP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11274508,
+    "gn:latitude":32.8644,
+    "gn:longitude":130.53202,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Daiei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u6804"
+    ],
+    "name:jpn_x_variant":[
+        "\u3060\u3044\u3048\u3044",
+        "\u30c0\u30a4\u30a8\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274508
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"79bc1ef7464138ce08a8686d522892fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524603,
+            "locality_id":1226003371,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226003371,
+    "wof:lastmodified":1537652838,
+    "wof:name":"Daiei",
+    "wof:parent_id":890524603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.53202,
+    32.8644,
+    130.53202,
+    32.8644
+],
+  "geometry": {"coordinates":[130.53201999999999,32.8644],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293165071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.57805,32.97866,130.57805,32.97866",
+    "geom:latitude":32.97866,
+    "geom:longitude":130.57805,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850743.0",
+    "gn:asciiname":"Hakodani",
+    "gn:country_code":"JP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11275652,
+    "gn:latitude":32.97866,
+    "gn:longitude":130.57805,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hakodani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7bb1\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3053\u3060\u306b",
+        "\u30cf\u30b3\u30c0\u30cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11275652
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"717cacfa26c61c99b7a2d44f50283c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524603,
+            "locality_id":1293165071,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293165071,
+    "wof:lastmodified":1537652850,
+    "wof:name":"Hakodani",
+    "wof:parent_id":890524603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.57805,
+    32.97866,
+    130.57805,
+    32.97866
+],
+  "geometry": {"coordinates":[130.57804999999999,32.97866],"type":"Point"}
+}

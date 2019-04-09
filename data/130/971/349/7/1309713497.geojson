@@ -1,0 +1,75 @@
+{
+  "id": 1309713497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.361,40.79201,140.361,40.79201",
+    "geom:latitude":40.79201,
+    "geom:longitude":140.361,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Asada",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475888,
+    "gn:latitude":40.79201,
+    "gn:longitude":140.361,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Asada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d45\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3055\u3060",
+        "\u30a2\u30b5\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475888
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c5e9815ec7afb3e75e386c242935d3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1309713497,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1309713497,
+    "wof:lastmodified":1537650950,
+    "wof:name":"Asada",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.361,
+    40.79201,
+    140.361,
+    40.79201
+],
+  "geometry": {"coordinates":[140.36099999999999,40.79201],"type":"Point"}
+}

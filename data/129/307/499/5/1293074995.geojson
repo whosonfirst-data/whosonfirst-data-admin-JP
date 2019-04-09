@@ -1,0 +1,75 @@
+{
+  "id": 1293074995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46863,32.95962,130.46863,32.95962",
+    "geom:latitude":32.95962,
+    "geom:longitude":130.46863,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Komoya",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274189,
+    "gn:latitude":32.95962,
+    "gn:longitude":130.46863,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Komoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u83f0\u5c4b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3082\u3084",
+        "\u30b3\u30e2\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274189
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"401947fe9a8c5bb3e877aef9b3c5c9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1293074995,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293074995,
+    "wof:lastmodified":1537652831,
+    "wof:name":"Komoya",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46863000000002,
+    32.95962,
+    130.46863000000002,
+    32.95962
+],
+  "geometry": {"coordinates":[130.46863000000002,32.95962],"type":"Point"}
+}

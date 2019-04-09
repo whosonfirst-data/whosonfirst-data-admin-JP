@@ -1,0 +1,75 @@
+{
+  "id": 1344130801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.43688,32.96531,130.43688,32.96531",
+    "geom:latitude":32.96531,
+    "geom:longitude":130.43688,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Nakaichibu",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11274035,
+    "gn:latitude":32.96531,
+    "gn:longitude":130.43688,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakaichibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u4e00\u90e8"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u3044\u3061\u3076",
+        "\u30ca\u30ab\u30a4\u30c1\u30d6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274035
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"da8741fb29efd9cdcd31968f686cba69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1344130801,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1344130801,
+    "wof:lastmodified":1537652827,
+    "wof:name":"Nakaichibu",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.43688,
+    32.96531,
+    130.43688,
+    32.96531
+],
+  "geometry": {"coordinates":[130.43688,32.96531],"type":"Point"}
+}

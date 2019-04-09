@@ -1,0 +1,75 @@
+{
+  "id": 1259881229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.71586,40.82301,140.71586,40.82301",
+    "geom:latitude":40.82301,
+    "geom:longitude":140.71586,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Nishitaki",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506080,
+    "gn:latitude":40.82301,
+    "gn:longitude":140.71586,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nishitaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u897f\u6edd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3057\u305f\u304d",
+        "\u30cb\u30b7\u30bf\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506080
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bb011e44e674b20ec54d1a4efacb9e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1259881229,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259881229,
+    "wof:lastmodified":1537650974,
+    "wof:name":"Nishitaki",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.71586000000002,
+    40.82301,
+    140.71586000000002,
+    40.82301
+],
+  "geometry": {"coordinates":[140.71586000000002,40.82301],"type":"Point"}
+}

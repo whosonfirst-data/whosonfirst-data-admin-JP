@@ -1,0 +1,76 @@
+{
+  "id": 1260363603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.47593,32.92155,130.47593,32.92155",
+    "geom:latitude":32.92155,
+    "geom:longitude":130.47593,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850744.0",
+    "gn:admin3_code":"43368.0",
+    "gn:asciiname":"Haraka",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273911,
+    "gn:latitude":32.92155,
+    "gn:longitude":130.47593,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Haraka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8179\u8d64"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3089\u304b",
+        "\u30cf\u30e9\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273911
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1dbd92a0161e7ae850371bda71a1a3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743171,
+            "locality_id":1260363603,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1260363603,
+    "wof:lastmodified":1537652822,
+    "wof:name":"Haraka",
+    "wof:parent_id":1108743171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.47593,
+    32.92155,
+    130.47593,
+    32.92155
+],
+  "geometry": {"coordinates":[130.47593000000001,32.92155],"type":"Point"}
+}

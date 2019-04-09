@@ -1,0 +1,76 @@
+{
+  "id": 1293401311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.12315,40.33353,141.12315,40.33353",
+    "geom:latitude":40.33353,
+    "geom:longitude":141.12315,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2128302.0",
+    "gn:admin3_code":"2443.0",
+    "gn:asciiname":"Ochita",
+    "gn:country_code":"JP",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553509,
+    "gn:latitude":40.33353,
+    "gn:longitude":141.12315,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ochita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u843d\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3061\u305f",
+        "\u30aa\u30c1\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553509
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"12ef44cfa509d804bcbe73502ed47cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739931,
+            "locality_id":1293401311,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293401311,
+    "wof:lastmodified":1537651088,
+    "wof:name":"Ochita",
+    "wof:parent_id":1108739931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.12315,
+    40.33353,
+    141.12315,
+    40.33353
+],
+  "geometry": {"coordinates":[141.12315000000001,40.33353],"type":"Point"}
+}

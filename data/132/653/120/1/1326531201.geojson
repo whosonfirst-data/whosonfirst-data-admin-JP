@@ -1,0 +1,75 @@
+{
+  "id": 1326531201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.42919,40.67052,141.42919,40.67052",
+    "geom:latitude":40.67052,
+    "geom:longitude":141.42919,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439937.0",
+    "gn:asciiname":"Mikawame",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312465,
+    "gn:latitude":40.67052,
+    "gn:longitude":141.42919,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mikawame",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u5ddd\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u304b\u308f\u3081",
+        "\u30df\u30ab\u30ef\u30e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890524885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312465
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9cdf7767105a726414c8f0ec13f13b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524885,
+            "locality_id":1326531201,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1326531201,
+    "wof:lastmodified":1537650718,
+    "wof:name":"Mikawame",
+    "wof:parent_id":890524885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.42918999999995,
+    40.67052,
+    141.42918999999995,
+    40.67052
+],
+  "geometry": {"coordinates":[141.42918999999995,40.67052],"type":"Point"}
+}

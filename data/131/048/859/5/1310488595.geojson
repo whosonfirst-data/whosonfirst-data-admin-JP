@@ -1,0 +1,76 @@
+{
+  "id": 1310488595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.60263,43.29337,144.60263,43.29337",
+    "geom:latitude":43.29337,
+    "geom:longitude":144.60263,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7428090.0",
+    "gn:admin3_code":"1664.0",
+    "gn:asciiname":"Sakura",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475066,
+    "gn:latitude":43.29337,
+    "gn:longitude":144.60263,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u685c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304f\u3089",
+        "\u30b5\u30af\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475066
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"46eda15238ceabf588847d67431d901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739837,
+            "locality_id":1310488595,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1310488595,
+    "wof:lastmodified":1537652983,
+    "wof:name":"Sakura",
+    "wof:parent_id":1108739837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.60263,
+    43.29337,
+    144.60263,
+    43.29337
+],
+  "geometry": {"coordinates":[144.60263,43.29337],"type":"Point"}
+}

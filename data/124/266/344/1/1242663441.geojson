@@ -1,0 +1,74 @@
+{
+  "id": 1242663441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.72576,33.80754,130.72576,33.80754",
+    "geom:latitude":33.80754,
+    "geom:longitude":130.72576,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1855902.0",
+    "gn:asciiname":"Otsujimachi",
+    "gn:country_code":"JP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311276,
+    "gn:latitude":33.80754,
+    "gn:longitude":130.72576,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014ctsujimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u8fbb\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014ctsujimachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890524653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311276
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"74af7820170a8aaeddf4edc7fe11c2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524653,
+            "locality_id":1242663441,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1242663441,
+    "wof:lastmodified":1537651813,
+    "wof:name":"Otsujimachi",
+    "wof:parent_id":890524653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.72576,
+    33.80754,
+    130.72576,
+    33.80754
+],
+  "geometry": {"coordinates":[130.72576000000001,33.80754],"type":"Point"}
+}

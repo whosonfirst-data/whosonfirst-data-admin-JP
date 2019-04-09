@@ -1,0 +1,75 @@
+{
+  "id": 1243201201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.76955,34.29279,131.76955,34.29279",
+    "geom:latitude":34.29279,
+    "geom:longitude":131.76955,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"7393001.0",
+    "gn:asciiname":"Katayama",
+    "gn:country_code":"JP",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859822,
+    "gn:latitude":34.29279,
+    "gn:longitude":131.76955,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Katayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7247\u5c71"
+    ],
+    "name:und_x_variant":[
+        "Oshio",
+        "Katayama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672689,
+        890520825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859822
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ba6852acb89258a5c12d69f96fb0943b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520825,
+            "locality_id":1243201201,
+            "region_id":85672689
+        }
+    ],
+    "wof:id":1243201201,
+    "wof:lastmodified":1537650181,
+    "wof:name":"Katayama",
+    "wof:parent_id":890520825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.76955,
+    34.29279,
+    131.76955,
+    34.29279
+],
+  "geometry": {"coordinates":[131.76955000000001,34.29279],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293363161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.31219,37.44135,137.31219,37.44135",
+    "geom:latitude":37.44135,
+    "geom:longitude":137.31219,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1851337.0",
+    "gn:asciiname":"Takojimamachi",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1850784,
+    "gn:latitude":37.44135,
+    "gn:longitude":137.31219,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takojimamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u86f8\u5cf6\u753a"
+    ],
+    "name:und_x_variant":[
+        "Takajima",
+        "Takoshima",
+        "Takojimamachi",
+        "Takojima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        890520713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1850784
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ef3629e01df3b0b72f25d15234d97cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520713,
+            "locality_id":1293363161,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1293363161,
+    "wof:lastmodified":1537649946,
+    "wof:name":"Takojimamachi",
+    "wof:parent_id":890520713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.31219,
+    37.44135,
+    137.31219,
+    37.44135
+],
+  "geometry": {"coordinates":[137.31218999999999,37.44135],"type":"Point"}
+}

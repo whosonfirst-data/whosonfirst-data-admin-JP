@@ -1,0 +1,75 @@
+{
+  "id": 1343903331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.40519,33.3447,130.40519,33.3447",
+    "geom:latitude":33.3447,
+    "geom:longitude":130.40519,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"7391356.0",
+    "gn:admin3_code":"41327.0",
+    "gn:asciiname":"Omagari",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891073,
+    "gn:latitude":33.3447,
+    "gn:longitude":130.40519,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cmagari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u66f2"
+    ],
+    "name:und_x_variant":[
+        "\u014cmagari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672695,
+        1108743107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891073
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0d184b5410b68e1301d1c1d00b528037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743107,
+            "locality_id":1343903331,
+            "region_id":85672695
+        }
+    ],
+    "wof:id":1343903331,
+    "wof:lastmodified":1537651568,
+    "wof:name":"Omagari",
+    "wof:parent_id":1108743107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.40519,
+    33.3447,
+    130.40519,
+    33.3447
+],
+  "geometry": {"coordinates":[130.40519,33.3447],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243477801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.9826,35.13228,139.9826,35.13228",
+    "geom:latitude":35.13228,
+    "geom:longitude":139.9826,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Hiwatari",
+    "gn:country_code":"JP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109995,
+    "gn:latitude":35.13228,
+    "gn:longitude":139.9826,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hiwatari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u6e21"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u308f\u305f\u308a",
+        "\u30d2\u30ef\u30bf\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109995
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b30632135d356a8a513b2c0d3755592f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1243477801,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243477801,
+    "wof:lastmodified":1537652284,
+    "wof:name":"Hiwatari",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.9826,
+    35.13228,
+    139.9826,
+    35.13228
+],
+  "geometry": {"coordinates":[139.98259999999999,35.13228],"type":"Point"}
+}

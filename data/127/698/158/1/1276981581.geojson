@@ -1,0 +1,75 @@
+{
+  "id": 1276981581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.47915,40.56471,140.47915,40.56471",
+    "geom:latitude":40.56471,
+    "geom:longitude":140.47915,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Chitose",
+    "gn:country_code":"JP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411901,
+    "gn:latitude":40.56471,
+    "gn:longitude":140.47915,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chitose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5343\u5e74"
+    ],
+    "name:jpn_x_variant":[
+        "\u3061\u3068\u305b",
+        "\u30c1\u30c8\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411901
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d342e08f4dd0168e65622c6b0774f6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1276981581,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276981581,
+    "wof:lastmodified":1537650812,
+    "wof:name":"Chitose",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.47915,
+    40.56471,
+    140.47915,
+    40.56471
+],
+  "geometry": {"coordinates":[140.47915,40.56471],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343440715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16934,41.81906,141.16934,41.81906",
+    "geom:latitude":41.81906,
+    "geom:longitude":141.16934,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2130184.0",
+    "gn:asciiname":"Motomuracho",
+    "gn:country_code":"JP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2129124,
+    "gn:latitude":41.81906,
+    "gn:longitude":141.16934,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Motomurach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5143\u6751\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u3068\u3080\u3089\u3061\u3087\u3046",
+        "\u30e2\u30c8\u30e0\u30e9\u30c1\u30e7\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Motomura",
+        "Motododo-Hokke",
+        "Mototodobokke",
+        "Moto-todohokke",
+        "Motomurach\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2129124
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ba9bc792eb1fbfa5e92714d33e96f8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739513,
+            "locality_id":1343440715,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1343440715,
+    "wof:lastmodified":1537650517,
+    "wof:name":"Motomuracho",
+    "wof:parent_id":1108739513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16933999999995,
+    41.81906,
+    141.16933999999995,
+    41.81906
+],
+  "geometry": {"coordinates":[141.16933999999995,41.81906],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226003379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.24543,32.46116,130.24543,32.46116",
+    "geom:latitude":32.46116,
+    "geom:longitude":130.24543,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Mabuse",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265355,
+    "gn:latitude":32.46116,
+    "gn:longitude":130.24543,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mabuse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9593\u4f0f"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3076\u305b",
+        "\u30de\u30d6\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265355
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3dc452d661dafeb6a0fdaa2c147643c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1226003379,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226003379,
+    "wof:lastmodified":1537652787,
+    "wof:name":"Mabuse",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.24543,
+    32.46116,
+    130.24543,
+    32.46116
+],
+  "geometry": {"coordinates":[130.24543,32.46116],"type":"Point"}
+}

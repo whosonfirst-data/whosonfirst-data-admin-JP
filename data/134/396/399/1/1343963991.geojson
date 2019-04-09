@@ -1,0 +1,75 @@
+{
+  "id": 1343963991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.90213,35.00805,139.90213,35.00805",
+    "geom:latitude":35.00805,
+    "geom:longitude":139.90213,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1850520.0",
+    "gn:asciiname":"Hirose",
+    "gn:country_code":"JP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109839,
+    "gn:latitude":35.00805,
+    "gn:longitude":139.90213,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hirose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e83\u702c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u308d\u305b",
+        "\u30d2\u30ed\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890523735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109839
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f263ff89e0858fd1efe53a5bd5dd3ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523735,
+            "locality_id":1343963991,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343963991,
+    "wof:lastmodified":1537652280,
+    "wof:name":"Hirose",
+    "wof:parent_id":890523735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.90213,
+    35.00805,
+    139.90213,
+    35.00805
+],
+  "geometry": {"coordinates":[139.90213,35.00805],"type":"Point"}
+}

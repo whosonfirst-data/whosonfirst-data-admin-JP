@@ -1,0 +1,75 @@
+{
+  "id": 1310306215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.42176,40.60872,140.42176,40.60872",
+    "geom:latitude":40.60872,
+    "geom:longitude":140.42176,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Nihongi",
+    "gn:country_code":"JP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412170,
+    "gn:latitude":40.60872,
+    "gn:longitude":140.42176,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nihongi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e8c\u672c\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u307b\u3093\u304e",
+        "\u30cb\u30db\u30f3\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412170
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"af1d2113ced8b112a7a7ed07a3354072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1310306215,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1310306215,
+    "wof:lastmodified":1537650819,
+    "wof:name":"Nihongi",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.42176,
+    40.60872,
+    140.42176,
+    40.60872
+],
+  "geometry": {"coordinates":[140.42176000000001,40.60872],"type":"Point"}
+}

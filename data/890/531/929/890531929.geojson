@@ -1,0 +1,84 @@
+{
+  "id": 890531929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.5152,36.23244,139.5152,36.23244",
+    "geom:latitude":36.23244,
+    "geom:longitude":139.5152,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u9091\u697d\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3046\u3089\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "\u014cra-gun"
+    ],
+    "qs:name":"\u9091\u697d\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u7fa4\u99ac\u770c",
+    "qs:photos":88,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":326,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":482,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853946,
+        "gp:id":24857136,
+        "qs:id":1183972,
+        "wd:id":"Q1075463",
+        "wk:page":"\u014cra District, Gunma"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056681,
+    "wof:geomhash":"f8c2018004a92b16db7fc2e0931012ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890531929,
+            "region_id":85672871
+        }
+    ],
+    "wof:id":890531929,
+    "wof:lastmodified":1527782089,
+    "wof:name":"\u9091\u697d\u90e1",
+    "wof:parent_id":85672871,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.5152,
+    36.23244,
+    139.5152,
+    36.23244
+],
+  "geometry": {"coordinates":[139.51519999999999,36.23244],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277028005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.67271,35.99606,139.67271,35.99606",
+    "geom:latitude":35.99606,
+    "geom:longitude":139.67271,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1863058.0",
+    "gn:asciiname":"Kurohama",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8570268,
+    "gn:latitude":35.99606,
+    "gn:longitude":139.67271,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurohama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u6d5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u306f\u307e",
+        "\u30af\u30ed\u30cf\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890520297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8570268
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8d64ebba646a142ca08664a3cdf7a7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520297,
+            "locality_id":1277028005,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1277028005,
+    "wof:lastmodified":1537651140,
+    "wof:name":"Kurohama",
+    "wof:parent_id":890520297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.67271000000002,
+    35.99606,
+    139.67271000000002,
+    35.99606
+],
+  "geometry": {"coordinates":[139.67271000000002,35.99606],"type":"Point"}
+}

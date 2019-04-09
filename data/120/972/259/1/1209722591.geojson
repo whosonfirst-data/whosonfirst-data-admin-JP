@@ -1,0 +1,75 @@
+{
+  "id": 1209722591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.62798,40.48984,140.62798,40.48984",
+    "geom:latitude":40.48984,
+    "geom:longitude":140.62798,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Kogake",
+    "gn:country_code":"JP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8428729,
+    "gn:latitude":40.48984,
+    "gn:longitude":140.62798,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kogake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u53e4\u61f8"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u304c\u3051",
+        "\u30b3\u30ac\u30b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8428729
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f7bc202a5097ef03a7fec0abb1c110d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1209722591,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1209722591,
+    "wof:lastmodified":1537650835,
+    "wof:name":"Kogake",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.62798,
+    40.48984,
+    140.62798,
+    40.48984
+],
+  "geometry": {"coordinates":[140.62798000000001,40.48984],"type":"Point"}
+}

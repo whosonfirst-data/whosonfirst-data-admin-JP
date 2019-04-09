@@ -1,0 +1,75 @@
+{
+  "id": 1243041871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.61914,32.55512,130.61914,32.55512",
+    "geom:latitude":32.55512,
+    "geom:longitude":130.61914,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Nisshin",
+    "gn:country_code":"JP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11191647,
+    "gn:latitude":32.55512,
+    "gn:longitude":130.61914,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nisshin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u9032"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3063\u3057\u3093",
+        "\u30cb\u30c3\u30b7\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191647
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"88f5a4e2ce964feb353ae5982a82a6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1243041871,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243041871,
+    "wof:lastmodified":1537652516,
+    "wof:name":"Nisshin",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.61914,
+    32.55512,
+    130.61914,
+    32.55512
+],
+  "geometry": {"coordinates":[130.61913999999999,32.55512],"type":"Point"}
+}

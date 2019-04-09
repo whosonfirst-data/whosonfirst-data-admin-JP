@@ -1,0 +1,75 @@
+{
+  "id": 1293448593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.64821,32.65573,130.64821,32.65573",
+    "geom:latitude":32.65573,
+    "geom:longitude":130.64821,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Shinmura",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175201,
+    "gn:latitude":32.65573,
+    "gn:longitude":130.64821,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinmura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u6751"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3093\u3080\u3089",
+        "\u30b7\u30f3\u30e0\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175201
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4b657dc0fa7b5f02f796f48ec59b3642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1293448593,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293448593,
+    "wof:lastmodified":1537652476,
+    "wof:name":"Shinmura",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.64821,
+    32.65573,
+    130.64821,
+    32.65573
+],
+  "geometry": {"coordinates":[130.64821000000001,32.65573],"type":"Point"}
+}

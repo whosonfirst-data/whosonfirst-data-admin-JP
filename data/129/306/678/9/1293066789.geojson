@@ -1,0 +1,76 @@
+{
+  "id": 1293066789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.04682,30.61582,131.04682,30.61582",
+    "geom:latitude":30.61582,
+    "geom:longitude":131.04682,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1855201.0",
+    "gn:asciiname":"Tachiyama",
+    "gn:country_code":"JP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1851297,
+    "gn:latitude":30.61582,
+    "gn:longitude":131.04682,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tachiyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7acb\u5c71"
+    ],
+    "name:und_x_variant":[
+        "Tatchiyama",
+        "Tateyama",
+        "Tachiyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851297
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"68296fd051d16b14a69c6ab1080c958a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743311,
+            "locality_id":1293066789,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1293066789,
+    "wof:lastmodified":1537649958,
+    "wof:name":"Tachiyama",
+    "wof:parent_id":1108743311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.04682,
+    30.61582000000001,
+    131.04682,
+    30.61582000000001
+],
+  "geometry": {"coordinates":[131.04682,30.61582000000001],"type":"Point"}
+}

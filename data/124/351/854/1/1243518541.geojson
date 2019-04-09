@@ -1,0 +1,80 @@
+{
+  "id": 1243518541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.1754,32.54503,130.1754,32.54503",
+    "geom:latitude":32.54503,
+    "geom:longitude":130.1754,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Itsuwamachi-oniike",
+    "gn:country_code":"JP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1854051,
+    "gn:latitude":32.54503,
+    "gn:longitude":130.1754,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Itsuwamachi-oniike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e94\u548c\u753a\u9b3c\u6c60"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3064\u308f\u307e\u3061\u304a\u306b\u3044\u3051",
+        "\u30a4\u30c4\u30ef\u30de\u30c1\u30aa\u30cb\u30a4\u30b1"
+    ],
+    "name:und_x_variant":[
+        "Oninoike",
+        "Oniike",
+        "Itsuwamachi-oniike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1854051
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"aae7f513bdfd3c74b20a7baa44a09fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1243518541,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243518541,
+    "wof:lastmodified":1537650032,
+    "wof:name":"Itsuwamachi-oniike",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.1754,
+    32.54503,
+    130.1754,
+    32.54503
+],
+  "geometry": {"coordinates":[130.1754,32.54503],"type":"Point"}
+}

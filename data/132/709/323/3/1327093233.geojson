@@ -1,0 +1,75 @@
+{
+  "id": 1327093233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.40132,32.21206,130.40132,32.21206",
+    "geom:latitude":32.21206,
+    "geom:longitude":130.40132,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1857206.0",
+    "gn:asciiname":"Hamamachi",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402960,
+    "gn:latitude":32.21206,
+    "gn:longitude":130.40132,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hamamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d5c\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u307e\u3061",
+        "\u30cf\u30de\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402960
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d89f44c59c4365e1ea37110b59ef92e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743157,
+            "locality_id":1327093233,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327093233,
+    "wof:lastmodified":1537652946,
+    "wof:name":"Hamamachi",
+    "wof:parent_id":1108743157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.40132,
+    32.21206,
+    130.40132,
+    32.21206
+],
+  "geometry": {"coordinates":[130.40132,32.21206],"type":"Point"}
+}

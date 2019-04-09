@@ -1,0 +1,76 @@
+{
+  "id": 1243537369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.6865,36.63364,136.6865,36.63364",
+    "geom:latitude":36.63364,
+    "geom:longitude":136.6865,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1860240.0",
+    "gn:asciiname":"Hattamachi",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1863007,
+    "gn:latitude":36.63364,
+    "gn:longitude":136.6865,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hattamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u516b\u7530\u753a"
+    ],
+    "name:und_x_variant":[
+        "Yatsuda",
+        "Hatta",
+        "Hattamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        1108741879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863007
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0eeaac9d5fb1e4ea71a219a08bc35d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741879,
+            "locality_id":1243537369,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1243537369,
+    "wof:lastmodified":1537650270,
+    "wof:name":"Hattamachi",
+    "wof:parent_id":1108741879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.6865,
+    36.63364,
+    136.6865,
+    36.63364
+],
+  "geometry": {"coordinates":[136.6865,36.63364],"type":"Point"}
+}

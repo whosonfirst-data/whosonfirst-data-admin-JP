@@ -1,0 +1,75 @@
+{
+  "id": 1259382597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.05719,35.09514,140.05719,35.09514",
+    "geom:latitude":35.09514,
+    "geom:longitude":140.05719,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Kubo",
+    "gn:country_code":"JP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171476,
+    "gn:latitude":35.09514,
+    "gn:longitude":140.05719,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kubo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u4fdd"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u307c",
+        "\u30af\u30dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171476
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"890a64516d9e930f7936735a6ed8d589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1259382597,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259382597,
+    "wof:lastmodified":1537652435,
+    "wof:name":"Kubo",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.05719,
+    35.09514,
+    140.05719,
+    35.09514
+],
+  "geometry": {"coordinates":[140.05718999999999,35.09514],"type":"Point"}
+}

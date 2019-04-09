@@ -1,0 +1,75 @@
+{
+  "id": 1209774343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68814,33.11493,130.68814,33.11493",
+    "geom:latitude":33.11493,
+    "geom:longitude":130.68814,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Benten",
+    "gn:country_code":"JP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11317551,
+    "gn:latitude":33.11493,
+    "gn:longitude":130.68814,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Benten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5f01\u5929"
+    ],
+    "name:jpn_x_variant":[
+        "\u3079\u3093\u3066\u3093",
+        "\u30d9\u30f3\u30c6\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11317551
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"254f0fe57b0df4f4fb56b795af893279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1209774343,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1209774343,
+    "wof:lastmodified":1537652867,
+    "wof:name":"Benten",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68814,
+    33.11493,
+    130.68814,
+    33.11493
+],
+  "geometry": {"coordinates":[130.68814,33.11493],"type":"Point"}
+}

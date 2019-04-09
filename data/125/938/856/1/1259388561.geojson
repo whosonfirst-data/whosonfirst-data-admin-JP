@@ -1,0 +1,75 @@
+{
+  "id": 1259388561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.99053,35.42566,139.99053,35.42566",
+    "geom:latitude":35.42566,
+    "geom:longitude":139.99053,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2110982.0",
+    "gn:asciiname":"Ushiku",
+    "gn:country_code":"JP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11077662,
+    "gn:latitude":35.42566,
+    "gn:longitude":139.99053,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ushiku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u725b\u4e45"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3057\u304f",
+        "\u30a6\u30b7\u30af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077662
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ddca0eb2d5a874d693b1a59fd61c4bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741621,
+            "locality_id":1259388561,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259388561,
+    "wof:lastmodified":1537652173,
+    "wof:name":"Ushiku",
+    "wof:parent_id":1108741621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.99053,
+    35.42566,
+    139.99053,
+    35.42566
+],
+  "geometry": {"coordinates":[139.99053000000001,35.42566],"type":"Point"}
+}

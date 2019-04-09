@@ -1,0 +1,75 @@
+{
+  "id": 1276584901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.31976,35.46299,140.31976,35.46299",
+    "geom:latitude":35.46299,
+    "geom:longitude":140.31976,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Nanawatari",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133617,
+    "gn:latitude":35.46299,
+    "gn:longitude":140.31976,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nanawatari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e03\u6e21"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u306a\u308f\u305f\u308a",
+        "\u30ca\u30ca\u30ef\u30bf\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133617
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c1e0cde74466541ce1456136f6295285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1276584901,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276584901,
+    "wof:lastmodified":1537652338,
+    "wof:name":"Nanawatari",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.31976,
+    35.46299000000001,
+    140.31976,
+    35.46299000000001
+],
+  "geometry": {"coordinates":[140.31976,35.46299000000001],"type":"Point"}
+}

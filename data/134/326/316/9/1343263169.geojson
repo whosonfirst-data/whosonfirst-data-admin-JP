@@ -1,0 +1,76 @@
+{
+  "id": 1343263169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.86949,40.60781,139.86949,40.60781",
+    "geom:latitude":40.60781,
+    "geom:longitude":139.86949,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"8534376.0",
+    "gn:admin3_code":"2323.0",
+    "gn:asciiname":"Henashi",
+    "gn:country_code":"JP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038790,
+    "gn:latitude":40.60781,
+    "gn:longitude":139.86949,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Henashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u822e\u4f5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3078\u306a\u3057",
+        "\u30d8\u30ca\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038790
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"291cfce1a0d987434d3e0f6f044a053b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739881,
+            "locality_id":1343263169,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343263169,
+    "wof:lastmodified":1537650359,
+    "wof:name":"Henashi",
+    "wof:parent_id":1108739881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.86948999999998,
+    40.60781,
+    139.86948999999998,
+    40.60781
+],
+  "geometry": {"coordinates":[139.86948999999998,40.60781],"type":"Point"}
+}

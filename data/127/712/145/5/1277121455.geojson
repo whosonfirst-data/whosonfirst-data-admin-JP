@@ -1,0 +1,75 @@
+{
+  "id": 1277121455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.50635,35.80746,139.50635,35.80746",
+    "geom:latitude":35.80746,
+    "geom:longitude":139.50635,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1850180.0",
+    "gn:asciiname":"Hibita",
+    "gn:country_code":"JP",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572661,
+    "gn:latitude":35.80746,
+    "gn:longitude":139.50635,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hibita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u6bd4\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3073\u305f",
+        "\u30d2\u30d3\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890535317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572661
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7f0dc3814a407f9e661193a4d55aa5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890535317,
+            "locality_id":1277121455,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1277121455,
+    "wof:lastmodified":1537651159,
+    "wof:name":"Hibita",
+    "wof:parent_id":890535317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.50635,
+    35.80746,
+    139.50635,
+    35.80746
+],
+  "geometry": {"coordinates":[139.50635,35.80746],"type":"Point"}
+}

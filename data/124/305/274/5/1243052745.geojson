@@ -1,0 +1,75 @@
+{
+  "id": 1243052745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.32073,37.38831,140.32073,37.38831",
+    "geom:latitude":37.38831,
+    "geom:longitude":140.32073,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2112139.0",
+    "gn:asciiname":"Otsukimachi",
+    "gn:country_code":"JP",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2111302,
+    "gn:latitude":37.38831,
+    "gn:longitude":140.32073,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014ctsukimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u69fb\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014ctsukimachi",
+        "\u014ctsuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672835,
+        1108741195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2111302
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e5f639c2099d27b80dc4444eedab6ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741195,
+            "locality_id":1243052745,
+            "region_id":85672835
+        }
+    ],
+    "wof:id":1243052745,
+    "wof:lastmodified":1537650387,
+    "wof:name":"Otsukimachi",
+    "wof:parent_id":1108741195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.32073,
+    37.38831,
+    140.32073,
+    37.38831
+],
+  "geometry": {"coordinates":[140.32073,37.38831],"type":"Point"}
+}

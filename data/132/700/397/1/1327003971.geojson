@@ -1,0 +1,76 @@
+{
+  "id": 1327003971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.52419,32.29575,130.52419,32.29575",
+    "geom:latitude":32.29575,
+    "geom:longitude":130.52419,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412705.0",
+    "gn:admin3_code":"43482.0",
+    "gn:asciiname":"Yahata",
+    "gn:country_code":"JP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211111,
+    "gn:latitude":32.29575,
+    "gn:longitude":130.52419,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yahata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u516b\u5e61"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u306f\u305f",
+        "\u30e4\u30cf\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211111
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a5f11a7a44f55c1999b161569b862987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743207,
+            "locality_id":1327003971,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327003971,
+    "wof:lastmodified":1537651704,
+    "wof:name":"Yahata",
+    "wof:parent_id":1108743207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.52419,
+    32.29575,
+    130.52419,
+    32.29575
+],
+  "geometry": {"coordinates":[130.52419,32.29575],"type":"Point"}
+}

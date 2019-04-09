@@ -1,0 +1,75 @@
+{
+  "id": 1327415871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.22816,40.23641,141.22816,40.23641",
+    "geom:latitude":40.23641,
+    "geom:longitude":141.22816,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2128940.0",
+    "gn:asciiname":"Kazawa",
+    "gn:country_code":"JP",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554222,
+    "gn:latitude":40.23641,
+    "gn:longitude":141.22816,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kazawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u52a0\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3056\u308f",
+        "\u30ab\u30b6\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        890520775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554222
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bc4a1f03b1585936c6dc9131327f00ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520775,
+            "locality_id":1327415871,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1327415871,
+    "wof:lastmodified":1537651100,
+    "wof:name":"Kazawa",
+    "wof:parent_id":890520775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.22816,
+    40.23641,
+    141.22816,
+    40.23641
+],
+  "geometry": {"coordinates":[141.22816,40.23641],"type":"Point"}
+}

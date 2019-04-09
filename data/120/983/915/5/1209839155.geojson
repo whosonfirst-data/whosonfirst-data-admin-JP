@@ -1,0 +1,75 @@
+{
+  "id": 1209839155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.06535,35.49908,140.06535,35.49908",
+    "geom:latitude":35.49908,
+    "geom:longitude":140.06535,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Aoyagi",
+    "gn:country_code":"JP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138967,
+    "gn:latitude":35.49908,
+    "gn:longitude":140.06535,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Aoyagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9752\u67f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u304a\u3084\u304e",
+        "\u30a2\u30aa\u30e4\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138967
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"677a1b9891ebc680cf3a483d2a291ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1209839155,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209839155,
+    "wof:lastmodified":1537652379,
+    "wof:name":"Aoyagi",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.06535,
+    35.49908,
+    140.06535,
+    35.49908
+],
+  "geometry": {"coordinates":[140.06535,35.49908],"type":"Point"}
+}

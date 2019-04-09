@@ -1,0 +1,75 @@
+{
+  "id": 1293653145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.09053,39.45863,141.09053,39.45863",
+    "geom:latitude":39.45863,
+    "geom:longitude":141.09053,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Zenine",
+    "gn:country_code":"JP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437743,
+    "gn:latitude":39.45863,
+    "gn:longitude":141.09053,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zenine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u92ad\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u305c\u306b\u306d",
+        "\u30bc\u30cb\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437743
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3dfe67241a18aede2bc43804db3eee28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1293653145,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1293653145,
+    "wof:lastmodified":1537650869,
+    "wof:name":"Zenine",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.09053,
+    39.45863,
+    141.09053,
+    39.45863
+],
+  "geometry": {"coordinates":[141.09053,39.45863],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276656925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.41622,35.4801,140.41622,35.4801",
+    "geom:latitude":35.4801,
+    "geom:longitude":140.41622,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111211.0",
+    "gn:asciiname":"Shimohama",
+    "gn:country_code":"JP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11134799,
+    "gn:latitude":35.4801,
+    "gn:longitude":140.41622,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shimohama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u6d5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3082\u306f\u307e",
+        "\u30b7\u30e2\u30cf\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134799
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cd127d29e511784502d8e76940057454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741649,
+            "locality_id":1276656925,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276656925,
+    "wof:lastmodified":1537652359,
+    "wof:name":"Shimohama",
+    "wof:parent_id":1108741649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.41621999999998,
+    35.4801,
+    140.41621999999998,
+    35.4801
+],
+  "geometry": {"coordinates":[140.41621999999998,35.4801],"type":"Point"}
+}

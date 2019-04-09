@@ -1,0 +1,75 @@
+{
+  "id": 1276878791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.03442,35.35301,140.03442,35.35301",
+    "geom:latitude":35.35301,
+    "geom:longitude":140.03442,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Kawasaki",
+    "gn:country_code":"JP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11138031,
+    "gn:latitude":35.35301,
+    "gn:longitude":140.03442,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kawasaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ddd\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u308f\u3055\u304d",
+        "\u30ab\u30ef\u30b5\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138031
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d4af5642efed4473ecd2fa97801f9e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1276878791,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276878791,
+    "wof:lastmodified":1537652372,
+    "wof:name":"Kawasaki",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.03441999999998,
+    35.35301,
+    140.03441999999998,
+    35.35301
+],
+  "geometry": {"coordinates":[140.03441999999998,35.35301],"type":"Point"}
+}

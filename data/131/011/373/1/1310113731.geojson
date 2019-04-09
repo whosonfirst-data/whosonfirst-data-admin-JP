@@ -1,0 +1,78 @@
+{
+  "id": 1310113731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.50994,40.2357,140.50994,40.2357",
+    "geom:latitude":40.2357,
+    "geom:longitude":140.50994,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Oshinai",
+    "gn:country_code":"JP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456348,
+    "gn:latitude":40.2357,
+    "gn:longitude":140.50994,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cshinai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u5b50\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u3057\u306a\u3044",
+        "\u30aa\u30aa\u30b7\u30ca\u30a4"
+    ],
+    "name:und_x_variant":[
+        "\u014cshinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456348
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d46d0ad7c11db38c60c28d8fc69537d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1310113731,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1310113731,
+    "wof:lastmodified":1537650918,
+    "wof:name":"Oshinai",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.50994,
+    40.2357,
+    140.50994,
+    40.2357
+],
+  "geometry": {"coordinates":[140.50994,40.2357],"type":"Point"}
+}

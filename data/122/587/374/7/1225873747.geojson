@@ -1,0 +1,79 @@
+{
+  "id": 1225873747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.93944,26.53361,127.93944,26.53361",
+    "geom:latitude":26.53361,
+    "geom:longitude":127.93944,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"1856061.0",
+    "gn:asciiname":"Kise",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859391,
+    "gn:latitude":26.53361,
+    "gn:longitude":127.93944,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u559c\u702c"
+    ],
+    "name:und_x_variant":[
+        "Tise",
+        "Chise",
+        "Kishi",
+        "Chishi",
+        "Kise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867,
+        890524657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859391
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ef39e0c77e09baaf44c3c639fb9312c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524657,
+            "locality_id":1225873747,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1225873747,
+    "wof:lastmodified":1537650170,
+    "wof:name":"Kise",
+    "wof:parent_id":890524657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.93944,
+    26.53361,
+    127.93944,
+    26.53361
+],
+  "geometry": {"coordinates":[127.93944,26.53361],"type":"Point"}
+}

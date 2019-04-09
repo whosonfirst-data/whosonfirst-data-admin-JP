@@ -1,0 +1,75 @@
+{
+  "id": 1243302751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.04103,36.01444,133.04103,36.01444",
+    "geom:latitude":36.01444,
+    "geom:longitude":133.04103,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"1854361.0",
+    "gn:admin3_code":"32527.0",
+    "gn:asciiname":"Kori",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8649940,
+    "gn:latitude":36.01444,
+    "gn:longitude":133.04103,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u90e1"
+    ],
+    "name:und_x_variant":[
+        "K\u014dri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672679,
+        1108742741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8649940
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c5daa3c52e5704e0575b4ad6bdb4cfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742741,
+            "locality_id":1243302751,
+            "region_id":85672679
+        }
+    ],
+    "wof:id":1243302751,
+    "wof:lastmodified":1537651201,
+    "wof:name":"Kori",
+    "wof:parent_id":1108742741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.04103,
+    36.01444,
+    133.04103,
+    36.01444
+],
+  "geometry": {"coordinates":[133.04103000000001,36.01444],"type":"Point"}
+}

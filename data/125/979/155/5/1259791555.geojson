@@ -1,0 +1,76 @@
+{
+  "id": 1259791555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.07735,40.0967,140.07735,40.0967",
+    "geom:latitude":40.0967,
+    "geom:longitude":140.07735,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2127468.0",
+    "gn:admin3_code":"5348.0",
+    "gn:asciiname":"Moritake",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2129138,
+    "gn:latitude":40.0967,
+    "gn:longitude":140.07735,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Moritake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u68ee\u5cb3"
+    ],
+    "name:und_x_variant":[
+        "Moridake",
+        "Moritake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2129138
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"dc6f8a3265973c087729cfca45d610dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740065,
+            "locality_id":1259791555,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1259791555,
+    "wof:lastmodified":1537650517,
+    "wof:name":"Moritake",
+    "wof:parent_id":1108740065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.07735,
+    40.0967,
+    140.07735,
+    40.0967
+],
+  "geometry": {"coordinates":[140.07735,40.0967],"type":"Point"}
+}

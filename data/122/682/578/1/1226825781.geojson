@@ -1,0 +1,75 @@
+{
+  "id": 1226825781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.39859,42.98224,144.39859,42.98224",
+    "geom:latitude":42.98224,
+    "geom:longitude":144.39859,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2129370.0",
+    "gn:asciiname":"Shiroyama",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446459,
+    "gn:latitude":42.98224,
+    "gn:longitude":144.39859,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shiroyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u57ce\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u308d\u3084\u307e",
+        "\u30b7\u30ed\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446459
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a5fafbd856ec7f32b2f774961bed0066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739517,
+            "locality_id":1226825781,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1226825781,
+    "wof:lastmodified":1537652952,
+    "wof:name":"Shiroyama",
+    "wof:parent_id":1108739517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.39858999999996,
+    42.98224,
+    144.39858999999996,
+    42.98224
+],
+  "geometry": {"coordinates":[144.39858999999996,42.98224],"type":"Point"}
+}

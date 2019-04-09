@@ -1,0 +1,84 @@
+{
+  "id": 890525327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.6861,34.90037,135.6861,34.90037",
+    "geom:latitude":34.90037,
+    "geom:longitude":135.6861,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u4e59\u8a13\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3068\u304f\u306b\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Otokuni-gun"
+    ],
+    "qs:name":"\u4e59\u8a13\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u4eac\u90fd\u5e9c",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":192,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7412124,
+        "gp:id":24857851,
+        "qs:id":31774,
+        "wd:id":"Q376858",
+        "wk:page":"Otokuni District, Kyoto"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056375,
+    "wof:geomhash":"aeb5a9c2d53039676cc526715d07c93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890525327,
+            "region_id":85672777
+        }
+    ],
+    "wof:id":890525327,
+    "wof:lastmodified":1527793076,
+    "wof:name":"\u4e59\u8a13\u90e1",
+    "wof:parent_id":85672777,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.6861,
+    34.90037,
+    135.6861,
+    34.90037
+],
+  "geometry": {"coordinates":[135.68610000000001,34.90037],"type":"Point"}
+}

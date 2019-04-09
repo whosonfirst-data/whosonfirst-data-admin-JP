@@ -1,0 +1,82 @@
+{
+  "id": 890533843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.55045,39.18011,141.55045,39.18011",
+    "geom:latitude":39.18011,
+    "geom:longitude":141.55045,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u6c17\u4ed9\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3051\u305b\u3093\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Kesen"
+    ],
+    "qs:name":"\u6c17\u4ed9\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5ca9\u624b\u770c",
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":366,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2112264,
+        "gp:id":24854246,
+        "qs:id":206327,
+        "wd:id":"Q1131906",
+        "wk:page":"Kesen District, Iwate"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056761,
+    "wof:geomhash":"a8e0bf82fb84650c3363b39ed4f7e5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890533843,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":890533843,
+    "wof:lastmodified":1527727038,
+    "wof:name":"\u6c17\u4ed9\u90e1",
+    "wof:parent_id":85672839,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.55045,
+    39.18011,
+    141.55045,
+    39.18011
+],
+  "geometry": {"coordinates":[141.55045000000001,39.18011],"type":"Point"}
+}

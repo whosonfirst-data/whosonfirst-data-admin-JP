@@ -1,0 +1,76 @@
+{
+  "id": 1243029149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.52788,38.25296,139.52788,38.25296",
+    "geom:latitude":38.25296,
+    "geom:longitude":139.52788,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"7468177.0",
+    "gn:asciiname":"Shimoshinbo",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852197,
+    "gn:latitude":38.25296,
+    "gn:longitude":139.52788,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimoshinbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u65b0\u4fdd"
+    ],
+    "name:und_x_variant":[
+        "Shimo-shinbo",
+        "Shimo-shimbo",
+        "Shimoshinbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672849,
+        890520319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852197
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"40b4cb3d9c2326df845bdd6b11c4f2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520319,
+            "locality_id":1243029149,
+            "region_id":85672849
+        }
+    ],
+    "wof:id":1243029149,
+    "wof:lastmodified":1537649986,
+    "wof:name":"Shimoshinbo",
+    "wof:parent_id":890520319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.52788,
+    38.25296,
+    139.52788,
+    38.25296
+],
+  "geometry": {"coordinates":[139.52788000000001,38.25296],"type":"Point"}
+}

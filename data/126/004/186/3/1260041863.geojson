@@ -1,0 +1,75 @@
+{
+  "id": 1260041863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63911,35.19788,139.63911,35.19788",
+    "geom:latitude":35.19788,
+    "geom:longitude":139.63911,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1856849.0",
+    "gn:asciiname":"Kuronoyama",
+    "gn:country_code":"JP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8721163,
+    "gn:latitude":35.19788,
+    "gn:longitude":139.63911,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuronoyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u30ce\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u306e\u3084\u307e",
+        "\u30af\u30ed\u30ce\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8721163
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b565b82eff81dc2063f183014e5ddc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519685,
+            "locality_id":1260041863,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1260041863,
+    "wof:lastmodified":1537651255,
+    "wof:name":"Kuronoyama",
+    "wof:parent_id":890519685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63911000000002,
+    35.19788,
+    139.63911000000002,
+    35.19788
+],
+  "geometry": {"coordinates":[139.63911000000002,35.19788],"type":"Point"}
+}

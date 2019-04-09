@@ -1,0 +1,75 @@
+{
+  "id": 1226353823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.17654,40.55828,141.17654,40.55828",
+    "geom:latitude":40.55828,
+    "geom:longitude":141.17654,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Doronoki",
+    "gn:country_code":"JP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550836,
+    "gn:latitude":40.55828,
+    "gn:longitude":141.17654,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Doronoki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6ce5\u30ce\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3069\u308d\u306e\u304d",
+        "\u30c9\u30ed\u30ce\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550836
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"61deebf4e9915fcd168ed91159c7fb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1226353823,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1226353823,
+    "wof:lastmodified":1537651055,
+    "wof:name":"Doronoki",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.17654,
+    40.55828,
+    141.17654,
+    40.55828
+],
+  "geometry": {"coordinates":[141.17653999999999,40.55828],"type":"Point"}
+}

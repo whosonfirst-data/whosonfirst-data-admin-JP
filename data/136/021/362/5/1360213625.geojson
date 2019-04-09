@@ -1,0 +1,76 @@
+{
+  "id": 1360213625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.43333,34.8,133.43333,34.8",
+    "geom:latitude":34.8,
+    "geom:longitude":133.43333,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1851133.0",
+    "gn:asciiname":"Tabara-shimo",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1851332,
+    "gn:latitude":34.8,
+    "gn:longitude":133.43333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tabara-shimo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawaro-shimo",
+        "Tawara-shimo",
+        "Tarashimo",
+        "Tahara-shita",
+        "Tabara-shimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672675,
+        890524339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851332
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a72549dbea1d15553c891175919b9ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524339,
+            "locality_id":1360213625,
+            "region_id":85672675
+        }
+    ],
+    "wof:id":1360213625,
+    "wof:lastmodified":1537649959,
+    "wof:name":"Tabara-shimo",
+    "wof:parent_id":890524339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.43333,
+    34.8,
+    133.43333,
+    34.8
+],
+  "geometry": {"coordinates":[133.43333000000001,34.8],"type":"Point"}
+}

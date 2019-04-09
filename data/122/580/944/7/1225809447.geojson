@@ -1,0 +1,75 @@
+{
+  "id": 1225809447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.0279,32.18788,130.0279,32.18788",
+    "geom:latitude":32.18788,
+    "geom:longitude":130.0279,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Motogesu",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11245512,
+    "gn:latitude":32.18788,
+    "gn:longitude":130.0279,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Motogesu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5143\u4e0b\u9808"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u3068\u3052\u3059",
+        "\u30e2\u30c8\u30b2\u30b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245512
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2e5774acde8fa84562d5f3a8325e2fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1225809447,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1225809447,
+    "wof:lastmodified":1537652735,
+    "wof:name":"Motogesu",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.0279,
+    32.18788,
+    130.0279,
+    32.18788
+],
+  "geometry": {"coordinates":[130.02789999999999,32.18788],"type":"Point"}
+}

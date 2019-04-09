@@ -1,0 +1,77 @@
+{
+  "id": 1310588171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.03333,42.71667,143.03333,42.71667",
+    "geom:latitude":42.71667,
+    "geom:longitude":143.03333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2128812.0",
+    "gn:asciiname":"Taiheicho",
+    "gn:country_code":"JP",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2127935,
+    "gn:latitude":42.71667,
+    "gn:longitude":143.03333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Taiheich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u592a\u5e73\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014chira",
+        "Obira",
+        "Taihei",
+        "Taiheich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        890520771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2127935
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2bd670c61b0376cf3900b80faf51a7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520771,
+            "locality_id":1310588171,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1310588171,
+    "wof:lastmodified":1537650470,
+    "wof:name":"Taiheicho",
+    "wof:parent_id":890520771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.03333,
+    42.71667,
+    143.03333,
+    42.71667
+],
+  "geometry": {"coordinates":[143.03333000000001,42.71667],"type":"Point"}
+}

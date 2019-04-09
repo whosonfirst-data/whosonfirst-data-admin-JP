@@ -1,0 +1,75 @@
+{
+  "id": 1293349127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.72042,32.53699,130.72042,32.53699",
+    "geom:latitude":32.53699,
+    "geom:longitude":130.72042,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Kurobuchi",
+    "gn:country_code":"JP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11192174,
+    "gn:latitude":32.53699,
+    "gn:longitude":130.72042,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurobuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u6df5"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u3076\u3061",
+        "\u30af\u30ed\u30d6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192174
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b824475ac4669925942f2e4f72265518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1293349127,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293349127,
+    "wof:lastmodified":1537652526,
+    "wof:name":"Kurobuchi",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.72042,
+    32.53699,
+    130.72042,
+    32.53699
+],
+  "geometry": {"coordinates":[130.72041999999999,32.53699],"type":"Point"}
+}

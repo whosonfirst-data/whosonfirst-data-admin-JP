@@ -1,0 +1,75 @@
+{
+  "id": 1260353275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.19005,32.46703,130.19005,32.46703",
+    "geom:latitude":32.46703,
+    "geom:longitude":130.19005,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Hachimanmachi",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250431,
+    "gn:latitude":32.46703,
+    "gn:longitude":130.19005,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hachimanmachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u516b\u5e61\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3061\u307e\u3093\u307e\u3061",
+        "\u30cf\u30c1\u30de\u30f3\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250431
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1972ed0fdcb5f0a9027353c9c2bf537d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1260353275,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1260353275,
+    "wof:lastmodified":1537652773,
+    "wof:name":"Hachimanmachi",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.19005,
+    32.46703,
+    130.19005,
+    32.46703
+],
+  "geometry": {"coordinates":[130.19005000000001,32.46703],"type":"Point"}
+}

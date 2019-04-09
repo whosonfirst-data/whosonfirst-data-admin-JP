@@ -1,0 +1,75 @@
+{
+  "id": 1259590307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.38841,40.58133,140.38841,40.58133",
+    "geom:latitude":40.58133,
+    "geom:longitude":140.38841,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Kawabukuro",
+    "gn:country_code":"JP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412319,
+    "gn:latitude":40.58133,
+    "gn:longitude":140.38841,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kawabukuro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ddd\u888b"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u308f\u3076\u304f\u308d",
+        "\u30ab\u30ef\u30d6\u30af\u30ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412319
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ee1e5996c92d12a990f3a0fd433eaea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1259590307,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259590307,
+    "wof:lastmodified":1537650821,
+    "wof:name":"Kawabukuro",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.38841000000002,
+    40.58133,
+    140.38841000000002,
+    40.58133
+],
+  "geometry": {"coordinates":[140.38841000000002,40.58133],"type":"Point"}
+}

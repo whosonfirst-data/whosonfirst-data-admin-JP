@@ -1,0 +1,75 @@
+{
+  "id": 1259747353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.12988,32.33496,130.12988,32.33496",
+    "geom:latitude":32.33496,
+    "geom:longitude":130.12988,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Murasako",
+    "gn:country_code":"JP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11247309,
+    "gn:latitude":32.33496,
+    "gn:longitude":130.12988,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Murasako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6751\u8feb"
+    ],
+    "name:jpn_x_variant":[
+        "\u3080\u3089\u3055\u3053",
+        "\u30e0\u30e9\u30b5\u30b3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247309
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"817e14e5f5e6b57c6ad4e9f44c41bc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1259747353,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259747353,
+    "wof:lastmodified":1537652750,
+    "wof:name":"Murasako",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.12988,
+    32.33496,
+    130.12988,
+    32.33496
+],
+  "geometry": {"coordinates":[130.12988000000001,32.33496],"type":"Point"}
+}

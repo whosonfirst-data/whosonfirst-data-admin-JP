@@ -1,0 +1,77 @@
+{
+  "id": 1108745511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000614,
+    "geom:area_square_m":6253736.465509,
+    "geom:bbox":"135.703994751,34.5481987,135.727905273,34.5824012756",
+    "geom:latitude":34.56539,
+    "geom:longitude":135.715056,
+    "iso:country":"JP",
+    "lbl:latitude":34.564472,
+    "lbl:longitude":135.716024,
+    "meso:admin_1":"Nara Ken",
+    "meso:gadm_admin":"Kanmaki",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Kanmakityoo",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"29424",
+    "meso:mps_x":135.716024,
+    "meso:mps_y":34.564472,
+    "meso:name_alt":"Kanmaki",
+    "meso:name_en":"Kanmaki Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.564472,
+    "mps:longitude":135.716024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kanmaki"
+    ],
+    "name:eng_x_variant":[
+        "Kanmakityoo",
+        "Kanmaki Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152497,
+    "wof:geomhash":"0a45d0b6c2cc19010acf457e55d279ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745511,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":1108745511,
+    "wof:lastmodified":1511300761,
+    "wof:name":"Kanmaki",
+    "wof:parent_id":85672779,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742595
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.703994750977,
+    34.5481986999512,
+    135.72790527343798,
+    34.58240127563476
+],
+  "geometry": {"coordinates":[[[135.70449829101597,34.57373428344727],[135.70690917968804,34.57806777954097],[135.71180725097696,34.58240127563476],[135.71789550781298,34.58126831054688],[135.72010803222696,34.57860183715821],[135.72650146484398,34.57720184326167],[135.72520446777301,34.57199859619139],[135.72790527343798,34.56499862670903],[135.72549438476599,34.55533599853517],[135.72190856933599,34.55419921875002],[135.71949768066401,34.55153274536126],[135.71659851074199,34.55139923095702],[135.71519470214801,34.55146789550778],[135.71060180664097,34.54840087890629],[135.70899963378898,34.54840087890629],[135.70579528808599,34.5481986999512],[135.70399475097699,34.56466674804688],[135.70619201660199,34.56953430175781],[135.70419311523401,34.56946563720697],[135.70449829101597,34.57373428344727]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1210022215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.97028,35.40726,139.97028,35.40726",
+    "geom:latitude":35.40726,
+    "geom:longitude":139.97028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Ijiri",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078261,
+    "gn:latitude":35.40726,
+    "gn:longitude":139.97028,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ijiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e95\u5c3b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3058\u308a",
+        "\u30a4\u30b8\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078261
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9178f4adb6dfb3d77db3678bb9b249b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1210022215,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1210022215,
+    "wof:lastmodified":1537652184,
+    "wof:name":"Ijiri",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.97028,
+    35.40726,
+    139.97028,
+    35.40726
+],
+  "geometry": {"coordinates":[139.97028,35.40726],"type":"Point"}
+}

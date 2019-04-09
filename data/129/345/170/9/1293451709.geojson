@@ -1,0 +1,75 @@
+{
+  "id": 1293451709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63205,35.55801,139.63205,35.55801",
+    "geom:latitude":35.55801,
+    "geom:longitude":139.63205,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848350.0",
+    "gn:admin3_code":"14109.0",
+    "gn:asciiname":"Shimodacho",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8576849,
+    "gn:latitude":35.55801,
+    "gn:longitude":139.63205,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimodach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u7530\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shimodach\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8576849
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"64f242946ccedfe05e153452e07621aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741785,
+            "locality_id":1293451709,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1293451709,
+    "wof:lastmodified":1537651170,
+    "wof:name":"Shimodacho",
+    "wof:parent_id":1108741785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63205,
+    35.55801,
+    139.63205,
+    35.55801
+],
+  "geometry": {"coordinates":[139.63204999999999,35.55801],"type":"Point"}
+}

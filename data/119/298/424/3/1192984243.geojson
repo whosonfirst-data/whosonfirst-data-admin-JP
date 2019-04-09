@@ -1,0 +1,76 @@
+{
+  "id": 1192984243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.28739,31.70384,130.28739,31.70384",
+    "geom:latitude":31.70384,
+    "geom:longitude":130.28739,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"7383990.0",
+    "gn:asciiname":"Minatomachi",
+    "gn:country_code":"JP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1857090,
+    "gn:latitude":31.70384,
+    "gn:longitude":130.28739,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Minatomachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e4a\u753a"
+    ],
+    "name:und_x_variant":[
+        "Ichiki",
+        "Ichiki-minato",
+        "Minatomachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890520251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1857090
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5650a95e4bf3687c33af5a4e03cedef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520251,
+            "locality_id":1192984243,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1192984243,
+    "wof:lastmodified":1537650112,
+    "wof:name":"Minatomachi",
+    "wof:parent_id":890520251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.28739,
+    31.70384,
+    130.28739,
+    31.70384
+],
+  "geometry": {"coordinates":[130.28738999999999,31.70384],"type":"Point"}
+}

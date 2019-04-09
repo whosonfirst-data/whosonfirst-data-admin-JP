@@ -1,0 +1,75 @@
+{
+  "id": 1344168473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.77859,40.82122,140.77859,40.82122",
+    "geom:latitude":40.82122,
+    "geom:longitude":140.77859,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Tsukuda",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516278,
+    "gn:latitude":40.82122,
+    "gn:longitude":140.77859,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsukuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4f43"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u304f\u3060",
+        "\u30c4\u30af\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516278
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c4d66571e53b114af6fca3a6f84d68b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1344168473,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1344168473,
+    "wof:lastmodified":1537651007,
+    "wof:name":"Tsukuda",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.77858999999995,
+    40.82122,
+    140.77858999999995,
+    40.82122
+],
+  "geometry": {"coordinates":[140.77858999999995,40.82122],"type":"Point"}
+}

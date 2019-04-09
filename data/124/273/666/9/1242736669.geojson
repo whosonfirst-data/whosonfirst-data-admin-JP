@@ -1,0 +1,75 @@
+{
+  "id": 1242736669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.04102,32.96329,131.04102,32.96329",
+    "geom:latitude":32.96329,
+    "geom:longitude":131.04102,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Hamagawa",
+    "gn:country_code":"JP",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11222872,
+    "gn:latitude":32.96329,
+    "gn:longitude":131.04102,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hamagawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d5c\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u304c\u308f",
+        "\u30cf\u30de\u30ac\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222872
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"818e79db78466bf9fba33f295c3c63cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1242736669,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242736669,
+    "wof:lastmodified":1537652622,
+    "wof:name":"Hamagawa",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.04102,
+    32.96329,
+    131.04102,
+    32.96329
+],
+  "geometry": {"coordinates":[131.04102,32.96329],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226101765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.58399,34.81905,135.58399,34.81905",
+    "geom:latitude":34.81905,
+    "geom:longitude":135.58399,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"1862032.0",
+    "gn:asciiname":"Nakamuracho",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9277828,
+    "gn:latitude":34.81905,
+    "gn:longitude":135.58399,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakamurach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u6751\u753a"
+    ],
+    "name:und_x_variant":[
+        "Nakamurach\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785,
+        1108742459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9277828
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5b1b4d03ad050e37b868a65adecdf73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742459,
+            "locality_id":1226101765,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1226101765,
+    "wof:lastmodified":1537651357,
+    "wof:name":"Nakamuracho",
+    "wof:parent_id":1108742459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.58399,
+    34.81905,
+    135.58399,
+    34.81905
+],
+  "geometry": {"coordinates":[135.58399,34.81905],"type":"Point"}
+}

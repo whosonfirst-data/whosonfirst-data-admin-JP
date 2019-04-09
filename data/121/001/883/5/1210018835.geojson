@@ -1,0 +1,75 @@
+{
+  "id": 1210018835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.12846,39.79564,140.12846,39.79564",
+    "geom:latitude":39.79564,
+    "geom:longitude":140.12846,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Tategoshi",
+    "gn:country_code":"JP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8315573,
+    "gn:latitude":39.79564,
+    "gn:longitude":140.12846,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tategoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9928\u8d8a"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3066\u3054\u3057",
+        "\u30bf\u30c6\u30b4\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8315573
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b21ae9c175fe40d5f456e60352df71a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1210018835,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1210018835,
+    "wof:lastmodified":1537650749,
+    "wof:name":"Tategoshi",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.12846000000002,
+    39.79564,
+    140.12846000000002,
+    39.79564
+],
+  "geometry": {"coordinates":[140.12846000000002,39.79564],"type":"Point"}
+}

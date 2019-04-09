@@ -1,0 +1,75 @@
+{
+  "id": 1243387027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.28472,35.13881,140.28472,35.13881",
+    "geom:latitude":35.13881,
+    "geom:longitude":140.28472,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Yoshio",
+    "gn:country_code":"JP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112148,
+    "gn:latitude":35.13881,
+    "gn:longitude":140.28472,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yoshio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5409\u5c3e"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3057\u304a",
+        "\u30e8\u30b7\u30aa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112148
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2719448970d0dc111f2fb0bb59de6d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1243387027,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243387027,
+    "wof:lastmodified":1537652288,
+    "wof:name":"Yoshio",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.28472,
+    35.13881,
+    140.28472,
+    35.13881
+],
+  "geometry": {"coordinates":[140.28471999999999,35.13881],"type":"Point"}
+}

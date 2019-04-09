@@ -1,0 +1,75 @@
+{
+  "id": 1243108079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.51626,35.8946,139.51626,35.8946",
+    "geom:latitude":35.8946,
+    "geom:longitude":139.51626,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859739.0",
+    "gn:asciiname":"Kinome",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572376,
+    "gn:latitude":35.8946,
+    "gn:longitude":139.51626,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kinome",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6728\u91ce\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u306e\u3081",
+        "\u30ad\u30ce\u30e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890519943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572376
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e26e926ffd06e829d8c373aa7af91d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519943,
+            "locality_id":1243108079,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1243108079,
+    "wof:lastmodified":1537651150,
+    "wof:name":"Kinome",
+    "wof:parent_id":890519943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.51626000000002,
+    35.8946,
+    139.51626000000002,
+    35.8946
+],
+  "geometry": {"coordinates":[139.51626000000002,35.8946],"type":"Point"}
+}

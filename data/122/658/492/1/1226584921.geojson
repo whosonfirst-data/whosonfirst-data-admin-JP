@@ -1,0 +1,75 @@
+{
+  "id": 1226584921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.12205,33.20791,130.12205,33.20791",
+    "geom:latitude":33.20791,
+    "geom:longitude":130.12205,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"7391358.0",
+    "gn:admin3_code":"41423.0",
+    "gn:asciiname":"Shimoomachi",
+    "gn:country_code":"JP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9890426,
+    "gn:latitude":33.20791,
+    "gn:longitude":130.12205,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimo\u014dmachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u5927\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shimo\u014dmachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672695,
+        1108743121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890426
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0cac751ea5480f4ce09a309fbf921787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743121,
+            "locality_id":1226584921,
+            "region_id":85672695
+        }
+    ],
+    "wof:id":1226584921,
+    "wof:lastmodified":1537651556,
+    "wof:name":"Shimoomachi",
+    "wof:parent_id":1108743121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.12205,
+    33.20791,
+    130.12205,
+    33.20791
+],
+  "geometry": {"coordinates":[130.12205,33.20791],"type":"Point"}
+}

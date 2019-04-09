@@ -1,0 +1,75 @@
+{
+  "id": 1226348129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.11006,35.40397,140.11006,35.40397",
+    "geom:latitude":35.40397,
+    "geom:longitude":140.11006,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Terayatsu",
+    "gn:country_code":"JP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139175,
+    "gn:latitude":35.40397,
+    "gn:longitude":140.11006,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Terayatsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bfa\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u3066\u3089\u3084\u3064",
+        "\u30c6\u30e9\u30e4\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139175
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"86c7295971a0abba29162e7d687cd5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1226348129,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226348129,
+    "wof:lastmodified":1537652382,
+    "wof:name":"Terayatsu",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.11006,
+    35.40397,
+    140.11006,
+    35.40397
+],
+  "geometry": {"coordinates":[140.11006,35.40397],"type":"Point"}
+}

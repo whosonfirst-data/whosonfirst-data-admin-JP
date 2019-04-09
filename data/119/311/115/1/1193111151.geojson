@@ -1,0 +1,75 @@
+{
+  "id": 1193111151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.01691,32.32081,130.01691,32.32081",
+    "geom:latitude":32.32081,
+    "geom:longitude":130.01691,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Gata",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11247967,
+    "gn:latitude":32.32081,
+    "gn:longitude":130.01691,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6f5f"
+    ],
+    "name:jpn_x_variant":[
+        "\u304c\u305f",
+        "\u30ac\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247967
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b92a68ec8a4f52e906e5df9f5c6927ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1193111151,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193111151,
+    "wof:lastmodified":1537652757,
+    "wof:name":"Gata",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.01691,
+    32.32080999999999,
+    130.01691,
+    32.32080999999999
+],
+  "geometry": {"coordinates":[130.01691,32.32080999999999],"type":"Point"}
+}

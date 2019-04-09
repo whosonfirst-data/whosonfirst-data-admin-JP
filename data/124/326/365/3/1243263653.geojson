@@ -1,0 +1,76 @@
+{
+  "id": 1243263653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.2243,35.4173,140.2243,35.4173",
+    "geom:latitude":35.4173,
+    "geom:longitude":140.2243,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112997.0",
+    "gn:admin3_code":"12427.0",
+    "gn:asciiname":"Tanage",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140781,
+    "gn:latitude":35.4173,
+    "gn:longitude":140.2243,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tanage",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u68da\u6bdb"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u306a\u3052",
+        "\u30bf\u30ca\u30b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140781
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a1c3f856ae6969ac2cbb4d7f2d18ad25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741669,
+            "locality_id":1243263653,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243263653,
+    "wof:lastmodified":1537652398,
+    "wof:name":"Tanage",
+    "wof:parent_id":1108741669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.2243,
+    35.4173,
+    140.2243,
+    35.4173
+],
+  "geometry": {"coordinates":[140.2243,35.4173],"type":"Point"}
+}

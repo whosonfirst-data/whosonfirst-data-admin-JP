@@ -1,0 +1,77 @@
+{
+  "id": 1108741367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002301,
+    "geom:area_square_m":22982240.500817,
+    "geom:bbox":"139.710098267,36.081199646,139.786804199,36.1359329224",
+    "geom:latitude":36.108121,
+    "geom:longitude":139.748579,
+    "iso:country":"JP",
+    "lbl:latitude":36.107244,
+    "lbl:longitude":139.747998,
+    "meso:admin_1":"Ibaraki Ken",
+    "meso:gadm_admin":"Goka",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Gokamati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"08542",
+    "meso:mps_x":139.747998,
+    "meso:mps_y":36.107244,
+    "meso:name_alt":"Goka",
+    "meso:name_en":"Goka Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":36.107244,
+    "mps:longitude":139.747998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Goka"
+    ],
+    "name:eng_x_variant":[
+        "Gokamati",
+        "Goka Machi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479150944,
+    "wof:geomhash":"4f5949950991d00df35a5aeee84fb990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741367,
+            "region_id":85672801
+        }
+    ],
+    "wof:id":1108741367,
+    "wof:lastmodified":1511300740,
+    "wof:name":"Goka",
+    "wof:parent_id":85672801,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108740313
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.710098266602,
+    36.08119964599609,
+    139.786804199219,
+    36.13593292236327
+],
+  "geometry": {"coordinates":[[[139.75910949707,36.1261329650879],[139.77200317382801,36.11393356323244],[139.78680419921901,36.10413360595698],[139.77749633789102,36.09799957275392],[139.77619934082003,36.09086608886722],[139.77200317382801,36.08653259277343],[139.77250671386702,36.08486557006839],[139.77030944824202,36.08119964599609],[139.76100158691401,36.08126831054694],[139.74819946289099,36.08653259277343],[139.74679565429702,36.08706665039058],[139.73680114746099,36.08653259277343],[139.73190307617199,36.08653259277343],[139.72979736328099,36.08793258666989],[139.72709655761702,36.10753250122071],[139.726806640625,36.11140060424802],[139.715408325195,36.12433242797854],[139.71009826660199,36.13593292236327],[139.72329711914099,36.1324005126953],[139.73060607910199,36.13273239135737],[139.74679565429702,36.13193130493163],[139.75910949707,36.1261329650879]]],"type":"Polygon"}
+}

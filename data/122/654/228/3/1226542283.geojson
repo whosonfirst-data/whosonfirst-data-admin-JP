@@ -1,0 +1,76 @@
+{
+  "id": 1226542283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.01578,40.36806,140.01578,40.36806",
+    "geom:latitude":40.36806,
+    "geom:longitude":140.01578,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2127468.0",
+    "gn:admin3_code":"5349.0",
+    "gn:asciiname":"Nakahama",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2129061,
+    "gn:latitude":40.36806,
+    "gn:longitude":140.01578,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakahama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u6d5c"
+    ],
+    "name:und_x_variant":[
+        "Nagahama",
+        "Nakahama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2129061
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0d7f7fb13711edb152b5f20560326157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740067,
+            "locality_id":1226542283,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1226542283,
+    "wof:lastmodified":1537650515,
+    "wof:name":"Nakahama",
+    "wof:parent_id":1108740067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.01578,
+    40.36806,
+    140.01578,
+    40.36806
+],
+  "geometry": {"coordinates":[140.01578000000001,40.36806],"type":"Point"}
+}

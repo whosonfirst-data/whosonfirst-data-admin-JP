@@ -1,0 +1,75 @@
+{
+  "id": 1259741919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.67175,32.18473,130.67175,32.18473",
+    "geom:latitude":32.18473,
+    "geom:longitude":130.67175,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Maruiwa",
+    "gn:country_code":"JP",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10208822,
+    "gn:latitude":32.18473,
+    "gn:longitude":130.67175,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maruiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e38\u5ca9"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u308b\u3044\u308f",
+        "\u30de\u30eb\u30a4\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208822
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d6e3bfd003315d791ba7ba62c9f88a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1259741919,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259741919,
+    "wof:lastmodified":1537651683,
+    "wof:name":"Maruiwa",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.67175,
+    32.18473,
+    130.67175,
+    32.18473
+],
+  "geometry": {"coordinates":[130.67175,32.18473],"type":"Point"}
+}

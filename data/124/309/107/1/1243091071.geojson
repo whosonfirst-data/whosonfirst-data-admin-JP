@@ -1,0 +1,75 @@
+{
+  "id": 1243091071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.26835,35.41925,140.26835,35.41925",
+    "geom:latitude":35.41925,
+    "geom:longitude":140.26835,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Sumida",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133591,
+    "gn:latitude":35.41925,
+    "gn:longitude":140.26835,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sumida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u58a8\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3059\u307f\u3060",
+        "\u30b9\u30df\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133591
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8a1500dca12f2f13929f9ceb530dc44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1243091071,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243091071,
+    "wof:lastmodified":1537652336,
+    "wof:name":"Sumida",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.26835,
+    35.41925,
+    140.26835,
+    35.41925
+],
+  "geometry": {"coordinates":[140.26835,35.41925],"type":"Point"}
+}

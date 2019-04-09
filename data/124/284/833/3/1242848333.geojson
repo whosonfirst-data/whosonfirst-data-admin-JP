@@ -1,0 +1,76 @@
+{
+  "id": 1242848333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.78962,32.67524,130.78962,32.67524",
+    "geom:latitude":32.67524,
+    "geom:longitude":130.78962,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412706.0",
+    "gn:admin3_code":"43444.0",
+    "gn:asciiname":"Yomochi",
+    "gn:country_code":"JP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11177277,
+    "gn:latitude":32.67524,
+    "gn:longitude":130.78962,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yomochi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e16\u6301"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3082\u3061",
+        "\u30e8\u30e2\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11177277
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bec05d32424d3889a24c8f6bbf68d28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743199,
+            "locality_id":1242848333,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242848333,
+    "wof:lastmodified":1537652498,
+    "wof:name":"Yomochi",
+    "wof:parent_id":1108743199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.78962,
+    32.67524,
+    130.78962,
+    32.67524
+],
+  "geometry": {"coordinates":[130.78962000000001,32.67524],"type":"Point"}
+}

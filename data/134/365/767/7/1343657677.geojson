@@ -1,0 +1,76 @@
+{
+  "id": 1343657677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.25,36.35,139.25,36.35",
+    "geom:latitude":36.35,
+    "geom:longitude":139.25,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1861435.0",
+    "gn:asciiname":"Tabeicho",
+    "gn:country_code":"JP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1850714,
+    "gn:latitude":36.35,
+    "gn:longitude":139.25,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tabeich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7530\u90e8\u4e95\u753a"
+    ],
+    "name:und_x_variant":[
+        "Tanagai",
+        "Tamegai",
+        "Tabeich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672871,
+        890520765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1850714
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"48613ddc56988cd10989c255d29990b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520765,
+            "locality_id":1343657677,
+            "region_id":85672871
+        }
+    ],
+    "wof:id":1343657677,
+    "wof:lastmodified":1537649944,
+    "wof:name":"Tabeicho",
+    "wof:parent_id":890520765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.25,
+    36.35,
+    139.25,
+    36.35
+],
+  "geometry": {"coordinates":[139.25,36.35],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343620397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.21806,32.94852,131.21806,32.94852",
+    "geom:latitude":32.94852,
+    "geom:longitude":131.21806,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Mikutsu",
+    "gn:country_code":"JP",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11227166,
+    "gn:latitude":32.94852,
+    "gn:longitude":131.21806,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mikutsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5fa1\u6c93"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u304f\u3064",
+        "\u30df\u30af\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227166
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e7d0c0cf3a58f2f04061bb583753bf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1343620397,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343620397,
+    "wof:lastmodified":1537652635,
+    "wof:name":"Mikutsu",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.21806,
+    32.94852,
+    131.21806,
+    32.94852
+],
+  "geometry": {"coordinates":[131.21806000000001,32.94852],"type":"Point"}
+}

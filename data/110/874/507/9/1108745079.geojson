@@ -1,0 +1,77 @@
+{
+  "id": 1108745079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000504,
+    "geom:area_square_m":5077455.745949,
+    "geom:bbox":"136.676559448,35.4115982056,136.698104858,35.4492683411",
+    "geom:latitude":35.430435,
+    "geom:longitude":136.689125,
+    "iso:country":"JP",
+    "lbl:latitude":35.430892,
+    "lbl:longitude":136.68892,
+    "meso:admin_1":"Gifu Ken",
+    "meso:gadm_admin":"Kitagata",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Kitagatatyoo",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"21421",
+    "meso:mps_x":136.68892,
+    "meso:mps_y":35.430892,
+    "meso:name_alt":"Kitagata",
+    "meso:name_en":"Kitagata Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.430892,
+    "mps:longitude":136.68892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kitagata"
+    ],
+    "name:eng_x_variant":[
+        "Kitagatatyoo",
+        "Kitagata Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152355,
+    "wof:geomhash":"fec0a7dc13d428493fd3191f5502354c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745079,
+            "region_id":85672735
+        }
+    ],
+    "wof:id":1108745079,
+    "wof:lastmodified":1511300757,
+    "wof:name":"Kitagata",
+    "wof:parent_id":85672735,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742163
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.676559448242,
+    35.41159820556638,
+    136.69810485839804,
+    35.44926834106452
+],
+  "geometry": {"coordinates":[[[136.69810485839804,35.44726562499997],[136.69769287109403,35.42146682739259],[136.69270324706997,35.4208641052246],[136.69270324706997,35.41986465454096],[136.69279479980503,35.41159820556638],[136.68760681152304,35.41253280639653],[136.68649291992196,35.41426849365232],[136.68190002441403,35.41426849365232],[136.68060302734403,35.41746520996087],[136.68099975585903,35.41939926147457],[136.68150329589804,35.41986465454096],[136.68299865722702,35.42266464233396],[136.67810058593801,35.4333343505859],[136.68060302734403,35.43460083007812],[136.67655944824199,35.44097518920896],[136.68099975585903,35.44106674194342],[136.69070434570304,35.44233322143545],[136.69189453124997,35.44879913330076],[136.69560241699196,35.44926834106452],[136.69580078124994,35.44766616821288],[136.69810485839804,35.44726562499997]]],"type":"Polygon"}
+}

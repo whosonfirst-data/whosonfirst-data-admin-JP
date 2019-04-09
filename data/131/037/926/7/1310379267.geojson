@@ -1,0 +1,75 @@
+{
+  "id": 1310379267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.67456,32.68997,130.67456,32.68997",
+    "geom:latitude":32.68997,
+    "geom:longitude":130.67456,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1849062.0",
+    "gn:asciiname":"Mizumachi",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11173682,
+    "gn:latitude":32.68997,
+    "gn:longitude":130.67456,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mizumachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c34\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u305a\u307e\u3061",
+        "\u30df\u30ba\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890523281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11173682
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a74a6f329c4240266cc90e143eca7426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523281,
+            "locality_id":1310379267,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310379267,
+    "wof:lastmodified":1537652465,
+    "wof:name":"Mizumachi",
+    "wof:parent_id":890523281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.67456,
+    32.68997,
+    130.67456,
+    32.68997
+],
+  "geometry": {"coordinates":[130.67456000000001,32.68997],"type":"Point"}
+}

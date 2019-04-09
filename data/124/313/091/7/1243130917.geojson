@@ -1,0 +1,75 @@
+{
+  "id": 1243130917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.03227,32.21847,130.03227,32.21847",
+    "geom:latitude":32.21847,
+    "geom:longitude":130.03227,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kutama",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1857993,
+    "gn:latitude":32.21847,
+    "gn:longitude":130.03227,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kutama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u7389"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u305f\u307e",
+        "\u30af\u30bf\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1857993
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c462c93af88b6490d4a3370cfb5981a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1243130917,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243130917,
+    "wof:lastmodified":1537650134,
+    "wof:name":"Kutama",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.03226999999998,
+    32.21847,
+    130.03226999999998,
+    32.21847
+],
+  "geometry": {"coordinates":[130.03226999999998,32.21847],"type":"Point"}
+}

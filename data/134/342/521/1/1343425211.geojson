@@ -1,0 +1,75 @@
+{
+  "id": 1343425211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.43636,32.96052,130.43636,32.96052",
+    "geom:latitude":32.96052,
+    "geom:longitude":130.43636,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Kuramitsu",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11274028,
+    "gn:latitude":32.96052,
+    "gn:longitude":130.43636,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuramitsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8535\u6e80"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u3089\u307f\u3064",
+        "\u30af\u30e9\u30df\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274028
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2c1bdbffa54164ec24886a99d846c3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1343425211,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343425211,
+    "wof:lastmodified":1537652826,
+    "wof:name":"Kuramitsu",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.43636,
+    32.96052,
+    130.43636,
+    32.96052
+],
+  "geometry": {"coordinates":[130.43636000000001,32.96052],"type":"Point"}
+}

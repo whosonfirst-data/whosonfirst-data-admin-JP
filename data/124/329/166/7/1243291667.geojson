@@ -1,0 +1,75 @@
+{
+  "id": 1243291667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.93274,33.97883,130.93274,33.97883",
+    "geom:latitude":33.97883,
+    "geom:longitude":130.93274,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"1852222.0",
+    "gn:asciiname":"Hatabucho",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1863051,
+    "gn:latitude":33.97883,
+    "gn:longitude":130.93274,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hatabuch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e61\u751f\u753a"
+    ],
+    "name:und_x_variant":[
+        "Hatabuch\u014d",
+        "Hatabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672689,
+        890520241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863051
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ec93bdc9d3fecfc22e81e0df442172e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520241,
+            "locality_id":1243291667,
+            "region_id":85672689
+        }
+    ],
+    "wof:id":1243291667,
+    "wof:lastmodified":1537650271,
+    "wof:name":"Hatabucho",
+    "wof:parent_id":890520241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.93274,
+    33.97883,
+    130.93274,
+    33.97883
+],
+  "geometry": {"coordinates":[130.93274,33.97883],"type":"Point"}
+}

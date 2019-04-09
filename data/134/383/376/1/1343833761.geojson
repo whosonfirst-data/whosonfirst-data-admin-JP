@@ -1,0 +1,74 @@
+{
+  "id": 1343833761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.85213,31.38791,130.85213,31.38791",
+    "geom:latitude":31.38791,
+    "geom:longitude":130.85213,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"8300556.0",
+    "gn:asciiname":"Kosenjocho",
+    "gn:country_code":"JP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10180830,
+    "gn:latitude":31.38791,
+    "gn:longitude":130.85213,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kosenj\u014dch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u53e4\u524d\u57ce\u753a"
+    ],
+    "name:und_x_variant":[
+        "Kosenj\u014dch\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10180830
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4993eeb0ca00ab7175aef51d2556c1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743307,
+            "locality_id":1343833761,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1343833761,
+    "wof:lastmodified":1537651625,
+    "wof:name":"Kosenjocho",
+    "wof:parent_id":1108743307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.85213000000002,
+    31.38791,
+    130.85213000000002,
+    31.38791
+],
+  "geometry": {"coordinates":[130.85213000000002,31.38791],"type":"Point"}
+}

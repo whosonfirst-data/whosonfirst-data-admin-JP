@@ -1,0 +1,75 @@
+{
+  "id": 1293451691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.60364,35.23754,139.60364,35.23754",
+    "geom:latitude":35.23754,
+    "geom:longitude":139.60364,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848308.0",
+    "gn:asciiname":"Akiya",
+    "gn:country_code":"JP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8723109,
+    "gn:latitude":35.23754,
+    "gn:longitude":139.60364,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Akiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u79cb\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u304d\u3084",
+        "\u30a2\u30ad\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8723109
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2289b0ffb5a021d894c8ef7010ee0932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519941,
+            "locality_id":1293451691,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1293451691,
+    "wof:lastmodified":1537651266,
+    "wof:name":"Akiya",
+    "wof:parent_id":890519941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.60363999999998,
+    35.23754,
+    139.60363999999998,
+    35.23754
+],
+  "geometry": {"coordinates":[139.60363999999998,35.23754],"type":"Point"}
+}

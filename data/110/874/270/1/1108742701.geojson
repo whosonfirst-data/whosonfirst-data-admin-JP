@@ -1,0 +1,76 @@
+{
+  "id": 1108742701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000409,
+    "geom:area_square_m":4118305.601914,
+    "geom:bbox":"133.367202759,35.4303321838,133.39100647,35.4569320679",
+    "geom:latitude":35.444057,
+    "geom:longitude":133.378889,
+    "iso:country":"JP",
+    "lbl:latitude":35.444585,
+    "lbl:longitude":133.378889,
+    "meso:admin_1":"Tottori Ken",
+    "meso:gadm_admin":"Hiezu",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Hieduson",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"31384",
+    "meso:mps_x":133.378889,
+    "meso:mps_y":35.444585,
+    "meso:name_alt":"Hiezu",
+    "meso:name_en":"Hiezu Son",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.444585,
+    "mps:longitude":133.378889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hiezu"
+    ],
+    "name:eng_x_variant":[
+        "Hieduson",
+        "Hiezu Son"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151445,
+    "wof:geomhash":"36a6ff95ad168868c054ce596f64bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742701,
+            "region_id":85672685
+        }
+    ],
+    "wof:id":1108742701,
+    "wof:lastmodified":1509652709,
+    "wof:name":"Hiezu",
+    "wof:parent_id":85672685,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108745617
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.36720275878903,
+    35.4303321838379,
+    133.39100646972702,
+    35.4569320678711
+],
+  "geometry": {"coordinates":[[[133.37359619140597,35.4569320678711],[133.38890075683594,35.45393371582028],[133.39100646972702,35.45399856567376],[133.38940429687503,35.44533157348628],[133.38619995117196,35.43973159790036],[133.38400268554693,35.43813323974609],[133.38340759277304,35.43239974975593],[133.38250732421903,35.43066406249996],[133.38050842285202,35.43146514892578],[133.37849426269497,35.4303321838379],[133.37620544433602,35.43140029907229],[133.37480163574196,35.432731628418],[133.37179565429693,35.43339920043948],[133.36950683593801,35.43326568603523],[133.36720275878903,35.43519973754884],[133.37179565429693,35.45006561279298],[133.37359619140597,35.4569320678711]]],"type":"Polygon"}
+}

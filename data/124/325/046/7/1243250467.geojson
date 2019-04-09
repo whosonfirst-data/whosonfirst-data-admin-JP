@@ -1,0 +1,77 @@
+{
+  "id": 1243250467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.26667,43.05,143.26667,43.05",
+    "geom:latitude":43.05,
+    "geom:longitude":143.26667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7428089.0",
+    "gn:admin3_code":"1631.0",
+    "gn:asciiname":"Inabo",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2129930,
+    "gn:latitude":43.05,
+    "gn:longitude":143.26667,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Inabo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inaho",
+        "Naka-shihoro",
+        "Higashi-shiboro",
+        "Higashi-shihoro",
+        "Inabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2129930
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c9f3da1f6b4f38386a9d45e702fc1772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739791,
+            "locality_id":1243250467,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1243250467,
+    "wof:lastmodified":1537650552,
+    "wof:name":"Inabo",
+    "wof:parent_id":1108739791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.26667,
+    43.05,
+    143.26667,
+    43.05
+],
+  "geometry": {"coordinates":[143.26667,43.05],"type":"Point"}
+}

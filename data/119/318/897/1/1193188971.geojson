@@ -1,0 +1,75 @@
+{
+  "id": 1193188971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63449,35.71972,139.63449,35.71972",
+    "geom:latitude":35.71972,
+    "geom:longitude":139.63449,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1855848.0",
+    "gn:asciiname":"Shirasagi",
+    "gn:country_code":"JP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8573524,
+    "gn:latitude":35.71972,
+    "gn:longitude":139.63449,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shirasagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u767d\u9dfa"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3089\u3055\u304e",
+        "\u30b7\u30e9\u30b5\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8573524
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"85050aba226fe9a68feea2a6add0cc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741709,
+            "locality_id":1193188971,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1193188971,
+    "wof:lastmodified":1537651165,
+    "wof:name":"Shirasagi",
+    "wof:parent_id":1108741709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63449,
+    35.71972,
+    139.63449,
+    35.71972
+],
+  "geometry": {"coordinates":[139.63449,35.71972],"type":"Point"}
+}

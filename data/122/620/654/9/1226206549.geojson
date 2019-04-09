@@ -1,0 +1,75 @@
+{
+  "id": 1226206549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.83159,32.99385,130.83159,32.99385",
+    "geom:latitude":32.99385,
+    "geom:longitude":130.83159,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Okaki",
+    "gn:country_code":"JP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11214386,
+    "gn:latitude":32.99385,
+    "gn:longitude":130.83159,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Okaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u67ff"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304b\u304d",
+        "\u30aa\u30ab\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214386
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"48b9427b519e6dd7dc63f8d86e10a93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1226206549,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226206549,
+    "wof:lastmodified":1537652606,
+    "wof:name":"Okaki",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.83158999999998,
+    32.99385,
+    130.83158999999998,
+    32.99385
+],
+  "geometry": {"coordinates":[130.83158999999998,32.99385],"type":"Point"}
+}

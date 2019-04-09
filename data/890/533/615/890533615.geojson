@@ -1,0 +1,81 @@
+{
+  "id": 890533615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.97444,35.59686,135.97444,35.59686",
+    "geom:latitude":35.59686,
+    "geom:longitude":135.97444,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u4e09\u65b9\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u304b\u305f\u3050\u3093"
+    ],
+    "qs:name":"\u4e09\u65b9\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u798f\u4e95\u770c",
+    "qs:photos":143,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":338,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465772,
+        "gp:id":24857055,
+        "qs:id":192602,
+        "wd:id":"Q1352523",
+        "wk:page":"Mikata District, Fukui"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056752,
+    "wof:geomhash":"81e9a03e92ff0d88e4bf1e00626e0365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890533615,
+            "region_id":85672767
+        }
+    ],
+    "wof:id":890533615,
+    "wof:lastmodified":1527727039,
+    "wof:name":"\u4e09\u65b9\u90e1",
+    "wof:parent_id":85672767,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.97444,
+    35.59686,
+    135.97444,
+    35.59686
+],
+  "geometry": {"coordinates":[135.97443999999999,35.59686],"type":"Point"}
+}

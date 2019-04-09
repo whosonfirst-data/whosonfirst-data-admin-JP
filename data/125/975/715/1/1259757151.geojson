@@ -1,0 +1,75 @@
+{
+  "id": 1259757151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.72321,32.22019,130.72321,32.22019",
+    "geom:latitude":32.22019,
+    "geom:longitude":130.72321,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Shiromoto",
+    "gn:country_code":"JP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10207402,
+    "gn:latitude":32.22019,
+    "gn:longitude":130.72321,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shiromoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u57ce\u672c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u308d\u3082\u3068",
+        "\u30b7\u30ed\u30e2\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207402
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d40b9a376350b5b0f94fb66cc98b7282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1259757151,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259757151,
+    "wof:lastmodified":1537651680,
+    "wof:name":"Shiromoto",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.72321000000002,
+    32.22019,
+    130.72321000000002,
+    32.22019
+],
+  "geometry": {"coordinates":[130.72321000000002,32.22019],"type":"Point"}
+}

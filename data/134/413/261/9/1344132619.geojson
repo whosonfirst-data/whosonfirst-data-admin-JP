@@ -1,0 +1,77 @@
+{
+  "id": 1344132619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.76526,31.17516,130.76526,31.17516",
+    "geom:latitude":31.17516,
+    "geom:longitude":130.76526,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"7383999.0",
+    "gn:admin3_code":"46491.0",
+    "gn:asciiname":"Hara",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1863399,
+    "gn:latitude":31.17516,
+    "gn:longitude":130.76526,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f"
+    ],
+    "name:und_x_variant":[
+        "Bai",
+        "Hai",
+        "Hara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863399
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c146f5d50162ea1c85b89cfe47eef02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743335,
+            "locality_id":1344132619,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1344132619,
+    "wof:lastmodified":1537650281,
+    "wof:name":"Hara",
+    "wof:parent_id":1108743335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.76526,
+    31.17516,
+    130.76526,
+    31.17516
+],
+  "geometry": {"coordinates":[130.76526000000001,31.17516],"type":"Point"}
+}

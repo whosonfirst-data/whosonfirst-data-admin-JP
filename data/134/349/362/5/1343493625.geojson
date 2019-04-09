@@ -1,0 +1,75 @@
+{
+  "id": 1343493625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.95398,35.37097,139.95398,35.37097",
+    "geom:latitude":35.37097,
+    "geom:longitude":139.95398,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Hirakawa",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11078107,
+    "gn:latitude":35.37097,
+    "gn:longitude":139.95398,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hirakawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e73\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3089\u304b\u308f",
+        "\u30d2\u30e9\u30ab\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078107
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6c4e369ecfac3c1ba816572830328102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1343493625,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343493625,
+    "wof:lastmodified":1537652181,
+    "wof:name":"Hirakawa",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.95398,
+    35.37097,
+    139.95398,
+    35.37097
+],
+  "geometry": {"coordinates":[139.95398,35.37097],"type":"Point"}
+}

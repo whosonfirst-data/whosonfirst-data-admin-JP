@@ -1,0 +1,76 @@
+{
+  "id": 1193242523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.56416,33.01509,130.56416,33.01509",
+    "geom:latitude":33.01509,
+    "geom:longitude":130.56416,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850744.0",
+    "gn:admin3_code":"43367.0",
+    "gn:asciiname":"Miyajima",
+    "gn:country_code":"JP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11338525,
+    "gn:latitude":33.01509,
+    "gn:longitude":130.56416,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyajima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u3058\u307e",
+        "\u30df\u30e4\u30b8\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11338525
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ab11eeaaccdcff3910b21a30adf9a494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743169,
+            "locality_id":1193242523,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193242523,
+    "wof:lastmodified":1537652921,
+    "wof:name":"Miyajima",
+    "wof:parent_id":1108743169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.56416000000002,
+    33.01509,
+    130.56416000000002,
+    33.01509
+],
+  "geometry": {"coordinates":[130.56416000000002,33.01509],"type":"Point"}
+}

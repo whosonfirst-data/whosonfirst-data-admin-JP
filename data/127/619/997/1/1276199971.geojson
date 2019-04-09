@@ -1,0 +1,75 @@
+{
+  "id": 1276199971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.7805,32.12345,130.7805,32.12345",
+    "geom:latitude":32.12345,
+    "geom:longitude":130.7805,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Chaen",
+    "gn:country_code":"JP",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10221018,
+    "gn:latitude":32.12345,
+    "gn:longitude":130.7805,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8336\u5712"
+    ],
+    "name:jpn_x_variant":[
+        "\u3061\u3083\u3048\u3093",
+        "\u30c1\u30e3\u30a8\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10221018
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0fb60b4195b9f274a9bb756973f8e3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1276199971,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276199971,
+    "wof:lastmodified":1537651718,
+    "wof:name":"Chaen",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.7805,
+    32.12345,
+    130.7805,
+    32.12345
+],
+  "geometry": {"coordinates":[130.78049999999999,32.12345],"type":"Point"}
+}

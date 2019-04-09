@@ -1,0 +1,75 @@
+{
+  "id": 1243245557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.04014,39.36181,141.04014,39.36181",
+    "geom:latitude":39.36181,
+    "geom:longitude":141.04014,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Nagamochi",
+    "gn:country_code":"JP",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438075,
+    "gn:latitude":39.36181,
+    "gn:longitude":141.04014,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagamochi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u6301"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u3082\u3061",
+        "\u30ca\u30ac\u30e2\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438075
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7968ff912a39f0d989f5b2e65e6a3c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1243245557,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1243245557,
+    "wof:lastmodified":1537650884,
+    "wof:name":"Nagamochi",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.04013999999995,
+    39.36181,
+    141.04013999999995,
+    39.36181
+],
+  "geometry": {"coordinates":[141.04013999999995,39.36181],"type":"Point"}
+}

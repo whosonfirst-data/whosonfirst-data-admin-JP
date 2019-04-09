@@ -1,0 +1,75 @@
+{
+  "id": 1310701583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.84978,35.20718,139.84978,35.20718",
+    "geom:latitude":35.20718,
+    "geom:longitude":139.84978,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Morito",
+    "gn:country_code":"JP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11108362,
+    "gn:latitude":35.20718,
+    "gn:longitude":139.84978,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Morito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u68ee\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u308a\u3068",
+        "\u30e2\u30ea\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11108362
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"db8d61bdd61f0968e17efbf106d64e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1310701583,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310701583,
+    "wof:lastmodified":1537652258,
+    "wof:name":"Morito",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.84978,
+    35.20718,
+    139.84978,
+    35.20718
+],
+  "geometry": {"coordinates":[139.84978000000001,35.20718],"type":"Point"}
+}

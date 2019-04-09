@@ -1,0 +1,75 @@
+{
+  "id": 1259546133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35202,28.36,129.35202,28.36",
+    "geom:latitude":28.36,
+    "geom:longitude":129.35202,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1853737.0",
+    "gn:admin3_code":"46523.0",
+    "gn:asciiname":"Oganeku",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8601753,
+    "gn:latitude":28.36,
+    "gn:longitude":129.35202,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cganeku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u91d1\u4e45"
+    ],
+    "name:und_x_variant":[
+        "\u014cganeku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8601753
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8cb9395fe15a723b47d9b7c5bcf4cb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743347,
+            "locality_id":1259546133,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1259546133,
+    "wof:lastmodified":1537651188,
+    "wof:name":"Oganeku",
+    "wof:parent_id":1108743347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35201999999998,
+    28.36,
+    129.35201999999998,
+    28.36
+],
+  "geometry": {"coordinates":[129.35201999999998,28.36],"type":"Point"}
+}

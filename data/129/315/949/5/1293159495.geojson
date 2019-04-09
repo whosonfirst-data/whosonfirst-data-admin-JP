@@ -1,0 +1,75 @@
+{
+  "id": 1293159495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.98679,32.92515,130.98679,32.92515",
+    "geom:latitude":32.92515,
+    "geom:longitude":130.98679,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Tonozuka",
+    "gn:country_code":"JP",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11222409,
+    "gn:latitude":32.92515,
+    "gn:longitude":130.98679,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tonozuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6bbf\u585a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u306e\u3065\u304b",
+        "\u30c8\u30ce\u30c5\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222409
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e4b1e0763a32ab916c546d6e34367d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1293159495,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293159495,
+    "wof:lastmodified":1537652620,
+    "wof:name":"Tonozuka",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.98678999999998,
+    32.92515,
+    130.98678999999998,
+    32.92515
+],
+  "geometry": {"coordinates":[130.98678999999998,32.92515],"type":"Point"}
+}

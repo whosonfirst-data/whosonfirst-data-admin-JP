@@ -1,0 +1,76 @@
+{
+  "id": 1327242949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.94834,40.9233,140.94834,40.9233",
+    "geom:latitude":40.9233,
+    "geom:longitude":140.94834,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130088.0",
+    "gn:admin3_code":"2301.0",
+    "gn:asciiname":"Atago",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383587,
+    "gn:latitude":40.9233,
+    "gn:longitude":140.94834,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Atago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u611b\u5b95"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u305f\u3054",
+        "\u30a2\u30bf\u30b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383587
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e6c7e1a3f1c0003952751fcda005cea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739869,
+            "locality_id":1327242949,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1327242949,
+    "wof:lastmodified":1537650780,
+    "wof:name":"Atago",
+    "wof:parent_id":1108739869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.94834,
+    40.9233,
+    140.94834,
+    40.9233
+],
+  "geometry": {"coordinates":[140.94834,40.9233],"type":"Point"}
+}

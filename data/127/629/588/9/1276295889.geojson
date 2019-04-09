@@ -1,0 +1,75 @@
+{
+  "id": 1276295889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.83775,32.55153,130.83775,32.55153",
+    "geom:latitude":32.55153,
+    "geom:longitude":130.83775,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Miyama",
+    "gn:country_code":"JP",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11192331,
+    "gn:latitude":32.55153,
+    "gn:longitude":130.83775,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6df1\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u307e",
+        "\u30df\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192331
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"731eea3ec1e2dc3eb4a36db4738b42b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1276295889,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276295889,
+    "wof:lastmodified":1537652530,
+    "wof:name":"Miyama",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.83775,
+    32.55153,
+    130.83775,
+    32.55153
+],
+  "geometry": {"coordinates":[130.83775,32.55153],"type":"Point"}
+}

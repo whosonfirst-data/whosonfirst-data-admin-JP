@@ -1,0 +1,75 @@
+{
+  "id": 1192992329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.83779,33.0205,130.83779,33.0205",
+    "geom:latitude":33.0205,
+    "geom:longitude":130.83779,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Sometsuchi",
+    "gn:country_code":"JP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11229350,
+    "gn:latitude":33.0205,
+    "gn:longitude":130.83779,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sometsuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u67d3\u571f"
+    ],
+    "name:jpn_x_variant":[
+        "\u305d\u3081\u3064\u3061",
+        "\u30bd\u30e1\u30c4\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229350
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2b35888525c33e378bdd8612a295b2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1192992329,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1192992329,
+    "wof:lastmodified":1537652639,
+    "wof:name":"Sometsuchi",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.83778999999998,
+    33.0205,
+    130.83778999999998,
+    33.0205
+],
+  "geometry": {"coordinates":[130.83778999999998,33.0205],"type":"Point"}
+}

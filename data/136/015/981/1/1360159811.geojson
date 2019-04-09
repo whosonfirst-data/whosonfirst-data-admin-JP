@@ -1,0 +1,76 @@
+{
+  "id": 1360159811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.04192,35.25077,139.04192,35.25077",
+    "geom:latitude":35.25077,
+    "geom:longitude":139.04192,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1865009.0",
+    "gn:admin3_code":"14382.0",
+    "gn:asciiname":"Gora",
+    "gn:country_code":"JP",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907284,
+    "gn:latitude":35.25077,
+    "gn:longitude":139.04192,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"G\u014dra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5f37\u7f85"
+    ],
+    "name:und_x_variant":[
+        "G\u014dra",
+        "Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907284
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"961590caadd5587ba50d80f9788028ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741817,
+            "locality_id":1360159811,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1360159811,
+    "wof:lastmodified":1537650349,
+    "wof:name":"Gora",
+    "wof:parent_id":1108741817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.04192,
+    35.25077,
+    139.04192,
+    35.25077
+],
+  "geometry": {"coordinates":[139.04192,35.25077],"type":"Point"}
+}

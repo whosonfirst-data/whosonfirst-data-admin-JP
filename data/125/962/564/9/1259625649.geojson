@@ -1,0 +1,75 @@
+{
+  "id": 1259625649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.57044,35.66809,139.57044,35.66809",
+    "geom:latitude":35.66809,
+    "geom:longitude":139.57044,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1856942.0",
+    "gn:asciiname":"Nakahara",
+    "gn:country_code":"JP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572836,
+    "gn:latitude":35.66809,
+    "gn:longitude":139.57044,
+    "gn:modification_date":"2018-01-14",
+    "gn:name":"Nakahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u306f\u3089",
+        "\u30ca\u30ab\u30cf\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572836
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c007c687f293bd1abfef845f866e0c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741733,
+            "locality_id":1259625649,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1259625649,
+    "wof:lastmodified":1537651162,
+    "wof:name":"Nakahara",
+    "wof:parent_id":1108741733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.57044,
+    35.66809,
+    139.57044,
+    35.66809
+],
+  "geometry": {"coordinates":[139.57043999999999,35.66809],"type":"Point"}
+}

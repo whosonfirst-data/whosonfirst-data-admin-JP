@@ -1,0 +1,76 @@
+{
+  "id": 1193242519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68276,32.57329,130.68276,32.57329",
+    "geom:latitude":32.57329,
+    "geom:longitude":130.68276,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848443.0",
+    "gn:admin3_code":"43468.0",
+    "gn:asciiname":"Nozu",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193783,
+    "gn:latitude":32.57329,
+    "gn:longitude":130.68276,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nozu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91ce\u6d25"
+    ],
+    "name:jpn_x_variant":[
+        "\u306e\u3065",
+        "\u30ce\u30c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193783
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9be060bd132965b6af2253e6708a9b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743205,
+            "locality_id":1193242519,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193242519,
+    "wof:lastmodified":1537652536,
+    "wof:name":"Nozu",
+    "wof:parent_id":1108743205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68276,
+    32.57329,
+    130.68276,
+    32.57329
+],
+  "geometry": {"coordinates":[130.68276,32.57329],"type":"Point"}
+}

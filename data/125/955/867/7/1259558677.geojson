@@ -1,0 +1,75 @@
+{
+  "id": 1259558677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.6319,35.15565,139.6319,35.15565",
+    "geom:latitude":35.15565,
+    "geom:longitude":139.6319,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1856849.0",
+    "gn:asciiname":"Okunawa",
+    "gn:country_code":"JP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11056770,
+    "gn:latitude":35.15565,
+    "gn:longitude":139.6319,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Okunawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5965\u7e04"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304f\u306a\u308f",
+        "\u30aa\u30af\u30ca\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056770
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e8de0d03dcf009d93d077e18ac36d1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519685,
+            "locality_id":1259558677,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1259558677,
+    "wof:lastmodified":1537652142,
+    "wof:name":"Okunawa",
+    "wof:parent_id":890519685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.6319,
+    35.15565,
+    139.6319,
+    35.15565
+],
+  "geometry": {"coordinates":[139.6319,35.15565],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344063957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.53897,40.58035,140.53897,40.58035",
+    "geom:latitude":40.58035,
+    "geom:longitude":140.53897,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Kosugi",
+    "gn:country_code":"JP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512317,
+    "gn:latitude":40.58035,
+    "gn:longitude":140.53897,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kosugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6749"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3059\u304e",
+        "\u30b3\u30b9\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512317
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"32f0c8c69bcdfa81615cec5aee989f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1344063957,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1344063957,
+    "wof:lastmodified":1537651002,
+    "wof:name":"Kosugi",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.53897,
+    40.58035,
+    140.53897,
+    40.58035
+],
+  "geometry": {"coordinates":[140.53897000000001,40.58035],"type":"Point"}
+}

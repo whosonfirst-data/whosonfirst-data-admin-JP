@@ -1,0 +1,80 @@
+{
+  "id": 1344190301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32251,24.72433,125.32251,24.72433",
+    "geom:latitude":24.72433,
+    "geom:longitude":125.32251,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"7415819.0",
+    "gn:asciiname":"Miyaguni",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1856771,
+    "gn:latitude":24.72433,
+    "gn:longitude":125.32251,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyaguni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u56fd"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u3050\u306b"
+    ],
+    "name:und_x_variant":[
+        "Miyuguni",
+        "Mirakuni",
+        "Miyaguni",
+        "Miyakuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867,
+        1108743379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1856771
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2afe48e23a63af51a263371d8e0aa225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743379,
+            "locality_id":1344190301,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1344190301,
+    "wof:lastmodified":1537650106,
+    "wof:name":"Miyaguni",
+    "wof:parent_id":1108743379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32251,
+    24.72433,
+    125.32251,
+    24.72433
+],
+  "geometry": {"coordinates":[125.32250999999999,24.72433],"type":"Point"}
+}

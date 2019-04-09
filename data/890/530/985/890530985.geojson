@@ -1,0 +1,84 @@
+{
+  "id": 890530985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.14039,33.54331,130.14039,33.54331",
+    "geom:latitude":33.54331,
+    "geom:longitude":130.14039,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u7cf8\u5cf6\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3068\u3057\u307e\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Itoshima"
+    ],
+    "qs:name":"\u7cf8\u5cf6\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u798f\u5ca1\u770c",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":4,
+    "qs:photos_9r":7,
+    "qs:photos_all":1006,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":472,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861272,
+        "gp:id":24857063,
+        "qs:id":1115365,
+        "wd:id":"Q1132262",
+        "wk:page":"Itoshima District, Fukuoka"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056633,
+    "wof:geomhash":"3aa7549ae97ea8ccb71999750c475be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890530985,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":890530985,
+    "wof:lastmodified":1527782044,
+    "wof:name":"\u7cf8\u5cf6\u90e1",
+    "wof:parent_id":85672697,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.14039,
+    33.54331,
+    130.14039,
+    33.54331
+],
+  "geometry": {"coordinates":[130.14039,33.54331],"type":"Point"}
+}

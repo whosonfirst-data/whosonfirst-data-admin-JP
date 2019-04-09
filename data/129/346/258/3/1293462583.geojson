@@ -1,0 +1,75 @@
+{
+  "id": 1293462583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.52073,36.48161,136.52073,36.48161",
+    "geom:latitude":36.48161,
+    "geom:longitude":136.52073,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"7467881.0",
+    "gn:asciiname":"Mizushimamachi",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1856652,
+    "gn:latitude":36.48161,
+    "gn:longitude":136.52073,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mizushimamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c34\u5cf6\u753a"
+    ],
+    "name:und_x_variant":[
+        "Mizushima",
+        "Mizushimamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        890520403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1856652
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"12ec7bcdeee277f873956a0f6f36ee96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520403,
+            "locality_id":1293462583,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1293462583,
+    "wof:lastmodified":1537650103,
+    "wof:name":"Mizushimamachi",
+    "wof:parent_id":890520403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.52073,
+    36.48161,
+    136.52073,
+    36.48161
+],
+  "geometry": {"coordinates":[136.52072999999999,36.48161],"type":"Point"}
+}

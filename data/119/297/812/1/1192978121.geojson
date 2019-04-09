@@ -1,0 +1,74 @@
+{
+  "id": 1192978121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.64285,34.65804,135.64285,34.65804",
+    "geom:latitude":34.65804,
+    "geom:longitude":135.64285,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"1862751.0",
+    "gn:asciiname":"Shijocho",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9287188,
+    "gn:latitude":34.65804,
+    "gn:longitude":135.64285,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shij\u014dch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u56db\u6761\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shij\u014dch\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785,
+        1108742475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9287188
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"237edd2e5df625a0e2302c2a44d6a9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742475,
+            "locality_id":1192978121,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1192978121,
+    "wof:lastmodified":1537651363,
+    "wof:name":"Shijocho",
+    "wof:parent_id":1108742475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.64285,
+    34.65804,
+    135.64285,
+    34.65804
+],
+  "geometry": {"coordinates":[135.64285000000001,34.65804],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344019445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.86968,34.30527,135.86968,34.30527",
+    "geom:latitude":34.30527,
+    "geom:longitude":135.86968,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"1848164.0",
+    "gn:admin3_code":"29444.0",
+    "gn:asciiname":"Nakato",
+    "gn:country_code":"JP",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855764,
+    "gn:latitude":34.30527,
+    "gn:longitude":135.86968,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u6238"
+    ],
+    "name:und_x_variant":[
+        "Kawado",
+        "Nakado",
+        "Nakato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779,
+        1108742611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855764
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a7cc174bf68749c1a099774a2f61c913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742611,
+            "locality_id":1344019445,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":1344019445,
+    "wof:lastmodified":1537650080,
+    "wof:name":"Nakato",
+    "wof:parent_id":1108742611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.86968000000002,
+    34.30527,
+    135.86968000000002,
+    34.30527
+],
+  "geometry": {"coordinates":[135.86968000000002,34.30527],"type":"Point"}
+}

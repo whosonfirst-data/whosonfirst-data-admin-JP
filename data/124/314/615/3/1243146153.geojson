@@ -1,0 +1,76 @@
+{
+  "id": 1243146153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.02513,32.53312,130.02513,32.53312",
+    "geom:latitude":32.53312,
+    "geom:longitude":130.02513,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865360.0",
+    "gn:admin3_code":"43531.0",
+    "gn:asciiname":"Ogoshi",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265832,
+    "gn:latitude":32.53312,
+    "gn:longitude":130.02513,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ogoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c3e\u8d8a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3054\u3057",
+        "\u30aa\u30b4\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265832
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"83eaed64150827ce3f1b073c4291e931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743231,
+            "locality_id":1243146153,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243146153,
+    "wof:lastmodified":1537652798,
+    "wof:name":"Ogoshi",
+    "wof:parent_id":1108743231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.02513000000002,
+    32.53312,
+    130.02513000000002,
+    32.53312
+],
+  "geometry": {"coordinates":[130.02513000000002,32.53312],"type":"Point"}
+}

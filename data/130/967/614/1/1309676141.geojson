@@ -1,0 +1,75 @@
+{
+  "id": 1309676141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.03621,32.9594,131.03621,32.9594",
+    "geom:latitude":32.9594,
+    "geom:longitude":131.03621,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Yamazaki",
+    "gn:country_code":"JP",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11222868,
+    "gn:latitude":32.9594,
+    "gn:longitude":131.03621,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamazaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u307e\u3056\u304d",
+        "\u30e4\u30de\u30b6\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222868
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"67e13715dd61d5921281bceb1ae97f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1309676141,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1309676141,
+    "wof:lastmodified":1537652621,
+    "wof:name":"Yamazaki",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.03621,
+    32.9594,
+    131.03621,
+    32.9594
+],
+  "geometry": {"coordinates":[131.03621000000001,32.9594],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259851431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16443,39.43865,141.16443,39.43865",
+    "geom:latitude":39.43865,
+    "geom:longitude":141.16443,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Shinden",
+    "gn:country_code":"JP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437297,
+    "gn:latitude":39.43865,
+    "gn:longitude":141.16443,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3093\u3067\u3093",
+        "\u30b7\u30f3\u30c7\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437297
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"54eb5b5323e135fb60b5e77e7f19a813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1259851431,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1259851431,
+    "wof:lastmodified":1537650855,
+    "wof:name":"Shinden",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16443,
+    39.43865,
+    141.16443,
+    39.43865
+],
+  "geometry": {"coordinates":[141.16443000000001,39.43865],"type":"Point"}
+}

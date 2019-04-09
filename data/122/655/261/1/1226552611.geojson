@@ -1,0 +1,75 @@
+{
+  "id": 1226552611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.55657,40.28055,140.55657,40.28055",
+    "geom:latitude":40.28055,
+    "geom:longitude":140.55657,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Nakamichi",
+    "gn:country_code":"JP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456638,
+    "gn:latitude":40.28055,
+    "gn:longitude":140.55657,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakamichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u9053"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u307f\u3061",
+        "\u30ca\u30ab\u30df\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456638
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cfbe5ca7bf14e3fbe795bf6bc261e623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1226552611,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1226552611,
+    "wof:lastmodified":1537650923,
+    "wof:name":"Nakamichi",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.55657,
+    40.28055,
+    140.55657,
+    40.28055
+],
+  "geometry": {"coordinates":[140.55656999999999,40.28055],"type":"Point"}
+}

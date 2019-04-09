@@ -1,0 +1,75 @@
+{
+  "id": 1327292529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.01596,32.39509,130.01596,32.39509",
+    "geom:latitude":32.39509,
+    "geom:longitude":130.01596,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Ueno",
+    "gn:country_code":"JP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11247605,
+    "gn:latitude":32.39509,
+    "gn:longitude":130.01596,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ueno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3048\u306e",
+        "\u30a6\u30a8\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247605
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"02d93d8179ef5b5795f83e574a043272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1327292529,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327292529,
+    "wof:lastmodified":1537652753,
+    "wof:name":"Ueno",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.01596,
+    32.39509,
+    130.01596,
+    32.39509
+],
+  "geometry": {"coordinates":[130.01596000000001,32.39509],"type":"Point"}
+}

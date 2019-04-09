@@ -1,0 +1,75 @@
+{
+  "id": 1260183561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.63362,40.47679,140.63362,40.47679",
+    "geom:latitude":40.47679,
+    "geom:longitude":140.63362,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Mikasayama",
+    "gn:country_code":"JP",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8428722,
+    "gn:latitude":40.47679,
+    "gn:longitude":140.63362,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mikasayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u7b20\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u304b\u3055\u3084\u307e",
+        "\u30df\u30ab\u30b5\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8428722
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"941f760b676ed29f858353ea507e96ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1260183561,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260183561,
+    "wof:lastmodified":1537650834,
+    "wof:name":"Mikasayama",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.63362,
+    40.47679,
+    140.63362,
+    40.47679
+],
+  "geometry": {"coordinates":[140.63362000000001,40.47679],"type":"Point"}
+}

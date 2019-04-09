@@ -1,0 +1,75 @@
+{
+  "id": 1276290143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.75222,32.91784,130.75222,32.91784",
+    "geom:latitude":32.91784,
+    "geom:longitude":130.75222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413153.0",
+    "gn:asciiname":"Tatewari",
+    "gn:country_code":"JP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11360062,
+    "gn:latitude":32.91784,
+    "gn:longitude":130.75222,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tatewari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7acb\u5272"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3066\u308f\u308a",
+        "\u30bf\u30c6\u30ef\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11360062
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3a505f3fce9890b0b37b4eae36f091e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743161,
+            "locality_id":1276290143,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276290143,
+    "wof:lastmodified":1537652925,
+    "wof:name":"Tatewari",
+    "wof:parent_id":1108743161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.75222,
+    32.91784000000001,
+    130.75222,
+    32.91784000000001
+],
+  "geometry": {"coordinates":[130.75221999999999,32.91784000000001],"type":"Point"}
+}

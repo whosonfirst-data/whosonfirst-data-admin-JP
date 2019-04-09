@@ -1,0 +1,75 @@
+{
+  "id": 1343763499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.19996,40.55464,141.19996,40.55464",
+    "geom:latitude":40.55464,
+    "geom:longitude":141.19996,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Kiyose",
+    "gn:country_code":"JP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550833,
+    "gn:latitude":40.55464,
+    "gn:longitude":141.19996,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kiyose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e05\u702c"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u3088\u305b",
+        "\u30ad\u30e8\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550833
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c3fa9cc3c69dc370187bea26d0a5a7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1343763499,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343763499,
+    "wof:lastmodified":1537651055,
+    "wof:name":"Kiyose",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.19996,
+    40.55464,
+    141.19996,
+    40.55464
+],
+  "geometry": {"coordinates":[141.19996,40.55464],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260332683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.64002,36.0485,139.64002,36.0485",
+    "geom:latitude":36.0485,
+    "geom:longitude":139.64002,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"7464124.0",
+    "gn:asciiname":"Yokebori",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572206,
+    "gn:latitude":36.0485,
+    "gn:longitude":139.64002,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yokebori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9664\u5800"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3051\u307c\u308a",
+        "\u30e8\u30b1\u30dc\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890523321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572206
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d46bb4dc29e3329d9afba4228d346ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523321,
+            "locality_id":1260332683,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1260332683,
+    "wof:lastmodified":1537651145,
+    "wof:name":"Yokebori",
+    "wof:parent_id":890523321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.64002,
+    36.0485,
+    139.64002,
+    36.0485
+],
+  "geometry": {"coordinates":[139.64001999999999,36.0485],"type":"Point"}
+}

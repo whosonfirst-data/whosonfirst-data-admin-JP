@@ -1,0 +1,75 @@
+{
+  "id": 1225989267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.64438,35.98565,139.64438,35.98565",
+    "geom:latitude":35.98565,
+    "geom:longitude":139.64438,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1863058.0",
+    "gn:asciiname":"Yamanouchi",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037423,
+    "gn:latitude":35.98565,
+    "gn:longitude":139.64438,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamanouchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u30ce\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u307e\u306e\u3046\u3061",
+        "\u30e4\u30de\u30ce\u30a6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890520297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037423
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7626790f333ce6d0cc3cb086a675f1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520297,
+            "locality_id":1225989267,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1225989267,
+    "wof:lastmodified":1537652137,
+    "wof:name":"Yamanouchi",
+    "wof:parent_id":890520297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.64438,
+    35.98565,
+    139.64438,
+    35.98565
+],
+  "geometry": {"coordinates":[139.64438000000001,35.98565],"type":"Point"}
+}

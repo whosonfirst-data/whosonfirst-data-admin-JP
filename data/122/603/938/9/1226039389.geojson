@@ -1,0 +1,75 @@
+{
+  "id": 1226039389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46186,33.02624,130.46186,33.02624",
+    "geom:latitude":33.02624,
+    "geom:longitude":130.46186,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1854081.0",
+    "gn:asciiname":"Ouramachi",
+    "gn:country_code":"JP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1853529,
+    "gn:latitude":33.02624,
+    "gn:longitude":130.46186,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014curamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u6d66\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014cnoura",
+        "\u014curamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853529
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f03cd7f4b9d89318af0c53027150d2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743001,
+            "locality_id":1226039389,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1226039389,
+    "wof:lastmodified":1537650021,
+    "wof:name":"Ouramachi",
+    "wof:parent_id":1108743001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46186,
+    33.02624,
+    130.46186,
+    33.02624
+],
+  "geometry": {"coordinates":[130.46186,33.02624],"type":"Point"}
+}

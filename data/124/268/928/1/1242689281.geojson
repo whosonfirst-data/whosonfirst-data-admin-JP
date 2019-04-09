@@ -1,0 +1,78 @@
+{
+  "id": 1242689281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.39636,40.61035,140.39636,40.61035",
+    "geom:latitude":40.61035,
+    "geom:longitude":140.39636,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Zao",
+    "gn:country_code":"JP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412436,
+    "gn:latitude":40.61035,
+    "gn:longitude":140.39636,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Za\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8535\u738b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3056\u304a\u3046",
+        "\u30b6\u30aa\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Za\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412436
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"44a4277023088cae22733da561673f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1242689281,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1242689281,
+    "wof:lastmodified":1537650825,
+    "wof:name":"Zao",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.39636000000002,
+    40.61035,
+    140.39636000000002,
+    40.61035
+],
+  "geometry": {"coordinates":[140.39636000000002,40.61035],"type":"Point"}
+}

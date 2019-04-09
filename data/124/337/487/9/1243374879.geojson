@@ -1,0 +1,76 @@
+{
+  "id": 1243374879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.26095,40.37779,141.26095,40.37779",
+    "geom:latitude":40.37779,
+    "geom:longitude":141.26095,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2128302.0",
+    "gn:admin3_code":"2441.0",
+    "gn:asciiname":"Kirihagi",
+    "gn:country_code":"JP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8552670,
+    "gn:latitude":40.37779,
+    "gn:longitude":141.26095,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kirihagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6850\u8429"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u308a\u306f\u304e",
+        "\u30ad\u30ea\u30cf\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8552670
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"925d1042b51c0536ba0d93731edb1974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739927,
+            "locality_id":1243374879,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1243374879,
+    "wof:lastmodified":1537651074,
+    "wof:name":"Kirihagi",
+    "wof:parent_id":1108739927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.26095,
+    40.37779000000001,
+    141.26095,
+    40.37779000000001
+],
+  "geometry": {"coordinates":[141.26095000000001,40.37779000000001],"type":"Point"}
+}

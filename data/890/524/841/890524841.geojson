@@ -1,0 +1,73 @@
+{
+  "id": 890524841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.46706,36.93151,138.46706,36.93151",
+    "geom:latitude":36.93151,
+    "geom:longitude":138.46706,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91ce\u6ca2\u6e29\u6cc9\u6751"
+    ],
+    "name:jpn_x_variant":[
+        "\u306e\u3056\u308f\u304a\u3093\u305b\u3093\u3080\u3089"
+    ],
+    "name:unk_x_variant":[
+        "Nozawa-onsen Mura"
+    ],
+    "qs:name":"Nozawaonsen-mura",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672749,
+        1108742113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417108,
+        "qs:id":1041427
+    },
+    "wof:country":"JP",
+    "wof:created":1469056355,
+    "wof:geomhash":"e62059c4357878c7e95f0a8ee1beac84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742113,
+            "localadmin_id":890524841,
+            "region_id":85672749
+        }
+    ],
+    "wof:id":890524841,
+    "wof:lastmodified":1505343926,
+    "wof:name":"Nozawaonsen-mura",
+    "wof:parent_id":1108742113,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.46706,
+    36.93151,
+    138.46706,
+    36.93151
+],
+  "geometry": {"coordinates":[138.46706,36.93151],"type":"Point"}
+}

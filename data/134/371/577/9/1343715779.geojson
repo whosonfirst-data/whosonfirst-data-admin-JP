@@ -1,0 +1,75 @@
+{
+  "id": 1343715779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.55298,35.78076,139.55298,35.78076",
+    "geom:latitude":35.78076,
+    "geom:longitude":139.55298,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1855405.0",
+    "gn:asciiname":"Honda",
+    "gn:country_code":"JP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572665,
+    "gn:latitude":35.78076,
+    "gn:longitude":139.55298,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Honda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u672c\u591a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3093\u3060",
+        "\u30db\u30f3\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572665
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1fd5f875006bff54b11bf82c274c6638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740461,
+            "locality_id":1343715779,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1343715779,
+    "wof:lastmodified":1537651160,
+    "wof:name":"Honda",
+    "wof:parent_id":1108740461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.55298,
+    35.78076,
+    139.55298,
+    35.78076
+],
+  "geometry": {"coordinates":[139.55297999999999,35.78076],"type":"Point"}
+}

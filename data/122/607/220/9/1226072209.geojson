@@ -1,0 +1,77 @@
+{
+  "id": 1226072209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.4,38.38333,140.4,38.38333",
+    "geom:latitude":38.38333,
+    "geom:longitude":140.4,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"7450466.0",
+    "gn:asciiname":"Barazaki",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113032,
+    "gn:latitude":38.38333,
+    "gn:longitude":140.4,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Barazaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f\u5d0e"
+    ],
+    "name:und_x_variant":[
+        "Harazaki",
+        "Harasaki",
+        "Barazaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672853,
+        1108740101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113032
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"392a412ad71b127204af241b85a59559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740101,
+            "locality_id":1226072209,
+            "region_id":85672853
+        }
+    ],
+    "wof:id":1226072209,
+    "wof:lastmodified":1537650436,
+    "wof:name":"Barazaki",
+    "wof:parent_id":1108740101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.4,
+    38.38333,
+    140.4,
+    38.38333
+],
+  "geometry": {"coordinates":[140.40000000000001,38.38333],"type":"Point"}
+}

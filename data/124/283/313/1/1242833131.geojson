@@ -1,0 +1,78 @@
+{
+  "id": 1242833131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.19752,32.45066,130.19752,32.45066",
+    "geom:latitude":32.45066,
+    "geom:longitude":130.19752,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Otamachi",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11248799,
+    "gn:latitude":32.45066,
+    "gn:longitude":130.19752,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014ctamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u592a\u7530\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u305f\u307e\u3061",
+        "\u30aa\u30aa\u30bf\u30de\u30c1"
+    ],
+    "name:und_x_variant":[
+        "\u014ctamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248799
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0b35517aa57f0de8083cc9bbfc0ff6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1242833131,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242833131,
+    "wof:lastmodified":1537652769,
+    "wof:name":"Otamachi",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.19752,
+    32.45066,
+    130.19752,
+    32.45066
+],
+  "geometry": {"coordinates":[130.19752,32.45066],"type":"Point"}
+}

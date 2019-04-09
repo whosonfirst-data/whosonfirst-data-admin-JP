@@ -1,0 +1,92 @@
+{
+  "id": 102541683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.364444444,33.6622222222,135.364444444,33.6622222222",
+    "geom:latitude":33.662222,
+    "geom:longitude":135.364444,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0646\u06a9\u06cc\u2013\u0634\u06cc\u0631\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nanki\u2013Shirahama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u7d00\u767d\u6d5c\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\ud0a4\uc2dc\ub77c\ud558\ub9c8 \uacf5\ud56d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nanki-Shirahama"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Nanki-Shirahama"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u043e\u043d\u043a\u0438\u2013\u0448\u0438\u0440\u043e\u04b3\u043e\u043c\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Nanki-Shirahama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u7d00\u767d\u6ff1\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"298",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":24857728,
+        "planet_id":1,
+        "state_id":2345892
+    },
+    "wof:belongsto":[
+        85632429,
+        85672795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513996,
+        "iata:code":"SHM",
+        "icao:code":"RJBD",
+        "oa:id":"5537",
+        "wd:id":"Q1064050"
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e73c5db3ff10dfd3283e85dbf3bfb9e6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541683,
+            "country_id":85632429,
+            "region_id":85672795
+        }
+    ],
+    "wof:id":102541683,
+    "wof:lastmodified":1543792155,
+    "wof:name":"\u5357\u7d00\u767d\u6d5c\u7a7a\u6e2f",
+    "wof:parent_id":85672795,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    135.36444444444,
+    33.662222222222,
+    135.36444444444,
+    33.662222222222
+],
+  "geometry": {"coordinates":[135.36444444444001,33.662222222222],"type":"Point"}
+}

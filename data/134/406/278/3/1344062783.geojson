@@ -1,0 +1,75 @@
+{
+  "id": 1344062783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.05475,35.36223,140.05475,35.36223",
+    "geom:latitude":35.36223,
+    "geom:longitude":140.05475,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Tanka",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11138045,
+    "gn:latitude":35.36223,
+    "gn:longitude":140.05475,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e39\u904e"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3093\u304b",
+        "\u30bf\u30f3\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138045
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8b22773d44873b9ef6fb388f2dde755a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1344062783,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1344062783,
+    "wof:lastmodified":1537652373,
+    "wof:name":"Tanka",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.05475,
+    35.36223,
+    140.05475,
+    35.36223
+],
+  "geometry": {"coordinates":[140.05475000000001,35.36223],"type":"Point"}
+}

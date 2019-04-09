@@ -1,0 +1,75 @@
+{
+  "id": 1259642229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.10381,32.43911,130.10381,32.43911",
+    "geom:latitude":32.43911,
+    "geom:longitude":130.10381,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Nagano",
+    "gn:country_code":"JP",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11248387,
+    "gn:latitude":32.43911,
+    "gn:longitude":130.10381,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c38\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u306e",
+        "\u30ca\u30ac\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248387
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cd9cad21fb272fb7bf36d98d6aa6a449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1259642229,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259642229,
+    "wof:lastmodified":1537652764,
+    "wof:name":"Nagano",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.10381,
+    32.43911,
+    130.10381,
+    32.43911
+],
+  "geometry": {"coordinates":[130.10381000000001,32.43911],"type":"Point"}
+}

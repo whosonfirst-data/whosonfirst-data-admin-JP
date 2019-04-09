@@ -1,0 +1,75 @@
+{
+  "id": 1243516393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.32625,35.32255,139.32625,35.32255",
+    "geom:latitude":35.32255,
+    "geom:longitude":139.32625,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1855966.0",
+    "gn:admin3_code":"14341.0",
+    "gn:asciiname":"Koma",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419600,
+    "gn:latitude":35.32255,
+    "gn:longitude":139.32625,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u9e97"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u307e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419600
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f9f852ceaf43e06abec1833a37a8263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741801,
+            "locality_id":1243516393,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1243516393,
+    "wof:lastmodified":1537651909,
+    "wof:name":"Koma",
+    "wof:parent_id":1108741801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.32625,
+    35.32255,
+    139.32625,
+    35.32255
+],
+  "geometry": {"coordinates":[139.32624999999999,35.32255],"type":"Point"}
+}

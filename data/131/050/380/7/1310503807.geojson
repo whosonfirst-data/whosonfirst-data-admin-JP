@@ -1,0 +1,75 @@
+{
+  "id": 1310503807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.68817,40.18001,140.68817,40.18001",
+    "geom:latitude":40.18001,
+    "geom:longitude":140.68817,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Kattsu",
+    "gn:country_code":"JP",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8452661,
+    "gn:latitude":40.18001,
+    "gn:longitude":140.68817,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kattsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5408\u6d25"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3063\u3064",
+        "\u30ab\u30c3\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452661
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ce7a418af0d9564ece51b63d68b490c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1310503807,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1310503807,
+    "wof:lastmodified":1537650911,
+    "wof:name":"Kattsu",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.68817,
+    40.18001,
+    140.68817,
+    40.18001
+],
+  "geometry": {"coordinates":[140.68817000000001,40.18001],"type":"Point"}
+}

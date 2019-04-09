@@ -1,0 +1,75 @@
+{
+  "id": 1343822059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.75222,32.60603,130.75222,32.60603",
+    "geom:latitude":32.60603,
+    "geom:longitude":130.75222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Danzuru",
+    "gn:country_code":"JP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175264,
+    "gn:latitude":32.60603,
+    "gn:longitude":130.75222,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Danzuru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6bb5\u9db4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3060\u3093\u3065\u308b",
+        "\u30c0\u30f3\u30c5\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175264
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d4b9abc06494a5f6e15d7e85c7814a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1343822059,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343822059,
+    "wof:lastmodified":1537652480,
+    "wof:name":"Danzuru",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.75222,
+    32.60603,
+    130.75222,
+    32.60603
+],
+  "geometry": {"coordinates":[130.75221999999999,32.60603],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360132157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.43961,33.28948,129.43961,33.28948",
+    "geom:latitude":33.28948,
+    "geom:longitude":129.43961,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"7418805.0",
+    "gn:asciiname":"Neshikocho",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855499,
+    "gn:latitude":33.28948,
+    "gn:longitude":129.43961,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Neshikoch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6839\u7345\u5b50\u753a"
+    ],
+    "name:und_x_variant":[
+        "Nejiko",
+        "Neshiko",
+        "Nesiko",
+        "Neshikoch\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672857,
+        890524187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855499
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"036c378d8a159a7931ea46bcd07cb4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524187,
+            "locality_id":1360132157,
+            "region_id":85672857
+        }
+    ],
+    "wof:id":1360132157,
+    "wof:lastmodified":1537650074,
+    "wof:name":"Neshikocho",
+    "wof:parent_id":890524187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.43961000000002,
+    33.28948,
+    129.43961000000002,
+    33.28948
+],
+  "geometry": {"coordinates":[129.43961000000002,33.28948],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343267653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.31341,35.39858,140.31341,35.39858",
+    "geom:latitude":35.39858,
+    "geom:longitude":140.31341,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Sarubukuro",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133579,
+    "gn:latitude":35.39858,
+    "gn:longitude":140.31341,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sarubukuro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u733f\u888b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u308b\u3076\u304f\u308d",
+        "\u30b5\u30eb\u30d6\u30af\u30ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133579
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0ac76ff0c16aad14bdebeee966f96bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1343267653,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343267653,
+    "wof:lastmodified":1537652335,
+    "wof:name":"Sarubukuro",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.31341,
+    35.39857999999999,
+    140.31341,
+    35.39857999999999
+],
+  "geometry": {"coordinates":[140.31341,35.39857999999999],"type":"Point"}
+}

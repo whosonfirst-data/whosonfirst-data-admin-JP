@@ -1,0 +1,77 @@
+{
+  "id": 1309848395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.15783,26.63949,142.15783,26.63949",
+    "geom:latitude":26.63949,
+    "geom:longitude":142.15783,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"2111520.0",
+    "gn:admin3_code":"13421.0",
+    "gn:asciiname":"Motochi",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2111460,
+    "gn:latitude":26.63949,
+    "gn:longitude":142.15783,
+    "gn:modification_date":"2017-04-15",
+    "gn:name":"Motochi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5143\u5730"
+    ],
+    "name:und_x_variant":[
+        "Okimura",
+        "Oki",
+        "Motochi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2111460
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7a4d57e00f189b205cea2e583782f887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741783,
+            "locality_id":1309848395,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1309848395,
+    "wof:lastmodified":1537650391,
+    "wof:name":"Motochi",
+    "wof:parent_id":1108741783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.15783000000005,
+    26.63949,
+    142.15783000000005,
+    26.63949
+],
+  "geometry": {"coordinates":[142.15783000000005,26.63949],"type":"Point"}
+}

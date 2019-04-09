@@ -1,0 +1,75 @@
+{
+  "id": 1193004109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.98186,33.68535,130.98186,33.68535",
+    "geom:latitude":33.68535,
+    "geom:longitude":130.98186,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7406950.0",
+    "gn:admin3_code":"40625.0",
+    "gn:asciiname":"Sosha",
+    "gn:country_code":"JP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351693,
+    "gn:latitude":33.68535,
+    "gn:longitude":130.98186,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"S\u014dsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u60e3\u793e"
+    ],
+    "name:und_x_variant":[
+        "S\u014dsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351693
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"399bdbe6d7175bff402f25c600f2c870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743089,
+            "locality_id":1193004109,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1193004109,
+    "wof:lastmodified":1537651862,
+    "wof:name":"Sosha",
+    "wof:parent_id":1108743089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.98186,
+    33.68535,
+    130.98186,
+    33.68535
+],
+  "geometry": {"coordinates":[130.98186000000001,33.68535],"type":"Point"}
+}

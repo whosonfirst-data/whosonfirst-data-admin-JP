@@ -1,0 +1,75 @@
+{
+  "id": 1309879717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.52028,32.16074,130.52028,32.16074",
+    "geom:latitude":32.16074,
+    "geom:longitude":130.52028,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1857206.0",
+    "gn:asciiname":"Ippongi",
+    "gn:country_code":"JP",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10210964,
+    "gn:latitude":32.16074,
+    "gn:longitude":130.52028,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ippongi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e00\u672c\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3063\u307d\u3093\u304e",
+        "\u30a4\u30c3\u30dd\u30f3\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10210964
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7bd95a4436b1bc1d7ad942925112a94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743157,
+            "locality_id":1309879717,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1309879717,
+    "wof:lastmodified":1537651693,
+    "wof:name":"Ippongi",
+    "wof:parent_id":1108743157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.52028,
+    32.16074,
+    130.52028,
+    32.16074
+],
+  "geometry": {"coordinates":[130.52028000000001,32.16074],"type":"Point"}
+}

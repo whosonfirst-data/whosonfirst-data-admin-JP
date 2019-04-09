@@ -1,0 +1,76 @@
+{
+  "id": 1259542217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.96285,32.71307,130.96285,32.71307",
+    "geom:latitude":32.71307,
+    "geom:longitude":130.96285,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412706.0",
+    "gn:admin3_code":"43447.0",
+    "gn:asciiname":"Osaki",
+    "gn:country_code":"JP",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11241699,
+    "gn:latitude":32.71307,
+    "gn:longitude":130.96285,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Osaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c3e\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3055\u304d",
+        "\u30aa\u30b5\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241699
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a7f72d56ac1407aa978a104c20f66161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743203,
+            "locality_id":1259542217,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259542217,
+    "wof:lastmodified":1537652678,
+    "wof:name":"Osaki",
+    "wof:parent_id":1108743203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.96285,
+    32.71307,
+    130.96285,
+    32.71307
+],
+  "geometry": {"coordinates":[130.96285,32.71307],"type":"Point"}
+}

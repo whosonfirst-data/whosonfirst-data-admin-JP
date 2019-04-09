@@ -1,0 +1,78 @@
+{
+  "id": 1243345479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.23296,39.37925,141.23296,39.37925",
+    "geom:latitude":39.37925,
+    "geom:longitude":141.23296,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Maego",
+    "gn:country_code":"JP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431855,
+    "gn:latitude":39.37925,
+    "gn:longitude":141.23296,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maeg\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u524d\u90f7"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3048\u3054\u3046",
+        "\u30de\u30a8\u30b4\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Maeg\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431855
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"38d6d57670d8c26347688879df18cef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1243345479,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1243345479,
+    "wof:lastmodified":1537650847,
+    "wof:name":"Maego",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.23296000000005,
+    39.37925,
+    141.23296000000005,
+    39.37925
+],
+  "geometry": {"coordinates":[141.23296000000005,39.37925],"type":"Point"}
+}

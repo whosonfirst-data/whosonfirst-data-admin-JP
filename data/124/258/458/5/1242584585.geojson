@@ -1,0 +1,75 @@
+{
+  "id": 1242584585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.38534,40.80422,140.38534,40.80422",
+    "geom:latitude":40.80422,
+    "geom:longitude":140.38534,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Kamimachi",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477110,
+    "gn:latitude":40.80422,
+    "gn:longitude":140.38534,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u307e\u3061",
+        "\u30ab\u30df\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477110
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2e4ec713c7e4ca924cf5ee752b4af14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1242584585,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1242584585,
+    "wof:lastmodified":1537650966,
+    "wof:name":"Kamimachi",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.38534,
+    40.80422,
+    140.38534,
+    40.80422
+],
+  "geometry": {"coordinates":[140.38534000000001,40.80422],"type":"Point"}
+}

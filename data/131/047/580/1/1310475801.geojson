@@ -1,0 +1,78 @@
+{
+  "id": 1310475801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.15248,32.43197,130.15248,32.43197",
+    "geom:latitude":32.43197,
+    "geom:longitude":130.15248,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Obayashi",
+    "gn:country_code":"JP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11249313,
+    "gn:latitude":32.43197,
+    "gn:longitude":130.15248,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cbayashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u6797"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u3070\u3084\u3057",
+        "\u30aa\u30aa\u30d0\u30e4\u30b7"
+    ],
+    "name:und_x_variant":[
+        "\u014cbayashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249313
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"80a5af5ad87c43d165ebb38d468d6548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1310475801,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310475801,
+    "wof:lastmodified":1537652770,
+    "wof:name":"Obayashi",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.15248,
+    32.43197,
+    130.15248,
+    32.43197
+],
+  "geometry": {"coordinates":[130.15248,32.43197],"type":"Point"}
+}

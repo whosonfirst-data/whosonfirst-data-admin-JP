@@ -1,0 +1,75 @@
+{
+  "id": 1226418275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.53526,32.13254,130.53526,32.13254",
+    "geom:latitude":32.13254,
+    "geom:longitude":130.53526,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Gojoki",
+    "gn:country_code":"JP",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10190016,
+    "gn:latitude":32.13254,
+    "gn:longitude":130.53526,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gojoki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e94\u5973\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3054\u3058\u3087\u304d",
+        "\u30b4\u30b8\u30e7\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10190016
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0b883038a659ce81d7a941a11e2564ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1226418275,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1226418275,
+    "wof:lastmodified":1537651642,
+    "wof:name":"Gojoki",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.53526000000002,
+    32.13254000000001,
+    130.53526000000002,
+    32.13254000000001
+],
+  "geometry": {"coordinates":[130.53526000000002,32.13254000000001],"type":"Point"}
+}

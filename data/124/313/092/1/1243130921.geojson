@@ -1,0 +1,75 @@
+{
+  "id": 1243130921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.21802,32.95724,131.21802,32.95724",
+    "geom:latitude":32.95724,
+    "geom:longitude":131.21802,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Koikeno",
+    "gn:country_code":"JP",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11228041,
+    "gn:latitude":32.95724,
+    "gn:longitude":131.21802,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koikeno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6c60\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3044\u3051\u306e",
+        "\u30b3\u30a4\u30b1\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228041
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f06c4d6e1544236cf9b9d0a24446725e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1243130921,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243130921,
+    "wof:lastmodified":1537652636,
+    "wof:name":"Koikeno",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.21802,
+    32.95724000000001,
+    131.21802,
+    32.95724000000001
+],
+  "geometry": {"coordinates":[131.21802,32.95724000000001],"type":"Point"}
+}

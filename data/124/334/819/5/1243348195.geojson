@@ -1,0 +1,75 @@
+{
+  "id": 1243348195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.45261,37.397,140.45261,37.397",
+    "geom:latitude":37.397,
+    "geom:longitude":140.45261,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2110839.0",
+    "gn:admin3_code":"7521.0",
+    "gn:asciiname":"Saito",
+    "gn:country_code":"JP",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8992271,
+    "gn:latitude":37.397,
+    "gn:longitude":140.45261,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sait\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6589\u85e4"
+    ],
+    "name:und_x_variant":[
+        "Sait\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672835,
+        1108740245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8992271
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c24563fa742a7c728c91ec25ff45efd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740245,
+            "locality_id":1243348195,
+            "region_id":85672835
+        }
+    ],
+    "wof:id":1243348195,
+    "wof:lastmodified":1537651299,
+    "wof:name":"Saito",
+    "wof:parent_id":1108740245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.45261000000002,
+    37.397,
+    140.45261000000002,
+    37.397
+],
+  "geometry": {"coordinates":[140.45261000000002,37.397],"type":"Point"}
+}

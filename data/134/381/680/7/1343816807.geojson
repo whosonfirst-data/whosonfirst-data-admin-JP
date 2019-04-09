@@ -1,0 +1,75 @@
+{
+  "id": 1343816807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.10833,32.93961,131.10833,32.93961",
+    "geom:latitude":32.93961,
+    "geom:longitude":131.10833,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Imajuku",
+    "gn:country_code":"JP",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11224613,
+    "gn:latitude":32.93961,
+    "gn:longitude":131.10833,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Imajuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4eca\u5bbf"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u307e\u3058\u3085\u304f",
+        "\u30a4\u30de\u30b8\u30e5\u30af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11224613
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4cb75ea2a14b407d5ee34c78926e9eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1343816807,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343816807,
+    "wof:lastmodified":1537652628,
+    "wof:name":"Imajuku",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.10833,
+    32.93960999999999,
+    131.10833,
+    32.93960999999999
+],
+  "geometry": {"coordinates":[131.10833,32.93960999999999],"type":"Point"}
+}

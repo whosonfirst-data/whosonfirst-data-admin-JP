@@ -1,0 +1,75 @@
+{
+  "id": 1242929001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.40196,38.40107,141.40196,38.40107",
+    "geom:latitude":38.40107,
+    "geom:longitude":141.40196,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2112574.0",
+    "gn:asciiname":"Orinohama",
+    "gn:country_code":"JP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539362,
+    "gn:latitude":38.40107,
+    "gn:longitude":141.40196,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Orinohama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6298\u6d5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u308a\u306e\u306f\u307e",
+        "\u30aa\u30ea\u30ce\u30cf\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672843,
+        1108739999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539362
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"347289dba8f4b9693151d1c073f70e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739999,
+            "locality_id":1242929001,
+            "region_id":85672843
+        }
+    ],
+    "wof:id":1242929001,
+    "wof:lastmodified":1537651046,
+    "wof:name":"Orinohama",
+    "wof:parent_id":1108739999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.40196,
+    38.40107,
+    141.40196,
+    38.40107
+],
+  "geometry": {"coordinates":[141.40196,38.40107],"type":"Point"}
+}

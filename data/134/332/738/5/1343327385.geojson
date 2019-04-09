@@ -1,0 +1,75 @@
+{
+  "id": 1343327385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.61564,32.02127,130.61564,32.02127",
+    "geom:latitude":32.02127,
+    "geom:longitude":130.61564,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Nakama",
+    "gn:country_code":"JP",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10194049,
+    "gn:latitude":32.02127,
+    "gn:longitude":130.61564,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4ef2\u9593"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u307e",
+        "\u30ca\u30ab\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194049
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"663e3f8ef61dcda3f122705cb80a86fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1343327385,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1343327385,
+    "wof:lastmodified":1537651652,
+    "wof:name":"Nakama",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.61563999999998,
+    32.02127,
+    130.61563999999998,
+    32.02127
+],
+  "geometry": {"coordinates":[130.61563999999998,32.02127],"type":"Point"}
+}

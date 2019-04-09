@@ -1,0 +1,76 @@
+{
+  "id": 1243220801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.2,32.68333,131.2,32.68333",
+    "geom:latitude":32.68333,
+    "geom:longitude":131.2,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"7413968.0",
+    "gn:admin3_code":"45443.0",
+    "gn:asciiname":"Akadani",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865595,
+    "gn:latitude":32.68333,
+    "gn:longitude":131.2,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Akadani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangasho-akatani",
+        "Akatani",
+        "Sangasho-akadani",
+        "Akadani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865595
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e37613a852d217af4dbda0ff8d6c7603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743303,
+            "locality_id":1243220801,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1243220801,
+    "wof:lastmodified":1537650334,
+    "wof:name":"Akadani",
+    "wof:parent_id":1108743303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.2,
+    32.68333,
+    131.2,
+    32.68333
+],
+  "geometry": {"coordinates":[131.19999999999999,32.68333],"type":"Point"}
+}

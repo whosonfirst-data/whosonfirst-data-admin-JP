@@ -1,0 +1,75 @@
+{
+  "id": 1293145505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.72985,35.81453,139.72985,35.81453",
+    "geom:latitude":35.81453,
+    "geom:longitude":139.72985,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859726.0",
+    "gn:asciiname":"Maeta",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034193,
+    "gn:latitude":35.81453,
+    "gn:longitude":139.72985,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maeta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u524d\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3048\u305f",
+        "\u30de\u30a8\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034193
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"dbe9debc95f19f65c824726a87e73336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740423,
+            "locality_id":1293145505,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1293145505,
+    "wof:lastmodified":1537652127,
+    "wof:name":"Maeta",
+    "wof:parent_id":1108740423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.72985,
+    35.81453,
+    139.72985,
+    35.81453
+],
+  "geometry": {"coordinates":[139.72985,35.81453],"type":"Point"}
+}

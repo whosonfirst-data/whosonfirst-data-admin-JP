@@ -1,0 +1,76 @@
+{
+  "id": 1343715781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.67835,35.86288,139.67835,35.86288",
+    "geom:latitude":35.86288,
+    "geom:longitude":139.67835,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1849187.0",
+    "gn:admin3_code":"11108.0",
+    "gn:asciiname":"Hosono",
+    "gn:country_code":"JP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11029833,
+    "gn:latitude":35.86288,
+    "gn:longitude":139.67835,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hosono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7d30\u91ce\u3000"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u305d\u306e",
+        "\u30db\u30bd\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11029833
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2571316a657a141e424edf09b138d6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740421,
+            "locality_id":1343715781,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1343715781,
+    "wof:lastmodified":1537652120,
+    "wof:name":"Hosono",
+    "wof:parent_id":1108740421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.67835,
+    35.86288,
+    139.67835,
+    35.86288
+],
+  "geometry": {"coordinates":[139.67834999999999,35.86288],"type":"Point"}
+}

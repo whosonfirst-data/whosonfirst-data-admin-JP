@@ -1,0 +1,75 @@
+{
+  "id": 1259651291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.89064,32.05181,130.89064,32.05181",
+    "geom:latitude":32.05181,
+    "geom:longitude":130.89064,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Komaki",
+    "gn:country_code":"JP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10206269,
+    "gn:latitude":32.05181,
+    "gn:longitude":130.89064,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Komaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u7267"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u307e\u304d",
+        "\u30b3\u30de\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206269
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0775d73a09d764e81c312f3d8856eaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1259651291,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1259651291,
+    "wof:lastmodified":1537651664,
+    "wof:name":"Komaki",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.89064,
+    32.05181,
+    130.89064,
+    32.05181
+],
+  "geometry": {"coordinates":[130.89063999999999,32.05181],"type":"Point"}
+}

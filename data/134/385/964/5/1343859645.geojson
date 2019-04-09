@@ -1,0 +1,75 @@
+{
+  "id": 1343859645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.47921,40.64354,140.47921,40.64354",
+    "geom:latitude":40.64354,
+    "geom:longitude":140.47921,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Iwaka",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411655,
+    "gn:latitude":40.64354,
+    "gn:longitude":140.47921,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Iwaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca9\u8cc0"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u308f\u304b",
+        "\u30a4\u30ef\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411655
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"912b0f4ab1d76dc4d6a831926ab36fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1343859645,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343859645,
+    "wof:lastmodified":1537650804,
+    "wof:name":"Iwaka",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.47921000000002,
+    40.64354,
+    140.47921000000002,
+    40.64354
+],
+  "geometry": {"coordinates":[140.47921000000002,40.64354],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209839173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.18523,35.3483,140.18523,35.3483",
+    "geom:latitude":35.3483,
+    "geom:longitude":140.18523,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Arai",
+    "gn:country_code":"JP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139560,
+    "gn:latitude":35.3483,
+    "gn:longitude":140.18523,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Arai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u4e95"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3089\u3044",
+        "\u30a2\u30e9\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139560
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"56a67f93a91f8db932b05302f62a72e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1209839173,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209839173,
+    "wof:lastmodified":1537652385,
+    "wof:name":"Arai",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.18523000000002,
+    35.3483,
+    140.18523000000002,
+    35.3483
+],
+  "geometry": {"coordinates":[140.18523000000002,35.3483],"type":"Point"}
+}

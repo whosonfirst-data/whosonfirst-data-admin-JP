@@ -1,0 +1,75 @@
+{
+  "id": 1293059915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.18353,32.45569,130.18353,32.45569",
+    "geom:latitude":32.45569,
+    "geom:longitude":130.18353,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kawaramachi",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11248575,
+    "gn:latitude":32.45569,
+    "gn:longitude":130.18353,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kawaramachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ddd\u539f\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u308f\u3089\u307e\u3061",
+        "\u30ab\u30ef\u30e9\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248575
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3379507c60919004d045c08a04eb0805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1293059915,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293059915,
+    "wof:lastmodified":1537652768,
+    "wof:name":"Kawaramachi",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.18353000000002,
+    32.45569,
+    130.18353000000002,
+    32.45569
+],
+  "geometry": {"coordinates":[130.18353000000002,32.45569],"type":"Point"}
+}

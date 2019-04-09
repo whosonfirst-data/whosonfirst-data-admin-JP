@@ -1,0 +1,75 @@
+{
+  "id": 1277135691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.76544,32.97584,130.76544,32.97584",
+    "geom:latitude":32.97584,
+    "geom:longitude":130.76544,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Hanegi",
+    "gn:country_code":"JP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11214270,
+    "gn:latitude":32.97584,
+    "gn:longitude":130.76544,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hanegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7fbd\u6839\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u306d\u304e",
+        "\u30cf\u30cd\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214270
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"62af07657cbbf3874f9b10dfd42aaafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1277135691,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1277135691,
+    "wof:lastmodified":1537652602,
+    "wof:name":"Hanegi",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.76543999999998,
+    32.97584000000001,
+    130.76543999999998,
+    32.97584000000001
+],
+  "geometry": {"coordinates":[130.76543999999998,32.97584000000001],"type":"Point"}
+}

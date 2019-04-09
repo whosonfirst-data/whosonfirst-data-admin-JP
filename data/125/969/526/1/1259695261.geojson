@@ -1,0 +1,75 @@
+{
+  "id": 1259695261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.71139,40.8046,140.71139,40.8046",
+    "geom:latitude":40.8046,
+    "geom:longitude":140.71139,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Yasuda",
+    "gn:country_code":"JP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506076,
+    "gn:latitude":40.8046,
+    "gn:longitude":140.71139,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yasuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5b89\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u3059\u3060",
+        "\u30e4\u30b9\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506076
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cbf48b34a36ce4dcfc56173935b5bb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1259695261,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259695261,
+    "wof:lastmodified":1537650973,
+    "wof:name":"Yasuda",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.71139,
+    40.8046,
+    140.71139,
+    40.8046
+],
+  "geometry": {"coordinates":[140.71138999999999,40.8046],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259745837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.9,31.51667,130.9,31.51667",
+    "geom:latitude":31.51667,
+    "geom:longitude":130.9,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"8300556.0",
+    "gn:asciiname":"Kinouchiyama",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859434,
+    "gn:latitude":31.51667,
+    "gn:longitude":130.9,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kinouchiyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6728\u4e4b\u5185\u5c71\u3000"
+    ],
+    "name:und_x_variant":[
+        "Kinokuchiyama",
+        "Kinouchiyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859434
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"febf98c4865db94832773eb5749cc7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743307,
+            "locality_id":1259745837,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1259745837,
+    "wof:lastmodified":1537650171,
+    "wof:name":"Kinouchiyama",
+    "wof:parent_id":1108743307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.9,
+    31.51667,
+    130.9,
+    31.51667
+],
+  "geometry": {"coordinates":[130.90000000000001,31.51667],"type":"Point"}
+}

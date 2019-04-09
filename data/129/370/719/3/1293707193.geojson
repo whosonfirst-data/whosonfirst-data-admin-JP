@@ -1,0 +1,75 @@
+{
+  "id": 1293707193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.78887,36.61423,138.78887,36.61423",
+    "geom:latitude":36.61423,
+    "geom:longitude":138.78887,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"7453747.0",
+    "gn:admin3_code":"10421.0",
+    "gn:asciiname":"Shimosawatari",
+    "gn:country_code":"JP",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852200,
+    "gn:latitude":36.61423,
+    "gn:longitude":138.78887,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimosawatari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u6ca2\u6e21"
+    ],
+    "name:und_x_variant":[
+        "Shimo-sawatari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672871,
+        1108740385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852200
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"52dd65f3563a2267d5097c0dd2e7167c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740385,
+            "locality_id":1293707193,
+            "region_id":85672871
+        }
+    ],
+    "wof:id":1293707193,
+    "wof:lastmodified":1537649986,
+    "wof:name":"Shimosawatari",
+    "wof:parent_id":1108740385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.78887,
+    36.61423,
+    138.78887,
+    36.61423
+],
+  "geometry": {"coordinates":[138.78887,36.61423],"type":"Point"}
+}

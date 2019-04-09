@@ -1,0 +1,75 @@
+{
+  "id": 1344080249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.1292,35.48582,140.1292,35.48582",
+    "geom:latitude":35.48582,
+    "geom:longitude":140.1292,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Yamakura",
+    "gn:country_code":"JP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140120,
+    "gn:latitude":35.48582,
+    "gn:longitude":140.1292,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u5009"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u307e\u304f\u3089",
+        "\u30e4\u30de\u30af\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140120
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0a7c0b0921b07f1c81c28f14bcf9ca98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1344080249,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1344080249,
+    "wof:lastmodified":1537652389,
+    "wof:name":"Yamakura",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.1292,
+    35.48582000000001,
+    140.1292,
+    35.48582000000001
+],
+  "geometry": {"coordinates":[140.1292,35.48582000000001],"type":"Point"}
+}

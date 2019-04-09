@@ -1,0 +1,75 @@
+{
+  "id": 1243185025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.08641,39.82036,140.08641,39.82036",
+    "geom:latitude":39.82036,
+    "geom:longitude":140.08641,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Fukuda",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322461,
+    "gn:latitude":39.82036,
+    "gn:longitude":140.08641,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fukuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u798f\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304f\u3060",
+        "\u30d5\u30af\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322461
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0635e68a322b5260c425e7da5acb4706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1243185025,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1243185025,
+    "wof:lastmodified":1537650776,
+    "wof:name":"Fukuda",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.08641,
+    39.82036,
+    140.08641,
+    39.82036
+],
+  "geometry": {"coordinates":[140.08641,39.82036],"type":"Point"}
+}

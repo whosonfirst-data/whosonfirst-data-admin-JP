@@ -1,0 +1,74 @@
+{
+  "id": 1360244659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.46773,34.74339,135.46773,34.74339",
+    "geom:latitude":34.74339,
+    "geom:longitude":135.46773,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"7391701.0",
+    "gn:asciiname":"Shonai",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9277718,
+    "gn:latitude":34.74339,
+    "gn:longitude":135.46773,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sh\u014dnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e84\u5185"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785,
+        890520427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9277718
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a3b488e9edd951e6a1a242cae89cf4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520427,
+            "locality_id":1360244659,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1360244659,
+    "wof:lastmodified":1537651354,
+    "wof:name":"Shonai",
+    "wof:parent_id":890520427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.46773000000002,
+    34.74339000000001,
+    135.46773000000002,
+    34.74339000000001
+],
+  "geometry": {"coordinates":[135.46773000000002,34.74339000000001],"type":"Point"}
+}

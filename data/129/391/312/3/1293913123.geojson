@@ -1,0 +1,77 @@
+{
+  "id": 1293913123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.50835,36.81874,137.50835,36.81874",
+    "geom:latitude":36.81874,
+    "geom:longitude":137.50835,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"1858253.0",
+    "gn:asciiname":"Ikejiri",
+    "gn:country_code":"JP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1861770,
+    "gn:latitude":36.81874,
+    "gn:longitude":137.50835,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikejiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c60\u5c3b"
+    ],
+    "name:und_x_variant":[
+        "Ikeshiri",
+        "Ikenoshiri",
+        "Ikejiri",
+        "Ikenojiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672759,
+        890520717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861770
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9381d6e5e4fe1a57eaa40583ed82c05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520717,
+            "locality_id":1293913123,
+            "region_id":85672759
+        }
+    ],
+    "wof:id":1293913123,
+    "wof:lastmodified":1537650234,
+    "wof:name":"Ikejiri",
+    "wof:parent_id":890520717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.50835,
+    36.81874000000001,
+    137.50835,
+    36.81874000000001
+],
+  "geometry": {"coordinates":[137.50835000000001,36.81874000000001],"type":"Point"}
+}

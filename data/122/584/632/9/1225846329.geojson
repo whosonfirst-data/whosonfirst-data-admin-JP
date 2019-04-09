@@ -1,0 +1,75 @@
+{
+  "id": 1225846329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59727,40.6793,140.59727,40.6793",
+    "geom:latitude":40.6793,
+    "geom:longitude":140.59727,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Tobinai",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8507130,
+    "gn:latitude":40.6793,
+    "gn:longitude":140.59727,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tobinai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u98db\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3073\u306a\u3044",
+        "\u30c8\u30d3\u30ca\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507130
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a1696a27ffaba1af43d6e4472b6f5d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1225846329,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1225846329,
+    "wof:lastmodified":1537650986,
+    "wof:name":"Tobinai",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59727,
+    40.6793,
+    140.59727,
+    40.6793
+],
+  "geometry": {"coordinates":[140.59727000000001,40.6793],"type":"Point"}
+}

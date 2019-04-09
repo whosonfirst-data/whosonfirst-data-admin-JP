@@ -1,0 +1,75 @@
+{
+  "id": 1276403543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.22028,32.44852,130.22028,32.44852",
+    "geom:latitude":32.44852,
+    "geom:longitude":130.22028,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Hidakano",
+    "gn:country_code":"JP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265345,
+    "gn:latitude":32.44852,
+    "gn:longitude":130.22028,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hidakano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u9ad8\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3060\u304b\u306e",
+        "\u30d2\u30c0\u30ab\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265345
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bd844ecc2ab3ff64e9f8942c6149e6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1276403543,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276403543,
+    "wof:lastmodified":1537652786,
+    "wof:name":"Hidakano",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.22028,
+    32.44852,
+    130.22028,
+    32.44852
+],
+  "geometry": {"coordinates":[130.22028,32.44852],"type":"Point"}
+}

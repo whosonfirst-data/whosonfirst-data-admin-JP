@@ -1,0 +1,79 @@
+{
+  "id": 1226569309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38011,24.7704,125.38011,24.7704",
+    "geom:latitude":24.7704,
+    "geom:longitude":125.38011,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"7415819.0",
+    "gn:asciiname":"Higa",
+    "gn:country_code":"JP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1862672,
+    "gn:latitude":24.7704,
+    "gn:longitude":125.38011,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Higa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6bd4\u5609"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u304c"
+    ],
+    "name:und_x_variant":[
+        "Gusukube",
+        "Higa",
+        "Hika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867,
+        1108743379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1862672
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"98d039140a16b02de3d4b11bb8cd8992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743379,
+            "locality_id":1226569309,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1226569309,
+    "wof:lastmodified":1537650259,
+    "wof:name":"Higa",
+    "wof:parent_id":1108743379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38011000000002,
+    24.7704,
+    125.38011000000002,
+    24.7704
+],
+  "geometry": {"coordinates":[125.38011000000002,24.7704],"type":"Point"}
+}

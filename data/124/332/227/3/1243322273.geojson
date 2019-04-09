@@ -1,0 +1,75 @@
+{
+  "id": 1243322273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.82908,33.01338,130.82908,33.01338",
+    "geom:latitude":33.01338,
+    "geom:longitude":130.82908,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Mukaizuru",
+    "gn:country_code":"JP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11229347,
+    "gn:latitude":33.01338,
+    "gn:longitude":130.82908,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mukaizuru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8fce\u9db4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3080\u304b\u3044\u3065\u308b",
+        "\u30e0\u30ab\u30a4\u30c5\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229347
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6b25f1afbd6ac2cb761b97ffc7bcf87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1243322273,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243322273,
+    "wof:lastmodified":1537652638,
+    "wof:name":"Mukaizuru",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.82908,
+    33.01338,
+    130.82908,
+    33.01338
+],
+  "geometry": {"coordinates":[130.82908,33.01338],"type":"Point"}
+}

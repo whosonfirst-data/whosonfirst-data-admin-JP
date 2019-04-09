@@ -1,0 +1,75 @@
+{
+  "id": 1309912897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.41783,40.79889,140.41783,40.79889",
+    "geom:latitude":40.79889,
+    "geom:longitude":140.41783,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Chikaoka",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477106,
+    "gn:latitude":40.79889,
+    "gn:longitude":140.41783,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chikaoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8fd1\u5ca1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3061\u304b\u304a\u304b",
+        "\u30c1\u30ab\u30aa\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477106
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"650d29ecac17b2abbeef86538afa7c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1309912897,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1309912897,
+    "wof:lastmodified":1537650965,
+    "wof:name":"Chikaoka",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.41783,
+    40.79889,
+    140.41783,
+    40.79889
+],
+  "geometry": {"coordinates":[140.41783000000001,40.79889],"type":"Point"}
+}

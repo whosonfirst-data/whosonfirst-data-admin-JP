@@ -1,0 +1,75 @@
+{
+  "id": 1226044853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.57228,40.21936,140.57228,40.21936",
+    "geom:latitude":40.21936,
+    "geom:longitude":140.57228,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Tsurida",
+    "gn:country_code":"JP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8456313,
+    "gn:latitude":40.21936,
+    "gn:longitude":140.57228,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsurida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91e3\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u308a\u3060",
+        "\u30c4\u30ea\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456313
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"81ec706b1682dff1d02ce8fd3f88f975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1226044853,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1226044853,
+    "wof:lastmodified":1537650916,
+    "wof:name":"Tsurida",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.57228,
+    40.21936,
+    140.57228,
+    40.21936
+],
+  "geometry": {"coordinates":[140.57228000000001,40.21936],"type":"Point"}
+}

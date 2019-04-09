@@ -1,0 +1,75 @@
+{
+  "id": 1225850785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.01545,35.12284,140.01545,35.12284",
+    "geom:latitude":35.12284,
+    "geom:longitude":140.01545,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Miyayama",
+    "gn:country_code":"JP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171531,
+    "gn:latitude":35.12284,
+    "gn:longitude":140.01545,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u3084\u307e",
+        "\u30df\u30e4\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171531
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7b5aa16315362949b92da807bea58cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1225850785,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1225850785,
+    "wof:lastmodified":1537652439,
+    "wof:name":"Miyayama",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.01545,
+    35.12284,
+    140.01545,
+    35.12284
+],
+  "geometry": {"coordinates":[140.01544999999999,35.12284],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226609417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.30568,32.42219,130.30568,32.42219",
+    "geom:latitude":32.42219,
+    "geom:longitude":130.30568,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kobano",
+    "gn:country_code":"JP",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11264977,
+    "gn:latitude":32.42219,
+    "gn:longitude":130.30568,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kobano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6728\u5834\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3070\u306e",
+        "\u30b3\u30d0\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264977
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"efd0a50c1191794d60a1b16b4098bb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1226609417,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226609417,
+    "wof:lastmodified":1537652781,
+    "wof:name":"Kobano",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.30568,
+    32.42219,
+    130.30568,
+    32.42219
+],
+  "geometry": {"coordinates":[130.30568,32.42219],"type":"Point"}
+}

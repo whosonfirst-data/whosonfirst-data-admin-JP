@@ -1,0 +1,75 @@
+{
+  "id": 1260291839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.50039,40.59535,140.50039,40.59535",
+    "geom:latitude":40.59535,
+    "geom:longitude":140.50039,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Toyoda",
+    "gn:country_code":"JP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411498,
+    "gn:latitude":40.59535,
+    "gn:longitude":140.50039,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Toyoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8c4a\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3088\u3060",
+        "\u30c8\u30e8\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411498
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4ac73058fc942a1f2afb6f90d911b2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1260291839,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260291839,
+    "wof:lastmodified":1537650799,
+    "wof:name":"Toyoda",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.50038999999998,
+    40.59535,
+    140.50038999999998,
+    40.59535
+],
+  "geometry": {"coordinates":[140.50038999999998,40.59535],"type":"Point"}
+}

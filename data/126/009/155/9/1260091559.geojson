@@ -1,0 +1,75 @@
+{
+  "id": 1260091559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.48523,40.61033,140.48523,40.61033",
+    "geom:latitude":40.61033,
+    "geom:longitude":140.48523,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Watokumachi",
+    "gn:country_code":"JP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412801,
+    "gn:latitude":40.61033,
+    "gn:longitude":140.48523,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Watokumachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u548c\u5fb3\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u308f\u3068\u304f\u307e\u3061",
+        "\u30ef\u30c8\u30af\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412801
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"448d0e8d360beca10987902c415323c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1260091559,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260091559,
+    "wof:lastmodified":1537650829,
+    "wof:name":"Watokumachi",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.48523,
+    40.61033,
+    140.48523,
+    40.61033
+],
+  "geometry": {"coordinates":[140.48523,40.61033],"type":"Point"}
+}

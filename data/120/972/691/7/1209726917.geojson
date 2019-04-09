@@ -1,0 +1,75 @@
+{
+  "id": 1209726917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.21525,40.52634,141.21525,40.52634",
+    "geom:latitude":40.52634,
+    "geom:longitude":141.21525,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Takaya",
+    "gn:country_code":"JP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550824,
+    "gn:latitude":40.52634,
+    "gn:longitude":141.21525,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u5c4b"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u3084",
+        "\u30bf\u30ab\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550824
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6acfbedf6fd1b08f452aa7fa392a4e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1209726917,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1209726917,
+    "wof:lastmodified":1537651055,
+    "wof:name":"Takaya",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.21525,
+    40.52634000000001,
+    141.21525,
+    40.52634000000001
+],
+  "geometry": {"coordinates":[141.21525,40.52634000000001],"type":"Point"}
+}

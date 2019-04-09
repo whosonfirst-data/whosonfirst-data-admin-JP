@@ -1,0 +1,75 @@
+{
+  "id": 1343816777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.69407,32.17616,130.69407,32.17616",
+    "geom:latitude":32.17616,
+    "geom:longitude":130.69407,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Chabaru",
+    "gn:country_code":"JP",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10208836,
+    "gn:latitude":32.17616,
+    "gn:longitude":130.69407,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chabaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8336\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3061\u3083\u3070\u308b",
+        "\u30c1\u30e3\u30d0\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208836
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cfa2609cff0aba982e7a73ddd33aa0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1343816777,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343816777,
+    "wof:lastmodified":1537651683,
+    "wof:name":"Chabaru",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.69406999999998,
+    32.17616,
+    130.69406999999998,
+    32.17616
+],
+  "geometry": {"coordinates":[130.69406999999998,32.17616],"type":"Point"}
+}

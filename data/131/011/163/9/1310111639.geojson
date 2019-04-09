@@ -1,0 +1,75 @@
+{
+  "id": 1310111639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.30189,35.47459,140.30189,35.47459",
+    "geom:latitude":35.47459,
+    "geom:longitude":140.30189,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Megurida",
+    "gn:country_code":"JP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11134220,
+    "gn:latitude":35.47459,
+    "gn:longitude":140.30189,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Megurida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5de1\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3081\u3050\u308a\u3060",
+        "\u30e1\u30b0\u30ea\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134220
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bc840ef5c7f025447470ea4fe2f73ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1310111639,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310111639,
+    "wof:lastmodified":1537652341,
+    "wof:name":"Megurida",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.30189,
+    35.47459,
+    140.30189,
+    35.47459
+],
+  "geometry": {"coordinates":[140.30188999999999,35.47459],"type":"Point"}
+}

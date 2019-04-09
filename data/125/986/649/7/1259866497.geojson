@@ -1,0 +1,75 @@
+{
+  "id": 1259866497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.41365,43.02544,144.41365,43.02544",
+    "geom:latitude":43.02544,
+    "geom:longitude":144.41365,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2129370.0",
+    "gn:asciiname":"Hirosato",
+    "gn:country_code":"JP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446791,
+    "gn:latitude":43.02544,
+    "gn:longitude":144.41365,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hirosato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e83\u91cc"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u308d\u3055\u3068",
+        "\u30d2\u30ed\u30b5\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446791
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f72d09b35320041fc80fa1eadf744869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739517,
+            "locality_id":1259866497,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1259866497,
+    "wof:lastmodified":1537652957,
+    "wof:name":"Hirosato",
+    "wof:parent_id":1108739517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.41365,
+    43.02544,
+    144.41365,
+    43.02544
+],
+  "geometry": {"coordinates":[144.41364999999999,43.02544],"type":"Point"}
+}

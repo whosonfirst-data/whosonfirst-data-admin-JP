@@ -1,0 +1,82 @@
+{
+  "id": 890531799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.9,36.05,139.9,36.05",
+    "geom:latitude":36.05,
+    "geom:longitude":139.9,
+    "gn:country":"JP",
+    "gn:fcode":"PPL",
+    "gn:pop":42497,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5ca9\u4e95\u5e02"
+    ],
+    "name:eng_x_preferred":[
+        "Iwai"
+    ],
+    "name:fre_x_preferred":[
+        "Iwai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5ca9\u4e95\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc640\uc774 \uc2dc"
+    ],
+    "qs:name":"Iwai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672801,
+        1108740283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861223,
+        "gp:id":28403526,
+        "qs:id":90020,
+        "wd:id":"Q851928"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056676,
+    "wof:geomhash":"42b09241523d11de58fabd2774e8f136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740283,
+            "locality_id":890531799,
+            "region_id":85672801
+        }
+    ],
+    "wof:id":890531799,
+    "wof:lastmodified":1514467498,
+    "wof:name":"Iwai",
+    "wof:parent_id":1108740283,
+    "wof:placetype":"locality",
+    "wof:population":42497,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.9,
+    36.05,
+    139.9,
+    36.05
+],
+  "geometry": {"coordinates":[139.90000000000001,36.05],"type":"Point"}
+}

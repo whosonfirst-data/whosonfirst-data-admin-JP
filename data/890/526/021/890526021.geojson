@@ -1,0 +1,85 @@
+{
+  "id": 890526021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.85421,44.32326,141.85421,44.32326",
+    "geom:latitude":44.32326,
+    "geom:longitude":141.85421,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u82eb\u524d\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u307e\u307e\u3048\u3050\u3093",
+        "\u30c8\u30de\u30de\u30a8\u30b0\u30f3"
+    ],
+    "name:unk_x_variant":[
+        "Tomamae"
+    ],
+    "qs:name":"\u82eb\u524d\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5317\u6d77\u9053",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2127730,
+        "gp:id":24853974,
+        "qs:id":499916,
+        "wd:id":"Q1134113",
+        "wk:page":"Tomamae District, Hokkaido"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056398,
+    "wof:geomhash":"3b5f206d1bbe162261b8cbf79405d35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890526021,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":890526021,
+    "wof:lastmodified":1527751216,
+    "wof:name":"\u82eb\u524d\u90e1",
+    "wof:parent_id":85672761,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.85421,
+    44.32326,
+    141.85421,
+    44.32326
+],
+  "geometry": {"coordinates":[141.85420999999999,44.32326],"type":"Point"}
+}

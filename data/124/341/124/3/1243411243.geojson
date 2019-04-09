@@ -1,0 +1,75 @@
+{
+  "id": 1243411243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.88077,32.04202,130.88077,32.04202",
+    "geom:latitude":32.04202,
+    "geom:longitude":130.88077,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Higashiharada",
+    "gn:country_code":"JP",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10206273,
+    "gn:latitude":32.04202,
+    "gn:longitude":130.88077,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Higashiharada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6771\u539f\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u304c\u3057\u306f\u3089\u3060",
+        "\u30d2\u30ac\u30b7\u30cf\u30e9\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206273
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"aa3730b558d0a213ae36f0a79412cd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1243411243,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1243411243,
+    "wof:lastmodified":1537651665,
+    "wof:name":"Higashiharada",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.88076999999998,
+    32.04202,
+    130.88076999999998,
+    32.04202
+],
+  "geometry": {"coordinates":[130.88076999999998,32.04202],"type":"Point"}
+}

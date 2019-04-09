@@ -1,0 +1,75 @@
+{
+  "id": 1293742473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.54359,32.62899,130.54359,32.62899",
+    "geom:latitude":32.62899,
+    "geom:longitude":130.54359,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Satonoura",
+    "gn:country_code":"JP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175026,
+    "gn:latitude":32.62899,
+    "gn:longitude":130.54359,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Satonoura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91cc\u6d66"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3068\u306e\u3046\u3089",
+        "\u30b5\u30c8\u30ce\u30a6\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175026
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a330a65a6792dc5e161789ff2960c269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1293742473,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293742473,
+    "wof:lastmodified":1537652472,
+    "wof:name":"Satonoura",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.54359,
+    32.62899,
+    130.54359,
+    32.62899
+],
+  "geometry": {"coordinates":[130.54358999999999,32.62899],"type":"Point"}
+}

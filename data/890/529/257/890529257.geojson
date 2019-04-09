@@ -1,0 +1,84 @@
+{
+  "id": 890529257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.16582,34.86331,137.16582,34.86331",
+    "geom:latitude":34.86331,
+    "geom:longitude":137.16582,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u984d\u7530\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u304b\u305f\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Nukada"
+    ],
+    "qs:name":"\u984d\u7530\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u611b\u77e5\u770c",
+    "qs:photos":459,
+    "qs:photos_1k":93,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":531,
+    "qs:photos_sr":7,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1854914,
+        "gp:id":24856977,
+        "qs:id":886173,
+        "wd:id":"Q787290",
+        "wk:page":"Nukata District, Aichi"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056547,
+    "wof:geomhash":"aa4288ae71408323b5d88c7aa452deb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890529257,
+            "region_id":85672731
+        }
+    ],
+    "wof:id":890529257,
+    "wof:lastmodified":1527765656,
+    "wof:name":"\u984d\u7530\u90e1",
+    "wof:parent_id":85672731,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.16582,
+    34.86331,
+    137.16582,
+    34.86331
+],
+  "geometry": {"coordinates":[137.16582,34.86331],"type":"Point"}
+}

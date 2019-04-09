@@ -1,0 +1,75 @@
+{
+  "id": 1260258483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.56991,32.13715,130.56991,32.13715",
+    "geom:latitude":32.13715,
+    "geom:longitude":130.56991,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Mikazuki",
+    "gn:country_code":"JP",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10194207,
+    "gn:latitude":32.13715,
+    "gn:longitude":130.56991,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mikazuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u65e5\u6708"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u304b\u3065\u304d",
+        "\u30df\u30ab\u30c5\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194207
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0815758b8a2cca38913c707ec9252b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1260258483,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1260258483,
+    "wof:lastmodified":1537651655,
+    "wof:name":"Mikazuki",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.56991000000002,
+    32.13715,
+    130.56991000000002,
+    32.13715
+],
+  "geometry": {"coordinates":[130.56991000000002,32.13715],"type":"Point"}
+}

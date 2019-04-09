@@ -1,0 +1,75 @@
+{
+  "id": 1259384077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.46846,40.62503,140.46846,40.62503",
+    "geom:latitude":40.62503,
+    "geom:longitude":140.46846,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Fujino",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411704,
+    "gn:latitude":40.62503,
+    "gn:longitude":140.46846,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fujino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u85e4\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u3058\u306e",
+        "\u30d5\u30b8\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411704
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"86d816e9a639b5ea914bd751dcb5c522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1259384077,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259384077,
+    "wof:lastmodified":1537650806,
+    "wof:name":"Fujino",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.46846000000002,
+    40.62503,
+    140.46846000000002,
+    40.62503
+],
+  "geometry": {"coordinates":[140.46846000000002,40.62503],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309911789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.89289,35.08806,139.89289,35.08806",
+    "geom:latitude":35.08806,
+    "geom:longitude":139.89289,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Yoshizawa",
+    "gn:country_code":"JP",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109025,
+    "gn:latitude":35.08806,
+    "gn:longitude":139.89289,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yoshizawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5409\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3057\u3056\u308f",
+        "\u30e8\u30b7\u30b6\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109025
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"20d5ad930820a61f82ae0795e1b7cc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1309911789,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1309911789,
+    "wof:lastmodified":1537652261,
+    "wof:name":"Yoshizawa",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.89289,
+    35.08806,
+    139.89289,
+    35.08806
+],
+  "geometry": {"coordinates":[139.89288999999999,35.08806],"type":"Point"}
+}

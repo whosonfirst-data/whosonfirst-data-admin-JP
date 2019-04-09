@@ -1,0 +1,75 @@
+{
+  "id": 1209860625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.62793,35.96326,139.62793,35.96326",
+    "geom:latitude":35.96326,
+    "geom:longitude":139.62793,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"8304214.0",
+    "gn:asciiname":"Haraichi",
+    "gn:country_code":"JP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1863152,
+    "gn:latitude":35.96326,
+    "gn:longitude":139.62793,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Haraichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3089\u3044\u3061",
+        "\u30cf\u30e9\u30a4\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863152
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d82e00cf5d5f1d93d946147422295767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740443,
+            "locality_id":1209860625,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1209860625,
+    "wof:lastmodified":1537650273,
+    "wof:name":"Haraichi",
+    "wof:parent_id":1108740443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.62793,
+    35.96326,
+    139.62793,
+    35.96326
+],
+  "geometry": {"coordinates":[139.62792999999999,35.96326],"type":"Point"}
+}

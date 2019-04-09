@@ -1,0 +1,76 @@
+{
+  "id": 1360030213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.73872,36.02711,139.73872,36.02711",
+    "geom:latitude":36.02711,
+    "geom:longitude":139.73872,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859316.0",
+    "gn:admin3_code":"11464.0",
+    "gn:asciiname":"Seiji",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8571627,
+    "gn:latitude":36.02711,
+    "gn:longitude":139.73872,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Seiji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e05\u5730"
+    ],
+    "name:jpn_x_variant":[
+        "\u305b\u3044\u3058",
+        "\u30bb\u30a4\u30b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8571627
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6d25a7eec6b119b901b6551c51f2aba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740527,
+            "locality_id":1360030213,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1360030213,
+    "wof:lastmodified":1537651142,
+    "wof:name":"Seiji",
+    "wof:parent_id":1108740527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.73872,
+    36.02711,
+    139.73872,
+    36.02711
+],
+  "geometry": {"coordinates":[139.73872,36.02711],"type":"Point"}
+}

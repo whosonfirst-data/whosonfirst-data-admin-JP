@@ -1,0 +1,75 @@
+{
+  "id": 1243078981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.73386,40.54655,140.73386,40.54655",
+    "geom:latitude":40.54655,
+    "geom:longitude":140.73386,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Okiura",
+    "gn:country_code":"JP",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8509052,
+    "gn:latitude":40.54655,
+    "gn:longitude":140.73386,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Okiura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c96\u6d66"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304d\u3046\u3089",
+        "\u30aa\u30ad\u30a6\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8509052
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f920ca769ddc6ae782ff97278a0b75f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1243078981,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1243078981,
+    "wof:lastmodified":1537650990,
+    "wof:name":"Okiura",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.73386000000002,
+    40.54655,
+    140.73386000000002,
+    40.54655
+],
+  "geometry": {"coordinates":[140.73386000000002,40.54655],"type":"Point"}
+}

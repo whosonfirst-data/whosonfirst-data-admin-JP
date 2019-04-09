@@ -1,0 +1,78 @@
+{
+  "id": 1360009133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.89769,35.02754,139.89769,35.02754",
+    "geom:latitude":35.02754,
+    "geom:longitude":139.89769,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Koshi",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109079,
+    "gn:latitude":35.02754,
+    "gn:longitude":139.89769,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u5b50"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3046\u3057",
+        "\u30b3\u30a6\u30b7"
+    ],
+    "name:und_x_variant":[
+        "K\u014dshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109079
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ecabd82c58d5bc4c3dfd63e812968947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1360009133,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1360009133,
+    "wof:lastmodified":1537652264,
+    "wof:name":"Koshi",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.89768999999998,
+    35.02754,
+    139.89768999999998,
+    35.02754
+],
+  "geometry": {"coordinates":[139.89768999999998,35.02754],"type":"Point"}
+}

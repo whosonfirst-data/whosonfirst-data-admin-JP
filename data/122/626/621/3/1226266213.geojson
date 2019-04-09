@@ -1,0 +1,75 @@
+{
+  "id": 1226266213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.0671,35.28096,140.0671,35.28096",
+    "geom:latitude":35.28096,
+    "geom:longitude":140.0671,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Hikuma",
+    "gn:country_code":"JP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11142533,
+    "gn:latitude":35.28096,
+    "gn:longitude":140.0671,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hikuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u718a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u304f\u307e",
+        "\u30d2\u30af\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142533
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ebaa8340550f17bdd80690c5937fc08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1226266213,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226266213,
+    "wof:lastmodified":1537652413,
+    "wof:name":"Hikuma",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.0671,
+    35.28096,
+    140.0671,
+    35.28096
+],
+  "geometry": {"coordinates":[140.06710000000001,35.28096],"type":"Point"}
+}

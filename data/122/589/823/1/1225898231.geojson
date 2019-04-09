@@ -1,0 +1,76 @@
+{
+  "id": 1225898231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.64428,35.83335,139.64428,35.83335",
+    "geom:latitude":35.83335,
+    "geom:longitude":139.64428,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1849187.0",
+    "gn:admin3_code":"11108.0",
+    "gn:asciiname":"Uchiya",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11029727,
+    "gn:latitude":35.83335,
+    "gn:longitude":139.64428,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Uchiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5185\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3061\u3084",
+        "\u30a6\u30c1\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11029727
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"db504582d4a7f394f1eff65c33164664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740421,
+            "locality_id":1225898231,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1225898231,
+    "wof:lastmodified":1537652119,
+    "wof:name":"Uchiya",
+    "wof:parent_id":1108740421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.64428,
+    35.83335,
+    139.64428,
+    35.83335
+],
+  "geometry": {"coordinates":[139.64428000000001,35.83335],"type":"Point"}
+}

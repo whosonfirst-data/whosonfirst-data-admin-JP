@@ -1,0 +1,75 @@
+{
+  "id": 1343981427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.91671,35.41335,139.91671,35.41335",
+    "geom:latitude":35.41335,
+    "geom:longitude":139.91671,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Kuzuma",
+    "gn:country_code":"JP",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419790,
+    "gn:latitude":35.41335,
+    "gn:longitude":139.91671,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuzuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u6d25\u9593"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u3065\u307e",
+        "\u30af\u30c5\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419790
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5c53c93a222e1376ff6a26ef37b7c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1343981427,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343981427,
+    "wof:lastmodified":1537650595,
+    "wof:name":"Kuzuma",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.91671000000002,
+    35.41335,
+    139.91671000000002,
+    35.41335
+],
+  "geometry": {"coordinates":[139.91671000000002,35.41335],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276799833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.15267,35.13811,140.15267,35.13811",
+    "geom:latitude":35.13811,
+    "geom:longitude":140.15267,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Sakamoto",
+    "gn:country_code":"JP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171662,
+    "gn:latitude":35.13811,
+    "gn:longitude":140.15267,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakamoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5742\u672c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304b\u3082\u3068",
+        "\u30b5\u30ab\u30e2\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171662
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a1f3ca3d1cbdef282a78455677eb7128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1276799833,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276799833,
+    "wof:lastmodified":1537652447,
+    "wof:name":"Sakamoto",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.15267,
+    35.13811,
+    140.15267,
+    35.13811
+],
+  "geometry": {"coordinates":[140.15267,35.13811],"type":"Point"}
+}

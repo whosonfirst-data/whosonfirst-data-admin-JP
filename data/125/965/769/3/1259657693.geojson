@@ -1,0 +1,76 @@
+{
+  "id": 1259657693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.11816,32.81166,131.11816,32.81166",
+    "geom:latitude":32.81166,
+    "geom:longitude":131.11816,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864975.0",
+    "gn:admin3_code":"43428.0",
+    "gn:asciiname":"Mori",
+    "gn:country_code":"JP",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11242930,
+    "gn:latitude":32.81166,
+    "gn:longitude":131.11816,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u68ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u308a",
+        "\u30e2\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242930
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c22e33bfe7f2ee82e3ef18fa53aa64cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743187,
+            "locality_id":1259657693,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259657693,
+    "wof:lastmodified":1537652706,
+    "wof:name":"Mori",
+    "wof:parent_id":1108743187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.11816000000002,
+    32.81166,
+    131.11816000000002,
+    32.81166
+],
+  "geometry": {"coordinates":[131.11816000000002,32.81166],"type":"Point"}
+}

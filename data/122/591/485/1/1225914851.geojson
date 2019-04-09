@@ -1,0 +1,74 @@
+{
+  "id": 1225914851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.91623,35.9915,139.91623,35.9915",
+    "geom:latitude":35.9915,
+    "geom:longitude":139.91623,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"7452677.0",
+    "gn:asciiname":"Hoshido",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10989279,
+    "gn:latitude":35.9915,
+    "gn:longitude":139.91623,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"H\u014dshido",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6cd5\u5e2b\u6238"
+    ],
+    "name:und_x_variant":[
+        "H\u014dshido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672801,
+        1108740283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989279
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d40d8a73e4b1130c23367c7061e464b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740283,
+            "locality_id":1225914851,
+            "region_id":85672801
+        }
+    ],
+    "wof:id":1225914851,
+    "wof:lastmodified":1537652093,
+    "wof:name":"Hoshido",
+    "wof:parent_id":1108740283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.91623,
+    35.9915,
+    139.91623,
+    35.9915
+],
+  "geometry": {"coordinates":[139.91623000000001,35.9915],"type":"Point"}
+}

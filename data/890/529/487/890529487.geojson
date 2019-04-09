@@ -1,0 +1,84 @@
+{
+  "id": 890529487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.85278,33.58871,130.85278,33.58871",
+    "geom:latitude":33.58871,
+    "geom:longitude":130.85278,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u7530\u5ddd\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304c\u308f\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Tagawa"
+    ],
+    "qs:name":"\u7530\u5ddd\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u798f\u5ca1\u770c",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":365,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851269,
+        "gp:id":24857064,
+        "qs:id":1059809,
+        "wd:id":"Q1156353",
+        "wk:page":"Tagawa District, Fukuoka"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056558,
+    "wof:geomhash":"e20e5cb62275584b2293f86d102a3923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890529487,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":890529487,
+    "wof:lastmodified":1527765659,
+    "wof:name":"\u7530\u5ddd\u90e1",
+    "wof:parent_id":85672697,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.85278,
+    33.58871,
+    130.85278,
+    33.58871
+],
+  "geometry": {"coordinates":[130.85278,33.58871],"type":"Point"}
+}

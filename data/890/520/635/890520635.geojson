@@ -1,0 +1,79 @@
+{
+  "id": 890520635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.34295,35.51279,140.34295,35.51279",
+    "geom:latitude":35.51279,
+    "geom:longitude":140.34295,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_historical":[
+        "\u5927\u7db2\u767d\u91cc\u753a",
+        "\u304a\u304a\u3042\u307f\u3057\u3089\u3055\u3068\u307e\u3061"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u7db2\u767d\u91cc\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u3042\u307f\u3057\u3089\u3055\u3068\u307e\u3061",
+        "\u5927\u7db2\u767d\u91cc\u5e02",
+        "\u5927\u7db2\u767d\u91cc"
+    ],
+    "qs:name":"\u014camishirasato-machi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":421,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465528,
+        "qs:id":1154737,
+        "wd:id":"Q1203251",
+        "wk:page":"\u014camishirasato"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056156,
+    "wof:geomhash":"35acaa53cf53575748444ab34b55bf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741649,
+            "localadmin_id":890520635,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":890520635,
+    "wof:lastmodified":1527758442,
+    "wof:name":"\u014camishirasato-machi",
+    "wof:parent_id":1108741649,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.34295,
+    35.51279,
+    140.34295,
+    35.51279
+],
+  "geometry": {"coordinates":[140.34295,35.51279],"type":"Point"}
+}

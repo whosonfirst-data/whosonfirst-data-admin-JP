@@ -1,0 +1,75 @@
+{
+  "id": 1360260867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.57799,32.10158,130.57799,32.10158",
+    "geom:latitude":32.10158,
+    "geom:longitude":130.57799,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Fumoto",
+    "gn:country_code":"JP",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10191297,
+    "gn:latitude":32.10158,
+    "gn:longitude":130.57799,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fumoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9e93"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u3082\u3068",
+        "\u30d5\u30e2\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10191297
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0a9cec252d04ec88c7b786612cb85e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1360260867,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1360260867,
+    "wof:lastmodified":1537651646,
+    "wof:name":"Fumoto",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.57799,
+    32.10158,
+    130.57799,
+    32.10158
+],
+  "geometry": {"coordinates":[130.57799,32.10158],"type":"Point"}
+}

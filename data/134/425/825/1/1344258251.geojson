@@ -1,0 +1,75 @@
+{
+  "id": 1344258251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.09664,40.61608,141.09664,40.61608",
+    "geom:latitude":40.61608,
+    "geom:longitude":141.09664,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Yomogihata",
+    "gn:country_code":"JP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551301,
+    "gn:latitude":40.61608,
+    "gn:longitude":141.09664,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yomogihata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u84ec\u7551"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3082\u304e\u306f\u305f",
+        "\u30e8\u30e2\u30ae\u30cf\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551301
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7b5395f421873ed475ae8cf834d16284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1344258251,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1344258251,
+    "wof:lastmodified":1537651067,
+    "wof:name":"Yomogihata",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.09663999999995,
+    40.61608,
+    141.09663999999995,
+    40.61608
+],
+  "geometry": {"coordinates":[141.09663999999995,40.61608],"type":"Point"}
+}

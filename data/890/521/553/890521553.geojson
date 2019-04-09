@@ -1,0 +1,84 @@
+{
+  "id": 890521553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.98902,34.4678,133.98902,34.4678",
+    "geom:latitude":34.4678,
+    "geom:longitude":133.98902,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kagawa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9999\u5ddd\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u304c\u308f\u3050\u3093"
+    ],
+    "qs:name":"\u9999\u5ddd\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9999\u5ddd\u770c",
+    "qs:photos":142,
+    "qs:photos_1k":29,
+    "qs:photos_9k":22,
+    "qs:photos_9r":13,
+    "qs:photos_all":4885,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1860835,
+        "gp:id":24848918,
+        "qs:id":203330,
+        "wd:id":"Q1155934",
+        "wk:page":"Kagawa District, Kagawa"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056213,
+    "wof:geomhash":"0a9344b48fe4242d020c4116fd7c5953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890521553,
+            "region_id":85672715
+        }
+    ],
+    "wof:id":890521553,
+    "wof:lastmodified":1527751208,
+    "wof:name":"\u9999\u5ddd\u90e1",
+    "wof:parent_id":85672715,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.98902,
+    34.4678,
+    133.98902,
+    34.4678
+],
+  "geometry": {"coordinates":[133.98902000000001,34.4678],"type":"Point"}
+}

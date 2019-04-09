@@ -1,0 +1,75 @@
+{
+  "id": 1293000463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.20204,35.12439,140.20204,35.12439",
+    "geom:latitude":35.12439,
+    "geom:longitude":140.20204,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Kominato",
+    "gn:country_code":"JP",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2112153,
+    "gn:latitude":35.12439,
+    "gn:longitude":140.20204,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kominato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6e4a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u307f\u306a\u3068",
+        "\u30b3\u30df\u30ca\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2112153
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"36b0d402142914a9cc648ee022a7e802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1293000463,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293000463,
+    "wof:lastmodified":1537650410,
+    "wof:name":"Kominato",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.20203999999998,
+    35.12439000000001,
+    140.20203999999998,
+    35.12439000000001
+],
+  "geometry": {"coordinates":[140.20203999999998,35.12439000000001],"type":"Point"}
+}

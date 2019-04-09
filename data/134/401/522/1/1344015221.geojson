@@ -1,0 +1,75 @@
+{
+  "id": 1344015221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.76778,32.04682,130.76778,32.04682",
+    "geom:latitude":32.04682,
+    "geom:longitude":130.76778,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Mukae",
+    "gn:country_code":"JP",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206316,
+    "gn:latitude":32.04682,
+    "gn:longitude":130.76778,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mukae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5411\u6c5f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3080\u304b\u3048",
+        "\u30e0\u30ab\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206316
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2fdd62a97413240e8c19be6a40bd29b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1344015221,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1344015221,
+    "wof:lastmodified":1537651668,
+    "wof:name":"Mukae",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.76778000000002,
+    32.04682,
+    130.76778000000002,
+    32.04682
+],
+  "geometry": {"coordinates":[130.76778000000002,32.04682],"type":"Point"}
+}

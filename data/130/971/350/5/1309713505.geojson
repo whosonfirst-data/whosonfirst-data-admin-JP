@@ -1,0 +1,75 @@
+{
+  "id": 1309713505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.3265,40.80984,140.3265,40.80984",
+    "geom:latitude":40.80984,
+    "geom:longitude":140.3265,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Yoshimi",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475721,
+    "gn:latitude":40.80984,
+    "gn:longitude":140.3265,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yoshimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5409\u898b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3057\u307f",
+        "\u30e8\u30b7\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475721
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f7d58d52cf07902cf58e9c5c29367bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1309713505,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1309713505,
+    "wof:lastmodified":1537650949,
+    "wof:name":"Yoshimi",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.3265,
+    40.80984,
+    140.3265,
+    40.80984
+],
+  "geometry": {"coordinates":[140.32650000000001,40.80984],"type":"Point"}
+}

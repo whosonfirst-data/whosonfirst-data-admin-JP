@@ -1,0 +1,75 @@
+{
+  "id": 1310701593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.25146,35.4437,140.25146,35.4437",
+    "geom:latitude":35.4437,
+    "geom:longitude":140.25146,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Tonoyatsu",
+    "gn:country_code":"JP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11134268,
+    "gn:latitude":35.4437,
+    "gn:longitude":140.25146,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tonoyatsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6bbf\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u306e\u3084\u3064",
+        "\u30c8\u30ce\u30e4\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134268
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6355b553222588991691c4d1dfae6963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1310701593,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310701593,
+    "wof:lastmodified":1537652345,
+    "wof:name":"Tonoyatsu",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.25146,
+    35.4437,
+    140.25146,
+    35.4437
+],
+  "geometry": {"coordinates":[140.25146000000001,35.4437],"type":"Point"}
+}

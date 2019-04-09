@@ -1,0 +1,75 @@
+{
+  "id": 1293889427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.09645,35.43059,140.09645,35.43059",
+    "geom:latitude":35.43059,
+    "geom:longitude":140.09645,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Nakatakane",
+    "gn:country_code":"JP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139172,
+    "gn:latitude":35.43059,
+    "gn:longitude":140.09645,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakatakane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u9ad8\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u305f\u304b\u306d",
+        "\u30ca\u30ab\u30bf\u30ab\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139172
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fc27c60f86ca4caee789421eb348ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1293889427,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293889427,
+    "wof:lastmodified":1537652382,
+    "wof:name":"Nakatakane",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.09645,
+    35.43059,
+    140.09645,
+    35.43059
+],
+  "geometry": {"coordinates":[140.09645,35.43059],"type":"Point"}
+}

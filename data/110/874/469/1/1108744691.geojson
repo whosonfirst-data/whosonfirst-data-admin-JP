@@ -1,0 +1,78 @@
+{
+  "id": 1108744691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001945,
+    "geom:area_square_m":19968729.181695,
+    "geom:bbox":"139.298287837,33.6506350549,139.632095337,33.9007339478",
+    "geom:latitude":33.874282,
+    "geom:longitude":139.603005,
+    "iso:country":"JP",
+    "lbl:latitude":33.874563,
+    "lbl:longitude":139.603235,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Unknown7",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Mikurazimamura",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13382",
+    "meso:mps_x":139.603235,
+    "meso:mps_y":33.874563,
+    "meso:name_alt":"Mikurajima",
+    "meso:name_en":"Mikurajima Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":33.874563,
+    "mps:longitude":139.603235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Mikurajima"
+    ],
+    "name:eng_x_variant":[
+        "Mikurazimamura",
+        "Unknown7",
+        "Mikurajima Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152229,
+    "wof:geomhash":"0450f14475215c107b96e6408c4defac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744691,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108744691,
+    "wof:lastmodified":1511300754,
+    "wof:name":"Mikurajima",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741775
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.29828783741496,
+    33.65063505493968,
+    139.63209533691403,
+    33.90073394775392
+],
+  "geometry": {"coordinates":[[[[139.29833237207978,33.6522917444648],[139.29879553259204,33.65233627912946],[139.2991161821775,33.65233627912946],[139.2993566693666,33.6519889087451],[139.29957043575698,33.65143667890351],[139.2993210416349,33.65088444906174],[139.29885788112264,33.65063505493968],[139.29875099792739,33.65085772826301],[139.29828783741496,33.65176623542194],[139.29833237207978,33.6522917444648]]],[[[139.59049987793,33.89680099487304],[139.60020446777304,33.90073394775392],[139.60560607910202,33.90066528320308],[139.61669921875003,33.89253234863283],[139.62179565429693,33.88759994506839],[139.63209533691403,33.86980056762702],[139.62179565429693,33.85306549072268],[139.62080383300801,33.85200119018547],[139.61309814453102,33.85240173339838],[139.59420776367202,33.85433578491207],[139.58219909668,33.85793304443362],[139.57780456543,33.86246871948241],[139.57730102539099,33.88046646118161],[139.59049987793,33.89680099487304]]]],"type":"MultiPolygon"}
+}

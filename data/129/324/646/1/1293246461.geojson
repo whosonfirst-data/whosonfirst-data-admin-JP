@@ -1,0 +1,74 @@
+{
+  "id": 1293246461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.14352,33.0768,130.14352,33.0768",
+    "geom:latitude":33.0768,
+    "geom:longitude":130.14352,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"1859936.0",
+    "gn:asciiname":"Omiyado",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9890341,
+    "gn:latitude":33.0768,
+    "gn:longitude":130.14352,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cmiyad\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u5bae\u7530\u5c3e"
+    ],
+    "name:und_x_variant":[
+        "\u014cmiyad\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672695,
+        890520069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890341
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a1556f80d11b606253e1cccada0756a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520069,
+            "locality_id":1293246461,
+            "region_id":85672695
+        }
+    ],
+    "wof:id":1293246461,
+    "wof:lastmodified":1537651553,
+    "wof:name":"Omiyado",
+    "wof:parent_id":890520069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.14352,
+    33.0768,
+    130.14352,
+    33.0768
+],
+  "geometry": {"coordinates":[130.14352,33.0768],"type":"Point"}
+}

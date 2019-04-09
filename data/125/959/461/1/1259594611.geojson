@@ -1,0 +1,75 @@
+{
+  "id": 1259594611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.43951,40.61476,140.43951,40.61476",
+    "geom:latitude":40.61476,
+    "geom:longitude":140.43951,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Kumajima",
+    "gn:country_code":"JP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411742,
+    "gn:latitude":40.61476,
+    "gn:longitude":140.43951,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kumajima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u718a\u5d8b"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u307e\u3058\u307e",
+        "\u30af\u30de\u30b8\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411742
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5027d45689b5d235be9d0c1099ff961a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1259594611,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259594611,
+    "wof:lastmodified":1537650807,
+    "wof:name":"Kumajima",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.43951,
+    40.61476,
+    140.43951,
+    40.61476
+],
+  "geometry": {"coordinates":[140.43951000000001,40.61476],"type":"Point"}
+}

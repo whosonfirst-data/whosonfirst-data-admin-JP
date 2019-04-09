@@ -1,0 +1,75 @@
+{
+  "id": 1242584583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15425,40.5272,141.15425,40.5272",
+    "geom:latitude":40.5272,
+    "geom:longitude":141.15425,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Kashiwagi",
+    "gn:country_code":"JP",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551133,
+    "gn:latitude":40.5272,
+    "gn:longitude":141.15425,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kashiwagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u67cf\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3057\u308f\u304e",
+        "\u30ab\u30b7\u30ef\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551133
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"dca52e0e677a23876506480a7948c39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1242584583,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1242584583,
+    "wof:lastmodified":1537651064,
+    "wof:name":"Kashiwagi",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15425,
+    40.5272,
+    141.15425,
+    40.5272
+],
+  "geometry": {"coordinates":[141.15424999999999,40.5272],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310263547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.09305,33.11188,131.09305,33.11188",
+    "geom:latitude":33.11188,
+    "geom:longitude":131.09305,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864975.0",
+    "gn:admin3_code":"43424.0",
+    "gn:asciiname":"Kamida",
+    "gn:country_code":"JP",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243890,
+    "gn:latitude":33.11188,
+    "gn:longitude":131.09305,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u3060",
+        "\u30ab\u30df\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243890
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"67f2f54ec101739b31e46ed01cef1aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743181,
+            "locality_id":1310263547,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310263547,
+    "wof:lastmodified":1537652732,
+    "wof:name":"Kamida",
+    "wof:parent_id":1108743181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.09305,
+    33.11188,
+    131.09305,
+    33.11188
+],
+  "geometry": {"coordinates":[131.09305000000001,33.11188],"type":"Point"}
+}

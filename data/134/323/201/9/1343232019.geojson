@@ -1,0 +1,75 @@
+{
+  "id": 1343232019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.92247,37.85246,136.92247,37.85246",
+    "geom:latitude":37.85246,
+    "geom:longitude":136.92247,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1848973.0",
+    "gn:asciiname":"Kitazura",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859268,
+    "gn:latitude":37.85246,
+    "gn:longitude":136.92247,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kitazura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amagoya",
+        "Kitasura",
+        "Kitazura",
+        "\u5317\u30ba\u30e9",
+        "\u304d\u305f\u305a\u3089"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        890523277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859268
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e43e665d00ea94446fcc3c116c579745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523277,
+            "locality_id":1343232019,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1343232019,
+    "wof:lastmodified":1537650165,
+    "wof:name":"Kitazura",
+    "wof:parent_id":890523277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.92247,
+    37.85246,
+    136.92247,
+    37.85246
+],
+  "geometry": {"coordinates":[136.92247,37.85246],"type":"Point"}
+}

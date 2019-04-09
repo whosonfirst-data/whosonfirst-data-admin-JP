@@ -1,0 +1,114 @@
+{
+  "id": 85917091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000245,
+    "geom:area_square_m":2497790.809071,
+    "geom:bbox":"135.488082176,34.614982484,135.508382745,34.6364278819",
+    "geom:latitude":34.626521,
+    "geom:longitude":135.49817,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":34.62324,
+    "lbl:longitude":135.501214,
+    "mps:latitude":34.627384,
+    "mps:longitude":135.498016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Tezukayamahigashi 1 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Tezukayamahigashi 1 Choume",
+        "Tezukayamahigashi 1 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u3066\u3065\u304b\u3084\u307e\u3072\u304c\u3057 \uff11\u3061\u3087\u3046\u3081",
+        "\u5e1d\u585a\u5c71\u6771 \uff11\u4e01\u76ee",
+        "\uff11\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":5466,
+    "qs:local_sum":82256,
+    "qs:localhoods":141,
+    "qs:name":"\uff11\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5927\u962a\u5e9c",
+    "qs:name_adm2":"\u4f4f\u5409\u533a",
+    "qs:name_en":"Tezukayamahigashi 1 Chome",
+    "qs:name_lau":"\u5e1d\u585a\u5c71\u6771",
+    "qs:name_local":"\u5927\u962a\u5e02",
+    "qs:photo_max":99,
+    "qs:photo_sum":118,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345881,
+    "qs:woe_adm2":1115090,
+    "qs:woe_lau":28457397,
+    "qs:woe_local":15015370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672785,
+        102191569,
+        85632429,
+        102031439,
+        1108742439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28558839,
+        "qs:id":268061
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9f8bd7e0128a4ec6e82663092ee94cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742439,
+            "locality_id":102031439,
+            "neighbourhood_id":85917091,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":85917091,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527269324,
+    "wof:name":"\uff11\u4e01\u76ee",
+    "wof:parent_id":102031439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.48808217590528,
+    34.61498248400525,
+    135.508382745421,
+    34.63642788185008
+],
+  "geometry": {"coordinates":[[[135.49713134800015,34.63642788185008],[135.49820185552045,34.63632244606198],[135.49820188277465,34.63632272277833],[135.4998779300002,34.63428579149787],[135.5016518544985,34.63320784982524],[135.50537104333301,34.62868797380006],[135.50537109400011,34.62868797380006],[135.50537109400022,34.62868791222505],[135.50537109400022,34.62556722597607],[135.50652266977301,34.62416778990007],[135.50838255550269,34.62190759022528],[135.50838274542099,34.62190745175027],[135.50652279640639,34.61964735980006],[135.50537109400011,34.61824788416024],[135.50268382377647,34.61498248400525],[135.49932483374465,34.61789786694591],[135.4973303215732,34.61870572779186],[135.49603918089014,34.62090224072901],[135.48808217590528,34.62573686181221],[135.49025503029759,34.63365877694595],[135.49157564566997,34.63474257797301],[135.49330451367666,34.63566667717524],[135.49518044478009,34.63623573465398],[135.49713134800015,34.63642788185008]]],"type":"Polygon"}
+}

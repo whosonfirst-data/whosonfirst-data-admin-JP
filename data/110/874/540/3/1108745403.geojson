@@ -1,0 +1,77 @@
+{
+  "id": 1108745403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000414,
+    "geom:area_square_m":4214661.490208,
+    "geom:bbox":"135.370864868,34.4735336304,135.417907715,34.5086746216",
+    "geom:latitude":34.492289,
+    "geom:longitude":135.39374,
+    "iso:country":"JP",
+    "lbl:latitude":34.489527,
+    "lbl:longitude":135.399979,
+    "meso:admin_1":"Osaka Fu",
+    "meso:gadm_admin":"Tadaoka",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Tadaokatyoo",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"27341",
+    "meso:mps_x":135.399979,
+    "meso:mps_y":34.489527,
+    "meso:name_alt":"Tadaoka",
+    "meso:name_en":"Tadaoka Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.489527,
+    "mps:longitude":135.399979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Tadaoka"
+    ],
+    "name:eng_x_variant":[
+        "Tadaokatyoo",
+        "Tadaoka Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152466,
+    "wof:geomhash":"b6fcb66d061fe63e68e9d68f165104ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745403,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1108745403,
+    "wof:lastmodified":1511300760,
+    "wof:name":"Tadaoka",
+    "wof:parent_id":85672785,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742487
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.37086486816403,
+    34.47353363037113,
+    135.417907714844,
+    34.50867462158202
+],
+  "geometry": {"coordinates":[[[135.37626647949202,34.50867462158202],[135.38369750976599,34.5032005310059],[135.3955078125,34.49620056152344],[135.40370178222699,34.49440002441408],[135.408203125,34.48486709594729],[135.41250610351599,34.48233413696286],[135.414306640625,34.48213195800777],[135.41790771484401,34.47733306884768],[135.41470336914099,34.47353363037113],[135.38659667968798,34.49319839477544],[135.37179565429699,34.49966812133793],[135.37088012695301,34.50014114379877],[135.37086486816403,34.50264739990232],[135.37113952636696,34.50327301025393],[135.37127685546901,34.50355911254876],[135.37225341796903,34.50498962402337],[135.37382507324196,34.50727462768548],[135.37626647949202,34.50867462158202]]],"type":"Polygon"}
+}

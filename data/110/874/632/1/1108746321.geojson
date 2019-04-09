@@ -1,0 +1,77 @@
+{
+  "id": 1108746321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002007,
+    "geom:area_square_m":22169750.355141,
+    "geom:bbox":"127.748001099,26.7054004669,127.829597473,26.7384662628",
+    "geom:latitude":26.721143,
+    "geom:longitude":127.788107,
+    "iso:country":"JP",
+    "lbl:latitude":26.721217,
+    "lbl:longitude":127.788107,
+    "meso:admin_1":"Okinawa Ken",
+    "meso:gadm_admin":"Ie",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Ieson",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"47315",
+    "meso:mps_x":127.788107,
+    "meso:mps_y":26.721217,
+    "meso:name_alt":"Ie",
+    "meso:name_en":"Ie Son",
+    "meso:source":"GSIJ",
+    "mps:latitude":26.721217,
+    "mps:longitude":127.788107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ie"
+    ],
+    "name:eng_x_variant":[
+        "Ieson",
+        "Ie Son"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152780,
+    "wof:geomhash":"86922960ed8de585c514538993bfea82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108746321,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1108746321,
+    "wof:lastmodified":1511300769,
+    "wof:name":"Ie",
+    "wof:parent_id":85672867,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108743403
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.748001098633,
+    26.70540046691887,
+    127.82959747314503,
+    26.73846626281737
+],
+  "geometry": {"coordinates":[[[127.75109863281298,26.73220062255856],[127.75830078125,26.73699951171884],[127.76409912109401,26.73679924011233],[127.77379608154301,26.73380088806152],[127.776000976563,26.73393440246576],[127.78060150146501,26.7329998016357],[127.78559875488301,26.73326683044427],[127.79350280761702,26.73393440246576],[127.80660247802703,26.73846626281737],[127.81909942627003,26.72993278503421],[127.82310485839795,26.72653388977048],[127.82959747314503,26.71980094909669],[127.82740020752003,26.70960044860841],[127.80609893798804,26.70540046691887],[127.79109954834001,26.70913314819342],[127.76969909668,26.70786666870121],[127.75440216064499,26.70913314819342],[127.748001098633,26.71859931945797],[127.75109863281298,26.73220062255856]]],"type":"Polygon"}
+}

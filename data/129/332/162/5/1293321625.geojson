@@ -1,0 +1,77 @@
+{
+  "id": 1293321625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.48333,35.28333,133.48333,35.28333",
+    "geom:latitude":35.28333,
+    "geom:longitude":133.48333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"1862590.0",
+    "gn:admin3_code":"31403.0",
+    "gn:asciiname":"Kure",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1858295,
+    "gn:latitude":35.28333,
+    "gn:longitude":133.48333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u9023"
+    ],
+    "name:und_x_variant":[
+        "Kuren",
+        "Kure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672685,
+        1108742713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1858295
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0a10d6cb51373f0f99c14586ccb83576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742713,
+            "locality_id":1293321625,
+            "region_id":85672685
+        }
+    ],
+    "wof:id":1293321625,
+    "wof:lastmodified":1537650140,
+    "wof:name":"Kure",
+    "wof:parent_id":1108742713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.48333,
+    35.28333,
+    133.48333,
+    35.28333
+],
+  "geometry": {"coordinates":[133.48333,35.28333],"type":"Point"}
+}

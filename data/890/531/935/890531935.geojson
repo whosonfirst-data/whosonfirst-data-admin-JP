@@ -1,0 +1,81 @@
+{
+  "id": 890531935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.99125,33.81305,135.99125,33.81305",
+    "geom:latitude":33.81305,
+    "geom:longitude":135.99125,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u5357\u725f\u5a41\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u306a\u307f\u3080\u308d\u3050\u3093"
+    ],
+    "qs:name":"\u5357\u725f\u5a41\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u4e09\u91cd\u770c",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":123,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":553,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417703,
+        "gp:id":24857319,
+        "qs:id":1184003,
+        "wd:id":"Q1131464",
+        "wk:page":"Minamimuro District, Mie"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056681,
+    "wof:geomhash":"9d950780fd52e6784a06863fd49159c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890531935,
+            "region_id":85672745
+        }
+    ],
+    "wof:id":890531935,
+    "wof:lastmodified":1527782088,
+    "wof:name":"\u5357\u725f\u5a41\u90e1",
+    "wof:parent_id":85672745,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.99125,
+    33.81305,
+    135.99125,
+    33.81305
+],
+  "geometry": {"coordinates":[135.99125000000001,33.81305],"type":"Point"}
+}

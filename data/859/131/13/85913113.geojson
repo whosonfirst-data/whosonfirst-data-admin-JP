@@ -1,0 +1,114 @@
+{
+  "id": 85913113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000194,
+    "geom:area_square_m":1956184.595233,
+    "geom:bbox":"139.519205464,35.373374453,139.541163719,35.3875117224",
+    "geom:latitude":35.380361,
+    "geom:longitude":139.530748,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.382731,
+    "lbl:longitude":139.535217,
+    "mps:latitude":35.380888,
+    "mps:longitude":139.530958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Hongodai 3 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Hongoudai 3 Choume",
+        "Hongodai 3 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff13\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3093\u3054\u3046\u3060\u3044 \uff13\u3061\u3087\u3046\u3081",
+        "\u672c\u90f7\u53f0 \uff13\u4e01\u76ee",
+        "\uff13\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff13\u4e01\u76ee"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":6208,
+    "qs:local_sum":82309,
+    "qs:localhoods":190,
+    "qs:name":"\uff13\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs:name_adm2":"\u6804\u533a",
+    "qs:name_en":"Hongodai 3 Chome",
+    "qs:name_lau":"\u672c\u90f7\u53f0",
+    "qs:name_local":"\u6a2a\u6d5c\u5e02",
+    "qs:photo_max":38,
+    "qs:photo_sum":45,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345868,
+    "qs:woe_adm2":15015426,
+    "qs:woe_lau":28416158,
+    "qs:woe_local":1118550,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672805,
+        102191569,
+        85632429,
+        102031239,
+        1108741785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28532910,
+        "qs:id":1270642
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"49b4580f99cca25fae1116a955e71205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741785,
+            "locality_id":102031239,
+            "neighbourhood_id":85913113,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":85913113,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527269074,
+    "wof:name":"\uff13\u4e01\u76ee",
+    "wof:parent_id":102031239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.51920546398537,
+    35.37337445297506,
+    139.54116371929354,
+    35.38751172242287
+],
+  "geometry": {"coordinates":[[[139.5401000980001,35.37898256188859],[139.53735356665527,35.37561413170003],[139.53735351600005,35.37561406957497],[139.53552739022393,35.37337445297506],[139.53368647777666,35.37337445297506],[139.53186035200008,35.37561406957532],[139.52636718799999,35.37561406957532],[139.52271483519394,35.37561406957532],[139.52087402325043,35.37674285244152],[139.51920546398537,35.37878916805342],[139.51920591479018,35.37878912365302],[139.51930591719611,35.37980446512019],[139.51987497467502,35.38168039622363],[139.52003374451806,35.38197743370775],[139.52002757304228,35.38197930580436],[139.52636718775034,35.3845712930253],[139.52706587364162,35.3845712930253],[139.53135252363285,35.38632395442798],[139.53186035200019,35.38676888934374],[139.53609953054092,35.38751172242287],[139.53735351600005,35.38597360414036],[139.53849652825085,35.38457160380008],[139.54116371929354,35.38130007040523],[139.5401000980001,35.37947372312223],[139.5401000980001,35.37898256188859]]],"type":"Polygon"}
+}

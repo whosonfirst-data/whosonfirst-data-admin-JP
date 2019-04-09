@@ -1,0 +1,76 @@
+{
+  "id": 1108741775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001945,
+    "geom:area_square_m":19968729.181695,
+    "geom:bbox":"139.298287837,33.6506350549,139.632095337,33.9007339478",
+    "geom:latitude":33.874282,
+    "geom:longitude":139.603005,
+    "iso:country":"JP",
+    "lbl:latitude":33.874563,
+    "lbl:longitude":139.603235,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Unknown7",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Mikurazimamura",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13382",
+    "meso:mps_x":139.603235,
+    "meso:mps_y":33.874563,
+    "meso:name_alt":"Mikurajima",
+    "meso:name_en":"Mikurajima Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":33.874563,
+    "mps:longitude":139.603235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mikurajima"
+    ],
+    "name:eng_x_variant":[
+        "Mikurazimamura",
+        "Mikurajima Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151072,
+    "wof:geomhash":"0d493cd30f7f2693b4cc3810d686eb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741775,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108741775,
+    "wof:lastmodified":1511205647,
+    "wof:name":"Mikurajima",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744691
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.29828783741,
+    33.65063505494,
+    139.63209533691,
+    33.900733947754
+],
+  "geometry": {"coordinates":[[[[139.29833237208001,33.652291744465],[139.29879553258999,33.652336279129],[139.29911618218,33.652336279129],[139.29935666937001,33.651988908745],[139.29957043575999,33.651436678904],[139.29932104163001,33.650884449062],[139.29885788112,33.65063505494],[139.29875099793,33.650857728263],[139.29828783740999,33.651766235422],[139.29833237208001,33.652291744465]]],[[[139.59049987793,33.896800994873],[139.60020446777,33.900733947754],[139.6056060791,33.900665283203],[139.61669921875,33.892532348633],[139.6217956543,33.887599945068],[139.63209533691,33.869800567627],[139.6217956543,33.853065490723],[139.62080383301,33.852001190185],[139.61309814453,33.852401733398],[139.59420776367,33.854335784912],[139.58219909668,33.857933044434],[139.57780456543,33.862468719482],[139.57730102539,33.880466461182],[139.59049987793,33.896800994873]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293475855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68349,33.71881,130.68349,33.71881",
+    "geom:latitude":33.71881,
+    "geom:longitude":130.68349,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7407416.0",
+    "gn:asciiname":"Donoura",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10267145,
+    "gn:latitude":33.71881,
+    "gn:longitude":130.68349,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"D\u014dnoura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5802\u30ce\u6d66"
+    ],
+    "name:und_x_variant":[
+        "D\u014dnoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10267145
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4b26ca43c86c3fb7bfb03695dca04713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743023,
+            "locality_id":1293475855,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1293475855,
+    "wof:lastmodified":1537651794,
+    "wof:name":"Donoura",
+    "wof:parent_id":1108743023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68348999999998,
+    33.71881,
+    130.68348999999998,
+    33.71881
+],
+  "geometry": {"coordinates":[130.68348999999998,33.71881],"type":"Point"}
+}

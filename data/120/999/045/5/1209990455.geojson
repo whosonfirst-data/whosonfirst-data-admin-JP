@@ -1,0 +1,75 @@
+{
+  "id": 1209990455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.93115,32.54202,130.93115,32.54202",
+    "geom:latitude":32.54202,
+    "geom:longitude":130.93115,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Fukune",
+    "gn:country_code":"JP",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11193369,
+    "gn:latitude":32.54202,
+    "gn:longitude":130.93115,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fukune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u798f\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304f\u306d",
+        "\u30d5\u30af\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193369
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8baa8b01e955ea34a5e0c4a184dfe282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1209990455,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1209990455,
+    "wof:lastmodified":1537652532,
+    "wof:name":"Fukune",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.93115,
+    32.54202,
+    130.93115,
+    32.54202
+],
+  "geometry": {"coordinates":[130.93115,32.54202],"type":"Point"}
+}

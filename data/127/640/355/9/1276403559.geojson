@@ -1,0 +1,75 @@
+{
+  "id": 1276403559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.98761,33.00748,130.98761,33.00748",
+    "geom:latitude":33.00748,
+    "geom:longitude":130.98761,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Motogoya",
+    "gn:country_code":"JP",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11229752,
+    "gn:latitude":33.00748,
+    "gn:longitude":130.98761,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Motogoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5143\u5c0f\u5c4b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u3068\u3054\u3084",
+        "\u30e2\u30c8\u30b4\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229752
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"03f916a47a05b6b82fbda3d3ba18309c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1276403559,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276403559,
+    "wof:lastmodified":1537652641,
+    "wof:name":"Motogoya",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.98761000000002,
+    33.00748,
+    130.98761000000002,
+    33.00748
+],
+  "geometry": {"coordinates":[130.98761000000002,33.00748],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226748893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.23023,40.63384,141.23023,40.63384",
+    "geom:latitude":40.63384,
+    "geom:longitude":141.23023,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Taisei",
+    "gn:country_code":"JP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550555,
+    "gn:latitude":40.63384,
+    "gn:longitude":141.23023,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Taisei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u751f"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3044\u305b\u3044",
+        "\u30bf\u30a4\u30bb\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550555
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b48ff40705fa02530a448e367b00342d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1226748893,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1226748893,
+    "wof:lastmodified":1537651051,
+    "wof:name":"Taisei",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.23023,
+    40.63384,
+    141.23023,
+    40.63384
+],
+  "geometry": {"coordinates":[141.23023000000001,40.63384],"type":"Point"}
+}

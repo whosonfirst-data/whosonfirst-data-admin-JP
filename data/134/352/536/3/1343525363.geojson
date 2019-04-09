@@ -1,0 +1,75 @@
+{
+  "id": 1343525363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16314,40.18219,141.16314,40.18219",
+    "geom:latitude":40.18219,
+    "geom:longitude":141.16314,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2128940.0",
+    "gn:asciiname":"Yoshida",
+    "gn:country_code":"JP",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554393,
+    "gn:latitude":40.18219,
+    "gn:longitude":141.16314,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yoshida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5409\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3057\u3060",
+        "\u30e8\u30b7\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        890520775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554393
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a505d5dadb7945ed94d64c0974737ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520775,
+            "locality_id":1343525363,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1343525363,
+    "wof:lastmodified":1537651104,
+    "wof:name":"Yoshida",
+    "wof:parent_id":890520775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16314,
+    40.18219000000001,
+    141.16314,
+    40.18219000000001
+],
+  "geometry": {"coordinates":[141.16314,40.18219000000001],"type":"Point"}
+}

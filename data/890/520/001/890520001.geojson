@@ -1,0 +1,66 @@
+{
+  "id": 890520001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.31667,35.51667,140.31667,35.51667",
+    "geom:latitude":35.51667,
+    "geom:longitude":140.31667,
+    "gn:country":"JP",
+    "gn:fcode":"PPL",
+    "gn:pop":53239,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u014cami",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2111568,
+        "gp:id":28413604,
+        "qs:id":278009
+    },
+    "wof:country":"JP",
+    "wof:created":1469056125,
+    "wof:geomhash":"a056fe82f426210d9a6b4340be043655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741649,
+            "locality_id":890520001,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":890520001,
+    "wof:lastmodified":1505343916,
+    "wof:name":"\u014cami",
+    "wof:parent_id":1108741649,
+    "wof:placetype":"locality",
+    "wof:population":53239,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.31667,
+    35.51667,
+    140.31667,
+    35.51667
+],
+  "geometry": {"coordinates":[140.31666999999999,35.51667],"type":"Point"}
+}

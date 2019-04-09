@@ -1,0 +1,77 @@
+{
+  "id": 1260109193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.91667,36.4,136.91667,36.4",
+    "geom:latitude":36.4,
+    "geom:longitude":136.91667,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"7391183.0",
+    "gn:asciiname":"Ohara",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1854568,
+    "gn:latitude":36.4,
+    "gn:longitude":136.91667,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ohara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u539f"
+    ],
+    "name:und_x_variant":[
+        "Kohara",
+        "Obara",
+        "Ohara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672759,
+        1108741865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1854568
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9c6fc58b6ffc0136ec573055a14f9288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741865,
+            "locality_id":1260109193,
+            "region_id":85672759
+        }
+    ],
+    "wof:id":1260109193,
+    "wof:lastmodified":1537650044,
+    "wof:name":"Ohara",
+    "wof:parent_id":1108741865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.91666999999998,
+    36.4,
+    136.91666999999998,
+    36.4
+],
+  "geometry": {"coordinates":[136.91666999999998,36.4],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293648029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.17777,32.54828,130.17777,32.54828",
+    "geom:latitude":32.54828,
+    "geom:longitude":130.17777,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Miyazu",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265528,
+    "gn:latitude":32.54828,
+    "gn:longitude":130.17777,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyazu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u6d25"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u3065",
+        "\u30df\u30e4\u30c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265528
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"585e00ad0c558a88bdb881d8bc92b712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1293648029,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293648029,
+    "wof:lastmodified":1537652794,
+    "wof:name":"Miyazu",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.17777,
+    32.54828,
+    130.17777,
+    32.54828
+],
+  "geometry": {"coordinates":[130.17777000000001,32.54828],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193148379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.69151,40.82853,140.69151,40.82853",
+    "geom:latitude":40.82853,
+    "geom:longitude":140.69151,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Takama",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506108,
+    "gn:latitude":40.82853,
+    "gn:longitude":140.69151,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u9593"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u307e",
+        "\u30bf\u30ab\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506108
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ccaedd8addee5ece86b2f7be93e89388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1193148379,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1193148379,
+    "wof:lastmodified":1537650975,
+    "wof:name":"Takama",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.69151000000002,
+    40.82853,
+    140.69151000000002,
+    40.82853
+],
+  "geometry": {"coordinates":[140.69151000000002,40.82853],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277081239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59513,40.76489,140.59513,40.76489",
+    "geom:latitude":40.76489,
+    "geom:longitude":140.59513,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Hokudai",
+    "gn:country_code":"JP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506679,
+    "gn:latitude":40.76489,
+    "gn:longitude":140.59513,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hokudai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u5927"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u304f\u3060\u3044",
+        "\u30db\u30af\u30c0\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506679
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1d2cb31d7d64c3ade54e50c24c67f655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1277081239,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1277081239,
+    "wof:lastmodified":1537650979,
+    "wof:name":"Hokudai",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59513,
+    40.76489,
+    140.59513,
+    40.76489
+],
+  "geometry": {"coordinates":[140.59513000000001,40.76489],"type":"Point"}
+}

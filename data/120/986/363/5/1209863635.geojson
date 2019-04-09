@@ -1,0 +1,75 @@
+{
+  "id": 1209863635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.52938,36.14346,138.52938,36.14346",
+    "geom:latitude":36.14346,
+    "geom:longitude":138.52938,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"1857141.0",
+    "gn:admin3_code":"20309.0",
+    "gn:asciiname":"Hongo",
+    "gn:country_code":"JP",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9116664,
+    "gn:latitude":36.14346,
+    "gn:longitude":138.52938,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hong\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u672c\u90f7"
+    ],
+    "name:und_x_variant":[
+        "Hong\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672749,
+        1108742005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9116664
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4a4dfe8caab1970e9ff9d27bef305b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742005,
+            "locality_id":1209863635,
+            "region_id":85672749
+        }
+    ],
+    "wof:id":1209863635,
+    "wof:lastmodified":1537651330,
+    "wof:name":"Hongo",
+    "wof:parent_id":1108742005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.52938,
+    36.14346,
+    138.52938,
+    36.14346
+],
+  "geometry": {"coordinates":[138.52938,36.14346],"type":"Point"}
+}

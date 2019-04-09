@@ -1,0 +1,79 @@
+{
+  "id": 1260354139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.56484,35.43849,139.56484,35.43849",
+    "geom:latitude":35.43849,
+    "geom:longitude":139.56484,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848350.0",
+    "gn:admin3_code":"14106.0",
+    "gn:asciiname":"Sakaigi-honcho",
+    "gn:country_code":"JP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11082240,
+    "gn:latitude":35.43849,
+    "gn:longitude":139.56484,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakaigi-honch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5883\u6728\u672c\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304b\u3044\u304e\u307b\u3093\u3061\u3087\u3046",
+        "\u30b5\u30ab\u30a4\u30ae\u30db\u30f3\u30c1\u30e7\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Sakaigi-honch\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082240
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fa81a05160acb03a1571f4c12c9a9c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741785,
+            "locality_id":1260354139,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1260354139,
+    "wof:lastmodified":1537652223,
+    "wof:name":"Sakaigi-honcho",
+    "wof:parent_id":1108741785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.56484,
+    35.43849,
+    139.56484,
+    35.43849
+],
+  "geometry": {"coordinates":[139.56484,35.43849],"type":"Point"}
+}

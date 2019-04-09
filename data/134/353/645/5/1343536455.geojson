@@ -1,0 +1,75 @@
+{
+  "id": 1343536455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.52781,35.32502,139.52781,35.32502",
+    "geom:latitude":35.32502,
+    "geom:longitude":139.52781,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1860670.0",
+    "gn:asciiname":"Tokiwa",
+    "gn:country_code":"JP",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8726604,
+    "gn:latitude":35.32502,
+    "gn:longitude":139.52781,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tokiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e38\u76e4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u304d\u308f",
+        "\u30c8\u30ad\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8726604
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"86eee0e19418e37481032af6ce153b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519469,
+            "locality_id":1343536455,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1343536455,
+    "wof:lastmodified":1537651274,
+    "wof:name":"Tokiwa",
+    "wof:parent_id":890519469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.52781000000002,
+    35.32502,
+    139.52781000000002,
+    35.32502
+],
+  "geometry": {"coordinates":[139.52781000000002,35.32502],"type":"Point"}
+}

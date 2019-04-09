@@ -1,0 +1,84 @@
+{
+  "id": 890530843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.58194,33.01142,130.58194,33.01142",
+    "geom:latitude":33.01142,
+    "geom:longitude":130.58194,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u7389\u540d\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u307e\u306a\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Tamana"
+    ],
+    "qs:name":"\u7389\u540d\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u718a\u672c\u770c",
+    "qs:photos":238,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":258,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1850744,
+        "gp:id":24857270,
+        "qs:id":1113329,
+        "wd:id":"Q1132375",
+        "wk:page":"Tamana District, Kumamoto"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056628,
+    "wof:geomhash":"ff230657bf4b3c587625b7c9cac8697d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890530843,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":890530843,
+    "wof:lastmodified":1527782044,
+    "wof:name":"\u7389\u540d\u90e1",
+    "wof:parent_id":85672703,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.58194,
+    33.01142,
+    130.58194,
+    33.01142
+],
+  "geometry": {"coordinates":[130.58194,33.01142],"type":"Point"}
+}

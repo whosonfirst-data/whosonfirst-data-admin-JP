@@ -1,0 +1,74 @@
+{
+  "id": 1327357117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.9564,35.73195,139.9564,35.73195",
+    "geom:latitude":35.73195,
+    "geom:longitude":139.9564,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1861964.0",
+    "gn:asciiname":"Hokkemachi",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913500,
+    "gn:latitude":35.73195,
+    "gn:longitude":139.9564,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hokkemachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u65b9\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3063\u3051\u307e\u3061"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890523809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913500
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6f9dc8f5d3f9de84c25d094a38ffa628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523809,
+            "locality_id":1327357117,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1327357117,
+    "wof:lastmodified":1537652040,
+    "wof:name":"Hokkemachi",
+    "wof:parent_id":890523809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.9564,
+    35.73195,
+    139.9564,
+    35.73195
+],
+  "geometry": {"coordinates":[139.9564,35.73195],"type":"Point"}
+}

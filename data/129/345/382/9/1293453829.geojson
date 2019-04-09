@@ -1,0 +1,76 @@
+{
+  "id": 1293453829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.60622,33.00868,130.60622,33.00868",
+    "geom:latitude":33.00868,
+    "geom:longitude":130.60622,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850744.0",
+    "gn:admin3_code":"43369.0",
+    "gn:asciiname":"Kamado",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335410,
+    "gn:latitude":33.00868,
+    "gn:longitude":130.60622,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7ac8\u9580"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307e\u3069",
+        "\u30ab\u30de\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335410
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"379b9aff9c810a14e8ad2afd7cacd9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743173,
+            "locality_id":1293453829,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293453829,
+    "wof:lastmodified":1537652904,
+    "wof:name":"Kamado",
+    "wof:parent_id":1108743173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.60622,
+    33.00868,
+    130.60622,
+    33.00868
+],
+  "geometry": {"coordinates":[130.60622000000001,33.00868],"type":"Point"}
+}

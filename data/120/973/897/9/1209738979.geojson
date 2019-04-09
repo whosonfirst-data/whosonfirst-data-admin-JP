@@ -1,0 +1,75 @@
+{
+  "id": 1209738979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.00404,35.35777,140.00404,35.35777",
+    "geom:latitude":35.35777,
+    "geom:longitude":140.00404,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2110982.0",
+    "gn:asciiname":"Nakahikiri",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11138014,
+    "gn:latitude":35.35777,
+    "gn:longitude":140.00404,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakahikiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u30d2\u30ad\u30ea"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u3072\u304d\u308a",
+        "\u30ca\u30ab\u30d2\u30ad\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138014
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"68d2a32ca8eb7d3871df866bb916b095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741621,
+            "locality_id":1209738979,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209738979,
+    "wof:lastmodified":1537652371,
+    "wof:name":"Nakahikiri",
+    "wof:parent_id":1108741621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.00404,
+    35.35777,
+    140.00404,
+    35.35777
+],
+  "geometry": {"coordinates":[140.00404,35.35777],"type":"Point"}
+}

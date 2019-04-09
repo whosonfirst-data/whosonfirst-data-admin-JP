@@ -1,0 +1,74 @@
+{
+  "id": 1343811025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.86412,35.23309,132.86412,35.23309",
+    "geom:latitude":35.23309,
+    "geom:longitude":132.86412,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"7392557.0",
+    "gn:asciiname":"Mitoyacho-nakano",
+    "gn:country_code":"JP",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624543,
+    "gn:latitude":35.23309,
+    "gn:longitude":132.86412,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mitoyach\u014d-nakano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u5200\u5c4b\u753a\u4e2d\u91ce"
+    ],
+    "name:und_x_variant":[
+        "Mitoyach\u014d-nakano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672679,
+        890520531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624543
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b68c3c42829f4bc95a0158596736a5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520531,
+            "locality_id":1343811025,
+            "region_id":85672679
+        }
+    ],
+    "wof:id":1343811025,
+    "wof:lastmodified":1537651192,
+    "wof:name":"Mitoyacho-nakano",
+    "wof:parent_id":890520531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    132.86412,
+    35.23309000000001,
+    132.86412,
+    35.23309000000001
+],
+  "geometry": {"coordinates":[132.86412000000001,35.23309000000001],"type":"Point"}
+}

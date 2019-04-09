@@ -1,0 +1,75 @@
+{
+  "id": 1242946921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.593,32.50732,130.593,32.50732",
+    "geom:latitude":32.50732,
+    "geom:longitude":130.593,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Shioyamachi",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11191739,
+    "gn:latitude":32.50732,
+    "gn:longitude":130.593,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shioyamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5869\u5c4b\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u304a\u3084\u307e\u3061",
+        "\u30b7\u30aa\u30e4\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191739
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"be3f1e12f94f3f893782c06da0fafe63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1242946921,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242946921,
+    "wof:lastmodified":1537652520,
+    "wof:name":"Shioyamachi",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.593,
+    32.50732,
+    130.593,
+    32.50732
+],
+  "geometry": {"coordinates":[130.59299999999999,32.50732],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 890521451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.64046,37.42342,138.64046,37.42342",
+    "geom:latitude":37.42342,
+    "geom:longitude":138.64046,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u5208\u7fbd\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u308a\u308f\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Kariwa-gun"
+    ],
+    "qs:name":"\u5208\u7fbd\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u65b0\u6f5f\u770c",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468159,
+        "gp:id":24857457,
+        "qs:id":271768,
+        "wd:id":"Q1155110",
+        "wk:page":"Kariwa District, Niigata"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056207,
+    "wof:geomhash":"7177175316179b24b9687f88f8ad568a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890521451,
+            "region_id":85672849
+        }
+    ],
+    "wof:id":890521451,
+    "wof:lastmodified":1527751208,
+    "wof:name":"\u5208\u7fbd\u90e1",
+    "wof:parent_id":85672849,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.64046,
+    37.42342,
+    138.64046,
+    37.42342
+],
+  "geometry": {"coordinates":[138.64045999999999,37.42342],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890520701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.68444,33.24,131.68444,33.24",
+    "geom:latitude":33.24,
+    "geom:longitude":131.68444,
+    "gn:country":"JP",
+    "gn:fcode":"PPL",
+    "gn:pop":76968,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9db4\u5d0e"
+    ],
+    "qs:name":"Tsurusaki",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672723,
+        1108743233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849561,
+        "qs:id":564678
+    },
+    "wof:country":"JP",
+    "wof:created":1469056160,
+    "wof:geomhash":"44edf9e338f67263d380f894365f8eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743233,
+            "locality_id":890520701,
+            "region_id":85672723
+        }
+    ],
+    "wof:id":890520701,
+    "wof:lastmodified":1505343919,
+    "wof:name":"Tsurusaki",
+    "wof:parent_id":1108743233,
+    "wof:placetype":"locality",
+    "wof:population":76968,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.68444,
+    33.24,
+    131.68444,
+    33.24
+],
+  "geometry": {"coordinates":[131.68444,33.24],"type":"Point"}
+}

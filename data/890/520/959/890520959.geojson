@@ -1,0 +1,84 @@
+{
+  "id": 890520959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.64774,36.03675,139.64774,36.03675",
+    "geom:latitude":36.03675,
+    "geom:longitude":139.64774,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u5357\u57fc\u7389\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u306a\u307f\u3055\u3044\u305f\u307e\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Minamisaitama-gun"
+    ],
+    "qs:name":"\u5357\u57fc\u7389\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u57fc\u7389\u770c",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2148,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":359,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1857143,
+        "gp:id":24857581,
+        "qs:id":1201033,
+        "wd:id":"Q939030",
+        "wk:page":"Minami-Saitama District, Saitama"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056178,
+    "wof:geomhash":"053a88c90d55657740bdcd6dbc5342e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520959,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":890520959,
+    "wof:lastmodified":1527758443,
+    "wof:name":"\u5357\u57fc\u7389\u90e1",
+    "wof:parent_id":85672807,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.64774,
+    36.03675,
+    139.64774,
+    36.03675
+],
+  "geometry": {"coordinates":[139.64774,36.03675],"type":"Point"}
+}

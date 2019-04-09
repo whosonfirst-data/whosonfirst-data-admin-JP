@@ -1,0 +1,75 @@
+{
+  "id": 1310602431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.45553,40.9236,140.45553,40.9236",
+    "geom:latitude":40.9236,
+    "geom:longitude":140.45553,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130225.0",
+    "gn:asciiname":"Yunokawa",
+    "gn:country_code":"JP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441455,
+    "gn:latitude":40.9236,
+    "gn:longitude":140.45553,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yunokawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e6f\u306e\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u3086\u306e\u304b\u308f",
+        "\u30e6\u30ce\u30ab\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890523933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441455
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4a763ca51df6b5376086622ca1421764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523933,
+            "locality_id":1310602431,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1310602431,
+    "wof:lastmodified":1537650900,
+    "wof:name":"Yunokawa",
+    "wof:parent_id":890523933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.45553,
+    40.9236,
+    140.45553,
+    40.9236
+],
+  "geometry": {"coordinates":[140.45553000000001,40.9236],"type":"Point"}
+}

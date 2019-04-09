@@ -1,0 +1,75 @@
+{
+  "id": 1326737315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.4285,40.6658,140.4285,40.6658",
+    "geom:latitude":40.6658,
+    "geom:longitude":140.4285,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Takasugi",
+    "gn:country_code":"JP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411684,
+    "gn:latitude":40.6658,
+    "gn:longitude":140.4285,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takasugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u6749"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u3059\u304e",
+        "\u30bf\u30ab\u30b9\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411684
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5002342ed3020c371ea75ea8b760f390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1326737315,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1326737315,
+    "wof:lastmodified":1537650805,
+    "wof:name":"Takasugi",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.4285,
+    40.6658,
+    140.4285,
+    40.6658
+],
+  "geometry": {"coordinates":[140.42850000000001,40.6658],"type":"Point"}
+}

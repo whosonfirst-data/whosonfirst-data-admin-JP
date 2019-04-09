@@ -1,0 +1,76 @@
+{
+  "id": 1343520317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.99319,32.29856,130.99319,32.29856",
+    "geom:latitude":32.29856,
+    "geom:longitude":130.99319,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43507.0",
+    "gn:asciiname":"Takase",
+    "gn:country_code":"JP",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10253918,
+    "gn:latitude":32.29856,
+    "gn:longitude":130.99319,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takase",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u702c"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u305b",
+        "\u30bf\u30ab\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10253918
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"061950b101b9fcb43a600a58717b3c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743217,
+            "locality_id":1343520317,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343520317,
+    "wof:lastmodified":1537651732,
+    "wof:name":"Takase",
+    "wof:parent_id":1108743217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.99319,
+    32.29855999999999,
+    130.99319,
+    32.29855999999999
+],
+  "geometry": {"coordinates":[130.99319,32.29855999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277150847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.22814,32.45943,130.22814,32.45943",
+    "geom:latitude":32.45943,
+    "geom:longitude":130.22814,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Nozoe",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265342,
+    "gn:latitude":32.45943,
+    "gn:longitude":130.22814,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nozoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91ce\u6dfb"
+    ],
+    "name:jpn_x_variant":[
+        "\u306e\u305e\u3048",
+        "\u30ce\u30be\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265342
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1071000d56d6d71b92046522d043a383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1277150847,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1277150847,
+    "wof:lastmodified":1537652786,
+    "wof:name":"Nozoe",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.22814,
+    32.45943,
+    130.22814,
+    32.45943
+],
+  "geometry": {"coordinates":[130.22814,32.45943],"type":"Point"}
+}

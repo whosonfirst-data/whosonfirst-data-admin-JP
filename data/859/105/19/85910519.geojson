@@ -1,0 +1,115 @@
+{
+  "id": 85910519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":173463.909877,
+    "geom:bbox":"139.700775146,35.6952252509,139.707641602,35.7002124749",
+    "geom:latitude":35.697169,
+    "geom:longitude":139.704296,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.69702,
+    "lbl:longitude":139.703919,
+    "mps:latitude":35.697366,
+    "mps:longitude":139.703776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Kabukicho 2 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Kabukichou 2 Choume",
+        "Kabukicho 2 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3076\u304d\u3061\u3087\u3046 \uff12\u3061\u3087\u3046\u3081",
+        "\u6b4c\u821e\u4f0e\u753a \uff12\u4e01\u76ee",
+        "\uff12\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff12\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u65b0\u5bbf\u533a",
+    "qs:name_en":"Kabukicho 2 Chome",
+    "qs:name_lau":"\u6b4c\u821e\u4f0e\u753a",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":105,
+    "qs:photo_sum":457,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015378,
+    "qs:woe_lau":26198499,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527465,
+        "qs:id":220372
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"aeae4a0737724bd54acad916fe5c6258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910519,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910519,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268709,
+    "wof:name":"\uff12\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.700775146139,
+    35.69522525090008,
+    139.70764160200002,
+    35.70021247490656
+],
+  "geometry": {"coordinates":[[[139.70352172900004,35.69968630130001],[139.70352172900004,35.69857105966284],[139.70461014723435,35.69857106047525],[139.70489501999998,35.69857106210009],[139.70489501999998,35.69745580730002],[139.70764160200002,35.69745580730002],[139.70764160200002,35.69675423057228],[139.70764160200002,35.69592681001515],[139.70764160200002,35.69522525090008],[139.70517990272361,35.69522525090008],[139.70489501999998,35.69522525090008],[139.70352172900004,35.69522525090008],[139.70352172900004,35.69634053690008],[139.70214843800011,35.69634053690008],[139.70214843785425,35.69669131934903],[139.70214843784385,35.69745580486259],[139.70077514613899,35.6974558051334],[139.70077514615639,35.69857105966284],[139.70214843784385,35.69857105966284],[139.70214843790285,35.69968629978344],[139.70257573936595,35.70021247490656],[139.70352172900004,35.6998241763774],[139.70352172900004,35.69968630130001]]],"type":"Polygon"}
+}

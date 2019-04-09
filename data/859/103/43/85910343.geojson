@@ -1,0 +1,115 @@
+{
+  "id": 85910343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":171392.232153,
+    "geom:bbox":"139.708729922,35.6617594126,139.713134766,35.6673380303",
+    "geom:latitude":35.664358,
+    "geom:longitude":139.711035,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.664492,
+    "lbl:longitude":139.711411,
+    "mps:latitude":35.664926,
+    "mps:longitude":139.710415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Kitaoyama 3 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Kitaaoyama 3 Choume",
+        "Kitaoyama 3 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff13\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u305f\u3042\u304a\u3084\u307e \uff13\u3061\u3087\u3046\u3081",
+        "\u5317\u9752\u5c71 \uff13\u4e01\u76ee",
+        "\uff13\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff13\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff13\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u6e2f\u533a",
+    "qs:name_en":"Kitaoyama 3 Chome",
+    "qs:name_lau":"\u5317\u9752\u5c71",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":860,
+    "qs:photo_sum":2683,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015406,
+    "qs:woe_lau":28414005,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527355,
+        "qs:id":1088090
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9ee9c075932e18d7987c021a7c7ea842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910343,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910343,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268685,
+    "wof:name":"\uff13\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.70872992244688,
+    35.66175941259714,
+    139.71313476600005,
+    35.66733803033343
+],
+  "geometry": {"coordinates":[[[139.71176147500012,35.66733803033343],[139.71176147500012,35.66622233841697],[139.71176147500012,35.66545738800097],[139.71204644326804,35.66510663171074],[139.71284979862565,35.66510663246898],[139.71313476600005,35.66510663400003],[139.71313476600005,35.66454877402839],[139.71313476600005,35.66399091130002],[139.71313476600005,35.66175941659678],[139.71256481367345,35.66175941259714],[139.71124310799041,35.66175941358026],[139.71038818400001,35.66175941930004],[139.71038818400001,35.66343304347306],[139.70970153816694,35.66343304353363],[139.70901489297916,35.66343304361384],[139.70888100184021,35.66343304320038],[139.70872992244688,35.66399090888781],[139.70888100079083,35.66454877362533],[139.70872992573612,35.66510663257104],[139.70888099972785,35.66566448850013],[139.70872992759564,35.66622233712538],[139.70901489300007,35.66657309626054],[139.70970153825033,35.6662913692812],[139.71038818400018,35.66657309605519],[139.71038818400018,35.66733803006261],[139.71176147500012,35.66733803033343]]],"type":"Polygon"}
+}

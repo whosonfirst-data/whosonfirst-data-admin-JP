@@ -1,0 +1,75 @@
+{
+  "id": 1343916659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.4219,32.58618,130.4219,32.58618",
+    "geom:latitude":32.58618,
+    "geom:longitude":130.4219,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Nakanomaru",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11266042,
+    "gn:latitude":32.58618,
+    "gn:longitude":130.4219,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakanomaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u4e4b\u4e38"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u306e\u307e\u308b",
+        "\u30ca\u30ab\u30ce\u30de\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11266042
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1bbba90496531272f80ec26709cdf549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1343916659,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343916659,
+    "wof:lastmodified":1537652805,
+    "wof:name":"Nakanomaru",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.4219,
+    32.58618,
+    130.4219,
+    32.58618
+],
+  "geometry": {"coordinates":[130.42189999999999,32.58618],"type":"Point"}
+}

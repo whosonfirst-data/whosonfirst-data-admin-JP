@@ -1,0 +1,76 @@
+{
+  "id": 1226008927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.84592,32.2148,130.84592,32.2148",
+    "geom:latitude":32.2148,
+    "geom:longitude":130.84592,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43501.0",
+    "gn:asciiname":"Fukushima",
+    "gn:country_code":"JP",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10255456,
+    "gn:latitude":32.2148,
+    "gn:longitude":130.84592,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fukushima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u798f\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304f\u3057\u307e",
+        "\u30d5\u30af\u30b7\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10255456
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"eb7e09631e42f6464a17a56caf569c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743211,
+            "locality_id":1226008927,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226008927,
+    "wof:lastmodified":1537651749,
+    "wof:name":"Fukushima",
+    "wof:parent_id":1108743211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.84592,
+    32.2148,
+    130.84592,
+    32.2148
+],
+  "geometry": {"coordinates":[130.84592000000001,32.2148],"type":"Point"}
+}

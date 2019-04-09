@@ -1,0 +1,76 @@
+{
+  "id": 1259525023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.5,34.78333,135.5,34.78333",
+    "geom:latitude":34.78333,
+    "geom:longitude":135.5,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1851482.0",
+    "gn:asciiname":"Senriyama",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852707,
+    "gn:latitude":34.78333,
+    "gn:longitude":135.5,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Senriyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5343\u91cc\u5c71"
+    ],
+    "name:und_x_variant":[
+        "Sennyama",
+        "Senriyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785,
+        1108742447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852707
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"03f7de8b67f6208850f187a0499c0d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742447,
+            "locality_id":1259525023,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1259525023,
+    "wof:lastmodified":1537650003,
+    "wof:name":"Senriyama",
+    "wof:parent_id":1108742447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.5,
+    34.78333,
+    135.5,
+    34.78333
+],
+  "geometry": {"coordinates":[135.5,34.78333],"type":"Point"}
+}

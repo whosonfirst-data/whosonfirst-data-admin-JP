@@ -1,0 +1,76 @@
+{
+  "id": 1276844171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.70911,32.81697,130.70911,32.81697",
+    "geom:latitude":32.81697,
+    "geom:longitude":130.70911,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1858418.0",
+    "gn:admin3_code":"43101.0",
+    "gn:asciiname":"Kosen",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209791,
+    "gn:latitude":32.81697,
+    "gn:longitude":130.70911,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kosen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u58fa\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u305b\u3093",
+        "\u30b3\u30bb\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209791
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6e89ca4987f5c8f4f67eb7f846d0ebae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743155,
+            "locality_id":1276844171,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276844171,
+    "wof:lastmodified":1537652576,
+    "wof:name":"Kosen",
+    "wof:parent_id":1108743155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.70911,
+    32.81697,
+    130.70911,
+    32.81697
+],
+  "geometry": {"coordinates":[130.70911000000001,32.81697],"type":"Point"}
+}

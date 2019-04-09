@@ -1,0 +1,74 @@
+{
+  "id": 890523749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.79625,35.16563,135.79625,35.16563",
+    "geom:latitude":35.16563,
+    "geom:longitude":135.79625,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5de6\u4eac\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304d\u3087\u3046\u304f",
+        "\u4eac\u90fd\u5e02\u5de6\u4eac\u533a"
+    ],
+    "name:unk_x_variant":[
+        "Sa-ky\u014d-ku"
+    ],
+    "qs:name":"Saky\u014d-ku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672777,
+        1108742393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853051,
+        "qs:id":372429
+    },
+    "wof:country":"JP",
+    "wof:created":1469056315,
+    "wof:geomhash":"06d1fc46e785b81e6572ce7b46d83772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742393,
+            "localadmin_id":890523749,
+            "region_id":85672777
+        }
+    ],
+    "wof:id":890523749,
+    "wof:lastmodified":1505343923,
+    "wof:name":"Saky\u014d-ku",
+    "wof:parent_id":1108742393,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.79625,
+    35.16563,
+    135.79625,
+    35.16563
+],
+  "geometry": {"coordinates":[135.79624999999999,35.16563],"type":"Point"}
+}

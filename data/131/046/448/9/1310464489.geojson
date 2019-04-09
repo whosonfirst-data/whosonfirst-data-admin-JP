@@ -1,0 +1,75 @@
+{
+  "id": 1310464489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.61287,32.07103,130.61287,32.07103",
+    "geom:latitude":32.07103,
+    "geom:longitude":130.61287,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Kamiike",
+    "gn:country_code":"JP",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10190294,
+    "gn:latitude":32.07103,
+    "gn:longitude":130.61287,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamiike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u795e\u6c60"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u3044\u3051",
+        "\u30ab\u30df\u30a4\u30b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10190294
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"77b71e3d0f46cbda0610629e8158a496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1310464489,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1310464489,
+    "wof:lastmodified":1537651643,
+    "wof:name":"Kamiike",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.61287,
+    32.07103,
+    130.61287,
+    32.07103
+],
+  "geometry": {"coordinates":[130.61286999999999,32.07103],"type":"Point"}
+}

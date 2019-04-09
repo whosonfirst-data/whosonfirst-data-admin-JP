@@ -1,0 +1,75 @@
+{
+  "id": 1226807815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.67182,33.00436,130.67182,33.00436",
+    "geom:latitude":33.00436,
+    "geom:longitude":130.67182,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Shijiki",
+    "gn:country_code":"JP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11330731,
+    "gn:latitude":33.00436,
+    "gn:longitude":130.67182,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shijiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5fd7\u3005\u5c90"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3058\u304d",
+        "\u30b7\u30b8\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11330731
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f13799eaaeb2ba595126a5c0a79b7031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1226807815,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226807815,
+    "wof:lastmodified":1537652885,
+    "wof:name":"Shijiki",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.67182,
+    33.00436,
+    130.67182,
+    33.00436
+],
+  "geometry": {"coordinates":[130.67182,33.00436],"type":"Point"}
+}

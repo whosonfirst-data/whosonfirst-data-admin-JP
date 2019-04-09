@@ -1,0 +1,75 @@
+{
+  "id": 1293254207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.32358,35.31323,139.32358,35.31323",
+    "geom:latitude":35.31323,
+    "geom:longitude":139.32358,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1855966.0",
+    "gn:admin3_code":"14341.0",
+    "gn:asciiname":"Higashicho",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419357,
+    "gn:latitude":35.31323,
+    "gn:longitude":139.32358,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Higashich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6771\u753a"
+    ],
+    "name:und_x_variant":[
+        "Higashich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419357
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"27e69e4348e34b825d4ffb4385b42f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741801,
+            "locality_id":1293254207,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1293254207,
+    "wof:lastmodified":1537651908,
+    "wof:name":"Higashicho",
+    "wof:parent_id":1108741801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.32358,
+    35.31323,
+    139.32358,
+    35.31323
+],
+  "geometry": {"coordinates":[139.32357999999999,35.31323],"type":"Point"}
+}

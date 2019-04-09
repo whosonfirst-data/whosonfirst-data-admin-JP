@@ -1,0 +1,76 @@
+{
+  "id": 1327108547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.90229,32.7346,130.90229,32.7346",
+    "geom:latitude":32.7346,
+    "geom:longitude":130.90229,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412706.0",
+    "gn:admin3_code":"43447.0",
+    "gn:asciiname":"Kohoshi",
+    "gn:country_code":"JP",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11241603,
+    "gn:latitude":32.7346,
+    "gn:longitude":130.90229,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kohoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u661f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u307b\u3057",
+        "\u30b3\u30db\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241603
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1a5d475632ca5ba864798343a627b01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743203,
+            "locality_id":1327108547,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327108547,
+    "wof:lastmodified":1537652674,
+    "wof:name":"Kohoshi",
+    "wof:parent_id":1108743203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.90229,
+    32.7346,
+    130.90229,
+    32.7346
+],
+  "geometry": {"coordinates":[130.90228999999999,32.7346],"type":"Point"}
+}

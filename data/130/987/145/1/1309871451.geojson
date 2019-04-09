@@ -1,0 +1,75 @@
+{
+  "id": 1309871451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.64871,32.10255,130.64871,32.10255",
+    "geom:latitude":32.10255,
+    "geom:longitude":130.64871,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Sasano",
+    "gn:country_code":"JP",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10191295,
+    "gn:latitude":32.10255,
+    "gn:longitude":130.64871,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sasano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7b39\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3055\u306e",
+        "\u30b5\u30b5\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10191295
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2f9a396e0cea603212f2299e7f00c86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1309871451,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1309871451,
+    "wof:lastmodified":1537651646,
+    "wof:name":"Sasano",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.64871000000002,
+    32.10255,
+    130.64871000000002,
+    32.10255
+],
+  "geometry": {"coordinates":[130.64871000000002,32.10255],"type":"Point"}
+}

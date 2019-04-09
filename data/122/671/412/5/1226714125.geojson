@@ -1,0 +1,75 @@
+{
+  "id": 1226714125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68851,32.66678,130.68851,32.66678",
+    "geom:latitude":32.66678,
+    "geom:longitude":130.68851,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Arahira",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11176086,
+    "gn:latitude":32.66678,
+    "gn:longitude":130.68851,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Arahira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8352\u5e73"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3089\u3072\u3089",
+        "\u30a2\u30e9\u30d2\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176086
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7a8b71905c78cfac3f63e6bff15fdd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1226714125,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226714125,
+    "wof:lastmodified":1537652490,
+    "wof:name":"Arahira",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68851,
+    32.66678,
+    130.68851,
+    32.66678
+],
+  "geometry": {"coordinates":[130.68851000000001,32.66678],"type":"Point"}
+}

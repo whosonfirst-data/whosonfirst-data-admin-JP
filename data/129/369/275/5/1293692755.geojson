@@ -1,0 +1,75 @@
+{
+  "id": 1293692755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.94803,35.01511,139.94803,35.01511",
+    "geom:latitude":35.01511,
+    "geom:longitude":139.94803,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Kamo",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1860345,
+    "gn:latitude":35.01511,
+    "gn:longitude":139.94803,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u52a0\u8302"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3082",
+        "\u30ab\u30e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1860345
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"94ef7a15a16dbb6e25f530dc712fcef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1293692755,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293692755,
+    "wof:lastmodified":1537650192,
+    "wof:name":"Kamo",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.94803000000002,
+    35.01511,
+    139.94803000000002,
+    35.01511
+],
+  "geometry": {"coordinates":[139.94803000000002,35.01511],"type":"Point"}
+}

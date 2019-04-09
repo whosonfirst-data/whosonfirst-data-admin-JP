@@ -1,0 +1,76 @@
+{
+  "id": 1226172333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.98699,37.95709,139.98699,37.95709",
+    "geom:latitude":37.95709,
+    "geom:longitude":139.98699,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"2112756.0",
+    "gn:admin3_code":"6382.0",
+    "gn:asciiname":"Sakamachi",
+    "gn:country_code":"JP",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1853160,
+    "gn:latitude":37.95709,
+    "gn:longitude":139.98699,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9152\u753a"
+    ],
+    "name:und_x_variant":[
+        "Sakemachi",
+        "Sakamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672853,
+        1108741179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853160
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1f93e8703a60a3dd30d3fad7699c59e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741179,
+            "locality_id":1226172333,
+            "region_id":85672853
+        }
+    ],
+    "wof:id":1226172333,
+    "wof:lastmodified":1537650014,
+    "wof:name":"Sakamachi",
+    "wof:parent_id":1108741179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.98699,
+    37.95709,
+    139.98699,
+    37.95709
+],
+  "geometry": {"coordinates":[139.98698999999999,37.95709],"type":"Point"}
+}

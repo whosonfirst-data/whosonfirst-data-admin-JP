@@ -1,0 +1,75 @@
+{
+  "id": 1327407847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.59369,32.68759,130.59369,32.68759",
+    "geom:latitude":32.68759,
+    "geom:longitude":130.59369,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1849062.0",
+    "gn:asciiname":"Makado",
+    "gn:country_code":"JP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11172950,
+    "gn:latitude":32.68759,
+    "gn:longitude":130.59369,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Makado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u99ac\u9580"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u304b\u3069",
+        "\u30de\u30ab\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890523281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172950
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4313d47e128faf0d8d63679ea264bf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523281,
+            "locality_id":1327407847,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327407847,
+    "wof:lastmodified":1537652459,
+    "wof:name":"Makado",
+    "wof:parent_id":890523281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.59368999999998,
+    32.68759,
+    130.59368999999998,
+    32.68759
+],
+  "geometry": {"coordinates":[130.59368999999998,32.68759],"type":"Point"}
+}

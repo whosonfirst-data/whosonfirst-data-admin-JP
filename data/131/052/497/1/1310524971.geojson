@@ -1,0 +1,76 @@
+{
+  "id": 1310524971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.34519,35.423,140.34519,35.423",
+    "geom:latitude":35.423,
+    "geom:longitude":140.34519,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112997.0",
+    "gn:admin3_code":"12423.0",
+    "gn:asciiname":"Sone",
+    "gn:country_code":"JP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133265,
+    "gn:latitude":35.423,
+    "gn:longitude":140.34519,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u66fd\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u305d\u306d",
+        "\u30bd\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133265
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b1bf8a31d8dccc330efd8fc1bb0af30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741663,
+            "locality_id":1310524971,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310524971,
+    "wof:lastmodified":1537652324,
+    "wof:name":"Sone",
+    "wof:parent_id":1108741663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.34519,
+    35.423,
+    140.34519,
+    35.423
+],
+  "geometry": {"coordinates":[140.34519,35.423],"type":"Point"}
+}

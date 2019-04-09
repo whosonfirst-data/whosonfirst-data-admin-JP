@@ -1,0 +1,76 @@
+{
+  "id": 1243011317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.19248,34.986,132.19248,34.986",
+    "geom:latitude":34.986,
+    "geom:longitude":132.19248,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"1863519.0",
+    "gn:asciiname":"Tsunozucho",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1849610,
+    "gn:latitude":34.986,
+    "gn:longitude":132.19248,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsunozuch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u90fd\u91ce\u6d25\u753a"
+    ],
+    "name:und_x_variant":[
+        "Tonozu",
+        "Tsunozu",
+        "Tsunozuch\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672679,
+        1108742719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849610
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4f7329c3ab33ad334f26e70065cd225f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742719,
+            "locality_id":1243011317,
+            "region_id":85672679
+        }
+    ],
+    "wof:id":1243011317,
+    "wof:lastmodified":1537649917,
+    "wof:name":"Tsunozucho",
+    "wof:parent_id":1108742719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    132.19248000000002,
+    34.986,
+    132.19248000000002,
+    34.986
+],
+  "geometry": {"coordinates":[132.19248000000002,34.986],"type":"Point"}
+}

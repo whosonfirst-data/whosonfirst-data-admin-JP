@@ -1,0 +1,75 @@
+{
+  "id": 1344221125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.08367,32.97049,131.08367,32.97049",
+    "geom:latitude":32.97049,
+    "geom:longitude":131.08367,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Onoda",
+    "gn:country_code":"JP",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223753,
+    "gn:latitude":32.97049,
+    "gn:longitude":131.08367,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Onoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u91ce\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u306e\u3060",
+        "\u30aa\u30ce\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223753
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f88d8fc6a2ac69bbef130c755a4d3460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1344221125,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1344221125,
+    "wof:lastmodified":1537652625,
+    "wof:name":"Onoda",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.08366999999998,
+    32.97049000000001,
+    131.08366999999998,
+    32.97049000000001
+],
+  "geometry": {"coordinates":[131.08366999999998,32.97049000000001],"type":"Point"}
+}

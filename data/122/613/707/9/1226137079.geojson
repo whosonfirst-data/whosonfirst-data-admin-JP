@@ -1,0 +1,75 @@
+{
+  "id": 1226137079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.65645,33.8242,130.65645,33.8242",
+    "geom:latitude":33.8242,
+    "geom:longitude":130.65645,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1854055.0",
+    "gn:admin3_code":"40384.0",
+    "gn:asciiname":"Mushozu",
+    "gn:country_code":"JP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311053,
+    "gn:latitude":33.8242,
+    "gn:longitude":130.65645,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mush\u014dzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u866b\u751f\u6d25"
+    ],
+    "name:und_x_variant":[
+        "Mush\u014dzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311053
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d504b882fb34ae61f511693988eb6eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743051,
+            "locality_id":1226137079,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1226137079,
+    "wof:lastmodified":1537651811,
+    "wof:name":"Mushozu",
+    "wof:parent_id":1108743051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.65645,
+    33.8242,
+    130.65645,
+    33.8242
+],
+  "geometry": {"coordinates":[130.65645000000001,33.8242],"type":"Point"}
+}

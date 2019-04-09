@@ -1,0 +1,75 @@
+{
+  "id": 1343769131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1771,40.61758,141.1771,40.61758",
+    "geom:latitude":40.61758,
+    "geom:longitude":141.1771,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Naganejiri",
+    "gn:country_code":"JP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551008,
+    "gn:latitude":40.61758,
+    "gn:longitude":141.1771,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Naganejiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u6839\u5c3b"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u306d\u3058\u308a",
+        "\u30ca\u30ac\u30cd\u30b8\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551008
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d5cff89c1e349462cc0dadb509159a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1343769131,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343769131,
+    "wof:lastmodified":1537651060,
+    "wof:name":"Naganejiri",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1771,
+    40.61758,
+    141.1771,
+    40.61758
+],
+  "geometry": {"coordinates":[141.1771,40.61758],"type":"Point"}
+}

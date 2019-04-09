@@ -1,0 +1,71 @@
+{
+  "id": 1309768131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.40256,35.40623,139.40256,35.40623",
+    "geom:latitude":35.40623,
+    "geom:longitude":139.40256,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"7470889.0",
+    "gn:asciiname":"Shinjuku",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10426273,
+    "gn:latitude":35.40623,
+    "gn:longitude":139.40256,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinjuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u5bbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890520317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426273
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"9a763b27205b4b142de81018ac1627a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520317,
+            "locality_id":1309768131,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1309768131,
+    "wof:lastmodified":1537651923,
+    "wof:name":"Shinjuku",
+    "wof:parent_id":890520317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.40256000000002,
+    35.40623,
+    139.40256000000002,
+    35.40623
+],
+  "geometry": {"coordinates":[139.40256000000002,35.40623],"type":"Point"}
+}

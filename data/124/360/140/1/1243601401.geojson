@@ -1,0 +1,75 @@
+{
+  "id": 1243601401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.82878,34.57357,135.82878,34.57357",
+    "geom:latitude":34.57357,
+    "geom:longitude":135.82878,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"1850395.0",
+    "gn:asciiname":"Nagaracho",
+    "gn:country_code":"JP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1856189,
+    "gn:latitude":34.57357,
+    "gn:longitude":135.82878,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagarach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u67c4\u753a"
+    ],
+    "name:und_x_variant":[
+        "Nagarach\u014d",
+        "Nagara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779,
+        890524335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1856189
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b64a9626a87f08a573956dbf07686517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524335,
+            "locality_id":1243601401,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":1243601401,
+    "wof:lastmodified":1537650091,
+    "wof:name":"Nagaracho",
+    "wof:parent_id":890524335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.82878,
+    34.57357,
+    135.82878,
+    34.57357
+],
+  "geometry": {"coordinates":[135.82877999999999,34.57357],"type":"Point"}
+}

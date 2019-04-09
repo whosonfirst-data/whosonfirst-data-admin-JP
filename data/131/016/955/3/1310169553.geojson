@@ -1,0 +1,76 @@
+{
+  "id": 1310169553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.82824,32.59323,130.82824,32.59323",
+    "geom:latitude":32.59323,
+    "geom:longitude":130.82824,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412709.0",
+    "gn:admin3_code":"43348.0",
+    "gn:asciiname":"Gezono",
+    "gn:country_code":"JP",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241012,
+    "gn:latitude":32.59323,
+    "gn:longitude":130.82824,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gezono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u8349\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3052\u305e\u306e",
+        "\u30b2\u30be\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241012
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"df87229eb0f6a02d79bfb992113e0bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743163,
+            "locality_id":1310169553,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310169553,
+    "wof:lastmodified":1537652662,
+    "wof:name":"Gezono",
+    "wof:parent_id":1108743163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.82824,
+    32.59323,
+    130.82824,
+    32.59323
+],
+  "geometry": {"coordinates":[130.82823999999999,32.59323],"type":"Point"}
+}

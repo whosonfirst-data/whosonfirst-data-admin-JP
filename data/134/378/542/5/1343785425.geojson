@@ -1,0 +1,75 @@
+{
+  "id": 1343785425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.962,35.07779,139.962,35.07779",
+    "geom:latitude":35.07779,
+    "geom:longitude":139.962,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Kajibata",
+    "gn:country_code":"JP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109619,
+    "gn:latitude":35.07779,
+    "gn:longitude":139.962,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kajibata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u935b\u51b6\u7551"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3058\u3070\u305f",
+        "\u30ab\u30b8\u30d0\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109619
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"938d21a928883278d8603ade117ca3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1343785425,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343785425,
+    "wof:lastmodified":1537652275,
+    "wof:name":"Kajibata",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.96200000000002,
+    35.07779,
+    139.96200000000002,
+    35.07779
+],
+  "geometry": {"coordinates":[139.96200000000002,35.07779],"type":"Point"}
+}

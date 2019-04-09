@@ -1,0 +1,75 @@
+{
+  "id": 1310260277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.4978,38.32585,141.4978,38.32585",
+    "geom:latitude":38.32585,
+    "geom:longitude":141.4978,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2112574.0",
+    "gn:asciiname":"Terayama",
+    "gn:country_code":"JP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311498,
+    "gn:latitude":38.32585,
+    "gn:longitude":141.4978,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Terayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bfa\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3066\u3089\u3084\u307e",
+        "\u30c6\u30e9\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672843,
+        1108739999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311498
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"957fae13ffd3d59dff5513a35dd1088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739999,
+            "locality_id":1310260277,
+            "region_id":85672843
+        }
+    ],
+    "wof:id":1310260277,
+    "wof:lastmodified":1537650688,
+    "wof:name":"Terayama",
+    "wof:parent_id":1108739999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.4978,
+    38.32585,
+    141.4978,
+    38.32585
+],
+  "geometry": {"coordinates":[141.49780000000001,38.32585],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193104731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.97295,32.02822,130.97295,32.02822",
+    "geom:latitude":32.02822,
+    "geom:longitude":130.97295,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"7413970.0",
+    "gn:asciiname":"Kuronita",
+    "gn:country_code":"JP",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10206549,
+    "gn:latitude":32.02822,
+    "gn:longitude":130.97295,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuronita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u4ec1\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u306b\u305f",
+        "\u30af\u30ed\u30cb\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        890522719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206549
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c2f12b1cb4a1d2f381d68f6a1d5de8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890522719,
+            "locality_id":1193104731,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1193104731,
+    "wof:lastmodified":1537651674,
+    "wof:name":"Kuronita",
+    "wof:parent_id":890522719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.97295,
+    32.02822,
+    130.97295,
+    32.02822
+],
+  "geometry": {"coordinates":[130.97295,32.02822],"type":"Point"}
+}

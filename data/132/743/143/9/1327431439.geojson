@@ -1,0 +1,76 @@
+{
+  "id": 1327431439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.23533,35.44719,140.23533,35.44719",
+    "geom:latitude":35.44719,
+    "geom:longitude":140.23533,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112997.0",
+    "gn:admin3_code":"12426.0",
+    "gn:asciiname":"Yamane",
+    "gn:country_code":"JP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140315,
+    "gn:latitude":35.44719,
+    "gn:longitude":140.23533,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u307e\u306d",
+        "\u30e4\u30de\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140315
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2d5d24ffc8619bdb3a8c82bcfa1c313b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741667,
+            "locality_id":1327431439,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1327431439,
+    "wof:lastmodified":1537652395,
+    "wof:name":"Yamane",
+    "wof:parent_id":1108741667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.23533,
+    35.44719,
+    140.23533,
+    35.44719
+],
+  "geometry": {"coordinates":[140.23533,35.44719],"type":"Point"}
+}

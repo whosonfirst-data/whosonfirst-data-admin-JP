@@ -1,0 +1,75 @@
+{
+  "id": 1293857895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.61083,32.66313,130.61083,32.66313",
+    "geom:latitude":32.66313,
+    "geom:longitude":130.61083,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Kuronotani",
+    "gn:country_code":"JP",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175177,
+    "gn:latitude":32.66313,
+    "gn:longitude":130.61083,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuronotani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u306e\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u306e\u305f\u306b",
+        "\u30af\u30ed\u30ce\u30bf\u30cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175177
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"24875bbbe9cd4de1c0704363449f67f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1293857895,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293857895,
+    "wof:lastmodified":1537652474,
+    "wof:name":"Kuronotani",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.61083,
+    32.66313,
+    130.61083,
+    32.66313
+],
+  "geometry": {"coordinates":[130.61082999999999,32.66313],"type":"Point"}
+}

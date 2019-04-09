@@ -1,0 +1,75 @@
+{
+  "id": 1360044017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.77844,33.03725,130.77844,33.03725",
+    "geom:latitude":33.03725,
+    "geom:longitude":130.77844,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Miyanoue",
+    "gn:country_code":"JP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11325871,
+    "gn:latitude":33.03725,
+    "gn:longitude":130.77844,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyanoue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u30ce\u4e0a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u306e\u3046\u3048",
+        "\u30df\u30e4\u30ce\u30a6\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325871
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"619858985ea0ef1b281ec35dce3e01c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1360044017,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1360044017,
+    "wof:lastmodified":1537652875,
+    "wof:name":"Miyanoue",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.77844,
+    33.03725,
+    130.77844,
+    33.03725
+],
+  "geometry": {"coordinates":[130.77843999999999,33.03725],"type":"Point"}
+}

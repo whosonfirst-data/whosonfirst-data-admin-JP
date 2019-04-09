@@ -1,0 +1,76 @@
+{
+  "id": 1327298009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68611,32.57665,130.68611,32.57665",
+    "geom:latitude":32.57665,
+    "geom:longitude":130.68611,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848443.0",
+    "gn:admin3_code":"43468.0",
+    "gn:asciiname":"Tanbo",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11193848,
+    "gn:latitude":32.57665,
+    "gn:longitude":130.68611,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tanbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u53cd\u752b"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3093\u307c",
+        "\u30bf\u30f3\u30dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193848
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"77a97daac45a1d5b229ae7e000a6ad63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743205,
+            "locality_id":1327298009,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1327298009,
+    "wof:lastmodified":1537652538,
+    "wof:name":"Tanbo",
+    "wof:parent_id":1108743205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68611,
+    32.57665,
+    130.68611,
+    32.57665
+],
+  "geometry": {"coordinates":[130.68611000000001,32.57665],"type":"Point"}
+}

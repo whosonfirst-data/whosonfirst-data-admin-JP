@@ -1,0 +1,75 @@
+{
+  "id": 1276521655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.66388,32.70045,130.66388,32.70045",
+    "geom:latitude":32.70045,
+    "geom:longitude":130.66388,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1849062.0",
+    "gn:asciiname":"Sajiki",
+    "gn:country_code":"JP",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11173703,
+    "gn:latitude":32.70045,
+    "gn:longitude":130.66388,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sajiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u62fe"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3058\u304d",
+        "\u30b5\u30b8\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890523281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11173703
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f388d9b853e6526d309e082ec9b0a7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523281,
+            "locality_id":1276521655,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276521655,
+    "wof:lastmodified":1537652466,
+    "wof:name":"Sajiki",
+    "wof:parent_id":890523281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.66388,
+    32.70045,
+    130.66388,
+    32.70045
+],
+  "geometry": {"coordinates":[130.66388000000001,32.70045],"type":"Point"}
+}

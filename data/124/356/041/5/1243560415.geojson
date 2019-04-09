@@ -1,0 +1,75 @@
+{
+  "id": 1243560415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.07749,35.41513,140.07749,35.41513",
+    "geom:latitude":35.41513,
+    "geom:longitude":140.07749,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2110982.0",
+    "gn:asciiname":"Omoteba",
+    "gn:country_code":"JP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11137784,
+    "gn:latitude":35.41513,
+    "gn:longitude":140.07749,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Omoteba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8868\u5834"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3082\u3066\u3070",
+        "\u30aa\u30e2\u30c6\u30d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137784
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5f43d65708f9e7db8d5ee2d57e543e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741621,
+            "locality_id":1243560415,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243560415,
+    "wof:lastmodified":1537652365,
+    "wof:name":"Omoteba",
+    "wof:parent_id":1108741621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.07748999999998,
+    35.41513,
+    140.07748999999998,
+    35.41513
+],
+  "geometry": {"coordinates":[140.07748999999998,35.41513],"type":"Point"}
+}

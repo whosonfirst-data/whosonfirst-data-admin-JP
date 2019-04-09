@@ -1,0 +1,75 @@
+{
+  "id": 1310674839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.68645,33.02013,130.68645,33.02013",
+    "geom:latitude":33.02013,
+    "geom:longitude":130.68645,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Kitamachi",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11333993,
+    "gn:latitude":33.02013,
+    "gn:longitude":130.68645,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kitamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u305f\u307e\u3061",
+        "\u30ad\u30bf\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333993
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e524bdde22c814e25840eb46cdcb88f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1310674839,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310674839,
+    "wof:lastmodified":1537652892,
+    "wof:name":"Kitamachi",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.68645,
+    33.02013,
+    130.68645,
+    33.02013
+],
+  "geometry": {"coordinates":[130.68645000000001,33.02013],"type":"Point"}
+}

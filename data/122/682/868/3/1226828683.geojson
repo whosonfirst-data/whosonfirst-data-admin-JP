@@ -1,0 +1,85 @@
+{
+  "id": 1226828683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.86703,45.24678,141.86703,45.24678",
+    "geom:latitude":45.24678,
+    "geom:longitude":141.86703,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2127513.0",
+    "gn:asciiname":"Numakawa",
+    "gn:country_code":"JP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2128836,
+    "gn:latitude":45.24678,
+    "gn:longitude":141.86703,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Numakawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Numakawa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6cbc\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u307e\u304b\u308f",
+        "\u30cc\u30de\u30ab\u30ef"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043c\u0430\u043a\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Numagawa",
+        "Numakawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2128836
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2a7933089c63f81bdf05bd7ee6d37c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739519,
+            "locality_id":1226828683,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1226828683,
+    "wof:lastmodified":1537650504,
+    "wof:name":"Numakawa",
+    "wof:parent_id":1108739519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.86703,
+    45.24678,
+    141.86703,
+    45.24678
+],
+  "geometry": {"coordinates":[141.86703,45.24678],"type":"Point"}
+}

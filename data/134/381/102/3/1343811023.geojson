@@ -1,0 +1,75 @@
+{
+  "id": 1343811023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.00928,36.10533,133.00928,36.10533",
+    "geom:latitude":36.10533,
+    "geom:longitude":133.00928,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"1854361.0",
+    "gn:admin3_code":"32526.0",
+    "gn:asciiname":"Funagoshi",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1863884,
+    "gn:latitude":36.10533,
+    "gn:longitude":133.00928,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Funagoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8239\u8d8a"
+    ],
+    "name:und_x_variant":[
+        "Funakoshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672679,
+        1108742739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863884
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d64c5bb6cf9c2c78e2ce204c830c6023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742739,
+            "locality_id":1343811023,
+            "region_id":85672679
+        }
+    ],
+    "wof:id":1343811023,
+    "wof:lastmodified":1537650294,
+    "wof:name":"Funagoshi",
+    "wof:parent_id":1108742739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.00928000000002,
+    36.10533,
+    133.00928000000002,
+    36.10533
+],
+  "geometry": {"coordinates":[133.00928000000002,36.10533],"type":"Point"}
+}

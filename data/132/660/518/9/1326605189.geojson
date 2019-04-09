@@ -1,0 +1,75 @@
+{
+  "id": 1326605189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.57838,35.3185,139.57838,35.3185",
+    "geom:latitude":35.3185,
+    "geom:longitude":139.57838,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1860670.0",
+    "gn:asciiname":"Akashi",
+    "gn:country_code":"JP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11057625,
+    "gn:latitude":35.3185,
+    "gn:longitude":139.57838,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Akashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u660e\u77f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u304b\u3057",
+        "\u30a2\u30ab\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057625
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2d9e66f2daa95d87ce8d5dec448c6bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519469,
+            "locality_id":1326605189,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1326605189,
+    "wof:lastmodified":1537652150,
+    "wof:name":"Akashi",
+    "wof:parent_id":890519469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.57838,
+    35.3185,
+    139.57838,
+    35.3185
+],
+  "geometry": {"coordinates":[139.57838000000001,35.3185],"type":"Point"}
+}

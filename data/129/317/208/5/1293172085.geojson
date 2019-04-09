@@ -1,0 +1,75 @@
+{
+  "id": 1293172085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.41606,34.75447,135.41606,34.75447",
+    "geom:latitude":34.75447,
+    "geom:longitude":135.41606,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1865383.0",
+    "gn:asciiname":"Tsukaguchicho",
+    "gn:country_code":"JP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1849713,
+    "gn:latitude":34.75447,
+    "gn:longitude":135.41606,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsukaguchich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u585a\u53e3\u753a"
+    ],
+    "name:und_x_variant":[
+        "Tsukaguchich\u014d",
+        "Tsukaguchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672769,
+        890524487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849713
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f85e395fbe03ec88f41a89b5cec20566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524487,
+            "locality_id":1293172085,
+            "region_id":85672769
+        }
+    ],
+    "wof:id":1293172085,
+    "wof:lastmodified":1537649919,
+    "wof:name":"Tsukaguchicho",
+    "wof:parent_id":890524487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.41606000000002,
+    34.75447,
+    135.41606000000002,
+    34.75447
+],
+  "geometry": {"coordinates":[135.41606000000002,34.75447],"type":"Point"}
+}

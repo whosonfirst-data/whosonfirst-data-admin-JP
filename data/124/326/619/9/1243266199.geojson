@@ -1,0 +1,75 @@
+{
+  "id": 1243266199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.08694,39.81851,140.08694,39.81851",
+    "geom:latitude":39.81851,
+    "geom:longitude":140.08694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Fukada",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8315508,
+    "gn:latitude":39.81851,
+    "gn:longitude":140.08694,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fukada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6df1\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304b\u3060",
+        "\u30d5\u30ab\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8315508
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"58380dfb781a59aa2dffe08fe6adfd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1243266199,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1243266199,
+    "wof:lastmodified":1537650747,
+    "wof:name":"Fukada",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.08694,
+    39.81851,
+    140.08694,
+    39.81851
+],
+  "geometry": {"coordinates":[140.08694,39.81851],"type":"Point"}
+}

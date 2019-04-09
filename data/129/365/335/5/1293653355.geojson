@@ -1,0 +1,76 @@
+{
+  "id": 1293653355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.86908,32.63437,130.86908,32.63437",
+    "geom:latitude":32.63437,
+    "geom:longitude":130.86908,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412709.0",
+    "gn:admin3_code":"43348.0",
+    "gn:asciiname":"Komure",
+    "gn:country_code":"JP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11241168,
+    "gn:latitude":32.63437,
+    "gn:longitude":130.86908,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Komure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u7fa4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3080\u308c",
+        "\u30b3\u30e0\u30ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241168
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"770da5212de480b3bffb5cd74538e8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743163,
+            "locality_id":1293653355,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293653355,
+    "wof:lastmodified":1537652665,
+    "wof:name":"Komure",
+    "wof:parent_id":1108743163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.86908,
+    32.63437,
+    130.86908,
+    32.63437
+],
+  "geometry": {"coordinates":[130.86908,32.63437],"type":"Point"}
+}

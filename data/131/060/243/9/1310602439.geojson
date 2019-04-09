@@ -1,0 +1,75 @@
+{
+  "id": 1310602439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.55448,40.70889,140.55448,40.70889",
+    "geom:latitude":40.70889,
+    "geom:longitude":140.55448,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Tarusawa",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506801,
+    "gn:latitude":40.70889,
+    "gn:longitude":140.55448,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tarusawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6a3d\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u308b\u3055\u308f",
+        "\u30bf\u30eb\u30b5\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506801
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"939cc71022ecf29ffd112a19f1e4dba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1310602439,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1310602439,
+    "wof:lastmodified":1537650981,
+    "wof:name":"Tarusawa",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.55448,
+    40.70889,
+    140.55448,
+    40.70889
+],
+  "geometry": {"coordinates":[140.55448000000001,40.70889],"type":"Point"}
+}

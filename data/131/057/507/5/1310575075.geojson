@@ -1,0 +1,75 @@
+{
+  "id": 1310575075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46812,32.97719,130.46812,32.97719",
+    "geom:latitude":32.97719,
+    "geom:longitude":130.46812,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Yamato",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11274218,
+    "gn:latitude":32.97719,
+    "gn:longitude":130.46812,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u548c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u307e\u3068",
+        "\u30e4\u30de\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274218
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2d8b8c4c8a0be36526e0479d73044394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1310575075,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310575075,
+    "wof:lastmodified":1537652833,
+    "wof:name":"Yamato",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46812,
+    32.97719,
+    130.46812,
+    32.97719
+],
+  "geometry": {"coordinates":[130.46812,32.97719],"type":"Point"}
+}

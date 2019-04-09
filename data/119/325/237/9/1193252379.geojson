@@ -1,0 +1,75 @@
+{
+  "id": 1193252379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.35857,32.41871,130.35857,32.41871",
+    "geom:latitude":32.41871,
+    "geom:longitude":130.35857,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Medama",
+    "gn:country_code":"JP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265281,
+    "gn:latitude":32.41871,
+    "gn:longitude":130.35857,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Medama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u76ee\u7389"
+    ],
+    "name:jpn_x_variant":[
+        "\u3081\u3060\u307e",
+        "\u30e1\u30c0\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265281
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ef5221e3d460078621bda00461dabf48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1193252379,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193252379,
+    "wof:lastmodified":1537652784,
+    "wof:name":"Medama",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.35857,
+    32.41871,
+    130.35857,
+    32.41871
+],
+  "geometry": {"coordinates":[130.35856999999999,32.41871],"type":"Point"}
+}

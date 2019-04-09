@@ -1,0 +1,75 @@
+{
+  "id": 1343364783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.93456,35.3925,139.93456,35.3925",
+    "geom:latitude":35.3925,
+    "geom:longitude":139.93456,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Nagasuka",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077892,
+    "gn:latitude":35.3925,
+    "gn:longitude":139.93456,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagasuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u9808\u8cc0"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u3059\u304b",
+        "\u30ca\u30ac\u30b9\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077892
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"40371b0308903b700aa3a8319f2642cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1343364783,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343364783,
+    "wof:lastmodified":1537652176,
+    "wof:name":"Nagasuka",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.93456,
+    35.3925,
+    139.93456,
+    35.3925
+],
+  "geometry": {"coordinates":[139.93456,35.3925],"type":"Point"}
+}

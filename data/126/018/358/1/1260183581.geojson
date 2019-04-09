@@ -1,0 +1,75 @@
+{
+  "id": 1260183581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.57311,40.56582,140.57311,40.56582",
+    "geom:latitude":40.56582,
+    "geom:longitude":140.57311,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Takabatake",
+    "gn:country_code":"JP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543164,
+    "gn:latitude":40.56582,
+    "gn:longitude":140.57311,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takabatake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u7551"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u3070\u305f\u3051",
+        "\u30bf\u30ab\u30d0\u30bf\u30b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543164
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"389c3d5118c38508fc3f96ec25454ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1260183581,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260183581,
+    "wof:lastmodified":1537651048,
+    "wof:name":"Takabatake",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.57311,
+    40.56582,
+    140.57311,
+    40.56582
+],
+  "geometry": {"coordinates":[140.57311000000001,40.56582],"type":"Point"}
+}

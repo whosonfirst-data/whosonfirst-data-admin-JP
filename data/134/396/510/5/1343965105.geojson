@@ -1,0 +1,75 @@
+{
+  "id": 1343965105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.36432,40.99121,140.36432,40.99121",
+    "geom:latitude":40.99121,
+    "geom:longitude":140.36432,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Gongen",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442983,
+    "gn:latitude":40.99121,
+    "gn:longitude":140.36432,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gongen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6a29\u73fe"
+    ],
+    "name:jpn_x_variant":[
+        "\u3054\u3093\u3052\u3093",
+        "\u30b4\u30f3\u30b2\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442983
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7e572dff1cd34f604ed853950f989c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1343965105,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343965105,
+    "wof:lastmodified":1537650909,
+    "wof:name":"Gongen",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.36432,
+    40.99121,
+    140.36432,
+    40.99121
+],
+  "geometry": {"coordinates":[140.36431999999999,40.99121],"type":"Point"}
+}

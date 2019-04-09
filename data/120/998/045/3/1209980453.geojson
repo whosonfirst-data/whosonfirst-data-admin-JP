@@ -1,0 +1,75 @@
+{
+  "id": 1209980453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.41094,38.78695,141.41094,38.78695",
+    "geom:latitude":38.78695,
+    "geom:longitude":141.41094,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"2112655.0",
+    "gn:asciiname":"Shimonozaike",
+    "gn:country_code":"JP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2111086,
+    "gn:latitude":38.78695,
+    "gn:longitude":141.41094,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimonozaike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u91ce\u5728\u5bb6"
+    ],
+    "name:und_x_variant":[
+        "Shimonzaki",
+        "Shimonozaike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2111086
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cc7a4c8d403872a48726313822e3f5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739951,
+            "locality_id":1209980453,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1209980453,
+    "wof:lastmodified":1537650381,
+    "wof:name":"Shimonozaike",
+    "wof:parent_id":1108739951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.41093999999995,
+    38.78695,
+    141.41093999999995,
+    38.78695
+],
+  "geometry": {"coordinates":[141.41093999999995,38.78695],"type":"Point"}
+}

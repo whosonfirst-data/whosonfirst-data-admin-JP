@@ -1,0 +1,75 @@
+{
+  "id": 1343981435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.90355,35.1988,139.90355,35.1988",
+    "geom:latitude":35.1988,
+    "geom:longitude":139.90355,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Kunawa",
+    "gn:country_code":"JP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11107596,
+    "gn:latitude":35.1988,
+    "gn:longitude":139.90355,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kunawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u7e04"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u306a\u308f",
+        "\u30af\u30ca\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11107596
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8808b4393ce94c2727ed6cb93f27e911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1343981435,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343981435,
+    "wof:lastmodified":1537652257,
+    "wof:name":"Kunawa",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.90355,
+    35.1988,
+    139.90355,
+    35.1988
+],
+  "geometry": {"coordinates":[139.90355,35.1988],"type":"Point"}
+}

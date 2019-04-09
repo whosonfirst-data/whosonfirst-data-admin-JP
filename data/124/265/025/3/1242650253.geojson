@@ -1,0 +1,76 @@
+{
+  "id": 1242650253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.4663,36.45039,136.4663,36.45039",
+    "geom:latitude":36.45039,
+    "geom:longitude":136.4663,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"7467882.0",
+    "gn:asciiname":"Taiseimachi",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855466,
+    "gn:latitude":36.45039,
+    "gn:longitude":136.4663,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Taiseimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u6210\u753a"
+    ],
+    "name:und_x_variant":[
+        "Taisei",
+        "Nigoriike",
+        "Taiseimachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        890519927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855466
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2f11e7f62fef73b350c2607b5c3396a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519927,
+            "locality_id":1242650253,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1242650253,
+    "wof:lastmodified":1537650073,
+    "wof:name":"Taiseimachi",
+    "wof:parent_id":890519927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.4663,
+    36.45039000000001,
+    136.4663,
+    36.45039000000001
+],
+  "geometry": {"coordinates":[136.46629999999999,36.45039000000001],"type":"Point"}
+}

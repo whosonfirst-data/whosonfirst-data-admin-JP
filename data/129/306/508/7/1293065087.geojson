@@ -1,0 +1,75 @@
+{
+  "id": 1293065087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15172,39.41725,141.15172,39.41725",
+    "geom:latitude":39.41725,
+    "geom:longitude":141.15172,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Saigo",
+    "gn:country_code":"JP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437329,
+    "gn:latitude":39.41725,
+    "gn:longitude":141.15172,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Saigo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u624d\u5f8c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3044\u3054",
+        "\u30b5\u30a4\u30b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437329
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"24a7d9e67b2b1399c6eba4d6f5e33aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1293065087,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1293065087,
+    "wof:lastmodified":1537650856,
+    "wof:name":"Saigo",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15171999999995,
+    39.41725,
+    141.15171999999995,
+    39.41725
+],
+  "geometry": {"coordinates":[141.15171999999995,39.41725],"type":"Point"}
+}

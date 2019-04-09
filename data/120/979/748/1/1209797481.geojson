@@ -1,0 +1,75 @@
+{
+  "id": 1209797481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.23945,40.31835,141.23945,40.31835",
+    "geom:latitude":40.31835,
+    "geom:longitude":141.23945,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2128940.0",
+    "gn:asciiname":"Tsukiori",
+    "gn:country_code":"JP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554083,
+    "gn:latitude":40.31835,
+    "gn:longitude":141.23945,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsukiori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6708\u6298"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u304d\u304a\u308a",
+        "\u30c4\u30ad\u30aa\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        890520775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554083
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c5d675029a193b9d2048cae01db732af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520775,
+            "locality_id":1209797481,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1209797481,
+    "wof:lastmodified":1537651096,
+    "wof:name":"Tsukiori",
+    "wof:parent_id":890520775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.23945,
+    40.31835,
+    141.23945,
+    40.31835
+],
+  "geometry": {"coordinates":[141.23945000000001,40.31835],"type":"Point"}
+}

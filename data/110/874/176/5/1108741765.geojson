@@ -1,0 +1,147 @@
+{
+  "id": 1108741765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008946,
+    "geom:area_square_m":90905854.267323,
+    "geom:bbox":"139.348800659,34.6786003113,139.44960022,34.7988014221",
+    "geom:latitude":34.737285,
+    "geom:longitude":139.398844,
+    "iso:country":"JP",
+    "lbl:latitude":34.738312,
+    "lbl:longitude":139.399804,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Unknown7",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Oosimamati",
+    "meso:hasc_id":"JP.HK.OS",
+    "meso:local_id":"13361",
+    "meso:mps_x":139.399804,
+    "meso:mps_y":34.738312,
+    "meso:name_alt":"Oshima",
+    "meso:name_en":"Oshima Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.738312,
+    "mps:longitude":139.399804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0634\u064a\u0645\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "\u014cshima suprefetura"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u5cf6\u652f\u5ef3"
+    ],
+    "name:dut_x_preferred":[
+        "Oshima"
+    ],
+    "name:eng_x_preferred":[
+        "Oshima"
+    ],
+    "name:eng_x_variant":[
+        "Oosimamati",
+        "Oshima Machi",
+        "\u014cshima Subprefecture"
+    ],
+    "name:fre_x_preferred":[
+        "Sous-pr\u00e9fecture d'\u014cshima"
+    ],
+    "name:ger_x_preferred":[
+        "Unterpr\u00e4fektur \u014cshima"
+    ],
+    "name:ita_x_preferred":[
+        "Sottoprefettura di \u014cshima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u5cf6\u652f\u5e81"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc2dc\ub9c8 \uc9c0\uccad"
+    ],
+    "name:lit_x_preferred":[
+        "O\u0161imos subprefekt\u016bra"
+    ],
+    "name:pol_x_preferred":[
+        "Podprefektura \u014cshima"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Subprefectura de \u014cshima"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e34\u0e48\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e2d\u0e0a\u0e34\u0e21\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "\u014cshima alt prefekt\u00f6rl\u00fc\u011f\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u041e\u0441\u0456\u043c\u0430"
+    ],
+    "name:war_x_preferred":[
+        "\u014cshima Subprefecture"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-10-01",
+    "statoids:areakm":"3368",
+    "statoids:capital":"",
+    "statoids:country":"JP",
+    "statoids:date":"2000-10-01",
+    "statoids:hasc":"JP.HK",
+    "statoids:name":"Oshima",
+    "statoids:population":"174040",
+    "statoids:statoid":"JP.HK.OS",
+    "statoids:timezone":"9",
+    "statoids:type":"branch administration",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"JP.HK.OS",
+        "wd:id":"Q1074473"
+    },
+    "wof:country":"JP",
+    "wof:created":1479151069,
+    "wof:geomhash":"e7f9b96264acd3f1d67cf5323b775a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741765,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108741765,
+    "wof:lastmodified":1553816507,
+    "wof:name":"Oshima",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:placetype_local":"branch administration",
+    "wof:population":174040,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:shortcode":"OS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744681
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.34880065918,
+    34.678600311279,
+    139.44960021973,
+    34.798801422119
+],
+  "geometry": {"coordinates":[[[139.35119628906,34.767066955566],[139.34980773926,34.773933410644],[139.35069274902,34.783931732178],[139.35350036621,34.787868499756],[139.35749816894,34.79220199585],[139.36030578613,34.798801422119],[139.36610412598,34.796733856201],[139.3717956543,34.798267364502],[139.37710571289,34.794067382813],[139.37980651855,34.794132232666],[139.38189697266,34.791667938232],[139.38890075684,34.788734436035],[139.39120483398,34.789333343506],[139.39959716797,34.787933349609],[139.40760803223,34.786334991455],[139.41189575195,34.786998748779],[139.41319274902,34.785598754883],[139.42030334473,34.781066894531],[139.42170715332,34.781398773193],[139.43449401856,34.770332336426],[139.43890380859,34.761665344238],[139.4407043457,34.753200531006],[139.44410705566,34.747131347656],[139.44709777832,34.745601654053],[139.44839477539,34.73853302002],[139.4449005127,34.734733581543],[139.44549560547,34.727535247803],[139.44679260254,34.72200012207],[139.44960021973,34.71533203125],[139.44639587402,34.711334228516],[139.4434967041,34.70393371582],[139.44920349121,34.698532104492],[139.44859313965,34.694667816162],[139.44549560547,34.689464569092],[139.44500732422,34.684734344482],[139.43989562988,34.685199737549],[139.43930053711,34.686866760254],[139.43670654297,34.688201904297],[139.44020080566,34.682800292969],[139.43879699707,34.678600311279],[139.43130493164,34.678600311279],[139.42599487305,34.68193435669],[139.42379760742,34.681735992432],[139.41369628906,34.680866241455],[139.41090393066,34.680667877197],[139.40339660645,34.682266235352],[139.40020751953,34.682933807373],[139.39669799805,34.683265686035],[139.3948059082,34.686134338379],[139.39199829102,34.68673324585],[139.38380432129,34.693000793457],[139.37579345703,34.696399688721],[139.3717956543,34.69913482666],[139.36790466309,34.699600219727],[139.35949707031,34.701732635498],[139.36109924316,34.708934783936],[139.35290527344,34.717998504639],[139.35290527344,34.727401733398],[139.35540771484,34.733001708984],[139.35639953613,34.740798950195],[139.35429382324,34.74426651001],[139.35319519043,34.749801635742],[139.34989929199,34.751800537109],[139.35200500488,34.751598358154],[139.35189819336,34.753200531006],[139.35079956055,34.755535125732],[139.34880065918,34.764598846435],[139.35119628906,34.767066955566]]],"type":"Polygon"}
+}

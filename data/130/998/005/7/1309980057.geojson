@@ -1,0 +1,76 @@
+{
+  "id": 1309980057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.62343,32.283,130.62343,32.283",
+    "geom:latitude":32.283,
+    "geom:longitude":130.62343,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43513.0",
+    "gn:asciiname":"Sawami",
+    "gn:country_code":"JP",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10209309,
+    "gn:latitude":32.283,
+    "gn:longitude":130.62343,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sawami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6ca2\u898b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u308f\u307f",
+        "\u30b5\u30ef\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10209309
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e8779315306ad1aec9e2723df158ddfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743227,
+            "locality_id":1309980057,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1309980057,
+    "wof:lastmodified":1537651688,
+    "wof:name":"Sawami",
+    "wof:parent_id":1108743227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.62343,
+    32.283,
+    130.62343,
+    32.283
+],
+  "geometry": {"coordinates":[130.62343000000001,32.283],"type":"Point"}
+}

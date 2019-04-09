@@ -1,0 +1,75 @@
+{
+  "id": 1259382605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.04043,35.12702,140.04043,35.12702",
+    "geom:latitude":35.12702,
+    "geom:longitude":140.04043,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Tamagawa",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171549,
+    "gn:latitude":35.12702,
+    "gn:longitude":140.04043,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tamagawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7389\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u307e\u304c\u308f",
+        "\u30bf\u30de\u30ac\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171549
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7eb210490dbf3a6ec60e7681a8c715df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1259382605,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259382605,
+    "wof:lastmodified":1537652441,
+    "wof:name":"Tamagawa",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.04043,
+    35.12702,
+    140.04043,
+    35.12702
+],
+  "geometry": {"coordinates":[140.04042999999999,35.12702],"type":"Point"}
+}

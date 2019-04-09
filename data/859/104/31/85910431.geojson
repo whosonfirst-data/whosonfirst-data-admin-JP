@@ -1,0 +1,115 @@
+{
+  "id": 85910431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":155095.271636,
+    "geom:bbox":"139.754333496,35.6528328197,139.758738364,35.6578414378",
+    "geom:latitude":35.655074,
+    "geom:longitude":139.756161,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.65543,
+    "lbl:longitude":139.756734,
+    "mps:latitude":35.65503,
+    "mps:longitude":139.755942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Hamamatsucho 2 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Hamamatsuchou 2 Choume",
+        "Hamamatsucho 2 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u307e\u3064\u3061\u3087\u3046 \uff12\u3061\u3087\u3046\u3081",
+        "\u6d5c\u677e\u753a \uff12\u4e01\u76ee",
+        "\uff12\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff12\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u6e2f\u533a",
+    "qs:name_en":"Hamamatsucho 2 Chome",
+    "qs:name_lau":"\u6d5c\u677e\u753a",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":437,
+    "qs:photo_sum":1827,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015406,
+    "qs:woe_lau":1108540,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527410,
+        "qs:id":1290048
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"032809dd286afd07c18d8ae658391e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910431,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910431,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268681,
+    "wof:name":"\uff12\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.75433349600013,
+    35.65283281970018,
+    139.75873836430281,
+    35.65784143775541
+],
+  "geometry": {"coordinates":[[[139.75639343275009,35.65784143775541],[139.75639343284172,35.65729624810004],[139.75639343284371,35.65673833357532],[139.75708007815632,35.65673833357532],[139.75708007814592,35.65618041574605],[139.75776672383353,35.65618041566682],[139.75845336909737,35.65618041593071],[139.75866711450976,35.65591735384801],[139.75858725277317,35.65562249362537],[139.75873836430281,35.65506456671066],[139.75845336900011,35.65471382039387],[139.75845336900011,35.65394870357837],[139.757080078,35.65394870321271],[139.757080078,35.65283282750008],[139.75651007891634,35.65283282178011],[139.75433349600013,35.65283281970018],[139.75433349600013,35.65436306860724],[139.75433349603804,35.65506456900003],[139.75433349609034,35.65582966689449],[139.75433349606931,35.65618041630002],[139.75433349612518,35.65673833370029],[139.75502014184394,35.65673833357532],[139.75502014186389,35.65729624810004],[139.75502014175032,35.65784143750948],[139.75570678725035,35.65767241922273],[139.75639343275009,35.65784143775541]]],"type":"Polygon"}
+}

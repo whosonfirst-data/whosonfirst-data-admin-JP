@@ -1,0 +1,75 @@
+{
+  "id": 1360225331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63966,35.90593,139.63966,35.90593",
+    "geom:latitude":35.90593,
+    "geom:longitude":139.63966,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1849187.0",
+    "gn:admin3_code":"11103.0",
+    "gn:asciiname":"Amanumacho",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023032,
+    "gn:latitude":35.90593,
+    "gn:longitude":139.63966,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Amanumach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5929\u6cbc\u753a"
+    ],
+    "name:und_x_variant":[
+        "Amanumach\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023032
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a73324de233ccc3be9efdc6d9d8818da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740421,
+            "locality_id":1360225331,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1360225331,
+    "wof:lastmodified":1537652110,
+    "wof:name":"Amanumacho",
+    "wof:parent_id":1108740421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63966000000002,
+    35.90593,
+    139.63966000000002,
+    35.90593
+],
+  "geometry": {"coordinates":[139.63966000000002,35.90593],"type":"Point"}
+}

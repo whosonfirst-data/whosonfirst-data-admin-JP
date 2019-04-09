@@ -1,0 +1,78 @@
+{
+  "id": 1108745319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000756,
+    "geom:area_square_m":7663984.145435,
+    "geom:bbox":"135.68270874,34.9291992188,135.718002319,34.9694671631",
+    "geom:latitude":34.949595,
+    "geom:longitude":135.702451,
+    "iso:country":"JP",
+    "lbl:latitude":34.948843,
+    "lbl:longitude":135.703654,
+    "meso:admin_1":"Kyoto Fu",
+    "meso:gadm_admin":"Muk\u014d",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Mukoosi",
+    "meso:hasc_id":"JP.KY.MK",
+    "meso:local_id":"26208",
+    "meso:mps_x":135.703654,
+    "meso:mps_y":34.948843,
+    "meso:name_alt":"Muko",
+    "meso:name_en":"Muko Shi",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.948843,
+    "mps:longitude":135.703654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Muko"
+    ],
+    "name:eng_x_variant":[
+        "Mukoosi",
+        "Muk\u014d",
+        "Muko Shi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152430,
+    "wof:geomhash":"5f5f74ae3676a6654c98f87e1f90b864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745319,
+            "region_id":85672777
+        }
+    ],
+    "wof:id":1108745319,
+    "wof:lastmodified":1511300760,
+    "wof:name":"Muko",
+    "wof:parent_id":85672777,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742403
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.68270874023398,
+    34.92919921875004,
+    135.718002319336,
+    34.9694671630859
+],
+  "geometry": {"coordinates":[[[135.71420288085901,34.92919921875004],[135.69990539550798,34.9295310974121],[135.70019531249997,34.93086624145506],[135.69850158691398,34.9389991760254],[135.69479370117199,34.94666671752925],[135.69459533691398,34.94866561889653],[135.68740844726597,34.95786666870117],[135.68270874023398,34.96640014648442],[135.68420410156304,34.9694671630859],[135.68850708007798,34.96693420410157],[135.699295043945,34.9686012268066],[135.70040893554696,34.96566772460945],[135.70269775390599,34.96339797973633],[135.70480346679699,34.96346664428708],[135.70959472656298,34.9623336791992],[135.70919799804699,34.95553207397457],[135.71350097656298,34.95173263549802],[135.71710205078099,34.94979858398441],[135.71800231933599,34.94233322143547],[135.714599609375,34.93573379516601],[135.71420288085901,34.92919921875004]]],"type":"Polygon"}
+}

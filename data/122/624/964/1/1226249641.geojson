@@ -1,0 +1,75 @@
+{
+  "id": 1226249641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.70345,40.81739,140.70345,40.81739",
+    "geom:latitude":40.81739,
+    "geom:longitude":140.70345,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Sannai",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506093,
+    "gn:latitude":40.81739,
+    "gn:longitude":140.70345,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sannai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3093\u306a\u3044",
+        "\u30b5\u30f3\u30ca\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506093
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"08f043cdfbc47e80aea5d5958304af5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1226249641,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1226249641,
+    "wof:lastmodified":1537650975,
+    "wof:name":"Sannai",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.70345,
+    40.81739,
+    140.70345,
+    40.81739
+],
+  "geometry": {"coordinates":[140.70345,40.81739],"type":"Point"}
+}

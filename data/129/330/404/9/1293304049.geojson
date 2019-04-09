@@ -1,0 +1,75 @@
+{
+  "id": 1293304049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.27378,40.64311,141.27378,40.64311",
+    "geom:latitude":40.64311,
+    "geom:longitude":141.27378,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Fugomi",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312320,
+    "gn:latitude":40.64311,
+    "gn:longitude":141.27378,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fugomi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bcc\u5eab\u7f8e"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u3054\u307f",
+        "\u30d5\u30b4\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312320
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1893bcfd0ff69f4c3c0e86ef5b4eb17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1293304049,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293304049,
+    "wof:lastmodified":1537650712,
+    "wof:name":"Fugomi",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.27378000000004,
+    40.64311,
+    141.27378000000004,
+    40.64311
+],
+  "geometry": {"coordinates":[141.27378000000004,40.64311],"type":"Point"}
+}

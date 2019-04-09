@@ -1,0 +1,78 @@
+{
+  "id": 1226342105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.35811,35.22503,140.35811,35.22503",
+    "geom:latitude":35.22503,
+    "geom:longitude":140.35811,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465524.0",
+    "gn:asciiname":"Odera",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11114239,
+    "gn:latitude":35.22503,
+    "gn:longitude":140.35811,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cdera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u5bfa"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u3067\u3089",
+        "\u30aa\u30aa\u30c7\u30e9"
+    ],
+    "name:und_x_variant":[
+        "\u014cdera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114239
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"001d94f0acd47ed8106933b9664d5461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519811,
+            "locality_id":1226342105,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226342105,
+    "wof:lastmodified":1537652296,
+    "wof:name":"Odera",
+    "wof:parent_id":890519811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.35811,
+    35.22503,
+    140.35811,
+    35.22503
+],
+  "geometry": {"coordinates":[140.35811000000001,35.22503],"type":"Point"}
+}

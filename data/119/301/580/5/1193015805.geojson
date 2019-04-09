@@ -1,0 +1,75 @@
+{
+  "id": 1193015805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.98732,35.13705,139.98732,35.13705",
+    "geom:latitude":35.13705,
+    "geom:longitude":139.98732,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Minami",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11110002,
+    "gn:latitude":35.13705,
+    "gn:longitude":139.98732,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Minami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5357"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u306a\u307f",
+        "\u30df\u30ca\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110002
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"67b4388208cda21a06d25070e1149166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1193015805,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1193015805,
+    "wof:lastmodified":1537652285,
+    "wof:name":"Minami",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.98731999999998,
+    35.13705,
+    139.98731999999998,
+    35.13705
+],
+  "geometry": {"coordinates":[139.98731999999998,35.13705],"type":"Point"}
+}

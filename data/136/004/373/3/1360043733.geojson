@@ -1,0 +1,68 @@
+{
+  "id": 1360043733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.5,35.15,135.5,35.15",
+    "geom:latitude":35.15,
+    "geom:longitude":135.5,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"7412201.0",
+    "gn:asciiname":"Tonoda",
+    "gn:country_code":"JP",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1850022,
+    "gn:latitude":35.15,
+    "gn:longitude":135.5,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tonoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672777,
+        890520555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1850022
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"76ad27754bcd81db6d34a1f7a5b46b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520555,
+            "locality_id":1360043733,
+            "region_id":85672777
+        }
+    ],
+    "wof:id":1360043733,
+    "wof:lastmodified":1537004724,
+    "wof:name":"Tonoda",
+    "wof:parent_id":890520555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.5,
+    35.15,
+    135.5,
+    35.15
+],
+  "geometry": {"coordinates":[135.5,35.15],"type":"Point"}
+}

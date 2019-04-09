@@ -1,0 +1,75 @@
+{
+  "id": 1259347027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.99287,32.32698,129.99287,32.32698",
+    "geom:latitude":32.32698,
+    "geom:longitude":129.99287,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Hamasato",
+    "gn:country_code":"JP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11247761,
+    "gn:latitude":32.32698,
+    "gn:longitude":129.99287,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hamasato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d5c\u91cc"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u3055\u3068",
+        "\u30cf\u30de\u30b5\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247761
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"80cac02249ce65a378bb54890a524b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1259347027,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259347027,
+    "wof:lastmodified":1537652756,
+    "wof:name":"Hamasato",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.99286999999998,
+    32.32698,
+    129.99286999999998,
+    32.32698
+],
+  "geometry": {"coordinates":[129.99286999999998,32.32698],"type":"Point"}
+}

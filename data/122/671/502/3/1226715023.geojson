@@ -1,0 +1,74 @@
+{
+  "id": 1226715023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.16652,35.41389,139.16652,35.41389",
+    "geom:latitude":35.41389,
+    "geom:longitude":139.16652,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1863429.0",
+    "gn:asciiname":"Kamiokura",
+    "gn:country_code":"JP",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10413090,
+    "gn:latitude":35.41389,
+    "gn:longitude":139.16652,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kami\u014dkura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u5927\u5009"
+    ],
+    "name:und_x_variant":[
+        "Kami\u014dkura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10413090
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"eb9f69fd3c324cf0d7e4420a3a063932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741789,
+            "locality_id":1226715023,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1226715023,
+    "wof:lastmodified":1537651903,
+    "wof:name":"Kamiokura",
+    "wof:parent_id":1108741789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.16652,
+    35.41389,
+    139.16652,
+    35.41389
+],
+  "geometry": {"coordinates":[139.16651999999999,35.41389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360291339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.95102,35.07849,139.95102,35.07849",
+    "geom:latitude":35.07849,
+    "geom:longitude":139.95102,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Shioido",
+    "gn:country_code":"JP",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109621,
+    "gn:latitude":35.07849,
+    "gn:longitude":139.95102,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shioido",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5869\u4e95\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u304a\u3044\u3069",
+        "\u30b7\u30aa\u30a4\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109621
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4df9c8512b27b8bd799d8e071c237e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1360291339,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1360291339,
+    "wof:lastmodified":1537652275,
+    "wof:name":"Shioido",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.95102,
+    35.07849,
+    139.95102,
+    35.07849
+],
+  "geometry": {"coordinates":[139.95102,35.07849],"type":"Point"}
+}

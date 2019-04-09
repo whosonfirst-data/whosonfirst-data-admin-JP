@@ -1,0 +1,76 @@
+{
+  "id": 1343524067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.35601,31.46362,130.35601,31.46362",
+    "geom:latitude":31.46362,
+    "geom:longitude":130.35601,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"7383994.0",
+    "gn:asciiname":"Ikebemonzen",
+    "gn:country_code":"JP",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1861803,
+    "gn:latitude":31.46362,
+    "gn:longitude":130.35601,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikebemonzen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c60\u8fba\u9580\u524d"
+    ],
+    "name:und_x_variant":[
+        "Kebe",
+        "Ikebe",
+        "Ikebemonzen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890521005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861803
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2561ced94aa49665b8a507fd07b20cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890521005,
+            "locality_id":1343524067,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1343524067,
+    "wof:lastmodified":1537650235,
+    "wof:name":"Ikebemonzen",
+    "wof:parent_id":890521005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.35601,
+    31.46362,
+    130.35601,
+    31.46362
+],
+  "geometry": {"coordinates":[130.35601,31.46362],"type":"Point"}
+}

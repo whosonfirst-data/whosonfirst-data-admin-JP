@@ -1,0 +1,75 @@
+{
+  "id": 1209926841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.3804,40.35093,140.3804,40.35093",
+    "geom:latitude":40.35093,
+    "geom:longitude":140.3804,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Koso",
+    "gn:country_code":"JP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818375,
+    "gn:latitude":40.35093,
+    "gn:longitude":140.3804,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u5ca8"
+    ],
+    "name:und_x_variant":[
+        "K\u014dso",
+        "K\u014dso-j\u014ddan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818375
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"94589a949f61b1941dbf5d14e9f25a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1209926841,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1209926841,
+    "wof:lastmodified":1537651495,
+    "wof:name":"Koso",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.3804,
+    40.35093,
+    140.3804,
+    40.35093
+],
+  "geometry": {"coordinates":[140.38040000000001,40.35093],"type":"Point"}
+}

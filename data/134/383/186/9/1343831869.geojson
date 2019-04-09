@@ -1,0 +1,75 @@
+{
+  "id": 1343831869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.7103,32.585,130.7103,32.585",
+    "geom:latitude":32.585,
+    "geom:longitude":130.7103,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Ebisumachi",
+    "gn:country_code":"JP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175244,
+    "gn:latitude":32.585,
+    "gn:longitude":130.7103,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ebisumachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u86ed\u5b50\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3048\u3073\u3059\u307e\u3061",
+        "\u30a8\u30d3\u30b9\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175244
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fcb315c72a1cd5a5248c0e9db5c07abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1343831869,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343831869,
+    "wof:lastmodified":1537652478,
+    "wof:name":"Ebisumachi",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.7103,
+    32.585,
+    130.7103,
+    32.585
+],
+  "geometry": {"coordinates":[130.71029999999999,32.585],"type":"Point"}
+}

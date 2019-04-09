@@ -1,0 +1,76 @@
+{
+  "id": 1243136301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.03564,32.45997,130.03564,32.45997",
+    "geom:latitude":32.45997,
+    "geom:longitude":130.03564,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865360.0",
+    "gn:admin3_code":"43531.0",
+    "gn:asciiname":"Kurose",
+    "gn:country_code":"JP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265864,
+    "gn:latitude":32.45997,
+    "gn:longitude":130.03564,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u702c"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u305b",
+        "\u30af\u30ed\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265864
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"08c489a2ddf08b80a1ee97bc3e508afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743231,
+            "locality_id":1243136301,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243136301,
+    "wof:lastmodified":1537652800,
+    "wof:name":"Kurose",
+    "wof:parent_id":1108743231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.03564,
+    32.45997,
+    130.03564,
+    32.45997
+],
+  "geometry": {"coordinates":[130.03564,32.45997],"type":"Point"}
+}

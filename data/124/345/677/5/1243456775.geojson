@@ -1,0 +1,78 @@
+{
+  "id": 1243456775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.12768,39.71941,140.12768,39.71941",
+    "geom:latitude":39.71941,
+    "geom:longitude":140.12768,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Senshu-kubotamachi",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8315972,
+    "gn:latitude":39.71941,
+    "gn:longitude":140.12768,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sensh\u016b-kubotamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5343\u79cb\u4e45\u4fdd\u7530\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u305b\u3093\u3057\u3085\u3046\u304f\u307c\u305f\u307e\u3061",
+        "\u30bb\u30f3\u30b7\u30e5\u30a6\u30af\u30dc\u30bf\u30de\u30c1"
+    ],
+    "name:und_x_variant":[
+        "Sensh\u016b-kubotamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8315972
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"328f27211c9cf0dd7d2c0af551f5d649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1243456775,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1243456775,
+    "wof:lastmodified":1537650754,
+    "wof:name":"Senshu-kubotamachi",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.12768,
+    39.71941,
+    140.12768,
+    39.71941
+],
+  "geometry": {"coordinates":[140.12768,39.71941],"type":"Point"}
+}

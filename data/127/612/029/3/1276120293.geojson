@@ -1,0 +1,75 @@
+{
+  "id": 1276120293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59116,40.3441,140.59116,40.3441",
+    "geom:latitude":40.3441,
+    "geom:longitude":140.59116,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Shirasawa",
+    "gn:country_code":"JP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429827,
+    "gn:latitude":40.3441,
+    "gn:longitude":140.59116,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shirasawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u767d\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3089\u3055\u308f",
+        "\u30b7\u30e9\u30b5\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429827
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ff5daa3c82d791bf1586cd120aa3067e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1276120293,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1276120293,
+    "wof:lastmodified":1537650836,
+    "wof:name":"Shirasawa",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59116,
+    40.3441,
+    140.59116,
+    40.3441
+],
+  "geometry": {"coordinates":[140.59116,40.3441],"type":"Point"}
+}

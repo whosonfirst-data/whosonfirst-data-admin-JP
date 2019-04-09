@@ -1,0 +1,75 @@
+{
+  "id": 1310369523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.36239,32.42907,130.36239,32.42907",
+    "geom:latitude":32.42907,
+    "geom:longitude":130.36239,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kokushigo",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265279,
+    "gn:latitude":32.42907,
+    "gn:longitude":130.36239,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kokushigo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u4e32\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u304f\u3057\u3054",
+        "\u30b3\u30af\u30b7\u30b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265279
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"71821c5848a04a4d2c639eae0add3601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1310369523,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310369523,
+    "wof:lastmodified":1537652784,
+    "wof:name":"Kokushigo",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.36239,
+    32.42907,
+    130.36239,
+    32.42907
+],
+  "geometry": {"coordinates":[130.36239,32.42907],"type":"Point"}
+}

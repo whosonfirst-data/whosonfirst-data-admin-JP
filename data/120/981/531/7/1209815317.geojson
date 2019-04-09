@@ -1,0 +1,75 @@
+{
+  "id": 1209815317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.84351,35.30199,139.84351,35.30199",
+    "geom:latitude":35.30199,
+    "geom:longitude":139.84351,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Shinobe",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079051,
+    "gn:latitude":35.30199,
+    "gn:longitude":139.84351,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7be0\u90e8"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u306e\u3079",
+        "\u30b7\u30ce\u30d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079051
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2c5f97345af272c9f19f1cc112746902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1209815317,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209815317,
+    "wof:lastmodified":1537652203,
+    "wof:name":"Shinobe",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.84351,
+    35.30199,
+    139.84351,
+    35.30199
+],
+  "geometry": {"coordinates":[139.84351000000001,35.30199],"type":"Point"}
+}

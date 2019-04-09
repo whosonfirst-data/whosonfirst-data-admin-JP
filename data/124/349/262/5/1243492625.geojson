@@ -1,0 +1,76 @@
+{
+  "id": 1243492625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.39263,34.78631,139.39263,34.78631",
+    "geom:latitude":34.78631,
+    "geom:longitude":139.39263,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1853724.0",
+    "gn:admin3_code":"13361.0",
+    "gn:asciiname":"Okata",
+    "gn:country_code":"JP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1854431,
+    "gn:latitude":34.78631,
+    "gn:longitude":139.39263,
+    "gn:modification_date":"2017-04-15",
+    "gn:name":"Okata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca1\u7530"
+    ],
+    "name:und_x_variant":[
+        "Okada",
+        "Okata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1854431
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5a2031011d5d1229c26fe1f22ae3d6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741765,
+            "locality_id":1243492625,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1243492625,
+    "wof:lastmodified":1537650041,
+    "wof:name":"Okata",
+    "wof:parent_id":1108741765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.39263,
+    34.78631,
+    139.39263,
+    34.78631
+],
+  "geometry": {"coordinates":[139.39263,34.78631],"type":"Point"}
+}

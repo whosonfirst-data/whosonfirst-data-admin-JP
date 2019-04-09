@@ -1,0 +1,75 @@
+{
+  "id": 1209726907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.51421,40.60299,140.51421,40.60299",
+    "geom:latitude":40.60299,
+    "geom:longitude":140.51421,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Waseda",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411344,
+    "gn:latitude":40.60299,
+    "gn:longitude":140.51421,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Waseda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e9\u7a32\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u308f\u305b\u3060",
+        "\u30ef\u30bb\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411344
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bdc5cedbdf976f45a6e480e77f634339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1209726907,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1209726907,
+    "wof:lastmodified":1537650797,
+    "wof:name":"Waseda",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.51421000000002,
+    40.60299000000001,
+    140.51421000000002,
+    40.60299000000001
+],
+  "geometry": {"coordinates":[140.51421000000002,40.60299000000001],"type":"Point"}
+}

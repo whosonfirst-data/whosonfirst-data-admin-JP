@@ -1,0 +1,87 @@
+{
+  "id": 1344136501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.78333,44.18333,141.78333,44.18333",
+    "geom:latitude":44.18333,
+    "geom:longitude":141.78333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2127730.0",
+    "gn:admin3_code":"1483.0",
+    "gn:asciiname":"Sankei",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2128308,
+    "gn:latitude":44.18333,
+    "gn:longitude":141.78333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sankei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sankei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e09\u6e13"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3093\u3051\u3044",
+        "\u30b5\u30f3\u30b1\u30a4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mikebetsu",
+        "Sankei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2128308
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b1fac90f4f88625bb7aff6e446faef73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739693,
+            "locality_id":1344136501,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1344136501,
+    "wof:lastmodified":1537650486,
+    "wof:name":"Sankei",
+    "wof:parent_id":1108739693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.78333,
+    44.18333,
+    141.78333,
+    44.18333
+],
+  "geometry": {"coordinates":[141.78333000000001,44.18333],"type":"Point"}
+}

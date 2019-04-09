@@ -1,0 +1,75 @@
+{
+  "id": 1259742871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.46851,34.7187,135.46851,34.7187",
+    "geom:latitude":34.7187,
+    "geom:longitude":135.46851,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"1853897.0",
+    "gn:admin3_code":"27123.0",
+    "gn:asciiname":"Tsukamoto",
+    "gn:country_code":"JP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9277846,
+    "gn:latitude":34.7187,
+    "gn:longitude":135.46851,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsukamoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jbn_x_preferred":[
+        "Tsukamoto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u585a\u672c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672785,
+        1108742439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9277846
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"88529dbb4f5f345b51a23c57a6adb6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742439,
+            "locality_id":1259742871,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":1259742871,
+    "wof:lastmodified":1537651358,
+    "wof:name":"Tsukamoto",
+    "wof:parent_id":1108742439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.46851,
+    34.7187,
+    135.46851,
+    34.7187
+],
+  "geometry": {"coordinates":[135.46851000000001,34.7187],"type":"Point"}
+}

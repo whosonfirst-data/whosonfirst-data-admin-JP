@@ -1,0 +1,74 @@
+{
+  "id": 1310053009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41206,33.23398,129.41206,33.23398",
+    "geom:latitude":33.23398,
+    "geom:longitude":129.41206,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"7418805.0",
+    "gn:asciiname":"Osashicho",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9982205,
+    "gn:latitude":33.23398,
+    "gn:longitude":129.41206,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014csashich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u4f50\u5fd7\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014csashich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672857,
+        890524187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9982205
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1df4ab29d264a74589d3d03c9663b7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524187,
+            "locality_id":1310053009,
+            "region_id":85672857
+        }
+    ],
+    "wof:id":1310053009,
+    "wof:lastmodified":1537651587,
+    "wof:name":"Osashicho",
+    "wof:parent_id":890524187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41206,
+    33.23398,
+    129.41206,
+    33.23398
+],
+  "geometry": {"coordinates":[129.41206,33.23398],"type":"Point"}
+}

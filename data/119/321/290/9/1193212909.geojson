@@ -1,0 +1,75 @@
+{
+  "id": 1193212909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.73413,36.04836,139.73413,36.04836",
+    "geom:latitude":36.04836,
+    "geom:longitude":139.73413,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"7464126.0",
+    "gn:asciiname":"Toshima",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8571649,
+    "gn:latitude":36.04836,
+    "gn:longitude":139.73413,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Toshima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6238\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3057\u307e",
+        "\u30c8\u30b7\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        890520389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8571649
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"37d8e7ef2ac1dd214ae4d94ee6b967cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520389,
+            "locality_id":1193212909,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1193212909,
+    "wof:lastmodified":1537651143,
+    "wof:name":"Toshima",
+    "wof:parent_id":890520389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.73413,
+    36.04836,
+    139.73413,
+    36.04836
+],
+  "geometry": {"coordinates":[139.73412999999999,36.04836],"type":"Point"}
+}

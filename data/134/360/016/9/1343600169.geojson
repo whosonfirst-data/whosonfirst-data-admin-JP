@@ -1,0 +1,75 @@
+{
+  "id": 1343600169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.72776,35.16779,138.72776,35.16779",
+    "geom:latitude":35.16779,
+    "geom:longitude":138.72776,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"1864089.0",
+    "gn:asciiname":"Fujioka",
+    "gn:country_code":"JP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1864100,
+    "gn:latitude":35.16779,
+    "gn:longitude":138.72776,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fujioka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bcc\u58eb\u5ca1"
+    ],
+    "name:und_x_variant":[
+        "Fujiokach\u014d",
+        "Fujioka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672753,
+        890524473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1864100
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3a9890e67867632c874b6852745521fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524473,
+            "locality_id":1343600169,
+            "region_id":85672753
+        }
+    ],
+    "wof:id":1343600169,
+    "wof:lastmodified":1537650301,
+    "wof:name":"Fujioka",
+    "wof:parent_id":890524473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.72776000000002,
+    35.16779,
+    138.72776000000002,
+    35.16779
+],
+  "geometry": {"coordinates":[138.72776000000002,35.16779],"type":"Point"}
+}

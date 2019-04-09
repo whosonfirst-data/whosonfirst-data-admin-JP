@@ -1,0 +1,76 @@
+{
+  "id": 1225908443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.82575,32.17576,130.82575,32.17576",
+    "geom:latitude":32.17576,
+    "geom:longitude":130.82575,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43501.0",
+    "gn:asciiname":"Komine",
+    "gn:country_code":"JP",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10256100,
+    "gn:latitude":32.17576,
+    "gn:longitude":130.82575,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Komine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u5cf0"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u307f\u306d",
+        "\u30b3\u30df\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10256100
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d1d65f95b9266d0d71a20a4adf1ef769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743211,
+            "locality_id":1225908443,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1225908443,
+    "wof:lastmodified":1537651756,
+    "wof:name":"Komine",
+    "wof:parent_id":1108743211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.82575,
+    32.17576,
+    130.82575,
+    32.17576
+],
+  "geometry": {"coordinates":[130.82575,32.17576],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326807059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.73296,43.83629,144.73296,43.83629",
+    "geom:latitude":43.83629,
+    "geom:longitude":144.73296,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7428106.0",
+    "gn:admin3_code":"1545.0",
+    "gn:asciiname":"Fuji",
+    "gn:country_code":"JP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2130340,
+    "gn:latitude":43.83629,
+    "gn:longitude":144.73296,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fuji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bcc\u58eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u3058",
+        "\u30d5\u30b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2130340
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"51cda27d0e69fca072c5e47e29be5456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739729,
+            "locality_id":1326807059,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1326807059,
+    "wof:lastmodified":1537650571,
+    "wof:name":"Fuji",
+    "wof:parent_id":1108739729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.73296000000005,
+    43.83629000000001,
+    144.73296000000005,
+    43.83629000000001
+],
+  "geometry": {"coordinates":[144.73296000000005,43.83629000000001],"type":"Point"}
+}

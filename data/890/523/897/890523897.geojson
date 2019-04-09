@@ -1,0 +1,73 @@
+{
+  "id": 890523897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.50536,36.64836,140.50536,36.64836",
+    "geom:latitude":36.64836,
+    "geom:longitude":140.50536,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u5e38\u9678\u592a\u7530\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u305f\u3061\u304a\u304a\u305f\u3057",
+        "\u5e38\u9678\u592a\u7530"
+    ],
+    "name:unk_x_variant":[
+        "Hitachi\u014dta"
+    ],
+    "qs:name":"Hitachi\u014dta-shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2112705,
+        "qs:id":372864
+    },
+    "wof:country":"JP",
+    "wof:created":1469056320,
+    "wof:geomhash":"2c4cb168087dc996cbae44225180a1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523897,
+            "region_id":85672801
+        }
+    ],
+    "wof:id":890523897,
+    "wof:lastmodified":1505343923,
+    "wof:name":"Hitachi\u014dta-shi",
+    "wof:parent_id":85672801,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.50536,
+    36.64836,
+    140.50536,
+    36.64836
+],
+  "geometry": {"coordinates":[140.50536,36.64836],"type":"Point"}
+}

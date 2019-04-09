@@ -1,0 +1,75 @@
+{
+  "id": 1344221135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.25286,32.40477,130.25286,32.40477",
+    "geom:latitude":32.40477,
+    "geom:longitude":130.25286,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kaneyaki",
+    "gn:country_code":"JP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11264567,
+    "gn:latitude":32.40477,
+    "gn:longitude":130.25286,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kaneyaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u713c"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u306d\u3084\u304d",
+        "\u30ab\u30cd\u30e4\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264567
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8a773d3db579ab58193435028d292ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1344221135,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1344221135,
+    "wof:lastmodified":1537652776,
+    "wof:name":"Kaneyaki",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.25286,
+    32.40477,
+    130.25286,
+    32.40477
+],
+  "geometry": {"coordinates":[130.25286,32.40477],"type":"Point"}
+}

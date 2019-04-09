@@ -1,0 +1,75 @@
+{
+  "id": 1193242279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.05324,39.38775,141.05324,39.38775",
+    "geom:latitude":39.38775,
+    "geom:longitude":141.05324,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Nakano",
+    "gn:country_code":"JP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438125,
+    "gn:latitude":39.38775,
+    "gn:longitude":141.05324,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u306e",
+        "\u30ca\u30ab\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438125
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cfb2a1c11583f0abe7bec684ed68cb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1193242279,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1193242279,
+    "wof:lastmodified":1537650888,
+    "wof:name":"Nakano",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.05324,
+    39.38775,
+    141.05324,
+    39.38775
+],
+  "geometry": {"coordinates":[141.05323999999999,39.38775],"type":"Point"}
+}

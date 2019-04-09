@@ -1,0 +1,75 @@
+{
+  "id": 1343458523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.22481,35.15204,140.22481,35.15204",
+    "geom:latitude":35.15204,
+    "geom:longitude":140.22481,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Kamiueno",
+    "gn:country_code":"JP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171734,
+    "gn:latitude":35.15204,
+    "gn:longitude":140.22481,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamiueno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u690d\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u3046\u3048\u306e",
+        "\u30ab\u30df\u30a6\u30a8\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171734
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3134477848c7608f4015a8d85a3fc912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1343458523,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343458523,
+    "wof:lastmodified":1537652449,
+    "wof:name":"Kamiueno",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.22481000000002,
+    35.15204,
+    140.22481000000002,
+    35.15204
+],
+  "geometry": {"coordinates":[140.22481000000002,35.15204],"type":"Point"}
+}

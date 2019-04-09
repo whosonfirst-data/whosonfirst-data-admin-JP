@@ -1,0 +1,77 @@
+{
+  "id": 1293085875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.52902,37.47167,139.52902,37.47167",
+    "geom:latitude":37.47167,
+    "geom:longitude":139.52902,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"7451504.0",
+    "gn:admin3_code":"7445.0",
+    "gn:asciiname":"Nakagawa",
+    "gn:country_code":"JP",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855988,
+    "gn:latitude":37.47167,
+    "gn:longitude":139.52902,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakagawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u5ddd"
+    ],
+    "name:und_x_variant":[
+        "Nakakawa",
+        "Nakag\u0101",
+        "Nakagawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672835,
+        1108740209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855988
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ac193ca3864e0fa56990ec003e85d851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740209,
+            "locality_id":1293085875,
+            "region_id":85672835
+        }
+    ],
+    "wof:id":1293085875,
+    "wof:lastmodified":1537650087,
+    "wof:name":"Nakagawa",
+    "wof:parent_id":1108740209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.52902,
+    37.47167,
+    139.52902,
+    37.47167
+],
+  "geometry": {"coordinates":[139.52902,37.47167],"type":"Point"}
+}

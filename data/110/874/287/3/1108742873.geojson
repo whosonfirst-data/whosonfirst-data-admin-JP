@@ -1,0 +1,94 @@
+{
+  "id": 1108742873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003526,
+    "geom:area_square_m":36083286.679229,
+    "geom:bbox":"134.412399292,34.114200592,134.486206055,34.1923332214",
+    "geom:latitude":34.152497,
+    "geom:longitude":134.451831,
+    "iso:country":"JP",
+    "lbl:latitude":34.151658,
+    "lbl:longitude":134.452534,
+    "meso:admin_1":"Tokushima Ken",
+    "meso:gadm_admin":"Itano",
+    "meso:gadm_hasc2":"JP.TS.IT",
+    "meso:gaul_admin":"Itanotyoo",
+    "meso:hasc_id":"JP.TS.IT",
+    "meso:local_id":"36404",
+    "meso:mps_x":134.452534,
+    "meso:mps_y":34.151658,
+    "meso:name_alt":"Itano",
+    "meso:name_en":"Itano Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.151658,
+    "mps:longitude":134.452534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Itano"
+    ],
+    "name:eng_x_variant":[
+        "Itanotyoo",
+        "Itano Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-10-01",
+    "statoids:area_km":"179",
+    "statoids:as_of_date":"2000-10-01",
+    "statoids:capital":"",
+    "statoids:country":"JP",
+    "statoids:hasc":"JP.TS",
+    "statoids:name":"Itano",
+    "statoids:population":"108929",
+    "statoids:statoid":"JP.TS.IT",
+    "statoids:timezone":"9",
+    "statoids:type":"county",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"JP.TS.IT"
+    },
+    "wof:country":"JP",
+    "wof:created":1479151504,
+    "wof:geomhash":"eb9ab241bca4759f96b730c7caf15d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742873,
+            "region_id":85672729
+        }
+    ],
+    "wof:id":1108742873,
+    "wof:lastmodified":1536615682,
+    "wof:name":"Itano Cho",
+    "wof:parent_id":85672729,
+    "wof:placetype":"county",
+    "wof:placetype_local":"county",
+    "wof:population":108929,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:shortcode":"IT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108745791
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.41239929199196,
+    34.11420059204097,
+    134.48620605468804,
+    34.19233322143553
+],
+  "geometry": {"coordinates":[[[134.43840026855503,34.19100189208983],[134.44810485839795,34.19233322143553],[134.45509338378898,34.19146728515631],[134.45570373535196,34.18519973754883],[134.46319580078097,34.1768646240234],[134.47810363769497,34.17846679687504],[134.47999572753898,34.16986465454103],[134.48390197753898,34.16233444213869],[134.48469543457,34.15459823608399],[134.48539733886699,34.15033340454096],[134.48620605468804,34.1478652954102],[134.47659301757798,34.13846588134774],[134.47529602050798,34.1299324035645],[134.46989440917997,34.12933349609376],[134.47039794921898,34.11866760253909],[134.45730590820304,34.11640167236333],[134.44120788574196,34.11420059204097],[134.44050598144497,34.11813354492194],[134.43780517578097,34.11993408203131],[134.43490600585903,34.12326812744137],[134.43040466308602,34.12599945068362],[134.42649841308594,34.13619995117189],[134.42630004882804,34.14253234863278],[134.42359924316403,34.1450653076172],[134.41749572753903,34.14979934692381],[134.41239929199196,34.15679931640626],[134.41839599609403,34.15753555297851],[134.42759704589804,34.16713333129879],[134.42959594726602,34.16699981689455],[134.43339538574196,34.16986465454103],[134.43339538574196,34.17800140380864],[134.43040466308602,34.1787986755371],[134.42869567871097,34.18306732177731],[134.43840026855503,34.19100189208983]]],"type":"Polygon"}
+}

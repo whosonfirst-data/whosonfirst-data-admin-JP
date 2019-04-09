@@ -1,0 +1,77 @@
+{
+  "id": 1108746345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000663,
+    "geom:area_square_m":7325891.407684,
+    "geom:bbox":"127.207702637,26.5742664337,127.246498108,26.601266861",
+    "geom:latitude":26.586946,
+    "geom:longitude":127.227891,
+    "iso:country":"JP",
+    "lbl:latitude":26.589605,
+    "lbl:longitude":127.231401,
+    "meso:admin_1":"Okinawa Ken",
+    "meso:gadm_admin":"Aguni",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Agunison",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"47355",
+    "meso:mps_x":127.231401,
+    "meso:mps_y":26.589605,
+    "meso:name_alt":"Aguni",
+    "meso:name_en":"Aguni Son",
+    "meso:source":"GSIJ",
+    "mps:latitude":26.589605,
+    "mps:longitude":127.231401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Aguni"
+    ],
+    "name:eng_x_variant":[
+        "Agunison",
+        "Aguni Son"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152788,
+    "wof:geomhash":"fe9e0df38e4eb710925103e9898a9f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108746345,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1108746345,
+    "wof:lastmodified":1511300769,
+    "wof:name":"Aguni",
+    "wof:parent_id":85672867,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108743427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20770263671898,
+    26.57426643371583,
+    127.24649810791001,
+    26.60126686096193
+],
+  "geometry": {"coordinates":[[[127.20859527587899,26.5808010101318],[127.21189880371099,26.58653259277337],[127.21379852294899,26.59000015258794],[127.22429656982401,26.59826660156252],[127.22930145263699,26.60126686096193],[127.23159790039099,26.6011333465576],[127.235595703125,26.60106658935552],[127.24099731445301,26.59560012817376],[127.24649810791001,26.58653259277337],[127.24009704589801,26.57600021362303],[127.23809814453101,26.57620048522952],[127.23739624023402,26.57573318481454],[127.234901428223,26.57826805114746],[127.23179626464801,26.57859992980961],[127.233200073242,26.57686614990233],[127.230598449707,26.57859992980961],[127.22059631347699,26.57693290710449],[127.20770263671898,26.57426643371583],[127.20859527587899,26.5808010101318]]],"type":"Polygon"}
+}

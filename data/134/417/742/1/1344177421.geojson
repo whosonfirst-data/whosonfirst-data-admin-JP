@@ -1,0 +1,75 @@
+{
+  "id": 1344177421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.65808,33.87366,130.65808,33.87366",
+    "geom:latitude":33.87366,
+    "geom:longitude":130.65808,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1854055.0",
+    "gn:admin3_code":"40381.0",
+    "gn:asciiname":"Oshiro",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10310923,
+    "gn:latitude":33.87366,
+    "gn:longitude":130.65808,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cshiro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u57ce"
+    ],
+    "name:und_x_variant":[
+        "\u014cshiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310923
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"85d363eede1b39ca0c6f9f81f1ab2bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743045,
+            "locality_id":1344177421,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1344177421,
+    "wof:lastmodified":1537651809,
+    "wof:name":"Oshiro",
+    "wof:parent_id":1108743045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.65808,
+    33.87366,
+    130.65808,
+    33.87366
+],
+  "geometry": {"coordinates":[130.65808000000001,33.87366],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310501343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.93177,35.29635,139.93177,35.29635",
+    "geom:latitude":35.29635,
+    "geom:longitude":139.93177,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Ishibata",
+    "gn:country_code":"JP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11078630,
+    "gn:latitude":35.29635,
+    "gn:longitude":139.93177,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ishibata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u77f3\u7551"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3057\u3070\u305f",
+        "\u30a4\u30b7\u30d0\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078630
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"642eb67413636e43ab42713882e5ce42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1310501343,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310501343,
+    "wof:lastmodified":1537652194,
+    "wof:name":"Ishibata",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.93177,
+    35.29635,
+    139.93177,
+    35.29635
+],
+  "geometry": {"coordinates":[139.93177,35.29635],"type":"Point"}
+}

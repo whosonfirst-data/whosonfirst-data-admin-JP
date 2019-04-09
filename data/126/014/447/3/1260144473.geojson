@@ -1,0 +1,75 @@
+{
+  "id": 1260144473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.38817,32.48931,130.38817,32.48931",
+    "geom:latitude":32.48931,
+    "geom:longitude":130.38817,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Sonobe",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11267591,
+    "gn:latitude":32.48931,
+    "gn:longitude":130.38817,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sonobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5712\u90e8"
+    ],
+    "name:jpn_x_variant":[
+        "\u305d\u306e\u3079",
+        "\u30bd\u30ce\u30d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267591
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ac6dd5137a2878a845e390f9ec90b0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1260144473,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1260144473,
+    "wof:lastmodified":1537652813,
+    "wof:name":"Sonobe",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.38817,
+    32.48931,
+    130.38817,
+    32.48931
+],
+  "geometry": {"coordinates":[130.38817,32.48931],"type":"Point"}
+}

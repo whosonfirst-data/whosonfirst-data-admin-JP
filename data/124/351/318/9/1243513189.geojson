@@ -1,0 +1,75 @@
+{
+  "id": 1243513189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.49136,32.1752,130.49136,32.1752",
+    "geom:latitude":32.1752,
+    "geom:longitude":130.49136,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1857206.0",
+    "gn:asciiname":"Niogi",
+    "gn:country_code":"JP",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11402861,
+    "gn:latitude":32.1752,
+    "gn:longitude":130.49136,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Niogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4ec1\u738b\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u304a\u304e",
+        "\u30cb\u30aa\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402861
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"62d00ca940d23f2fb6217b022da152eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743157,
+            "locality_id":1243513189,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243513189,
+    "wof:lastmodified":1537652940,
+    "wof:name":"Niogi",
+    "wof:parent_id":1108743157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.49136,
+    32.1752,
+    130.49136,
+    32.1752
+],
+  "geometry": {"coordinates":[130.49135999999999,32.1752],"type":"Point"}
+}

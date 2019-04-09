@@ -1,0 +1,80 @@
+{
+  "id": 1360259129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.42467,32.51307,130.42467,32.51307",
+    "geom:latitude":32.51307,
+    "geom:longitude":130.42467,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Matsushimamachi-aitsu",
+    "gn:country_code":"JP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865643,
+    "gn:latitude":32.51307,
+    "gn:longitude":130.42467,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Matsushimamachi-aitsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u5cf6\u753a\u5408\u6d25"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u3057\u307e\u307e\u3061\u3042\u3044\u3064",
+        "\u30de\u30c4\u30b7\u30de\u30de\u30c1\u30a2\u30a4\u30c4"
+    ],
+    "name:und_x_variant":[
+        "Aizu",
+        "Aitsu",
+        "Matsushimamachi-aitsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865643
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1d7a785f9a21a0708d762ee8f0fdc3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1360259129,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1360259129,
+    "wof:lastmodified":1537650335,
+    "wof:name":"Matsushimamachi-aitsu",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.42467,
+    32.51307,
+    130.42467,
+    32.51307
+],
+  "geometry": {"coordinates":[130.42466999999999,32.51307],"type":"Point"}
+}

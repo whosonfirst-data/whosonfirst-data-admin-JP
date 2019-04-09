@@ -1,0 +1,75 @@
+{
+  "id": 1209789697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.51966,32.65851,130.51966,32.65851",
+    "geom:latitude":32.65851,
+    "geom:longitude":130.51966,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1849062.0",
+    "gn:asciiname":"Hiraiwa",
+    "gn:country_code":"JP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11172816,
+    "gn:latitude":32.65851,
+    "gn:longitude":130.51966,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hiraiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e73\u5ca9"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3089\u3044\u308f",
+        "\u30d2\u30e9\u30a4\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890523281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172816
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4d0822c4da92d1b5b61041de05b97db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523281,
+            "locality_id":1209789697,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1209789697,
+    "wof:lastmodified":1537652456,
+    "wof:name":"Hiraiwa",
+    "wof:parent_id":890523281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.51966000000002,
+    32.65851,
+    130.51966000000002,
+    32.65851
+],
+  "geometry": {"coordinates":[130.51966000000002,32.65851],"type":"Point"}
+}

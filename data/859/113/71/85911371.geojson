@@ -1,0 +1,115 @@
+{
+  "id": 85911371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":668978.873742,
+    "geom:bbox":"139.658203125,35.616000052,139.670562744,35.626047066",
+    "geom:latitude":35.620552,
+    "geom:longitude":139.664162,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.622317,
+    "lbl:longitude":139.665292,
+    "mps:latitude":35.619057,
+    "mps:longitude":139.664067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Fukasawa 2 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Fukasawa 2 Choume",
+        "Fukasawa 2 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304b\u3055\u308f \uff12\u3061\u3087\u3046\u3081",
+        "\u6df1\u6ca2 \uff12\u4e01\u76ee",
+        "\uff12\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff12\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u4e16\u7530\u8c37\u533a",
+    "qs:name_en":"Fukasawa 2 Chome",
+    "qs:name_lau":"\u6df1\u6ca2",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":33,
+    "qs:photo_sum":106,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":1114298,
+    "qs:woe_lau":28414386,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031397,
+        1108741703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28528606,
+        "qs:id":1000848
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f123f8074927d3c275b2a77800671e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741703,
+            "locality_id":102031397,
+            "neighbourhood_id":85911371,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85911371,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527269355,
+    "wof:name":"\uff12\u4e01\u76ee",
+    "wof:parent_id":102031397,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.65820312500006,
+    35.61600005200043,
+    139.67056274400034,
+    35.62604706600004
+],
+  "geometry": {"coordinates":[[[139.67056274400034,35.62327129521313],[139.66918945522707,35.62158188998986],[139.66918945299994,35.61934921596686],[139.66644287100007,35.61934921380032],[139.66644287100007,35.61711647732106],[139.66553530627669,35.61600005200043],[139.66369628900009,35.61600005200043],[139.66346342585541,35.61600005200043],[139.66255588646806,35.61711642150011],[139.65934355286873,35.61711642150011],[139.6593435022242,35.61711648380006],[139.65820312500006,35.61711648380006],[139.65820312500017,35.61851930764541],[139.65820312500017,35.62017900542311],[139.65820312500006,35.62158189960003],[139.6636962890002,35.62158189388008],[139.6636962890002,35.62311306962485],[139.66369628900009,35.62381451390004],[139.66369628900009,35.62604706600004],[139.66426643717028,35.62604706459342],[139.66644287100007,35.62604705688564],[139.66644287100007,35.62381450797643],[139.66918945300012,35.62381450446625],[139.67056274400034,35.62381449835036],[139.67056274400034,35.62327129521313]]],"type":"Polygon"}
+}

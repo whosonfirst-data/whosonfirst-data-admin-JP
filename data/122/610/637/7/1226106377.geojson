@@ -1,0 +1,75 @@
+{
+  "id": 1226106377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.69201,32.19762,130.69201,32.19762",
+    "geom:latitude":32.19762,
+    "geom:longitude":130.69201,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Makinouchi",
+    "gn:country_code":"JP",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10208873,
+    "gn:latitude":32.19762,
+    "gn:longitude":130.69201,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Makinouchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7267\u306e\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u304d\u306e\u3046\u3061",
+        "\u30de\u30ad\u30ce\u30a6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208873
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5e0be813a778da20435a956b9939022b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1226106377,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226106377,
+    "wof:lastmodified":1537651683,
+    "wof:name":"Makinouchi",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.69201,
+    32.19762,
+    130.69201,
+    32.19762
+],
+  "geometry": {"coordinates":[130.69201000000001,32.19762],"type":"Point"}
+}

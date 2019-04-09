@@ -1,0 +1,76 @@
+{
+  "id": 1343406541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.85153,33.20659,129.85153,33.20659",
+    "geom:latitude":33.20659,
+    "geom:longitude":129.85153,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"1855238.0",
+    "gn:admin3_code":"41401.0",
+    "gn:asciiname":"Zoshuku",
+    "gn:country_code":"JP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847977,
+    "gn:latitude":33.20659,
+    "gn:longitude":129.85153,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Z\u014dshuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8535\u5bbf"
+    ],
+    "name:und_x_variant":[
+        "Z\u014dshiku",
+        "Z\u014dshuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672695,
+        1108743119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847977
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"40999e9d186582efe928ae69d2508a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743119,
+            "locality_id":1343406541,
+            "region_id":85672695
+        }
+    ],
+    "wof:id":1343406541,
+    "wof:lastmodified":1537649870,
+    "wof:name":"Zoshuku",
+    "wof:parent_id":1108743119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.85153,
+    33.20659000000001,
+    129.85153,
+    33.20659000000001
+],
+  "geometry": {"coordinates":[129.85153,33.20659000000001],"type":"Point"}
+}

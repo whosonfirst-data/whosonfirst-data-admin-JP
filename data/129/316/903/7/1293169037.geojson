@@ -1,0 +1,75 @@
+{
+  "id": 1293169037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15501,38.36749,141.15501,38.36749",
+    "geom:latitude":38.36749,
+    "geom:longitude":141.15501,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"7446990.0",
+    "gn:asciiname":"Suzaki",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182642,
+    "gn:latitude":38.36749,
+    "gn:longitude":141.15501,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Suzaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d32\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u3059\u3056\u304d",
+        "\u30b9\u30b6\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672843,
+        1108741035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182642
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"47c0252560a0aa6a0821db6e025e1016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741035,
+            "locality_id":1293169037,
+            "region_id":85672843
+        }
+    ],
+    "wof:id":1293169037,
+    "wof:lastmodified":1537650621,
+    "wof:name":"Suzaki",
+    "wof:parent_id":1108741035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15501,
+    38.36749,
+    141.15501,
+    38.36749
+],
+  "geometry": {"coordinates":[141.15501,38.36749],"type":"Point"}
+}

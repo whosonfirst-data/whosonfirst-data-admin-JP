@@ -1,0 +1,75 @@
+{
+  "id": 1226116445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.02583,32.42292,130.02583,32.42292",
+    "geom:latitude":32.42292,
+    "geom:longitude":130.02583,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kurobe",
+    "gn:country_code":"JP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11247636,
+    "gn:latitude":32.42292,
+    "gn:longitude":130.02583,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u8fba"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u3079",
+        "\u30af\u30ed\u30d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247636
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b6cb230ed32f7f557033959b478af9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1226116445,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226116445,
+    "wof:lastmodified":1537652753,
+    "wof:name":"Kurobe",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.02583,
+    32.42292,
+    130.02583,
+    32.42292
+],
+  "geometry": {"coordinates":[130.02583000000001,32.42292],"type":"Point"}
+}

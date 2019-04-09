@@ -1,0 +1,75 @@
+{
+  "id": 1343525359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.03121,39.34483,141.03121,39.34483",
+    "geom:latitude":39.34483,
+    "geom:longitude":141.03121,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Takayachi",
+    "gn:country_code":"JP",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438089,
+    "gn:latitude":39.34483,
+    "gn:longitude":141.03121,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takayachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u8c37\u5730"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u3084\u3061",
+        "\u30bf\u30ab\u30e4\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438089
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"af1dd1e1614f4e0b7354d74ea7d6c6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1343525359,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1343525359,
+    "wof:lastmodified":1537650885,
+    "wof:name":"Takayachi",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.03121000000004,
+    39.34483,
+    141.03121000000004,
+    39.34483
+],
+  "geometry": {"coordinates":[141.03121000000004,39.34483],"type":"Point"}
+}

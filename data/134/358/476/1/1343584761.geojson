@@ -1,0 +1,75 @@
+{
+  "id": 1343584761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.03077,35.13958,140.03077,35.13958",
+    "geom:latitude":35.13958,
+    "geom:longitude":140.03077,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Narigawa",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171557,
+    "gn:latitude":35.13958,
+    "gn:longitude":140.03077,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Narigawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6210\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u308a\u304c\u308f",
+        "\u30ca\u30ea\u30ac\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171557
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"957515461f1fa522896dc046ec9ae8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1343584761,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343584761,
+    "wof:lastmodified":1537652441,
+    "wof:name":"Narigawa",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.03077,
+    35.13958,
+    140.03077,
+    35.13958
+],
+  "geometry": {"coordinates":[140.03076999999999,35.13958],"type":"Point"}
+}

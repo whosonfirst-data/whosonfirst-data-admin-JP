@@ -1,0 +1,75 @@
+{
+  "id": 1343767961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.31354,35.49497,140.31354,35.49497",
+    "geom:latitude":35.49497,
+    "geom:longitude":140.31354,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Kayugome",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11133828,
+    "gn:latitude":35.49497,
+    "gn:longitude":140.31354,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kayugome",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7ca5\u7c73"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3086\u3054\u3081",
+        "\u30ab\u30e6\u30b4\u30e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133828
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7be71b1e1718be0d2199380454bc9c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1343767961,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343767961,
+    "wof:lastmodified":1537652339,
+    "wof:name":"Kayugome",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.31354,
+    35.49497,
+    140.31354,
+    35.49497
+],
+  "geometry": {"coordinates":[140.31353999999999,35.49497],"type":"Point"}
+}

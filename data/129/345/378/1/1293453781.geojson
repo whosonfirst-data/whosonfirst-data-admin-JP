@@ -1,0 +1,76 @@
+{
+  "id": 1293453781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.80438,32.63596,130.80438,32.63596",
+    "geom:latitude":32.63596,
+    "geom:longitude":130.80438,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"7412709.0",
+    "gn:admin3_code":"43348.0",
+    "gn:asciiname":"Kayano",
+    "gn:country_code":"JP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859601,
+    "gn:latitude":32.63596,
+    "gn:longitude":130.80438,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kayano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8431\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3084\u306e",
+        "\u30ab\u30e4\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859601
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"92734cc59dbe98358969efe56bb703a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743163,
+            "locality_id":1293453781,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293453781,
+    "wof:lastmodified":1537650175,
+    "wof:name":"Kayano",
+    "wof:parent_id":1108743163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.80438,
+    32.63596,
+    130.80438,
+    32.63596
+],
+  "geometry": {"coordinates":[130.80438000000001,32.63596],"type":"Point"}
+}

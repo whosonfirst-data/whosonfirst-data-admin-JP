@@ -1,0 +1,84 @@
+{
+  "id": 890535235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.98175,32.71111,130.98175,32.71111",
+    "geom:latitude":32.71111,
+    "geom:longitude":130.98175,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u76ca\u57ce\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u307e\u3057\u304d\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Kamimashiki-gun"
+    ],
+    "qs:name":"\u4e0a\u76ca\u57ce\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u718a\u672c\u770c",
+    "qs:photos":346,
+    "qs:photos_1k":70,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":717,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7412706,
+        "gp:id":24857276,
+        "qs:id":245448,
+        "wd:id":"Q1132187",
+        "wk:page":"Kamimashiki District, Kumamoto"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056812,
+    "wof:geomhash":"49dcab8bf87bff0bca5fe1816f7aa54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890535235,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":890535235,
+    "wof:lastmodified":1527727096,
+    "wof:name":"\u4e0a\u76ca\u57ce\u90e1",
+    "wof:parent_id":85672703,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.98175,
+    32.71111,
+    130.98175,
+    32.71111
+],
+  "geometry": {"coordinates":[130.98175000000001,32.71111],"type":"Point"}
+}

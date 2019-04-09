@@ -1,0 +1,83 @@
+{
+  "id": 890520159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.5506,35.61851,139.5506,35.61851",
+    "geom:latitude":35.61851,
+    "geom:longitude":139.5506,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u591a\u6469\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u307e\u304f",
+        "\u30bf\u30de\u30af",
+        "\u5ddd\u5d0e\u5e02\u591a\u6469\u533a"
+    ],
+    "name:unk_x_variant":[
+        "Tama Ku"
+    ],
+    "qs:name":"Tama-ku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890523797,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470875,
+        "qs:id":380838
+    },
+    "wof:country":"JP",
+    "wof:created":1469056131,
+    "wof:geomhash":"b4e1d4e4053e694fed3ffd11cb4e91d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523797,
+            "localadmin_id":890520159,
+            "region_id":85672805
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523797,
+            "localadmin_id":890520159,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":890520159,
+    "wof:lastmodified":1505343916,
+    "wof:name":"Tama-ku",
+    "wof:parent_id":890523797,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.5506,
+    35.61851,
+    139.5506,
+    35.61851
+],
+  "geometry": {"coordinates":[139.5506,35.61851],"type":"Point"}
+}

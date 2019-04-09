@@ -1,0 +1,79 @@
+{
+  "id": 1226462821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.31047,33.66361,130.31047,33.66361",
+    "geom:latitude":33.66361,
+    "geom:longitude":130.31047,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1863955.0",
+    "gn:admin3_code":"40131.0",
+    "gn:asciiname":"Shikashima",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852508,
+    "gn:latitude":33.66361,
+    "gn:longitude":130.31047,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shikashima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5fd7\u8cc0\u5cf6"
+    ],
+    "name:und_x_variant":[
+        "Shigajima",
+        "Shiganoshima",
+        "Shigashima",
+        "Shikashima",
+        "Shikanoshima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108742999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852508
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6d4a0db9de41b8eb9a13f1a87293eca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742999,
+            "locality_id":1226462821,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1226462821,
+    "wof:lastmodified":1537649998,
+    "wof:name":"Shikashima",
+    "wof:parent_id":1108742999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.31047,
+    33.66361,
+    130.31047,
+    33.66361
+],
+  "geometry": {"coordinates":[130.31047000000001,33.66361],"type":"Point"}
+}

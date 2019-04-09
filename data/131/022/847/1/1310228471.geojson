@@ -1,0 +1,75 @@
+{
+  "id": 1310228471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.38077,35.48,140.38077,35.48",
+    "geom:latitude":35.48,
+    "geom:longitude":140.38077,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111211.0",
+    "gn:asciiname":"Shimizu",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11134794,
+    "gn:latitude":35.48,
+    "gn:longitude":140.38077,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shimizu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e05\u6c34"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u307f\u305a",
+        "\u30b7\u30df\u30ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134794
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"00b321182a0dae73b586ddf0d2f32c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741649,
+            "locality_id":1310228471,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310228471,
+    "wof:lastmodified":1537652359,
+    "wof:name":"Shimizu",
+    "wof:parent_id":1108741649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.38076999999998,
+    35.48,
+    140.38076999999998,
+    35.48
+],
+  "geometry": {"coordinates":[140.38076999999998,35.48],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309803531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.33249,35.16474,140.33249,35.16474",
+    "geom:latitude":35.16474,
+    "geom:longitude":140.33249,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Hebara",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111858,
+    "gn:latitude":35.16474,
+    "gn:longitude":140.33249,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hebara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u90e8\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3078\u3070\u3089",
+        "\u30d8\u30d0\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111858
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"17e8410fcf07653427ecbdbd1b250cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1309803531,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1309803531,
+    "wof:lastmodified":1537652287,
+    "wof:name":"Hebara",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.33248999999998,
+    35.16474,
+    140.33248999999998,
+    35.16474
+],
+  "geometry": {"coordinates":[140.33248999999998,35.16474],"type":"Point"}
+}

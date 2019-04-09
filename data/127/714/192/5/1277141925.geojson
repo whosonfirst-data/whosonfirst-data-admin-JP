@@ -1,0 +1,74 @@
+{
+  "id": 1277141925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.67161,35.20606,139.67161,35.20606",
+    "geom:latitude":35.20606,
+    "geom:longitude":139.67161,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848308.0",
+    "gn:asciiname":"Green Heights",
+    "gn:country_code":"JP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057076,
+    "gn:latitude":35.20606,
+    "gn:longitude":139.67161,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Green Heights",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ea\u30fc\u30f3\u30cf\u30a4\u30c4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3050\u308a\u30fc\u3093\u306f\u3044\u3064"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057076
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8a7547dfdc5dee0e458e5867701f2d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519941,
+            "locality_id":1277141925,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1277141925,
+    "wof:lastmodified":1537652148,
+    "wof:name":"Green Heights",
+    "wof:parent_id":890519941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.67161000000002,
+    35.20606,
+    139.67161000000002,
+    35.20606
+],
+  "geometry": {"coordinates":[139.67161000000002,35.20606],"type":"Point"}
+}

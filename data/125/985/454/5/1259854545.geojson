@@ -1,0 +1,77 @@
+{
+  "id": 1259854545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.24349,35.38667,139.24349,35.38667",
+    "geom:latitude":35.38667,
+    "geom:longitude":139.24349,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1863429.0",
+    "gn:asciiname":"Naganuki",
+    "gn:country_code":"JP",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907261,
+    "gn:latitude":35.38667,
+    "gn:longitude":139.24349,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Naganuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u540d\u53e4\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u306c\u304d"
+    ],
+    "name:und_x_variant":[
+        "Nagoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907261
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cb487498445ec3fe5d89bf3cf9a68caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741789,
+            "locality_id":1259854545,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1259854545,
+    "wof:lastmodified":1537650348,
+    "wof:name":"Naganuki",
+    "wof:parent_id":1108741789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.24348999999998,
+    35.38667,
+    139.24348999999998,
+    35.38667
+],
+  "geometry": {"coordinates":[139.24348999999998,35.38667],"type":"Point"}
+}

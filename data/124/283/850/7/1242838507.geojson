@@ -1,0 +1,75 @@
+{
+  "id": 1242838507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.1293,32.38107,130.1293,32.38107",
+    "geom:latitude":32.38107,
+    "geom:longitude":130.1293,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kinnoiri",
+    "gn:country_code":"JP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11248323,
+    "gn:latitude":32.38107,
+    "gn:longitude":130.1293,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kinnoiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u306e\u5165"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u3093\u306e\u3044\u308a",
+        "\u30ad\u30f3\u30ce\u30a4\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248323
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c9f6ce8cfedc8bfe86c246990514b256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1242838507,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242838507,
+    "wof:lastmodified":1537652762,
+    "wof:name":"Kinnoiri",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.1293,
+    32.38107,
+    130.1293,
+    32.38107
+],
+  "geometry": {"coordinates":[130.1293,32.38107],"type":"Point"}
+}

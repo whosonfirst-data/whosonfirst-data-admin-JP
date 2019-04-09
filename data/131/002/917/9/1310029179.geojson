@@ -1,0 +1,75 @@
+{
+  "id": 1310029179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.84815,35.08734,139.84815,35.08734",
+    "geom:latitude":35.08734,
+    "geom:longitude":139.84815,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Takasaki",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079869,
+    "gn:latitude":35.08734,
+    "gn:longitude":139.84815,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takasaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u3055\u304d",
+        "\u30bf\u30ab\u30b5\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079869
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"607fac22ca6a232bd4215f9224868468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1310029179,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310029179,
+    "wof:lastmodified":1537652212,
+    "wof:name":"Takasaki",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.84815,
+    35.08734,
+    139.84815,
+    35.08734
+],
+  "geometry": {"coordinates":[139.84815,35.08734],"type":"Point"}
+}

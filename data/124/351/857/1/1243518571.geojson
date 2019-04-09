@@ -1,0 +1,76 @@
+{
+  "id": 1243518571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.94504,32.27723,130.94504,32.27723",
+    "geom:latitude":32.27723,
+    "geom:longitude":130.94504,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43505.0",
+    "gn:asciiname":"Minoda",
+    "gn:country_code":"JP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10254171,
+    "gn:latitude":32.27723,
+    "gn:longitude":130.94504,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Minoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u84d1\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u306e\u3060",
+        "\u30df\u30ce\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10254171
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f43e2314b9276f80fbfd6cfe5552c04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743213,
+            "locality_id":1243518571,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243518571,
+    "wof:lastmodified":1537651739,
+    "wof:name":"Minoda",
+    "wof:parent_id":1108743213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.94503999999998,
+    32.27723,
+    130.94503999999998,
+    32.27723
+],
+  "geometry": {"coordinates":[130.94503999999998,32.27723],"type":"Point"}
+}

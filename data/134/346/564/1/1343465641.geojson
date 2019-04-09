@@ -1,0 +1,75 @@
+{
+  "id": 1343465641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.60144,40.63877,140.60144,40.63877",
+    "geom:latitude":40.63877,
+    "geom:longitude":140.60144,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Nagasaki",
+    "gn:country_code":"JP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8511731,
+    "gn:latitude":40.63877,
+    "gn:longitude":140.60144,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagasaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u5d0e"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u3055\u304d",
+        "\u30ca\u30ac\u30b5\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8511731
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a888584033c058273f5d02e77595a52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1343465641,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343465641,
+    "wof:lastmodified":1537650992,
+    "wof:name":"Nagasaki",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.60144,
+    40.63877,
+    140.60144,
+    40.63877
+],
+  "geometry": {"coordinates":[140.60144,40.63877],"type":"Point"}
+}

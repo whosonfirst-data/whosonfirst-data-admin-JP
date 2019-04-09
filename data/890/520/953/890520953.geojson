@@ -1,0 +1,81 @@
+{
+  "id": 890520953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.14516,34.49237,136.14516,34.49237",
+    "geom:latitude":34.49237,
+    "geom:longitude":136.14516,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u5b87\u9640\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3060\u3050\u3093"
+    ],
+    "qs:name":"\u5b87\u9640\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5948\u826f\u770c",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":267,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849448,
+        "gp:id":24857435,
+        "qs:id":1201029,
+        "wd:id":"Q1131315",
+        "wk:page":"Uda District, Nara"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056178,
+    "wof:geomhash":"94fa8e9858c2d91576764b37ebc8a4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520953,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":890520953,
+    "wof:lastmodified":1527758439,
+    "wof:name":"\u5b87\u9640\u90e1",
+    "wof:parent_id":85672779,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.14516,
+    34.49237,
+    136.14516,
+    34.49237
+],
+  "geometry": {"coordinates":[136.14516,34.49237],"type":"Point"}
+}

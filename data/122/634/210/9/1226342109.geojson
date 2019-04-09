@@ -1,0 +1,75 @@
+{
+  "id": 1226342109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.98856,35.07477,139.98856,35.07477",
+    "geom:latitude":35.07477,
+    "geom:longitude":139.98856,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Kaizawa",
+    "gn:country_code":"JP",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109577,
+    "gn:latitude":35.07477,
+    "gn:longitude":139.98856,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kaizawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8c9d\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3044\u3056\u308f",
+        "\u30ab\u30a4\u30b6\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109577
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4b0819b044edb507013ff88b1b4e69ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1226342109,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226342109,
+    "wof:lastmodified":1537652274,
+    "wof:name":"Kaizawa",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.98856,
+    35.07477,
+    139.98856,
+    35.07477
+],
+  "geometry": {"coordinates":[139.98856000000001,35.07477],"type":"Point"}
+}

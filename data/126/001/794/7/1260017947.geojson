@@ -1,0 +1,75 @@
+{
+  "id": 1260017947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.51524,35.76965,139.51524,35.76965",
+    "geom:latitude":35.76965,
+    "geom:longitude":139.51524,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1859211.0",
+    "gn:asciiname":"Matsuyama",
+    "gn:country_code":"JP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907305,
+    "gn:latitude":35.76965,
+    "gn:longitude":139.51524,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Matsuyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u3084\u307e",
+        "\u30de\u30c4\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        890520719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907305
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"874b895cd42115f81e38d0993522f0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520719,
+            "locality_id":1260017947,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1260017947,
+    "wof:lastmodified":1537650350,
+    "wof:name":"Matsuyama",
+    "wof:parent_id":890520719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.51523999999998,
+    35.76965,
+    139.51523999999998,
+    35.76965
+],
+  "geometry": {"coordinates":[139.51523999999998,35.76965],"type":"Point"}
+}

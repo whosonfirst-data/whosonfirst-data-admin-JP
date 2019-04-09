@@ -1,0 +1,75 @@
+{
+  "id": 1277039157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.74881,32.62389,130.74881,32.62389",
+    "geom:latitude":32.62389,
+    "geom:longitude":130.74881,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Hanayama",
+    "gn:country_code":"JP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11175537,
+    "gn:latitude":32.62389,
+    "gn:longitude":130.74881,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hanayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u82b1\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u306a\u3084\u307e",
+        "\u30cf\u30ca\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175537
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3892872cf1c535213434ef82763befe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1277039157,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1277039157,
+    "wof:lastmodified":1537652485,
+    "wof:name":"Hanayama",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.74881000000002,
+    32.62389,
+    130.74881000000002,
+    32.62389
+],
+  "geometry": {"coordinates":[130.74881000000002,32.62389],"type":"Point"}
+}

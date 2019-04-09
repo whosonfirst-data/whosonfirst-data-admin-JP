@@ -1,0 +1,75 @@
+{
+  "id": 1243412851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.27423,32.42154,130.27423,32.42154",
+    "geom:latitude":32.42154,
+    "geom:longitude":130.27423,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Murakami",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11264772,
+    "gn:latitude":32.42154,
+    "gn:longitude":130.27423,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Murakami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6751\u4e0a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3080\u3089\u304b\u307f",
+        "\u30e0\u30e9\u30ab\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264772
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ae138a57409a271971e691a26b1569b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1243412851,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243412851,
+    "wof:lastmodified":1537652777,
+    "wof:name":"Murakami",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.27423000000002,
+    32.42154,
+    130.27423000000002,
+    32.42154
+],
+  "geometry": {"coordinates":[130.27423000000002,32.42154],"type":"Point"}
+}

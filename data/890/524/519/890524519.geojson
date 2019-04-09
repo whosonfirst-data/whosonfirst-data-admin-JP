@@ -1,0 +1,76 @@
+{
+  "id": 890524519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.36707,35.56517,140.36707,35.56517",
+    "geom:latitude":35.56517,
+    "geom:longitude":140.36707,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u6771\u91d1\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3046\u304c\u306d\u3057",
+        "\u6771\u91d1"
+    ],
+    "name:unk_x_variant":[
+        "T\u014dgane"
+    ],
+    "qs:name":"T\u014dgane-shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":314,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110773,
+        "qs:id":1028445,
+        "wd:id":"Q637913",
+        "wk:page":"T\u014dgane"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056342,
+    "wof:geomhash":"6b0f6594bae5cec262a5e71e3bfcde04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524519,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":890524519,
+    "wof:lastmodified":1527793085,
+    "wof:name":"T\u014dgane-shi",
+    "wof:parent_id":85672797,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.36707,
+    35.56517,
+    140.36707,
+    35.56517
+],
+  "geometry": {"coordinates":[140.36707000000001,35.56517],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242706875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.32552,34.05144,135.32552,34.05144",
+    "geom:latitude":34.05144,
+    "geom:longitude":135.32552,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"1865123.0",
+    "gn:admin3_code":"30366.0",
+    "gn:asciiname":"Iwanogawa",
+    "gn:country_code":"JP",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1861189,
+    "gn:latitude":34.05144,
+    "gn:longitude":135.32552,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Iwanogawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca9\u91ce\u6cb3"
+    ],
+    "name:und_x_variant":[
+        "Iwanokawa",
+        "Iwanogawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672795,
+        1108742647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861189
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0b5a4478408514252b3820110170b0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742647,
+            "locality_id":1242706875,
+            "region_id":85672795
+        }
+    ],
+    "wof:id":1242706875,
+    "wof:lastmodified":1537650218,
+    "wof:name":"Iwanogawa",
+    "wof:parent_id":1108742647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.32551999999998,
+    34.05144,
+    135.32551999999998,
+    34.05144
+],
+  "geometry": {"coordinates":[135.32551999999998,34.05144],"type":"Point"}
+}

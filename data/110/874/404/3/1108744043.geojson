@@ -1,0 +1,76 @@
+{
+  "id": 1108744043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":248160.555975,
+    "geom:bbox":"139.520273127,39.1786089794,139.526931489,39.187608173",
+    "geom:latitude":39.183311,
+    "geom:longitude":139.52369,
+    "iso:country":"JP",
+    "lbl:latitude":39.185326,
+    "lbl:longitude":139.522253,
+    "meso:admin_1":"Akita Ken",
+    "meso:gadm_admin":"NO DATA",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"NO DATA",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"06024",
+    "meso:mps_x":139.522253,
+    "meso:mps_y":39.185326,
+    "meso:name_alt":"Higashinaruse",
+    "meso:name_en":"Higashinaruse Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":39.185326,
+    "mps:longitude":139.522253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Higashinaruse"
+    ],
+    "name:eng_x_variant":[
+        "Higashinaruse Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152019,
+    "wof:geomhash":"f2c79b09775af587740f9b3a418b028b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744043,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1108744043,
+    "wof:lastmodified":1511300748,
+    "wof:name":"Higashinaruse",
+    "wof:parent_id":85672825,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108740085
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.5202731265367,
+    39.17860897937892,
+    139.52693148941447,
+    39.18760817295592
+],
+  "geometry": {"coordinates":[[[139.52027312653669,39.18677587759618],[139.52219780955622,39.18760817295592],[139.52391441873547,39.18604761915631],[139.52693148941447,39.18183412389784],[139.52547497253491,39.17876503475892],[139.52360230797566,39.17860897937892],[139.52360230797566,39.18126192083797],[139.52391441873547,39.18412293613695],[139.52126147727643,39.18344669615738],[139.52027312653669,39.18542339763668],[139.52027312653669,39.18677587759618]]],"type":"Polygon"}
+}

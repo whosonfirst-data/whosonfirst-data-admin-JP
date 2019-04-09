@@ -1,0 +1,76 @@
+{
+  "id": 1276239677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.94899,40.66111,139.94899,40.66111",
+    "geom:latitude":40.66111,
+    "geom:longitude":139.94899,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"8534376.0",
+    "gn:admin3_code":"2323.0",
+    "gn:asciiname":"Hiroto",
+    "gn:country_code":"JP",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050452,
+    "gn:latitude":40.66111,
+    "gn:longitude":139.94899,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hiroto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e83\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u308d\u3068",
+        "\u30d2\u30ed\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050452
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1c09fe557d8858c943dfedc6d33c07fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739881,
+            "locality_id":1276239677,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276239677,
+    "wof:lastmodified":1537650362,
+    "wof:name":"Hiroto",
+    "wof:parent_id":1108739881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.94898999999998,
+    40.66111,
+    139.94898999999998,
+    40.66111
+],
+  "geometry": {"coordinates":[139.94898999999998,40.66111],"type":"Point"}
+}

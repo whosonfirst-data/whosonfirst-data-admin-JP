@@ -1,0 +1,75 @@
+{
+  "id": 1293299749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.33063,41.02573,140.33063,41.02573",
+    "geom:latitude":41.02573,
+    "geom:longitude":140.33063,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130225.0",
+    "gn:asciiname":"Kinkogaku",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470476,
+    "gn:latitude":41.02573,
+    "gn:longitude":140.33063,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kinkogaku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7434\u6e56\u5cb3"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u3093\u3053\u304c\u304f",
+        "\u30ad\u30f3\u30b3\u30ac\u30af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890523933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470476
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fd335d8a19a71242d18452083473ccd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523933,
+            "locality_id":1293299749,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293299749,
+    "wof:lastmodified":1537650938,
+    "wof:name":"Kinkogaku",
+    "wof:parent_id":890523933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.33063,
+    41.02573,
+    140.33063,
+    41.02573
+],
+  "geometry": {"coordinates":[140.33063000000001,41.02573],"type":"Point"}
+}

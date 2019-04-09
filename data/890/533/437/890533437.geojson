@@ -1,0 +1,81 @@
+{
+  "id": 890533437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.89166,34.24421,132.89166,34.24421",
+    "geom:latitude":34.24421,
+    "geom:longitude":132.89166,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Toyota"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8c4a\u7530\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3088\u305f\u3050\u3093"
+    ],
+    "qs:name":"\u8c4a\u7530\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5e83\u5cf6\u770c",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":245,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849812,
+        "gp:id":24857167,
+        "qs:id":1286771
+    },
+    "wof:country":"JP",
+    "wof:created":1469056744,
+    "wof:geomhash":"0c475ebcc9fe5355ab047efda84978e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890533437,
+            "region_id":85672671
+        }
+    ],
+    "wof:id":890533437,
+    "wof:lastmodified":1505343932,
+    "wof:name":"\u8c4a\u7530\u90e1",
+    "wof:parent_id":85672671,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    132.89166,
+    34.24421,
+    132.89166,
+    34.24421
+],
+  "geometry": {"coordinates":[132.89166,34.24421],"type":"Point"}
+}

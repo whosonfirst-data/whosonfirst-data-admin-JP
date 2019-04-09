@@ -1,0 +1,76 @@
+{
+  "id": 1277038365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.86238,34.14325,133.86238,34.14325",
+    "geom:latitude":34.14325,
+    "geom:longitude":133.86238,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1855768.0",
+    "gn:admin3_code":"37406.0",
+    "gn:asciiname":"Kasuga",
+    "gn:country_code":"JP",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1859899,
+    "gn:latitude":34.14325,
+    "gn:longitude":133.86238,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kasuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6625\u65e5"
+    ],
+    "name:und_x_variant":[
+        "Shichika",
+        "Kasuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672715,
+        1108742907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859899
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ed06787e0521bbbe2a815dd6f60d4a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742907,
+            "locality_id":1277038365,
+            "region_id":85672715
+        }
+    ],
+    "wof:id":1277038365,
+    "wof:lastmodified":1537650183,
+    "wof:name":"Kasuga",
+    "wof:parent_id":1108742907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.86238,
+    34.14325,
+    133.86238,
+    34.14325
+],
+  "geometry": {"coordinates":[133.86238,34.14325],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226823047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.92321,32.84255,130.92321,32.84255",
+    "geom:latitude":32.84255,
+    "geom:longitude":130.92321,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864975.0",
+    "gn:admin3_code":"43432.0",
+    "gn:asciiname":"Kazate",
+    "gn:country_code":"JP",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11151230,
+    "gn:latitude":32.84255,
+    "gn:longitude":130.92321,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kazate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u98a8\u5f53"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3056\u3066",
+        "\u30ab\u30b6\u30c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11151230
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"93a59e590e096be5dab0147d33fe4e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743189,
+            "locality_id":1226823047,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226823047,
+    "wof:lastmodified":1537652430,
+    "wof:name":"Kazate",
+    "wof:parent_id":1108743189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.92321,
+    32.84255,
+    130.92321,
+    32.84255
+],
+  "geometry": {"coordinates":[130.92321000000001,32.84255],"type":"Point"}
+}

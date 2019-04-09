@@ -1,0 +1,75 @@
+{
+  "id": 1242935125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63439,35.2324,139.63439,35.2324",
+    "geom:latitude":35.2324,
+    "geom:longitude":139.63439,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848308.0",
+    "gn:asciiname":"Harashita",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8722602,
+    "gn:latitude":35.2324,
+    "gn:longitude":139.63439,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Harashita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f\u4e0b"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3089\u3057\u305f",
+        "\u30cf\u30e9\u30b7\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722602
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"abf9e6cf380b9d1e8e82568a129e4878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519941,
+            "locality_id":1242935125,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1242935125,
+    "wof:lastmodified":1537651265,
+    "wof:name":"Harashita",
+    "wof:parent_id":890519941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63439,
+    35.2324,
+    139.63439,
+    35.2324
+],
+  "geometry": {"coordinates":[139.63439,35.2324],"type":"Point"}
+}

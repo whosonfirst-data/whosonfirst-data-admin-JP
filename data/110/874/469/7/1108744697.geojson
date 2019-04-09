@@ -1,0 +1,78 @@
+{
+  "id": 1108744697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000553,
+    "geom:area_square_m":5764783.326542,
+    "geom:bbox":"139.754608154,31.8863151564,139.917828048,32.4723358154",
+    "geom:latitude":32.456275,
+    "geom:longitude":139.766481,
+    "iso:country":"JP",
+    "lbl:latitude":32.456162,
+    "lbl:longitude":139.766237,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Unknown7",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Aogasimamura",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13402",
+    "meso:mps_x":139.766237,
+    "meso:mps_y":32.456162,
+    "meso:name_alt":"Aogashima",
+    "meso:name_en":"Aogashima Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":32.456162,
+    "mps:longitude":139.766237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Aogashima"
+    ],
+    "name:eng_x_variant":[
+        "Aogasimamura",
+        "Unknown7",
+        "Aogashima Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152230,
+    "wof:geomhash":"2bf7530b80b05e5ba1c8e69e9b8a7b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744697,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108744697,
+    "wof:lastmodified":1511300754,
+    "wof:name":"Aogashima",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741781
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.754608154297,
+    31.88631515636128,
+    139.91782804789807,
+    32.47233581542972
+],
+  "geometry": {"coordinates":[[[[139.75770568847699,32.47233581542972],[139.76969909668,32.46786880493159],[139.77780151367202,32.45993423461908],[139.77980041503903,32.45759963989256],[139.78050231933602,32.44806671142577],[139.76919555664102,32.44200134277337],[139.76139831543,32.44506835937504],[139.75570678710901,32.44853210449216],[139.75460815429699,32.46893310546881],[139.75770568847699,32.47233581542972]]],[[[139.91755348258633,31.8869013904057],[139.91768705490017,31.8868049215122],[139.91782804789807,31.88653035620021],[139.91772415832077,31.88631515636128],[139.91762026874312,31.886374521834],[139.91753122053396,31.886374521834],[139.91741991027232,31.88651551483207],[139.91731602069493,31.88673813535516],[139.91755348258633,31.8869013904057]]]],"type":"MultiPolygon"}
+}

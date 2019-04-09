@@ -1,0 +1,75 @@
+{
+  "id": 1259900249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.75661,33.85712,130.75661,33.85712",
+    "geom:latitude":33.85712,
+    "geom:longitude":130.75661,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859306.0",
+    "gn:admin3_code":"40109.0",
+    "gn:asciiname":"Nishiojimachi",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10319192,
+    "gn:latitude":33.85712,
+    "gn:longitude":130.75661,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nishi\u014djimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u897f\u738b\u5b50\u753a"
+    ],
+    "name:und_x_variant":[
+        "Nishi\u014djimachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890523793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10319192
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"df822267bf8f0862ceb846da9a64d775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523793,
+            "locality_id":1259900249,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1259900249,
+    "wof:lastmodified":1537651851,
+    "wof:name":"Nishiojimachi",
+    "wof:parent_id":890523793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.75661000000002,
+    33.85712,
+    130.75661000000002,
+    33.85712
+],
+  "geometry": {"coordinates":[130.75661000000002,33.85712],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1192983553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.18888,35.36834,139.18888,35.36834",
+    "geom:latitude":35.36834,
+    "geom:longitude":139.18888,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1863429.0",
+    "gn:asciiname":"Shibusawa",
+    "gn:country_code":"JP",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852589,
+    "gn:latitude":35.36834,
+    "gn:longitude":139.18888,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shibusawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e0b\u6ca2"
+    ],
+    "name:und_x_variant":[
+        "Shibuzawa",
+        "Shibusawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852589
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a70d12feba5fb28ca5469ab04f3d749c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741789,
+            "locality_id":1192983553,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1192983553,
+    "wof:lastmodified":1537650000,
+    "wof:name":"Shibusawa",
+    "wof:parent_id":1108741789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.18888,
+    35.36834,
+    139.18888,
+    35.36834
+],
+  "geometry": {"coordinates":[139.18888000000001,35.36834],"type":"Point"}
+}

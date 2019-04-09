@@ -1,0 +1,84 @@
+{
+  "id": 890529697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.70867,33.19245,130.70867,33.19245",
+    "geom:latitude":33.19245,
+    "geom:longitude":130.70867,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u516b\u5973\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u3081\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Yame"
+    ],
+    "qs:name":"\u516b\u5973\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u798f\u5ca1\u770c",
+    "qs:photos":157,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":255,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1848579,
+        "gp:id":24857070,
+        "qs:id":1086062,
+        "wd:id":"Q1156374",
+        "wk:page":"Yame District, Fukuoka"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056565,
+    "wof:geomhash":"bd80d6fcd8eb279bf200dfbfeb1c6bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890529697,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":890529697,
+    "wof:lastmodified":1527770496,
+    "wof:name":"\u516b\u5973\u90e1",
+    "wof:parent_id":85672697,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.70867,
+    33.19245,
+    130.70867,
+    33.19245
+],
+  "geometry": {"coordinates":[130.70867000000001,33.19245],"type":"Point"}
+}

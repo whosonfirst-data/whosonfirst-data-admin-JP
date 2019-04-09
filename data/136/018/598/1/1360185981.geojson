@@ -1,0 +1,75 @@
+{
+  "id": 1360185981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.45562,40.84389,140.45562,40.84389",
+    "geom:latitude":40.84389,
+    "geom:longitude":140.45562,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130225.0",
+    "gn:asciiname":"Sakurada",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441995,
+    "gn:latitude":40.84389,
+    "gn:longitude":140.45562,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakurada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u685c\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304f\u3089\u3060",
+        "\u30b5\u30af\u30e9\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890523933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441995
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ce576529f4b7cba8cefe21133b426626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523933,
+            "locality_id":1360185981,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1360185981,
+    "wof:lastmodified":1537650907,
+    "wof:name":"Sakurada",
+    "wof:parent_id":890523933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.45561999999998,
+    40.84389,
+    140.45561999999998,
+    40.84389
+],
+  "geometry": {"coordinates":[140.45561999999998,40.84389],"type":"Point"}
+}

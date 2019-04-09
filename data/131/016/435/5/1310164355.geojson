@@ -1,0 +1,76 @@
+{
+  "id": 1310164355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.58858,33.01203,130.58858,33.01203",
+    "geom:latitude":33.01203,
+    "geom:longitude":130.58858,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850744.0",
+    "gn:admin3_code":"43369.0",
+    "gn:asciiname":"Fukino",
+    "gn:country_code":"JP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11335419,
+    "gn:latitude":33.01203,
+    "gn:longitude":130.58858,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fukino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5439\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u304d\u306e",
+        "\u30d5\u30ad\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335419
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b40cc326acb3da85d1600daf86ab23ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743173,
+            "locality_id":1310164355,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310164355,
+    "wof:lastmodified":1537652904,
+    "wof:name":"Fukino",
+    "wof:parent_id":1108743173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.58858,
+    33.01203,
+    130.58858,
+    33.01203
+],
+  "geometry": {"coordinates":[130.58858000000001,33.01203],"type":"Point"}
+}

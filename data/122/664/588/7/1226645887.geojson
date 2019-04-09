@@ -1,0 +1,75 @@
+{
+  "id": 1226645887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.89952,35.2955,139.89952,35.2955",
+    "geom:latitude":35.2955,
+    "geom:longitude":139.89952,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Isshiki",
+    "gn:country_code":"JP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11106661,
+    "gn:latitude":35.2955,
+    "gn:longitude":139.89952,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Isshiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e00\u8272"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3063\u3057\u304d",
+        "\u30a4\u30c3\u30b7\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11106661
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0734f44b73c4a3428dbeee648b4253ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1226645887,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226645887,
+    "wof:lastmodified":1537652240,
+    "wof:name":"Isshiki",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.89952,
+    35.2955,
+    139.89952,
+    35.2955
+],
+  "geometry": {"coordinates":[139.89952,35.2955],"type":"Point"}
+}

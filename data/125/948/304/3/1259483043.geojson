@@ -1,0 +1,75 @@
+{
+  "id": 1259483043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.32206,35.15401,140.32206,35.15401",
+    "geom:latitude":35.15401,
+    "geom:longitude":140.32206,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Shinkan",
+    "gn:country_code":"JP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111853,
+    "gn:latitude":35.15401,
+    "gn:longitude":140.32206,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u5b98"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3093\u304b\u3093",
+        "\u30b7\u30f3\u30ab\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111853
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6deef637db1cb8679512389e419dd3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1259483043,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259483043,
+    "wof:lastmodified":1537652287,
+    "wof:name":"Shinkan",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.32206000000002,
+    35.15401,
+    140.32206000000002,
+    35.15401
+],
+  "geometry": {"coordinates":[140.32206000000002,35.15401],"type":"Point"}
+}

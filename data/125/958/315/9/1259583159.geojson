@@ -1,0 +1,75 @@
+{
+  "id": 1259583159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.0279,35.13846,140.0279,35.13846",
+    "geom:latitude":35.13846,
+    "geom:longitude":140.0279,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Tsukebara",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171558,
+    "gn:latitude":35.13846,
+    "gn:longitude":140.0279,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsukebara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9644\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u3051\u3070\u3089",
+        "\u30c4\u30b1\u30d0\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171558
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8d60929f14f55ebac0d1f7b35f992e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1259583159,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259583159,
+    "wof:lastmodified":1537652442,
+    "wof:name":"Tsukebara",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.0279,
+    35.13845999999999,
+    140.0279,
+    35.13845999999999
+],
+  "geometry": {"coordinates":[140.02789999999999,35.13845999999999],"type":"Point"}
+}

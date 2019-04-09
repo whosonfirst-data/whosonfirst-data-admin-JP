@@ -1,0 +1,73 @@
+{
+  "id": 1209765809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.25,37.1,138.25,37.1",
+    "geom:latitude":37.1,
+    "geom:longitude":138.25,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"1860992.0",
+    "gn:asciiname":"Takada",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1851168,
+    "gn:latitude":37.1,
+    "gn:longitude":138.25,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takata",
+        "Takada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672849,
+        1108741839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851168
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cf9e13896eb00d0904c61117d26345fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741839,
+            "locality_id":1209765809,
+            "region_id":85672849
+        }
+    ],
+    "wof:id":1209765809,
+    "wof:lastmodified":1537649955,
+    "wof:name":"Takada",
+    "wof:parent_id":1108741839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.25,
+    37.1,
+    138.25,
+    37.1
+],
+  "geometry": {"coordinates":[138.25,37.1],"type":"Point"}
+}

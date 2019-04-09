@@ -1,0 +1,75 @@
+{
+  "id": 1360148795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.01443,39.41258,141.01443,39.41258",
+    "geom:latitude":39.41258,
+    "geom:longitude":141.01443,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Araizawa",
+    "gn:country_code":"JP",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439066,
+    "gn:latitude":39.41258,
+    "gn:longitude":141.01443,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Araizawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d17\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3089\u3044\u3056\u308f",
+        "\u30a2\u30e9\u30a4\u30b6\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439066
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"65b9194b37fe8934d8d5a0755db530c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1360148795,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1360148795,
+    "wof:lastmodified":1537650897,
+    "wof:name":"Araizawa",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.01443,
+    39.41258,
+    141.01443,
+    39.41258
+],
+  "geometry": {"coordinates":[141.01443,39.41258],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293174823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.23084,32.4428,130.23084,32.4428",
+    "geom:latitude":32.4428,
+    "geom:longitude":130.23084,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Yakeno",
+    "gn:country_code":"JP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265347,
+    "gn:latitude":32.4428,
+    "gn:longitude":130.23084,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yakeno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u713c\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u3051\u306e",
+        "\u30e4\u30b1\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265347
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d4422e818cde400601f84f3d978a4fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1293174823,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293174823,
+    "wof:lastmodified":1537652786,
+    "wof:name":"Yakeno",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.23084,
+    32.4428,
+    130.23084,
+    32.4428
+],
+  "geometry": {"coordinates":[130.23084,32.4428],"type":"Point"}
+}

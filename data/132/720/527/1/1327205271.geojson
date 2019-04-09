@@ -1,0 +1,74 @@
+{
+  "id": 1327205271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.01599,34.88117,135.01599,34.88117",
+    "geom:latitude":34.88117,
+    "geom:longitude":135.01599,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"7370812.0",
+    "gn:asciiname":"Nakatanicho",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290588,
+    "gn:latitude":34.88117,
+    "gn:longitude":135.01599,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakatanich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u8c37\u753a"
+    ],
+    "name:und_x_variant":[
+        "Nakatanich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672769,
+        890532975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290588
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7f44419ea905b4c1a9c264fa28bd0f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890532975,
+            "locality_id":1327205271,
+            "region_id":85672769
+        }
+    ],
+    "wof:id":1327205271,
+    "wof:lastmodified":1537651386,
+    "wof:name":"Nakatanicho",
+    "wof:parent_id":890532975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.01599,
+    34.88117,
+    135.01599,
+    34.88117
+],
+  "geometry": {"coordinates":[135.01598999999999,34.88117],"type":"Point"}
+}

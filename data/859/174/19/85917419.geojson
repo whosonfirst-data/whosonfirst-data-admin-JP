@@ -1,0 +1,114 @@
+{
+  "id": 85917419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":324243.282301,
+    "geom:bbox":"135.503997803,34.6682290727,135.510864258,34.6738762659",
+    "geom:latitude":34.671161,
+    "geom:longitude":135.507616,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":34.670268,
+    "lbl:longitude":135.506596,
+    "mps:latitude":34.671445,
+    "mps:longitude":135.50768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Dotonbori 1 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Doutonbori 1 Choume",
+        "Dotonbori 1 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u3069\u3046\u3068\u3093\u307c\u308a \uff11\u3061\u3087\u3046\u3081",
+        "\u9053\u9813\u5800 \uff11\u4e01\u76ee",
+        "\uff11\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":5466,
+    "qs:local_sum":82256,
+    "qs:localhoods":141,
+    "qs:name":"\uff11\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5927\u962a\u5e9c",
+    "qs:name_adm2":"\u4e2d\u592e\u533a",
+    "qs:name_en":"Dotonbori 1 Chome",
+    "qs:name_lau":"\u9053\u9813\u5800",
+    "qs:name_local":"\u5927\u962a\u5e02",
+    "qs:photo_max":68,
+    "qs:photo_sum":278,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345881,
+    "qs:woe_adm2":1118622,
+    "qs:woe_lau":28457671,
+    "qs:woe_local":15015370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672785,
+        102191569,
+        85632429,
+        102031439,
+        1108742439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28559696,
+        "qs:id":899170
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8632288d04c77d2c0aaefa2b11104b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742439,
+            "locality_id":102031439,
+            "neighbourhood_id":85917419,
+            "region_id":85672785
+        }
+    ],
+    "wof:id":85917419,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268938,
+    "wof:name":"\uff11\u4e01\u76ee",
+    "wof:parent_id":102031439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.50399780291002,
+    34.66822907272531,
+    135.51086425800014,
+    34.67387626590009
+],
+  "geometry": {"coordinates":[[[135.51086425800008,34.67387626590009],[135.51086425800014,34.67317644661792],[135.51086425800014,34.67161742868753],[135.51086425800014,34.66935854007518],[135.50869322735326,34.66935854100022],[135.50838358636253,34.66822907272531],[135.5081176760001,34.66822907433985],[135.50703216560191,34.66822907433985],[135.50674438499999,34.66822907660008],[135.50537109406042,34.66822907632688],[135.50537109400022,34.66879381212385],[135.50482833740091,34.66879381224615],[135.50468444799998,34.66879381280002],[135.50468444814607,34.66896876328994],[135.50468444814828,34.66935854520005],[135.50399780292656,34.66935854520005],[135.50399780291002,34.66970844601958],[135.50399780300017,34.67048799636137],[135.50399780300017,34.6716174339784],[135.50537109400022,34.67161743413988],[135.50537109400011,34.67387626439312],[135.5081176760001,34.67387626590009],[135.50869319846436,34.67387626171109],[135.51028873544271,34.67387626311218],[135.51086425800008,34.67387626590009]]],"type":"Polygon"}
+}

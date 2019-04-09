@@ -1,0 +1,75 @@
+{
+  "id": 1193260451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.06228,39.40259,141.06228,39.40259",
+    "geom:latitude":39.40259,
+    "geom:longitude":141.06228,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Hizatate",
+    "gn:country_code":"JP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438218,
+    "gn:latitude":39.40259,
+    "gn:longitude":141.06228,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hizatate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u819d\u7acb"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3056\u305f\u3066",
+        "\u30d2\u30b6\u30bf\u30c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438218
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"18e332f11465d3cb2a97294d8d64dec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1193260451,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1193260451,
+    "wof:lastmodified":1537650892,
+    "wof:name":"Hizatate",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.06228000000004,
+    39.40259,
+    141.06228000000004,
+    39.40259
+],
+  "geometry": {"coordinates":[141.06228000000004,39.40259],"type":"Point"}
+}

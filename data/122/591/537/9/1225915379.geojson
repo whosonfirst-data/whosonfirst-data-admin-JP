@@ -1,0 +1,75 @@
+{
+  "id": 1225915379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.10056,34.692,135.10056,34.692",
+    "geom:latitude":34.692,
+    "geom:longitude":135.10056,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1859161.0",
+    "gn:admin3_code":"28107.0",
+    "gn:asciiname":"Shirakawadai",
+    "gn:country_code":"JP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290175,
+    "gn:latitude":34.692,
+    "gn:longitude":135.10056,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shirakawadai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jbn_x_preferred":[
+        "Shirakawadai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u767d\u5ddd\u53f0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672769,
+        1108742503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290175
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fc6e9e233187e51ffddc0e4c493e02c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742503,
+            "locality_id":1225915379,
+            "region_id":85672769
+        }
+    ],
+    "wof:id":1225915379,
+    "wof:lastmodified":1537651378,
+    "wof:name":"Shirakawadai",
+    "wof:parent_id":1108742503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.10056,
+    34.692,
+    135.10056,
+    34.692
+],
+  "geometry": {"coordinates":[135.10056,34.692],"type":"Point"}
+}

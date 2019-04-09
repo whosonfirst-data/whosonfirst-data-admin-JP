@@ -1,0 +1,75 @@
+{
+  "id": 1310477845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.9012,34.35211,133.9012,34.35211",
+    "geom:latitude":34.35211,
+    "geom:longitude":133.9012,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1853186.0",
+    "gn:asciiname":"Oyabucho",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1853504,
+    "gn:latitude":34.35211,
+    "gn:longitude":133.9012,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cyabuch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u5c4b\u51a8\u753a"
+    ],
+    "name:und_x_variant":[
+        "\u014cyabuch\u014d",
+        "\u014cyabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672715,
+        890519683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853504
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6c48c20c7d74c55f438d64942df765a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519683,
+            "locality_id":1310477845,
+            "region_id":85672715
+        }
+    ],
+    "wof:id":1310477845,
+    "wof:lastmodified":1537650020,
+    "wof:name":"Oyabucho",
+    "wof:parent_id":890519683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.9012,
+    34.35211,
+    133.9012,
+    34.35211
+],
+  "geometry": {"coordinates":[133.90119999999999,34.35211],"type":"Point"}
+}

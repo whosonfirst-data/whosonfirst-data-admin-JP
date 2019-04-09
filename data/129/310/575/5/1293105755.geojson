@@ -1,0 +1,75 @@
+{
+  "id": 1293105755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.47803,40.40991,141.47803,40.40991",
+    "geom:latitude":40.40991,
+    "geom:longitude":141.47803,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130200.0",
+    "gn:asciiname":"Araya",
+    "gn:country_code":"JP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563485,
+    "gn:latitude":40.40991,
+    "gn:longitude":141.47803,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Araya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8352\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3089\u3084",
+        "\u30a2\u30e9\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563485
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7448c567044be88c77bc0aa6db56fb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520787,
+            "locality_id":1293105755,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293105755,
+    "wof:lastmodified":1537651132,
+    "wof:name":"Araya",
+    "wof:parent_id":890520787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.47803000000005,
+    40.40991,
+    141.47803000000005,
+    40.40991
+],
+  "geometry": {"coordinates":[141.47803000000005,40.40991],"type":"Point"}
+}

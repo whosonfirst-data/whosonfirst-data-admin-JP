@@ -1,0 +1,75 @@
+{
+  "id": 1293256373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.38447,32.51093,130.38447,32.51093",
+    "geom:latitude":32.51093,
+    "geom:longitude":130.38447,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Hamaguri",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265426,
+    "gn:latitude":32.51093,
+    "gn:longitude":130.38447,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hamaguri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u86e4"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u3050\u308a",
+        "\u30cf\u30de\u30b0\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265426
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"81d137df7b8ac02ffaf810af9f839be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1293256373,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293256373,
+    "wof:lastmodified":1537652790,
+    "wof:name":"Hamaguri",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.38447,
+    32.51093,
+    130.38447,
+    32.51093
+],
+  "geometry": {"coordinates":[130.38446999999999,32.51093],"type":"Point"}
+}

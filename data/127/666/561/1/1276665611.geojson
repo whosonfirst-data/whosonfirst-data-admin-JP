@@ -1,0 +1,76 @@
+{
+  "id": 1276665611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.91667,39.95,139.91667,39.95",
+    "geom:latitude":39.95,
+    "geom:longitude":139.91667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1854681.0",
+    "gn:asciiname":"Kakumazaki",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1860691,
+    "gn:latitude":39.95,
+    "gn:longitude":139.91667,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kakumazaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u89d2\u9593\u5d0e"
+    ],
+    "name:und_x_variant":[
+        "Kakumasaki",
+        "Kakumazaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        890524643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1860691
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4e49ef745646a504b87991a5531a3037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524643,
+            "locality_id":1276665611,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1276665611,
+    "wof:lastmodified":1537650205,
+    "wof:name":"Kakumazaki",
+    "wof:parent_id":890524643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.91666999999998,
+    39.95,
+    139.91666999999998,
+    39.95
+],
+  "geometry": {"coordinates":[139.91666999999998,39.95],"type":"Point"}
+}

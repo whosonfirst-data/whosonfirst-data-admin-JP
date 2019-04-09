@@ -1,0 +1,75 @@
+{
+  "id": 1293903835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.57411,33.62389,130.57411,33.62389",
+    "geom:latitude":33.62389,
+    "geom:longitude":130.57411,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859874.0",
+    "gn:admin3_code":"40342.0",
+    "gn:asciiname":"Okubo",
+    "gn:country_code":"JP",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10269673,
+    "gn:latitude":33.62389,
+    "gn:longitude":130.57411,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014ckubo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u4e45\u4fdd"
+    ],
+    "name:und_x_variant":[
+        "\u014ckubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10269673
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"492ee511b715a0899812ecb51f9eb3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743031,
+            "locality_id":1293903835,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1293903835,
+    "wof:lastmodified":1537651796,
+    "wof:name":"Okubo",
+    "wof:parent_id":1108743031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.57411000000002,
+    33.62389,
+    130.57411000000002,
+    33.62389
+],
+  "geometry": {"coordinates":[130.57411000000002,33.62389],"type":"Point"}
+}

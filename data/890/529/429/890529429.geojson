@@ -1,0 +1,79 @@
+{
+  "id": 890529429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.85,35.73333,139.85,35.73333",
+    "geom:latitude":35.73333,
+    "geom:longitude":139.85,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katsushika-ku"
+    ],
+    "name:eng_x_variant":[
+        "Katsushika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u845b\u98fe\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3064\u3057\u304b\u304f"
+    ],
+    "name:unk_x_variant":[
+        "Katsushika Ku"
+    ],
+    "qs:name":"Katsushika-ku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859779,
+        "qs:id":903690
+    },
+    "wof:country":"JP",
+    "wof:created":1469056556,
+    "wof:geomhash":"6549e8eee2496c87131d7244683c546a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741727,
+            "localadmin_id":890529429,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":890529429,
+    "wof:lastmodified":1505343929,
+    "wof:name":"Katsushika-ku",
+    "wof:parent_id":1108741727,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.85,
+    35.73333,
+    139.85,
+    35.73333
+],
+  "geometry": {"coordinates":[139.84999999999999,35.73333],"type":"Point"}
+}

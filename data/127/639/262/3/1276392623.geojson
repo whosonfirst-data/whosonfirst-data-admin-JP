@@ -1,0 +1,75 @@
+{
+  "id": 1276392623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.73317,35.84418,139.73317,35.84418",
+    "geom:latitude":35.84418,
+    "geom:longitude":139.73317,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859726.0",
+    "gn:asciiname":"Takeshita",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11034239,
+    "gn:latitude":35.84418,
+    "gn:longitude":139.73317,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takeshita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7af9\u4e0b"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3051\u3057\u305f",
+        "\u30bf\u30b1\u30b7\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034239
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"70a851aef83a0b3d33ad8eeec371b5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740423,
+            "locality_id":1276392623,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1276392623,
+    "wof:lastmodified":1537652128,
+    "wof:name":"Takeshita",
+    "wof:parent_id":1108740423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.73317,
+    35.84418,
+    139.73317,
+    35.84418
+],
+  "geometry": {"coordinates":[139.73317,35.84418],"type":"Point"}
+}

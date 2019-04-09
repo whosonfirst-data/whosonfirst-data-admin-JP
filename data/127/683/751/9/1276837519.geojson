@@ -1,0 +1,75 @@
+{
+  "id": 1276837519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.77129,32.0401,130.77129,32.0401",
+    "geom:latitude":32.0401,
+    "geom:longitude":130.77129,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Shimoura",
+    "gn:country_code":"JP",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10206315,
+    "gn:latitude":32.0401,
+    "gn:longitude":130.77129,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimoura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u6d66"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3082\u3046\u3089",
+        "\u30b7\u30e2\u30a6\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206315
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b1ffda30af8542a1f64b74b2729ad219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1276837519,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1276837519,
+    "wof:lastmodified":1537651668,
+    "wof:name":"Shimoura",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.77129,
+    32.0401,
+    130.77129,
+    32.0401
+],
+  "geometry": {"coordinates":[130.77128999999999,32.0401],"type":"Point"}
+}

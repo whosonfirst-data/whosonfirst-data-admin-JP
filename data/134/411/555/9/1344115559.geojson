@@ -1,0 +1,75 @@
+{
+  "id": 1344115559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.02647,32.19901,130.02647,32.19901",
+    "geom:latitude":32.19901,
+    "geom:longitude":130.02647,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Okahigashi",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11245614,
+    "gn:latitude":32.19901,
+    "gn:longitude":130.02647,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Okahigashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca1\u6771"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304b\u3072\u304c\u3057",
+        "\u30aa\u30ab\u30d2\u30ac\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245614
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b5e4d07041347847be5fbc2811394502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1344115559,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1344115559,
+    "wof:lastmodified":1537652737,
+    "wof:name":"Okahigashi",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.02647,
+    32.19900999999999,
+    130.02647,
+    32.19900999999999
+],
+  "geometry": {"coordinates":[130.02646999999999,32.19900999999999],"type":"Point"}
+}

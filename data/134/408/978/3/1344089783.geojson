@@ -1,0 +1,75 @@
+{
+  "id": 1344089783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.75259,34.01182,133.75259,34.01182",
+    "geom:latitude":34.01182,
+    "geom:longitude":133.75259,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"7406326.0",
+    "gn:asciiname":"Ikedacho-umaji",
+    "gn:country_code":"JP",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1849323,
+    "gn:latitude":34.01182,
+    "gn:longitude":133.75259,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikedach\u014d-umaji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c60\u7530\u753a\u99ac\u8def"
+    ],
+    "name:und_x_variant":[
+        "Ikedach\u014d-umaji",
+        "Umaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672729,
+        890524147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849323
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"282f5a78dd9b238195c92192f014d47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524147,
+            "locality_id":1344089783,
+            "region_id":85672729
+        }
+    ],
+    "wof:id":1344089783,
+    "wof:lastmodified":1537649909,
+    "wof:name":"Ikedacho-umaji",
+    "wof:parent_id":890524147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.75259,
+    34.01182,
+    133.75259,
+    34.01182
+],
+  "geometry": {"coordinates":[133.75259,34.01182],"type":"Point"}
+}

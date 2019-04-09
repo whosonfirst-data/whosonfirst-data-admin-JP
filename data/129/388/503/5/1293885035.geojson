@@ -1,0 +1,75 @@
+{
+  "id": 1293885035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.55419,40.687,140.55419,40.687",
+    "geom:latitude":40.687,
+    "geom:longitude":140.55419,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Kawakura",
+    "gn:country_code":"JP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506819,
+    "gn:latitude":40.687,
+    "gn:longitude":140.55419,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kawakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ddd\u5009"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u308f\u304f\u3089",
+        "\u30ab\u30ef\u30af\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506819
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"92da745de37301b881a91679403d69b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1293885035,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293885035,
+    "wof:lastmodified":1537650982,
+    "wof:name":"Kawakura",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.55418999999998,
+    40.687,
+    140.55418999999998,
+    40.687
+],
+  "geometry": {"coordinates":[140.55418999999998,40.687],"type":"Point"}
+}

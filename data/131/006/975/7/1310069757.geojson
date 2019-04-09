@@ -1,0 +1,76 @@
+{
+  "id": 1310069757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.7261,32.78939,130.7261,32.78939",
+    "geom:latitude":32.78939,
+    "geom:longitude":130.7261,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1858418.0",
+    "gn:admin3_code":"43101.0",
+    "gn:asciiname":"Kokubu",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209842,
+    "gn:latitude":32.78939,
+    "gn:longitude":130.7261,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kokubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u56fd\u5e9c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u304f\u3076",
+        "\u30b3\u30af\u30d6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209842
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ec4efee2b449692de883c234fc3460c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743155,
+            "locality_id":1310069757,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310069757,
+    "wof:lastmodified":1537652577,
+    "wof:name":"Kokubu",
+    "wof:parent_id":1108743155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.7261,
+    32.78939,
+    130.7261,
+    32.78939
+],
+  "geometry": {"coordinates":[130.7261,32.78939],"type":"Point"}
+}

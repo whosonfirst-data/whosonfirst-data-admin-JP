@@ -1,0 +1,78 @@
+{
+  "id": 1108744683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000371,
+    "geom:area_square_m":3780579.203784,
+    "geom:bbox":"139.268493652,34.5111351013,139.293106079,34.5344657898",
+    "geom:latitude":34.522546,
+    "geom:longitude":139.279282,
+    "iso:country":"JP",
+    "lbl:latitude":34.522612,
+    "lbl:longitude":139.278286,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Unknown7",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Tosimamura",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13362",
+    "meso:mps_x":139.278286,
+    "meso:mps_y":34.522612,
+    "meso:name_alt":"Toshima",
+    "meso:name_en":"Toshima Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.522612,
+    "mps:longitude":139.278286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Toshima"
+    ],
+    "name:eng_x_variant":[
+        "Tosimamura",
+        "Unknown7",
+        "Toshima Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152226,
+    "wof:geomhash":"8a227e4896435469028d1b2c98f70e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744683,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108744683,
+    "wof:lastmodified":1511300753,
+    "wof:name":"Toshima",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741767
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.26849365234403,
+    34.51113510131842,
+    139.29310607910202,
+    34.53446578979486
+],
+  "geometry": {"coordinates":[[[139.26849365234403,34.52706527709958],[139.27529907226602,34.53213500976561],[139.27969360351602,34.53206634521477],[139.28030395507804,34.53446578979486],[139.28080749511693,34.53440093994137],[139.28059387206997,34.53206634521477],[139.28309631347702,34.53206634521477],[139.28410339355503,34.53200149536128],[139.28820800781301,34.53053283691407],[139.29310607910202,34.5242004394531],[139.28199768066403,34.51246643066412],[139.27529907226602,34.51113510131842],[139.26849365234403,34.51653289794924],[139.26849365234403,34.52706527709958]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344115597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.01244,32.92093,131.01244,32.92093",
+    "geom:latitude":32.92093,
+    "geom:longitude":131.01244,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864973.0",
+    "gn:asciiname":"Binkaki",
+    "gn:country_code":"JP",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11223723,
+    "gn:latitude":32.92093,
+    "gn:longitude":131.01244,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Binkaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9b22\u63bb"
+    ],
+    "name:jpn_x_variant":[
+        "\u3073\u3093\u304b\u304d",
+        "\u30d3\u30f3\u30ab\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223723
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"64b8a3ad0e9c75b7e99e7ad58f836fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743159,
+            "locality_id":1344115597,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1344115597,
+    "wof:lastmodified":1537652624,
+    "wof:name":"Binkaki",
+    "wof:parent_id":1108743159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.01244,
+    32.92093,
+    131.01244,
+    32.92093
+],
+  "geometry": {"coordinates":[131.01244,32.92093],"type":"Point"}
+}

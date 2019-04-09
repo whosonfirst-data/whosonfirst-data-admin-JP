@@ -1,0 +1,76 @@
+{
+  "id": 1243327697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.62077,32.96995,130.62077,32.96995",
+    "geom:latitude":32.96995,
+    "geom:longitude":130.62077,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1850744.0",
+    "gn:admin3_code":"43369.0",
+    "gn:asciiname":"Makino",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11334799,
+    "gn:latitude":32.96995,
+    "gn:longitude":130.62077,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Makino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7267\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u304d\u306e",
+        "\u30de\u30ad\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334799
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fdac8dff918263d87acf141fc5745b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743173,
+            "locality_id":1243327697,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243327697,
+    "wof:lastmodified":1537652901,
+    "wof:name":"Makino",
+    "wof:parent_id":1108743173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.62077,
+    32.96995,
+    130.62077,
+    32.96995
+],
+  "geometry": {"coordinates":[130.62076999999999,32.96995],"type":"Point"}
+}

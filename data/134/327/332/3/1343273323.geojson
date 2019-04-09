@@ -1,0 +1,76 @@
+{
+  "id": 1343273323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59857,40.51635,140.59857,40.51635",
+    "geom:latitude":40.51635,
+    "geom:longitude":140.59857,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129224.0",
+    "gn:admin3_code":"2362.0",
+    "gn:asciiname":"Nigaki",
+    "gn:country_code":"JP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8515550,
+    "gn:latitude":40.51635,
+    "gn:longitude":140.59857,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nigaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u82e6\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u304c\u304d",
+        "\u30cb\u30ac\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8515550
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c2cbc90d44a55764f3a06ed2ef474e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739887,
+            "locality_id":1343273323,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343273323,
+    "wof:lastmodified":1537651003,
+    "wof:name":"Nigaki",
+    "wof:parent_id":1108739887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59857,
+    40.51635,
+    140.59857,
+    40.51635
+],
+  "geometry": {"coordinates":[140.59857,40.51635],"type":"Point"}
+}

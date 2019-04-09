@@ -1,0 +1,76 @@
+{
+  "id": 1243150657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.89625,36.38614,138.89625,36.38614",
+    "geom:latitude":36.38614,
+    "geom:longitude":138.89625,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1850994.0",
+    "gn:asciiname":"Shimomurodamachi",
+    "gn:country_code":"JP",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852247,
+    "gn:latitude":36.38614,
+    "gn:longitude":138.89625,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimomurodamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u5ba4\u7530\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shimo-murota",
+        "Shimo-muroda",
+        "Shimomurodamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672871,
+        1108740361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852247
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"94c5f8345b5acfeef2c535470b7f54a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740361,
+            "locality_id":1243150657,
+            "region_id":85672871
+        }
+    ],
+    "wof:id":1243150657,
+    "wof:lastmodified":1537649988,
+    "wof:name":"Shimomurodamachi",
+    "wof:parent_id":1108740361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.89625,
+    36.38614000000001,
+    138.89625,
+    36.38614000000001
+],
+  "geometry": {"coordinates":[138.89625000000001,36.38614000000001],"type":"Point"}
+}

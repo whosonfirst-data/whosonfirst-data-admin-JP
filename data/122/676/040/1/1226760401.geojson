@@ -1,0 +1,75 @@
+{
+  "id": 1226760401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.06905,39.66349,140.06905,39.66349",
+    "geom:latitude":39.66349,
+    "geom:longitude":140.06905,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Takinoshita",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8314008,
+    "gn:latitude":39.66349,
+    "gn:longitude":140.06905,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takinoshita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6edd\u30ce\u4e0b"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304d\u306e\u3057\u305f",
+        "\u30bf\u30ad\u30ce\u30b7\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8314008
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"df0bc05298f3610fcae8f4d04eb3a1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1226760401,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1226760401,
+    "wof:lastmodified":1537650736,
+    "wof:name":"Takinoshita",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.06905,
+    39.66349,
+    140.06905,
+    39.66349
+],
+  "geometry": {"coordinates":[140.06905,39.66349],"type":"Point"}
+}

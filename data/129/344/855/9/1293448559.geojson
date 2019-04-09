@@ -1,0 +1,75 @@
+{
+  "id": 1293448559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.59777,32.67245,130.59777,32.67245",
+    "geom:latitude":32.67245,
+    "geom:longitude":130.59777,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1849062.0",
+    "gn:asciiname":"Ibushi",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11172945,
+    "gn:latitude":32.67245,
+    "gn:longitude":130.59777,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ibushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u732a\u4f0f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3076\u3057",
+        "\u30a4\u30d6\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890523281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172945
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1b4f46015d27a11693fba88bd0669a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523281,
+            "locality_id":1293448559,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293448559,
+    "wof:lastmodified":1537652459,
+    "wof:name":"Ibushi",
+    "wof:parent_id":890523281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.59777,
+    32.67245,
+    130.59777,
+    32.67245
+],
+  "geometry": {"coordinates":[130.59777,32.67245],"type":"Point"}
+}

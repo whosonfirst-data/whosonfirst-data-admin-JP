@@ -1,0 +1,75 @@
+{
+  "id": 1310029169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.29279,35.14818,140.29279,35.14818",
+    "geom:latitude":35.14818,
+    "geom:longitude":140.29279,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Matsube",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111862,
+    "gn:latitude":35.14818,
+    "gn:longitude":140.29279,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Matsube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u90e8"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u3079",
+        "\u30de\u30c4\u30d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111862
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"08ee99a56fec7cefd7b08bb97ec348df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1310029169,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310029169,
+    "wof:lastmodified":1537652287,
+    "wof:name":"Matsube",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.29279,
+    35.14818,
+    140.29279,
+    35.14818
+],
+  "geometry": {"coordinates":[140.29279,35.14818],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293653147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.06699,39.3832,141.06699,39.3832",
+    "geom:latitude":39.3832,
+    "geom:longitude":141.06699,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Kamineko",
+    "gn:country_code":"JP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438113,
+    "gn:latitude":39.3832,
+    "gn:longitude":141.06699,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamineko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u6839\u5b50"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u306d\u3053",
+        "\u30ab\u30df\u30cd\u30b3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438113
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5695b88c7c0b250287eff560a694a2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1293653147,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1293653147,
+    "wof:lastmodified":1537650887,
+    "wof:name":"Kamineko",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.06699,
+    39.3832,
+    141.06699,
+    39.3832
+],
+  "geometry": {"coordinates":[141.06699,39.3832],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259591225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.86581,40.41108,140.86581,40.41108",
+    "geom:latitude":40.41108,
+    "geom:longitude":140.86581,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2129594.0",
+    "gn:admin3_code":"5303.0",
+    "gn:asciiname":"Hakka",
+    "gn:country_code":"JP",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2130192,
+    "gn:latitude":40.41108,
+    "gn:longitude":140.86581,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hakka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u767a\u8377"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3063\u304b",
+        "\u30cf\u30c3\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2130192
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1ac43d7eb2d1cf968f4add44959454c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740059,
+            "locality_id":1259591225,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1259591225,
+    "wof:lastmodified":1537650565,
+    "wof:name":"Hakka",
+    "wof:parent_id":1108740059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.86581,
+    40.41108,
+    140.86581,
+    40.41108
+],
+  "geometry": {"coordinates":[140.86581000000001,40.41108],"type":"Point"}
+}

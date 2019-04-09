@@ -1,0 +1,75 @@
+{
+  "id": 1225856171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.32151,40.76761,140.32151,40.76761",
+    "geom:latitude":40.76761,
+    "geom:longitude":140.32151,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439944.0",
+    "gn:asciiname":"Tsurubami",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475166,
+    "gn:latitude":40.76761,
+    "gn:longitude":140.32151,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsurubami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9db4\u55b0"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u308b\u3070\u307f",
+        "\u30c4\u30eb\u30d0\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475166
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d6bddc47349d2d033130706180931d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520599,
+            "locality_id":1225856171,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1225856171,
+    "wof:lastmodified":1537650949,
+    "wof:name":"Tsurubami",
+    "wof:parent_id":890520599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.32151000000002,
+    40.76761,
+    140.32151000000002,
+    40.76761
+],
+  "geometry": {"coordinates":[140.32151000000002,40.76761],"type":"Point"}
+}

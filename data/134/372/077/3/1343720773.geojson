@@ -1,0 +1,78 @@
+{
+  "id": 1343720773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.77921,33.00667,130.77921,33.00667",
+    "geom:latitude":33.00667,
+    "geom:longitude":130.77921,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Zugo",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11326109,
+    "gn:latitude":33.00667,
+    "gn:longitude":130.77921,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zug\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u982d\u5408"
+    ],
+    "name:jpn_x_variant":[
+        "\u305a\u3054\u3046",
+        "\u30ba\u30b4\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Zug\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11326109
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a1da89cec30918a737bee2b0a2e497a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1343720773,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343720773,
+    "wof:lastmodified":1537652877,
+    "wof:name":"Zugo",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.77921,
+    33.00667,
+    130.77921,
+    33.00667
+],
+  "geometry": {"coordinates":[130.77921000000001,33.00667],"type":"Point"}
+}

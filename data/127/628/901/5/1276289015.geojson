@@ -1,0 +1,75 @@
+{
+  "id": 1276289015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.29047,38.49585,141.29047,38.49585",
+    "geom:latitude":38.49585,
+    "geom:longitude":141.29047,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2112574.0",
+    "gn:asciiname":"Funato",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311287,
+    "gn:latitude":38.49585,
+    "gn:longitude":141.29047,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Funato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u821f\u6e21"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u306a\u3068",
+        "\u30d5\u30ca\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672843,
+        1108739999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311287
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cf0d285434bde61fbe5e85b778b5eebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739999,
+            "locality_id":1276289015,
+            "region_id":85672843
+        }
+    ],
+    "wof:id":1276289015,
+    "wof:lastmodified":1537650682,
+    "wof:name":"Funato",
+    "wof:parent_id":1108739999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.29047,
+    38.49585,
+    141.29047,
+    38.49585
+],
+  "geometry": {"coordinates":[141.29047,38.49585],"type":"Point"}
+}

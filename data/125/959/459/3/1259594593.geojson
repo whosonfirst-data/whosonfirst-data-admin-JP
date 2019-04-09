@@ -1,0 +1,75 @@
+{
+  "id": 1259594593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.73378,40.80069,140.73378,40.80069",
+    "geom:latitude":40.80069,
+    "geom:longitude":140.73378,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Maeda",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506047,
+    "gn:latitude":40.80069,
+    "gn:longitude":140.73378,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u524d\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3048\u3060",
+        "\u30de\u30a8\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506047
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"21d28e47debc83fa4767acc34347a6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1259594593,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259594593,
+    "wof:lastmodified":1537650972,
+    "wof:name":"Maeda",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.73378,
+    40.80069,
+    140.73378,
+    40.80069
+],
+  "geometry": {"coordinates":[140.73378,40.80069],"type":"Point"}
+}

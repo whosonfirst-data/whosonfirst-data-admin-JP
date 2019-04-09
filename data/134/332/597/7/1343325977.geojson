@@ -1,0 +1,75 @@
+{
+  "id": 1343325977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.51766,32.61763,130.51766,32.61763",
+    "geom:latitude":32.61763,
+    "geom:longitude":130.51766,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Maegoshi",
+    "gn:country_code":"JP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11174463,
+    "gn:latitude":32.61763,
+    "gn:longitude":130.51766,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maegoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u524d\u8d8a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3048\u3054\u3057",
+        "\u30de\u30a8\u30b4\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174463
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"66e6aef247d14402b183e32434dcb9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1343325977,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343325977,
+    "wof:lastmodified":1537652470,
+    "wof:name":"Maegoshi",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.51766,
+    32.61763,
+    130.51766,
+    32.61763
+],
+  "geometry": {"coordinates":[130.51766000000001,32.61763],"type":"Point"}
+}

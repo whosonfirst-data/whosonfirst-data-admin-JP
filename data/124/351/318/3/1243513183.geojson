@@ -1,0 +1,75 @@
+{
+  "id": 1243513183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.75788,33.06038,130.75788,33.06038",
+    "geom:latitude":33.06038,
+    "geom:longitude":130.75788,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Obata",
+    "gn:country_code":"JP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11334385,
+    "gn:latitude":33.06038,
+    "gn:longitude":130.75788,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Obata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u7551"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3070\u305f",
+        "\u30aa\u30d0\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334385
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ff6e231e17d50e1b32778a1d4656f1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1243513183,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243513183,
+    "wof:lastmodified":1537652899,
+    "wof:name":"Obata",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.75788,
+    33.06038,
+    130.75788,
+    33.06038
+],
+  "geometry": {"coordinates":[130.75788,33.06038],"type":"Point"}
+}

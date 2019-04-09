@@ -1,0 +1,76 @@
+{
+  "id": 1344122623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.91251,30.83358,129.91251,30.83358",
+    "geom:latitude":30.83358,
+    "geom:longitude":129.91251,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"7383998.0",
+    "gn:admin3_code":"46303.0",
+    "gn:asciiname":"Katatomari",
+    "gn:country_code":"JP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859825,
+    "gn:latitude":30.83358,
+    "gn:longitude":129.91251,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Katatomari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7247\u6cca"
+    ],
+    "name:und_x_variant":[
+        "Katadomari",
+        "Katatomari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859825
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7698f8c85e8712f3b25d00aa1ba23a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743317,
+            "locality_id":1344122623,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1344122623,
+    "wof:lastmodified":1537650182,
+    "wof:name":"Katatomari",
+    "wof:parent_id":1108743317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.91251,
+    30.83358,
+    129.91251,
+    30.83358
+],
+  "geometry": {"coordinates":[129.91251,30.83358],"type":"Point"}
+}

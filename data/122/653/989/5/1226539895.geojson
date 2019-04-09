@@ -1,0 +1,75 @@
+{
+  "id": 1226539895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.99904,35.26735,139.99904,35.26735",
+    "geom:latitude":35.26735,
+    "geom:longitude":139.99904,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Nittone",
+    "gn:country_code":"JP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078934,
+    "gn:latitude":35.26735,
+    "gn:longitude":139.99904,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nittone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u6e21\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3063\u3068\u306d",
+        "\u30cb\u30c3\u30c8\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078934
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3b57f0742836cb5990a96d7c164bfbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1226539895,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226539895,
+    "wof:lastmodified":1537652201,
+    "wof:name":"Nittone",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.99903999999998,
+    35.26735,
+    139.99903999999998,
+    35.26735
+],
+  "geometry": {"coordinates":[139.99903999999998,35.26735],"type":"Point"}
+}

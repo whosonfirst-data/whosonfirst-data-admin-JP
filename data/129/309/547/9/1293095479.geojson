@@ -1,0 +1,75 @@
+{
+  "id": 1293095479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.74444,33.87843,130.74444,33.87843",
+    "geom:latitude":33.87843,
+    "geom:longitude":130.74444,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859306.0",
+    "gn:admin3_code":"40109.0",
+    "gn:asciiname":"Dohokumachi",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311710,
+    "gn:latitude":33.87843,
+    "gn:longitude":130.74444,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"D\u014dhokumachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d1e\u5317\u753a"
+    ],
+    "name:und_x_variant":[
+        "D\u014dhokumachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890523793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311710
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"60fa0f0cde18a2faaf7b6b526ed0fbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523793,
+            "locality_id":1293095479,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1293095479,
+    "wof:lastmodified":1537651819,
+    "wof:name":"Dohokumachi",
+    "wof:parent_id":890523793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.74444,
+    33.87843,
+    130.74444,
+    33.87843
+],
+  "geometry": {"coordinates":[130.74444,33.87843],"type":"Point"}
+}

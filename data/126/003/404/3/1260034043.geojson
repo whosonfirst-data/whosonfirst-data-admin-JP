@@ -1,0 +1,77 @@
+{
+  "id": 1260034043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.70454,33.11865,129.70454,33.11865",
+    "geom:latitude":33.11865,
+    "geom:longitude":129.70454,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"1852895.0",
+    "gn:asciiname":"Koionoura",
+    "gn:country_code":"JP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859039,
+    "gn:latitude":33.11865,
+    "gn:longitude":129.70454,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koionoura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u5eb5\u30ce\u6d66"
+    ],
+    "name:und_x_variant":[
+        "Ko-ionda",
+        "Koiorinoura",
+        "Ko-ionoura",
+        "Koionoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672857,
+        1108743133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859039
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8def398d245d5b60f4b4cf98016207f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743133,
+            "locality_id":1260034043,
+            "region_id":85672857
+        }
+    ],
+    "wof:id":1260034043,
+    "wof:lastmodified":1537650157,
+    "wof:name":"Koionoura",
+    "wof:parent_id":1108743133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.70453999999998,
+    33.11865,
+    129.70453999999998,
+    33.11865
+],
+  "geometry": {"coordinates":[129.70453999999998,33.11865],"type":"Point"}
+}

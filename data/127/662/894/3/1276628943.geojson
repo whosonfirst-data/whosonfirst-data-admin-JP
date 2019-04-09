@@ -1,0 +1,75 @@
+{
+  "id": 1276628943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.87796,33.02144,130.87796,33.02144",
+    "geom:latitude":33.02144,
+    "geom:longitude":130.87796,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Matsugahana",
+    "gn:country_code":"JP",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11229738,
+    "gn:latitude":33.02144,
+    "gn:longitude":130.87796,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Matsugahana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u30f6\u82b1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u304c\u306f\u306a",
+        "\u30de\u30c4\u30ac\u30cf\u30ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229738
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5a510233da3e000041a10bdfed575560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1276628943,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276628943,
+    "wof:lastmodified":1537652641,
+    "wof:name":"Matsugahana",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.87796,
+    33.02144000000001,
+    130.87796,
+    33.02144000000001
+],
+  "geometry": {"coordinates":[130.87796,33.02144000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259344785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.65651,35.16942,139.65651,35.16942",
+    "geom:latitude":35.16942,
+    "geom:longitude":139.65651,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1856849.0",
+    "gn:asciiname":"Hiruta",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11056813,
+    "gn:latitude":35.16942,
+    "gn:longitude":139.65651,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hiruta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u86ed\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u308b\u305f",
+        "\u30d2\u30eb\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056813
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2c2087adf91ba2d0e0c5977a34b6b195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519685,
+            "locality_id":1259344785,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1259344785,
+    "wof:lastmodified":1537652145,
+    "wof:name":"Hiruta",
+    "wof:parent_id":890519685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.65651,
+    35.16942,
+    139.65651,
+    35.16942
+],
+  "geometry": {"coordinates":[139.65651,35.16942],"type":"Point"}
+}

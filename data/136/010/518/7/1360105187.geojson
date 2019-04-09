@@ -1,0 +1,76 @@
+{
+  "id": 1360105187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.39219,33.15877,130.39219,33.15877",
+    "geom:latitude":33.15877,
+    "geom:longitude":130.39219,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1848572.0",
+    "gn:asciiname":"Okinohatamachi",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1854336,
+    "gn:latitude":33.15877,
+    "gn:longitude":130.39219,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Okinohatamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c96\u7aef\u753a"
+    ],
+    "name:und_x_variant":[
+        "Okinohata",
+        "Okinoha",
+        "Okinohatamachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890524587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1854336
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"56fe07601109980ff13552b0b4fb7d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524587,
+            "locality_id":1360105187,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1360105187,
+    "wof:lastmodified":1537650038,
+    "wof:name":"Okinohatamachi",
+    "wof:parent_id":890524587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.39219,
+    33.15877,
+    130.39219,
+    33.15877
+],
+  "geometry": {"coordinates":[130.39219,33.15877],"type":"Point"}
+}

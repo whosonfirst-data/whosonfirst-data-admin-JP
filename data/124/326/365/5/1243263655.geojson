@@ -1,0 +1,75 @@
+{
+  "id": 1243263655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.91396,35.28872,139.91396,35.28872",
+    "geom:latitude":35.28872,
+    "geom:longitude":139.91396,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Kamata",
+    "gn:country_code":"JP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11078612,
+    "gn:latitude":35.28872,
+    "gn:longitude":139.91396,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u938c\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307e\u305f",
+        "\u30ab\u30de\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078612
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"51179ed2b7db285c5c643372e9b03edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1243263655,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243263655,
+    "wof:lastmodified":1537652192,
+    "wof:name":"Kamata",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.91396,
+    35.28872,
+    139.91396,
+    35.28872
+],
+  "geometry": {"coordinates":[139.91396,35.28872],"type":"Point"}
+}

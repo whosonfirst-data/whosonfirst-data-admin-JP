@@ -1,0 +1,75 @@
+{
+  "id": 1243013011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.72037,35.85311,139.72037,35.85311",
+    "geom:latitude":35.85311,
+    "geom:longitude":139.72037,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"1859726.0",
+    "gn:asciiname":"Kubomae",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11034910,
+    "gn:latitude":35.85311,
+    "gn:longitude":139.72037,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kubomae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u4fdd\u524d"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u307c\u307e\u3048",
+        "\u30af\u30dc\u30de\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807,
+        1108740423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034910
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2f9c18976e69e6d18e0d7e40ead99264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740423,
+            "locality_id":1243013011,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1243013011,
+    "wof:lastmodified":1537652132,
+    "wof:name":"Kubomae",
+    "wof:parent_id":1108740423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.72037,
+    35.85311,
+    139.72037,
+    35.85311
+],
+  "geometry": {"coordinates":[139.72037,35.85311],"type":"Point"}
+}

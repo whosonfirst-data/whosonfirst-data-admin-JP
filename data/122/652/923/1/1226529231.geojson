@@ -1,0 +1,76 @@
+{
+  "id": 1226529231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.47165,43.04162,144.47165,43.04162",
+    "geom:latitude":43.04162,
+    "geom:longitude":144.47165,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2129373.0",
+    "gn:admin3_code":"1661.0",
+    "gn:asciiname":"Midori",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11474043,
+    "gn:latitude":43.04162,
+    "gn:longitude":144.47165,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Midori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7dd1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3069\u308a",
+        "\u30df\u30c9\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11474043
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1cc34d28c2368417afeb8bd7ba4abe6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739829,
+            "locality_id":1226529231,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1226529231,
+    "wof:lastmodified":1537652982,
+    "wof:name":"Midori",
+    "wof:parent_id":1108739829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.47165,
+    43.04162,
+    144.47165,
+    43.04162
+],
+  "geometry": {"coordinates":[144.47165000000001,43.04162],"type":"Point"}
+}

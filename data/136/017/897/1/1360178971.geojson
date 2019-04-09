@@ -1,0 +1,77 @@
+{
+  "id": 1360178971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.82146,33.89661,130.82146,33.89661",
+    "geom:latitude":33.89661,
+    "geom:longitude":130.82146,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1859306.0",
+    "gn:admin3_code":"40105.0",
+    "gn:asciiname":"Shioimachi",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852005,
+    "gn:latitude":33.89661,
+    "gn:longitude":130.82146,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shioimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c50\u4e95\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shioich\u014d",
+        "Shioizaki",
+        "Shioimachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890523793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852005
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a37c77878baf190e6999319cf40aa69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523793,
+            "locality_id":1360178971,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1360178971,
+    "wof:lastmodified":1537649979,
+    "wof:name":"Shioimachi",
+    "wof:parent_id":890523793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.82146,
+    33.89661,
+    130.82146,
+    33.89661
+],
+  "geometry": {"coordinates":[130.82146,33.89661],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226714117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.52571,32.1747,130.52571,32.1747",
+    "geom:latitude":32.1747,
+    "geom:longitude":130.52571,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1857206.0",
+    "gn:asciiname":"Kugino",
+    "gn:country_code":"JP",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10209501,
+    "gn:latitude":32.1747,
+    "gn:longitude":130.52571,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kugino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u6728\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u304e\u306e",
+        "\u30af\u30ae\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10209501
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"75c4d719e2ead5c6693ad11d7ad384e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743157,
+            "locality_id":1226714117,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226714117,
+    "wof:lastmodified":1537651690,
+    "wof:name":"Kugino",
+    "wof:parent_id":1108743157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.52571,
+    32.1747,
+    130.52571,
+    32.1747
+],
+  "geometry": {"coordinates":[130.52571,32.1747],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243146167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.92122,32.99605,130.92122,32.99605",
+    "geom:latitude":32.99605,
+    "geom:longitude":130.92122,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Imuta",
+    "gn:country_code":"JP",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11214423,
+    "gn:latitude":32.99605,
+    "gn:longitude":130.92122,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Imuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4f0a\u725f\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3080\u305f",
+        "\u30a4\u30e0\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214423
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"383fb48bd5561f25ab3ee23fc03281b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1243146167,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243146167,
+    "wof:lastmodified":1537652608,
+    "wof:name":"Imuta",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.92122,
+    32.99605,
+    130.92122,
+    32.99605
+],
+  "geometry": {"coordinates":[130.92122000000001,32.99605],"type":"Point"}
+}

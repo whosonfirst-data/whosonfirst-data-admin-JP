@@ -1,0 +1,76 @@
+{
+  "id": 1243130915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.75722,32.77791,130.75722,32.77791",
+    "geom:latitude":32.77791,
+    "geom:longitude":130.75722,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1858418.0",
+    "gn:admin3_code":"43102.0",
+    "gn:asciiname":"Shinsei",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209987,
+    "gn:latitude":32.77791,
+    "gn:longitude":130.75722,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinsei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u751f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3093\u305b\u3044",
+        "\u30b7\u30f3\u30bb\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209987
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"707e484ca481f61e1d67e4504fb4c033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743155,
+            "locality_id":1243130915,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243130915,
+    "wof:lastmodified":1537652584,
+    "wof:name":"Shinsei",
+    "wof:parent_id":1108743155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.75722,
+    32.77791,
+    130.75722,
+    32.77791
+],
+  "geometry": {"coordinates":[130.75721999999999,32.77791],"type":"Point"}
+}

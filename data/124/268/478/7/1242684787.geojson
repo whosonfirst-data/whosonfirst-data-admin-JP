@@ -1,0 +1,75 @@
+{
+  "id": 1242684787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.23701,40.57605,141.23701,40.57605",
+    "geom:latitude":40.57605,
+    "geom:longitude":141.23701,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Wajima",
+    "gn:country_code":"JP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550813,
+    "gn:latitude":40.57605,
+    "gn:longitude":141.23701,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Wajima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u548c\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u308f\u3058\u307e",
+        "\u30ef\u30b8\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550813
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"95632bfce6b87bc7c5ee495a32164256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1242684787,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1242684787,
+    "wof:lastmodified":1537651054,
+    "wof:name":"Wajima",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.23701,
+    40.57605,
+    141.23701,
+    40.57605
+],
+  "geometry": {"coordinates":[141.23701,40.57605],"type":"Point"}
+}

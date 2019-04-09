@@ -1,0 +1,75 @@
+{
+  "id": 1209926839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.21343,39.73274,140.21343,39.73274",
+    "geom:latitude":39.73274,
+    "geom:longitude":140.21343,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Horiuchi",
+    "gn:country_code":"JP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8321930,
+    "gn:latitude":39.73274,
+    "gn:longitude":140.21343,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Horiuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5800\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u308a\u3046\u3061",
+        "\u30db\u30ea\u30a6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8321930
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"12954bb1135637db5eaddd6d68d6fe4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1209926839,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1209926839,
+    "wof:lastmodified":1537650773,
+    "wof:name":"Horiuchi",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.21343000000002,
+    39.73274,
+    140.21343000000002,
+    39.73274
+],
+  "geometry": {"coordinates":[140.21343000000002,39.73274],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243041881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.66762,32.57037,130.66762,32.57037",
+    "geom:latitude":32.57037,
+    "geom:longitude":130.66762,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Kagamimachi-kamikagami",
+    "gn:country_code":"JP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1860856,
+    "gn:latitude":32.57037,
+    "gn:longitude":130.66762,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kagamimachi-kamikagami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u93e1\u753a\u4e0a\u93e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u304c\u307f\u307e\u3061\u304b\u307f\u304b\u304c\u307f",
+        "\u30ab\u30ac\u30df\u30de\u30c1\u30ab\u30df\u30ab\u30ac\u30df"
+    ],
+    "name:und_x_variant":[
+        "Kagami",
+        "Kagamimachi",
+        "Kagamimachi-kamikagami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1860856
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"aa0c3e0d569142d98e85976d280188f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1243041881,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243041881,
+    "wof:lastmodified":1537650209,
+    "wof:name":"Kagamimachi-kamikagami",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.66762,
+    32.57037,
+    130.66762,
+    32.57037
+],
+  "geometry": {"coordinates":[130.66762,32.57037],"type":"Point"}
+}

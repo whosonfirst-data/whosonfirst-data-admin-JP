@@ -1,0 +1,75 @@
+{
+  "id": 1309970171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.69387,33.06909,130.69387,33.06909",
+    "geom:latitude":33.06909,
+    "geom:longitude":130.69387,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Kanahori",
+    "gn:country_code":"JP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11334119,
+    "gn:latitude":33.06909,
+    "gn:longitude":130.69387,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kanahori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u5800"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u306a\u307b\u308a",
+        "\u30ab\u30ca\u30db\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334119
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"94a8b73b581feffbad4316600894e886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1309970171,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1309970171,
+    "wof:lastmodified":1537652895,
+    "wof:name":"Kanahori",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.69387,
+    33.06909,
+    130.69387,
+    33.06909
+],
+  "geometry": {"coordinates":[130.69387,33.06909],"type":"Point"}
+}

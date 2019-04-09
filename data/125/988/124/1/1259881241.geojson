@@ -1,0 +1,75 @@
+{
+  "id": 1259881241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.75257,40.82241,140.75257,40.82241",
+    "geom:latitude":40.82241,
+    "geom:longitude":140.75257,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Hashimoto",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2130135,
+    "gn:latitude":40.82241,
+    "gn:longitude":140.75257,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hashimoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6a4b\u672c"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3057\u3082\u3068",
+        "\u30cf\u30b7\u30e2\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2130135
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"31c9842b45cbc7692b170aa7e3cbf6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1259881241,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259881241,
+    "wof:lastmodified":1537650562,
+    "wof:name":"Hashimoto",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.75257,
+    40.82241,
+    140.75257,
+    40.82241
+],
+  "geometry": {"coordinates":[140.75256999999999,40.82241],"type":"Point"}
+}

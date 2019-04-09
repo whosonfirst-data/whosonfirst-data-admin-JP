@@ -1,0 +1,75 @@
+{
+  "id": 1242829393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.7561,32.05459,130.7561,32.05459",
+    "geom:latitude":32.05459,
+    "geom:longitude":130.7561,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Umeki",
+    "gn:country_code":"JP",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10204784,
+    "gn:latitude":32.05459,
+    "gn:longitude":130.7561,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Umeki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6885\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3081\u304d",
+        "\u30a6\u30e1\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10204784
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b250eb9fe14e3245ebb2e03619a813c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1242829393,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1242829393,
+    "wof:lastmodified":1537651658,
+    "wof:name":"Umeki",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.7561,
+    32.05459,
+    130.7561,
+    32.05459
+],
+  "geometry": {"coordinates":[130.7561,32.05459],"type":"Point"}
+}

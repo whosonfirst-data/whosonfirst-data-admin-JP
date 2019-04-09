@@ -1,0 +1,78 @@
+{
+  "id": 1276477325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.25827,35.16914,140.25827,35.16914",
+    "geom:latitude":35.16914,
+    "geom:longitude":140.25827,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Hoge",
+    "gn:country_code":"JP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112463,
+    "gn:latitude":35.16914,
+    "gn:longitude":140.25827,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"H\u014dge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6cd5\u82b1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3046\u3052",
+        "\u30db\u30a6\u30b2"
+    ],
+    "name:und_x_variant":[
+        "H\u014dge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112463
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7f2e573d8b7a72a7b60b9f7b870c78b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1276477325,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276477325,
+    "wof:lastmodified":1537652288,
+    "wof:name":"Hoge",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.25826999999998,
+    35.16914000000001,
+    140.25826999999998,
+    35.16914000000001
+],
+  "geometry": {"coordinates":[140.25826999999998,35.16914000000001],"type":"Point"}
+}

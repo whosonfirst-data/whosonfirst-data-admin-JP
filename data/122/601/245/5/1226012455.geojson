@@ -1,0 +1,75 @@
+{
+  "id": 1226012455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.41667,32.21667,131.41667,32.21667",
+    "geom:latitude":32.21667,
+    "geom:longitude":131.41667,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"1858599.0",
+    "gn:admin3_code":"45404.0",
+    "gn:asciiname":"Ishigawachi",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1861407,
+    "gn:latitude":32.21667,
+    "gn:longitude":131.41667,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ishigawachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishikawachi",
+        "Ishig\u014dchi",
+        "Ishigawachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861407
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"30abe16ae6bb185274604afdbfd801c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743283,
+            "locality_id":1226012455,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1226012455,
+    "wof:lastmodified":1537650225,
+    "wof:name":"Ishigawachi",
+    "wof:parent_id":1108743283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.41666999999998,
+    32.21667,
+    131.41666999999998,
+    32.21667
+],
+  "geometry": {"coordinates":[131.41666999999998,32.21667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226807813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.726,32.2382,130.726,32.2382",
+    "geom:latitude":32.2382,
+    "geom:longitude":130.726,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1862350.0",
+    "gn:asciiname":"Sagari",
+    "gn:country_code":"JP",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10208776,
+    "gn:latitude":32.2382,
+    "gn:longitude":130.726,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sagari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5d6f\u5ce8\u91cc"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304c\u308a",
+        "\u30b5\u30ac\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890520221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208776
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bef6d5951e171b3430b4ee7b30b20ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520221,
+            "locality_id":1226807813,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226807813,
+    "wof:lastmodified":1537651681,
+    "wof:name":"Sagari",
+    "wof:parent_id":890520221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.726,
+    32.2382,
+    130.726,
+    32.2382
+],
+  "geometry": {"coordinates":[130.726,32.2382],"type":"Point"}
+}

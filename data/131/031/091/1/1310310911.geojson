@@ -1,0 +1,75 @@
+{
+  "id": 1310310911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.29384,35.1877,140.29384,35.1877",
+    "geom:latitude":35.1877,
+    "geom:longitude":140.29384,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Shukudo",
+    "gn:country_code":"JP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112474,
+    "gn:latitude":35.1877,
+    "gn:longitude":140.29384,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shukudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bbf\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3085\u304f\u3069",
+        "\u30b7\u30e5\u30af\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112474
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"392ef333f221b7751e1c909d5862a555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1310310911,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310310911,
+    "wof:lastmodified":1537652289,
+    "wof:name":"Shukudo",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.29384,
+    35.1877,
+    140.29384,
+    35.1877
+],
+  "geometry": {"coordinates":[140.29383999999999,35.1877],"type":"Point"}
+}

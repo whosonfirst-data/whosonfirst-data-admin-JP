@@ -1,0 +1,76 @@
+{
+  "id": 1225850789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.23147,35.24651,140.23147,35.24651",
+    "geom:latitude":35.24651,
+    "geom:longitude":140.23147,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112557.0",
+    "gn:admin3_code":"12441.0",
+    "gn:asciiname":"Kouchi",
+    "gn:country_code":"JP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171757,
+    "gn:latitude":35.24651,
+    "gn:longitude":140.23147,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kouchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u5185"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3046\u3061",
+        "\u30b3\u30a6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171757
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"34908a8166003dc105c589fe3e8eaf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741673,
+            "locality_id":1225850789,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1225850789,
+    "wof:lastmodified":1537652451,
+    "wof:name":"Kouchi",
+    "wof:parent_id":1108741673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.23147,
+    35.24651,
+    140.23147,
+    35.24651
+],
+  "geometry": {"coordinates":[140.23147,35.24651],"type":"Point"}
+}

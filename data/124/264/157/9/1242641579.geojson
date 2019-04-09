@@ -1,0 +1,75 @@
+{
+  "id": 1242641579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.85667,33.00974,130.85667,33.00974",
+    "geom:latitude":33.00974,
+    "geom:longitude":130.85667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Shigemi",
+    "gn:country_code":"JP",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229487,
+    "gn:latitude":33.00974,
+    "gn:longitude":130.85667,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shigemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91cd\u5473"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3052\u307f",
+        "\u30b7\u30b2\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229487
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"54c13de181c647a0d29ba641b22a497d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1242641579,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1242641579,
+    "wof:lastmodified":1537652639,
+    "wof:name":"Shigemi",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.85667,
+    33.00974,
+    130.85667,
+    33.00974
+],
+  "geometry": {"coordinates":[130.85667000000001,33.00974],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309985783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.37387,42.97055,144.37387,42.97055",
+    "geom:latitude":42.97055,
+    "geom:longitude":144.37387,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2129370.0",
+    "gn:asciiname":"Yonemachi",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446450,
+    "gn:latitude":42.97055,
+    "gn:longitude":144.37387,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yonemachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7c73\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u306d\u307e\u3061",
+        "\u30e8\u30cd\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446450
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"28aef8403773d2426b6a544bffe3747e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739517,
+            "locality_id":1309985783,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1309985783,
+    "wof:lastmodified":1537652951,
+    "wof:name":"Yonemachi",
+    "wof:parent_id":1108739517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.37386999999995,
+    42.97055,
+    144.37386999999995,
+    42.97055
+],
+  "geometry": {"coordinates":[144.37386999999995,42.97055],"type":"Point"}
+}

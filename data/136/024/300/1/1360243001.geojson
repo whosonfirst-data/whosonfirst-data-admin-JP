@@ -1,0 +1,76 @@
+{
+  "id": 1360243001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.40592,34.31235,136.40592,34.31235",
+    "geom:latitude":34.31235,
+    "geom:longitude":136.40592,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"1848873.0",
+    "gn:admin3_code":"24471.0",
+    "gn:asciiname":"Kashiwano",
+    "gn:country_code":"JP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859914,
+    "gn:latitude":34.31235,
+    "gn:longitude":136.40592,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kashiwano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u67cf\u91ce"
+    ],
+    "name:und_x_variant":[
+        "Kashino",
+        "Kashiwano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672745,
+        1108742349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859914
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fc6c6fd71f7767b4f4e29a539723da5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742349,
+            "locality_id":1360243001,
+            "region_id":85672745
+        }
+    ],
+    "wof:id":1360243001,
+    "wof:lastmodified":1537650184,
+    "wof:name":"Kashiwano",
+    "wof:parent_id":1108742349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.40592,
+    34.31235,
+    136.40592,
+    34.31235
+],
+  "geometry": {"coordinates":[136.40592000000001,34.31235],"type":"Point"}
+}

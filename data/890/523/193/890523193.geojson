@@ -1,0 +1,84 @@
+{
+  "id": 890523193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.14419,41.52884,140.14419,41.52884",
+    "geom:latitude":41.52884,
+    "geom:longitude":140.14419,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u677e\u524d\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u307e\u3048\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Matsumae-gun"
+    ],
+    "qs:name":"\u677e\u524d\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5317\u6d77\u9053",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":142,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428093,
+        "gp:id":24853931,
+        "qs:id":320902,
+        "wd:id":"Q1145821",
+        "wk:page":"Matsumae District, Hokkaido"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056292,
+    "wof:geomhash":"94134e3d7479ca86334780e78945cbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523193,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":890523193,
+    "wof:lastmodified":1527793079,
+    "wof:name":"\u677e\u524d\u90e1",
+    "wof:parent_id":85672761,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.14419,
+    41.52884,
+    140.14419,
+    41.52884
+],
+  "geometry": {"coordinates":[140.14419000000001,41.52884],"type":"Point"}
+}

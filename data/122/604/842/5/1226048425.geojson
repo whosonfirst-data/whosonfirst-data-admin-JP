@@ -1,0 +1,78 @@
+{
+  "id": 1226048425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.04051,35.11698,140.04051,35.11698",
+    "geom:latitude":35.11698,
+    "geom:longitude":140.04051,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Sanno",
+    "gn:country_code":"JP",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171556,
+    "gn:latitude":35.11698,
+    "gn:longitude":140.04051,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sann\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u738b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3093\u306e\u3046",
+        "\u30b5\u30f3\u30ce\u30a6"
+    ],
+    "name:und_x_variant":[
+        "Sann\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171556
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"863d8d0697fd77058ad445675902e2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1226048425,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226048425,
+    "wof:lastmodified":1537652441,
+    "wof:name":"Sanno",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.04051,
+    35.11698,
+    140.04051,
+    35.11698
+],
+  "geometry": {"coordinates":[140.04051000000001,35.11698],"type":"Point"}
+}

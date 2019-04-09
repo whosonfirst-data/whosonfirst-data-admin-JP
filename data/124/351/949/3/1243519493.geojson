@@ -1,0 +1,76 @@
+{
+  "id": 1243519493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.06071,35.45872,139.06071,35.45872",
+    "geom:latitude":35.45872,
+    "geom:longitude":139.06071,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1865011.0",
+    "gn:admin3_code":"14364.0",
+    "gn:asciiname":"Hokizawa",
+    "gn:country_code":"JP",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907217,
+    "gn:latitude":35.45872,
+    "gn:longitude":139.06071,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"H\u014dkizawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7b92\u6ca2"
+    ],
+    "name:und_x_variant":[
+        "H\u014dkizawa",
+        "Hokizawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907217
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"75fd59ab9f7faeaca4269fd81a886212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741811,
+            "locality_id":1243519493,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1243519493,
+    "wof:lastmodified":1537650347,
+    "wof:name":"Hokizawa",
+    "wof:parent_id":1108741811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.06071,
+    35.45872,
+    139.06071,
+    35.45872
+],
+  "geometry": {"coordinates":[139.06071,35.45872],"type":"Point"}
+}

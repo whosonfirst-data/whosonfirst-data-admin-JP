@@ -1,0 +1,75 @@
+{
+  "id": 1259551049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.89137,32.04819,130.89137,32.04819",
+    "geom:latitude":32.04819,
+    "geom:longitude":130.89137,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Sayama",
+    "gn:country_code":"JP",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10205089,
+    "gn:latitude":32.04819,
+    "gn:longitude":130.89137,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4f50\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3084\u307e",
+        "\u30b5\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10205089
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f4599bf80d372d90bc5a6a5164c0fc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1259551049,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1259551049,
+    "wof:lastmodified":1537651663,
+    "wof:name":"Sayama",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.89137,
+    32.04819000000001,
+    130.89137,
+    32.04819000000001
+],
+  "geometry": {"coordinates":[130.89136999999999,32.04819000000001],"type":"Point"}
+}

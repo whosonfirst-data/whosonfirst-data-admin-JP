@@ -1,0 +1,75 @@
+{
+  "id": 1259341631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.45035,32.95602,130.45035,32.95602",
+    "geom:latitude":32.95602,
+    "geom:longitude":130.45035,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Mizuno",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274168,
+    "gn:latitude":32.95602,
+    "gn:longitude":130.45035,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mizuno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c34\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u305a\u306e",
+        "\u30df\u30ba\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274168
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2e321344c2cb79bcc3d9ad5f439ed601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1259341631,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259341631,
+    "wof:lastmodified":1537652830,
+    "wof:name":"Mizuno",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.45035,
+    32.95602,
+    130.45035,
+    32.95602
+],
+  "geometry": {"coordinates":[130.45034999999999,32.95602],"type":"Point"}
+}

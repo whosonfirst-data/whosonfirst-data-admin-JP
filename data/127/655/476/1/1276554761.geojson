@@ -1,0 +1,76 @@
+{
+  "id": 1276554761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.27152,40.41044,141.27152,40.41044",
+    "geom:latitude":40.41044,
+    "geom:longitude":141.27152,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2128302.0",
+    "gn:admin3_code":"2445.0",
+    "gn:asciiname":"Monzen",
+    "gn:country_code":"JP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561350,
+    "gn:latitude":40.41044,
+    "gn:longitude":141.27152,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Monzen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9580\u524d"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u3093\u305c\u3093",
+        "\u30e2\u30f3\u30bc\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561350
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"86f3e2e1312e0962e21d127b656257a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739933,
+            "locality_id":1276554761,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276554761,
+    "wof:lastmodified":1537651113,
+    "wof:name":"Monzen",
+    "wof:parent_id":1108739933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.27152,
+    40.41044,
+    141.27152,
+    40.41044
+],
+  "geometry": {"coordinates":[141.27152000000001,40.41044],"type":"Point"}
+}

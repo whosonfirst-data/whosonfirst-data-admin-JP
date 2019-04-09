@@ -1,0 +1,75 @@
+{
+  "id": 1276608503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.8495,32.0966,130.8495,32.0966",
+    "geom:latitude":32.0966,
+    "geom:longitude":130.8495,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Takano",
+    "gn:country_code":"JP",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10206393,
+    "gn:latitude":32.0966,
+    "gn:longitude":130.8495,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304b\u306e",
+        "\u30bf\u30ab\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206393
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a532889c6cef64bd5710e0f4a24ec6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1276608503,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1276608503,
+    "wof:lastmodified":1537651673,
+    "wof:name":"Takano",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.8495,
+    32.0966,
+    130.8495,
+    32.0966
+],
+  "geometry": {"coordinates":[130.84950000000001,32.0966],"type":"Point"}
+}

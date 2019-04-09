@@ -1,0 +1,75 @@
+{
+  "id": 1276955093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.88333,43.55,141.88333,43.55",
+    "geom:latitude":43.55,
+    "geom:longitude":141.88333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7428087.0",
+    "gn:admin3_code":"1432.0",
+    "gn:asciiname":"Kikusuicho",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2129558,
+    "gn:latitude":43.55,
+    "gn:longitude":141.88333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kikusuich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikusui",
+        "Kikusuimachi",
+        "Kikusuich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761,
+        1108739629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2129558
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"617295b4f3c4d828224466ebabb52c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739629,
+            "locality_id":1276955093,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":1276955093,
+    "wof:lastmodified":1537650532,
+    "wof:name":"Kikusuicho",
+    "wof:parent_id":1108739629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.88333,
+    43.55,
+    141.88333,
+    43.55
+],
+  "geometry": {"coordinates":[141.88333,43.55],"type":"Point"}
+}

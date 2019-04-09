@@ -1,0 +1,75 @@
+{
+  "id": 1259985629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.07708,35.28656,140.07708,35.28656",
+    "geom:latitude":35.28656,
+    "geom:longitude":140.07708,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Daimon",
+    "gn:country_code":"JP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11142518,
+    "gn:latitude":35.28656,
+    "gn:longitude":140.07708,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Daimon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u9580"
+    ],
+    "name:jpn_x_variant":[
+        "\u3060\u3044\u3082\u3093",
+        "\u30c0\u30a4\u30e2\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142518
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e3f2b831536ef51bfd0dcf57b238ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1259985629,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259985629,
+    "wof:lastmodified":1537652413,
+    "wof:name":"Daimon",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.07708,
+    35.28655999999999,
+    140.07708,
+    35.28655999999999
+],
+  "geometry": {"coordinates":[140.07708,35.28655999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293926691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.2004,35.43333,133.2004,35.43333",
+    "geom:latitude":35.43333,
+    "geom:longitude":133.2004,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"7392558.0",
+    "gn:asciiname":"Arashimacho",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865145,
+    "gn:latitude":35.43333,
+    "gn:longitude":133.2004,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Arashimach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8352\u5cf6\u753a"
+    ],
+    "name:und_x_variant":[
+        "Arashimach\u014d",
+        "Arashima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672679,
+        890520827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865145
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1a6fc4345a28cfb7f51352b50902b49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520827,
+            "locality_id":1293926691,
+            "region_id":85672679
+        }
+    ],
+    "wof:id":1293926691,
+    "wof:lastmodified":1537650325,
+    "wof:name":"Arashimacho",
+    "wof:parent_id":890520827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.2004,
+    35.43333,
+    133.2004,
+    35.43333
+],
+  "geometry": {"coordinates":[133.2004,35.43333],"type":"Point"}
+}

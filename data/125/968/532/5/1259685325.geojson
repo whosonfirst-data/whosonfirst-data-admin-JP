@@ -1,0 +1,75 @@
+{
+  "id": 1259685325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.86686,40.88937,140.86686,40.88937",
+    "geom:latitude":40.88937,
+    "geom:longitude":140.86686,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Asamushi",
+    "gn:country_code":"JP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2130620,
+    "gn:latitude":40.88937,
+    "gn:longitude":140.86686,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Asamushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d45\u866b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3055\u3080\u3057",
+        "\u30a2\u30b5\u30e0\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2130620
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"414ec271e6609a4de3c3000a99bb6d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1259685325,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259685325,
+    "wof:lastmodified":1537650581,
+    "wof:name":"Asamushi",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.86686,
+    40.88937,
+    140.86686,
+    40.88937
+],
+  "geometry": {"coordinates":[140.86686,40.88937],"type":"Point"}
+}

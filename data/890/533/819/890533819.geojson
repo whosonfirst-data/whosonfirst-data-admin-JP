@@ -1,0 +1,84 @@
+{
+  "id": 890533819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.95332,42.57988,140.95332,42.57988",
+    "geom:latitude":42.57988,
+    "geom:longitude":140.95332,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u6709\u73e0\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3059\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Usu-gun"
+    ],
+    "qs:name":"\u6709\u73e0\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5317\u6d77\u9053",
+    "qs:photos":727,
+    "qs:photos_1k":147,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1832,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":293,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428118,
+        "gp:id":24853922,
+        "qs:id":203332,
+        "wd:id":"Q1185976",
+        "wk:page":"Usu District, Hokkaido"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056760,
+    "wof:geomhash":"552fa9dc0c86e6915b0904263143c093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890533819,
+            "region_id":85672761
+        }
+    ],
+    "wof:id":890533819,
+    "wof:lastmodified":1527727038,
+    "wof:name":"\u6709\u73e0\u90e1",
+    "wof:parent_id":85672761,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.95332,
+    42.57988,
+    140.95332,
+    42.57988
+],
+  "geometry": {"coordinates":[140.95331999999999,42.57988],"type":"Point"}
+}

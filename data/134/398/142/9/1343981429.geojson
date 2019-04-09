@@ -1,0 +1,75 @@
+{
+  "id": 1343981429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.97711,35.39099,139.97711,35.39099",
+    "geom:latitude":35.39099,
+    "geom:longitude":139.97711,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Sugou",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078127,
+    "gn:latitude":35.39099,
+    "gn:longitude":139.97711,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sugou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u83c5\u751f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3059\u3054\u3046",
+        "\u30b9\u30b4\u30a6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078127
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"04d05648a9bbb428ced2927a19fdd132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1343981429,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343981429,
+    "wof:lastmodified":1537652182,
+    "wof:name":"Sugou",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.97711,
+    35.39099,
+    139.97711,
+    35.39099
+],
+  "geometry": {"coordinates":[139.97711000000001,35.39099],"type":"Point"}
+}

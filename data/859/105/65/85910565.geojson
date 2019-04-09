@@ -1,0 +1,115 @@
+{
+  "id": 85910565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":835720.383729,
+    "geom:bbox":"139.713134766,35.708607645,139.726867676,35.7163503874",
+    "geom:latitude":35.71243,
+    "geom:longitude":139.720047,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.712004,
+    "lbl:longitude":139.721966,
+    "mps:latitude":35.712336,
+    "mps:longitude":139.720179,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Nishiwaseda 1 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Nishiwaseda 1 Choume",
+        "Nishiwaseda 1 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3057\u308f\u305b\u3060 \uff11\u3061\u3087\u3046\u3081",
+        "\u897f\u65e9\u7a32\u7530 \uff11\u4e01\u76ee",
+        "\uff11\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff11\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u65b0\u5bbf\u533a",
+    "qs:name_en":"Nishiwaseda 1 Chome",
+    "qs:name_lau":"\u897f\u65e9\u7a32\u7530",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":368,
+    "qs:photo_sum":1100,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015378,
+    "qs:woe_lau":28414078,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527507,
+        "qs:id":1088125
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ad2d4936e60e1b7532d7d36181b6aa37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910565,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910565,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268709,
+    "wof:name":"\uff11\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.71313476600005,
+    35.70860764498025,
+    139.7268676760001,
+    35.71635038739814
+],
+  "geometry": {"coordinates":[[[139.72326662868136,35.71635038739814],[139.72412109213411,35.71529800677176],[139.7268676760001,35.71529800308689],[139.7268676760001,35.71306794821456],[139.7268676760001,35.71083782836675],[139.72412109400011,35.71083782620013],[139.72412109400011,35.70860764550028],[139.72137451200024,35.70860764498025],[139.71919761464585,35.70860764602023],[139.71862793000008,35.70860765330009],[139.71588134800004,35.70860765330009],[139.7158813480001,35.70930923658462],[139.7158813480001,35.71013623440089],[139.71531167813293,35.71083783148683],[139.71313476600034,35.71083782935725],[139.71313476600022,35.71236634997008],[139.71313476600005,35.71306795490005],[139.71313476600005,35.71529801210004],[139.71370440759819,35.71529801062805],[139.7158813480001,35.71529800378029],[139.71862793279928,35.71529800410758],[139.71948239531912,35.71635038739814],[139.72137451200024,35.7155735763765],[139.72326662868136,35.71635038739814]]],"type":"Polygon"}
+}

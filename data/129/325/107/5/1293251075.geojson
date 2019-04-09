@@ -1,0 +1,76 @@
+{
+  "id": 1293251075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.07784,33.04664,131.07784,33.04664",
+    "geom:latitude":33.04664,
+    "geom:longitude":131.07784,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1864975.0",
+    "gn:admin3_code":"43423.0",
+    "gn:asciiname":"Kigawa",
+    "gn:country_code":"JP",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11243474,
+    "gn:latitude":33.04664,
+    "gn:longitude":131.07784,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kigawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ec4\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u304c\u308f",
+        "\u30ad\u30ac\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243474
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cc34452644853d5a45c9ec4370902435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743179,
+            "locality_id":1293251075,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293251075,
+    "wof:lastmodified":1537652724,
+    "wof:name":"Kigawa",
+    "wof:parent_id":1108743179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.07783999999998,
+    33.04664,
+    131.07783999999998,
+    33.04664
+],
+  "geometry": {"coordinates":[131.07783999999998,33.04664],"type":"Point"}
+}

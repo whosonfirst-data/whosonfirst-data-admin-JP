@@ -1,0 +1,75 @@
+{
+  "id": 1360292561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59782,40.65793,140.59782,40.65793",
+    "geom:latitude":40.65793,
+    "geom:longitude":140.59782,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Nogiwa",
+    "gn:country_code":"JP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8507139,
+    "gn:latitude":40.65793,
+    "gn:longitude":140.59782,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nogiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91ce\u969b"
+    ],
+    "name:jpn_x_variant":[
+        "\u306e\u304e\u308f",
+        "\u30ce\u30ae\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507139
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2352ae1d7aa19e70b6dae90603bcc84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1360292561,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1360292561,
+    "wof:lastmodified":1537650987,
+    "wof:name":"Nogiwa",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59781999999998,
+    40.65793,
+    140.59781999999998,
+    40.65793
+],
+  "geometry": {"coordinates":[140.59781999999998,40.65793],"type":"Point"}
+}

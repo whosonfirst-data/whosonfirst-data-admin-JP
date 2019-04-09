@@ -1,0 +1,75 @@
+{
+  "id": 1226150089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.70563,40.83197,140.70563,40.83197",
+    "geom:latitude":40.83197,
+    "geom:longitude":140.70563,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Miyoshi",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8506111,
+    "gn:latitude":40.83197,
+    "gn:longitude":140.70563,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u597d"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3088\u3057",
+        "\u30df\u30e8\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8506111
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7ade6128853f01ec2a9a54c9b69f2ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1226150089,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1226150089,
+    "wof:lastmodified":1537650975,
+    "wof:name":"Miyoshi",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.70563,
+    40.83197,
+    140.70563,
+    40.83197
+],
+  "geometry": {"coordinates":[140.70563000000001,40.83197],"type":"Point"}
+}

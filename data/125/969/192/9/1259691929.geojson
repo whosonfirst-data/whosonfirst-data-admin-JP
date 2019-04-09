@@ -1,0 +1,75 @@
+{
+  "id": 1259691929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.10848,39.83849,140.10848,39.83849",
+    "geom:latitude":39.83849,
+    "geom:longitude":140.10848,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Kurokawa",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322433,
+    "gn:latitude":39.83849,
+    "gn:longitude":140.10848,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurokawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ed2\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u308d\u304b\u308f",
+        "\u30af\u30ed\u30ab\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322433
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0046c532556e082bf80b69b256f5f3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1259691929,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1259691929,
+    "wof:lastmodified":1537650775,
+    "wof:name":"Kurokawa",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.10848,
+    39.83849,
+    140.10848,
+    39.83849
+],
+  "geometry": {"coordinates":[140.10847999999999,39.83849],"type":"Point"}
+}

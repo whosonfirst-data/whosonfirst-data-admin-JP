@@ -1,0 +1,77 @@
+{
+  "id": 1326793263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.25,28.23333,129.25,28.23333",
+    "geom:latitude":28.23333,
+    "geom:longitude":129.25,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1853737.0",
+    "gn:admin3_code":"46525.0",
+    "gn:asciiname":"Kuji",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1858467,
+    "gn:latitude":28.23333,
+    "gn:longitude":129.25,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e45\u6148"
+    ],
+    "name:und_x_variant":[
+        "Kuzi",
+        "Kuji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1858467
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e98e3df97c19f71de6f35fa43ef1a47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743351,
+            "locality_id":1326793263,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1326793263,
+    "wof:lastmodified":1537650143,
+    "wof:name":"Kuji",
+    "wof:parent_id":1108743351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.25,
+    28.23333,
+    129.25,
+    28.23333
+],
+  "geometry": {"coordinates":[129.25,28.23333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259494725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.48715,40.57705,140.48715,40.57705",
+    "geom:latitude":40.57705,
+    "geom:longitude":140.48715,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Yasuhara",
+    "gn:country_code":"JP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411876,
+    "gn:latitude":40.57705,
+    "gn:longitude":140.48715,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yasuhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5b89\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3084\u3059\u306f\u3089",
+        "\u30e4\u30b9\u30cf\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411876
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"18ec3b75b17b1ff1cf4bbec44627bcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1259494725,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259494725,
+    "wof:lastmodified":1537650811,
+    "wof:name":"Yasuhara",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.48715,
+    40.57705,
+    140.48715,
+    40.57705
+],
+  "geometry": {"coordinates":[140.48715000000001,40.57705],"type":"Point"}
+}

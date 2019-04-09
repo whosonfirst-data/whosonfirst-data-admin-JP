@@ -1,0 +1,74 @@
+{
+  "id": 890524155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.03732,32.84409,131.03732,32.84409",
+    "geom:latitude":32.84409,
+    "geom:longitude":131.03732,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5357\u963f\u8607\u6751"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u306a\u307f\u3042\u305d\u3080\u3089",
+        "\u30df\u30ca\u30df\u30a2\u30bd\u30e0\u30e9"
+    ],
+    "name:unk_x_variant":[
+        "Minamiaso-mura"
+    ],
+    "qs:name":"Minamioso-mura",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7413165,
+        "qs:id":380620
+    },
+    "wof:country":"JP",
+    "wof:created":1469056329,
+    "wof:geomhash":"1217c12a55e5ce7af110867bbdcd78a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743191,
+            "localadmin_id":890524155,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":890524155,
+    "wof:lastmodified":1505343924,
+    "wof:name":"Minamioso-mura",
+    "wof:parent_id":1108743191,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.03732,
+    32.84409,
+    131.03732,
+    32.84409
+],
+  "geometry": {"coordinates":[131.03731999999999,32.84409],"type":"Point"}
+}

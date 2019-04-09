@@ -1,0 +1,77 @@
+{
+  "id": 1310062755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.30257,31.39017,131.30257,31.39017",
+    "geom:latitude":31.39017,
+    "geom:longitude":131.30257,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"1858035.0",
+    "gn:asciiname":"Tachiuzu",
+    "gn:country_code":"JP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895783,
+    "gn:latitude":31.39017,
+    "gn:longitude":131.30257,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tachiuzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7acb\u5b87\u6d25"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3061\u3046\u3065"
+    ],
+    "name:und_x_variant":[
+        "Tachiutsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        890523781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895783
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5fe0e4c20c3b273c465462cf7bc36b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523781,
+            "locality_id":1310062755,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1310062755,
+    "wof:lastmodified":1537650340,
+    "wof:name":"Tachiuzu",
+    "wof:parent_id":890523781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.30257,
+    31.39017,
+    131.30257,
+    31.39017
+],
+  "geometry": {"coordinates":[131.30257,31.39017],"type":"Point"}
+}

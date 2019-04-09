@@ -1,0 +1,75 @@
+{
+  "id": 1242784895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.11662,40.58403,141.11662,40.58403",
+    "geom:latitude":40.58403,
+    "geom:longitude":141.11662,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Tamogi",
+    "gn:country_code":"JP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551242,
+    "gn:latitude":40.58403,
+    "gn:longitude":141.11662,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tamogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7530\u8302\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3082\u304e",
+        "\u30bf\u30e2\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551242
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"26d2cde526872f5b201513aa216351e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1242784895,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1242784895,
+    "wof:lastmodified":1537651065,
+    "wof:name":"Tamogi",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.11661999999995,
+    40.58403,
+    141.11661999999995,
+    40.58403
+],
+  "geometry": {"coordinates":[141.11661999999995,40.58403],"type":"Point"}
+}

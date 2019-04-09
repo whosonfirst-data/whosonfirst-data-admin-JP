@@ -1,0 +1,78 @@
+{
+  "id": 1260363569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.44417,33.00116,130.44417,33.00116",
+    "geom:latitude":33.00116,
+    "geom:longitude":130.44417,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865168.0",
+    "gn:asciiname":"Kone",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11274309,
+    "gn:latitude":33.00116,
+    "gn:longitude":130.44417,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7532\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3046\u306d",
+        "\u30b3\u30a6\u30cd"
+    ],
+    "name:und_x_variant":[
+        "K\u014dne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274309
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bf418f440d172b345e6c1e73f70bb897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524495,
+            "locality_id":1260363569,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1260363569,
+    "wof:lastmodified":1537652836,
+    "wof:name":"Kone",
+    "wof:parent_id":890524495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.44417,
+    33.00116,
+    130.44417,
+    33.00116
+],
+  "geometry": {"coordinates":[130.44417000000001,33.00116],"type":"Point"}
+}

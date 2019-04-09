@@ -1,0 +1,75 @@
+{
+  "id": 1310079545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.09969,32.47054,130.09969,32.47054",
+    "geom:latitude":32.47054,
+    "geom:longitude":130.09969,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Mandokoro",
+    "gn:country_code":"JP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11248427,
+    "gn:latitude":32.47054,
+    "gn:longitude":130.09969,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mandokoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e07\u6240"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3093\u3069\u3053\u308d",
+        "\u30de\u30f3\u30c9\u30b3\u30ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248427
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"deb9863d46423db5ed4e9bd25e5075d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1310079545,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310079545,
+    "wof:lastmodified":1537652765,
+    "wof:name":"Mandokoro",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.09968999999998,
+    32.47054,
+    130.09968999999998,
+    32.47054
+],
+  "geometry": {"coordinates":[130.09968999999998,32.47054],"type":"Point"}
+}

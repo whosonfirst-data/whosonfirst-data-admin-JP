@@ -1,0 +1,76 @@
+{
+  "id": 1226506607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.74786,32.30841,130.74786,32.30841",
+    "geom:latitude":32.30841,
+    "geom:longitude":130.74786,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43512.0",
+    "gn:asciiname":"Kozuru",
+    "gn:country_code":"JP",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10215241,
+    "gn:latitude":32.30841,
+    "gn:longitude":130.74786,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kozuru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u9db4"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3065\u308b",
+        "\u30b3\u30c5\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10215241
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b8d3fd25c0d16144cdcc059f7a511724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743225,
+            "locality_id":1226506607,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226506607,
+    "wof:lastmodified":1537651716,
+    "wof:name":"Kozuru",
+    "wof:parent_id":1108743225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.74786,
+    32.30840999999999,
+    130.74786,
+    32.30840999999999
+],
+  "geometry": {"coordinates":[130.74786,32.30840999999999],"type":"Point"}
+}

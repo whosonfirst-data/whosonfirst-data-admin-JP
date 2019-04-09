@@ -1,0 +1,84 @@
+{
+  "id": 890530995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.56352,34.69361,137.56352,34.69361",
+    "geom:latitude":34.69361,
+    "geom:longitude":137.56352,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:jpn_x_preferred":[
+        "\u6d5c\u540d\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u307e\u306a\u3050\u3093"
+    ],
+    "name:unk_x_variant":[
+        "Hamana"
+    ],
+    "qs:name":"\u6d5c\u540d\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9759\u5ca1\u770c",
+    "qs:photos":744,
+    "qs:photos_1k":151,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":927,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":359,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1863283,
+        "gp:id":24857663,
+        "qs:id":1115370,
+        "wd:id":"Q1042370",
+        "wk:page":"Hamana District, Shizuoka"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056634,
+    "wof:geomhash":"0b1ec121728c2dcfed386026dd8135e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890530995,
+            "region_id":85672753
+        }
+    ],
+    "wof:id":890530995,
+    "wof:lastmodified":1527782045,
+    "wof:name":"\u6d5c\u540d\u90e1",
+    "wof:parent_id":85672753,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.56352,
+    34.69361,
+    137.56352,
+    34.69361
+],
+  "geometry": {"coordinates":[137.56352000000001,34.69361],"type":"Point"}
+}

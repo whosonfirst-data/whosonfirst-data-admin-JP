@@ -1,0 +1,75 @@
+{
+  "id": 1343535265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.78526,32.57342,130.78526,32.57342",
+    "geom:latitude":32.57342,
+    "geom:longitude":130.78526,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Ibitsu",
+    "gn:country_code":"JP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11192199,
+    "gn:latitude":32.57342,
+    "gn:longitude":130.78526,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ibitsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e95\u6ac3"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3073\u3064",
+        "\u30a4\u30d3\u30c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192199
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a6891eecfa656d776ac8a7760a33b8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1343535265,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343535265,
+    "wof:lastmodified":1537652527,
+    "wof:name":"Ibitsu",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.78526000000002,
+    32.57342,
+    130.78526000000002,
+    32.57342
+],
+  "geometry": {"coordinates":[130.78526000000002,32.57342],"type":"Point"}
+}

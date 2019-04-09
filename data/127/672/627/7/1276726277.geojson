@@ -1,0 +1,75 @@
+{
+  "id": 1276726277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.02005,32.19396,130.02005,32.19396",
+    "geom:latitude":32.19396,
+    "geom:longitude":130.02005,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Maura",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11245609,
+    "gn:latitude":32.19396,
+    "gn:longitude":130.02005,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Maura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u771f\u6d66"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3046\u3089",
+        "\u30de\u30a6\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245609
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6b15e1921bf835d72dbbb08a85561200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1276726277,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276726277,
+    "wof:lastmodified":1537652737,
+    "wof:name":"Maura",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.02005,
+    32.19396,
+    130.02005,
+    32.19396
+],
+  "geometry": {"coordinates":[130.02005,32.19396],"type":"Point"}
+}

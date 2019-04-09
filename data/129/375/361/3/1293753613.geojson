@@ -1,0 +1,78 @@
+{
+  "id": 1293753613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.95336,37.05743,136.95336,37.05743",
+    "geom:latitude":37.05743,
+    "geom:longitude":136.95336,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"7467879.0",
+    "gn:asciiname":"Tsumugimachi",
+    "gn:country_code":"JP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1849635,
+    "gn:latitude":37.05743,
+    "gn:longitude":136.95336,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsumugimachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d25\u5411\u753a"
+    ],
+    "name:und_x_variant":[
+        "Tumugi",
+        "Tsumuki",
+        "Tsumki",
+        "Tsumugi",
+        "Tsumugimachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672741,
+        890520397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1849635
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6acd30f5fafef3d755790c058c23caac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520397,
+            "locality_id":1293753613,
+            "region_id":85672741
+        }
+    ],
+    "wof:id":1293753613,
+    "wof:lastmodified":1537649917,
+    "wof:name":"Tsumugimachi",
+    "wof:parent_id":890520397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.95336,
+    37.05743,
+    136.95336,
+    37.05743
+],
+  "geometry": {"coordinates":[136.95336,37.05743],"type":"Point"}
+}

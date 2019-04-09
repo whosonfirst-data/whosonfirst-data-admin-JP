@@ -1,0 +1,77 @@
+{
+  "id": 1259634671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.25589,34.37556,139.25589,34.37556",
+    "geom:latitude":34.37556,
+    "geom:longitude":139.25589,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1853724.0",
+    "gn:admin3_code":"13363.0",
+    "gn:asciiname":"Honson",
+    "gn:country_code":"JP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1862252,
+    "gn:latitude":34.37556,
+    "gn:longitude":139.25589,
+    "gn:modification_date":"2017-04-15",
+    "gn:name":"Honson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u672c\u6751"
+    ],
+    "name:und_x_variant":[
+        "Motomura",
+        "Hommura",
+        "Honson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1862252
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a0383fe401899f31bcbe48f547fedbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741769,
+            "locality_id":1259634671,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1259634671,
+    "wof:lastmodified":1537650249,
+    "wof:name":"Honson",
+    "wof:parent_id":1108741769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.25589,
+    34.37556,
+    139.25589,
+    34.37556
+],
+  "geometry": {"coordinates":[139.25588999999999,34.37556],"type":"Point"}
+}

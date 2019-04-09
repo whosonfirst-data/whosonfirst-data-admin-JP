@@ -1,0 +1,76 @@
+{
+  "id": 1360059357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.05477,32.32872,131.05477,32.32872",
+    "geom:latitude":32.32872,
+    "geom:longitude":131.05477,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43507.0",
+    "gn:asciiname":"Yuyama",
+    "gn:country_code":"JP",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1848019,
+    "gn:latitude":32.32872,
+    "gn:longitude":131.05477,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yuyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e6f\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3086\u3084\u307e",
+        "\u30e6\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1848019
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cc65816326718209f8658e38ef4c2e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743217,
+            "locality_id":1360059357,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1360059357,
+    "wof:lastmodified":1537649872,
+    "wof:name":"Yuyama",
+    "wof:parent_id":1108743217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.05477,
+    32.32872,
+    131.05477,
+    32.32872
+],
+  "geometry": {"coordinates":[131.05476999999999,32.32872],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276547023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.82303,35.07061,139.82303,35.07061",
+    "geom:latitude":35.07061,
+    "geom:longitude":139.82303,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Kohama",
+    "gn:country_code":"JP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1859055,
+    "gn:latitude":35.07061,
+    "gn:longitude":139.82303,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kohama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6d5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u306f\u307e",
+        "\u30b3\u30cf\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859055
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bbbd10406c950f4baac8fa1a39e18470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1276547023,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276547023,
+    "wof:lastmodified":1537650158,
+    "wof:name":"Kohama",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.82303000000002,
+    35.07060999999999,
+    139.82303000000002,
+    35.07060999999999
+],
+  "geometry": {"coordinates":[139.82303000000002,35.07060999999999],"type":"Point"}
+}

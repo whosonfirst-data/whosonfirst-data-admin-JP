@@ -1,0 +1,77 @@
+{
+  "id": 1260141791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.55738,33.75028,133.55738,33.75028",
+    "geom:latitude":33.75028,
+    "geom:longitude":133.55738,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1849939.0",
+    "gn:admin3_code":"39363.0",
+    "gn:asciiname":"Nakajima",
+    "gn:country_code":"JP",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1855935,
+    "gn:latitude":33.75028,
+    "gn:longitude":133.55738,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakajima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u5cf6"
+    ],
+    "name:und_x_variant":[
+        "Mishima",
+        "Nakashima",
+        "Nakajima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672717,
+        1108742969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1855935
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fd2bd56dcc6b1f4c019b20b2673f6830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742969,
+            "locality_id":1260141791,
+            "region_id":85672717
+        }
+    ],
+    "wof:id":1260141791,
+    "wof:lastmodified":1537650086,
+    "wof:name":"Nakajima",
+    "wof:parent_id":1108742969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.55738,
+    33.75028,
+    133.55738,
+    33.75028
+],
+  "geometry": {"coordinates":[133.55737999999999,33.75028],"type":"Point"}
+}

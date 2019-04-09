@@ -1,0 +1,75 @@
+{
+  "id": 1310465813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.08319,39.33449,141.08319,39.33449",
+    "geom:latitude":39.33449,
+    "geom:longitude":141.08319,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112223.0",
+    "gn:asciiname":"Kadoya",
+    "gn:country_code":"JP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438002,
+    "gn:latitude":39.33449,
+    "gn:longitude":141.08319,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kadoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9580\u5c4b"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3069\u3084",
+        "\u30ab\u30c9\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438002
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"387fc009b7bf3245b6a183f43893bc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739947,
+            "locality_id":1310465813,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1310465813,
+    "wof:lastmodified":1537650879,
+    "wof:name":"Kadoya",
+    "wof:parent_id":1108739947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.08319,
+    39.33449,
+    141.08319,
+    39.33449
+],
+  "geometry": {"coordinates":[141.08319,39.33449],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243091069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.09124,35.11076,140.09124,35.11076",
+    "geom:latitude":35.11076,
+    "geom:longitude":140.09124,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Nukariya",
+    "gn:country_code":"JP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171593,
+    "gn:latitude":35.11076,
+    "gn:longitude":140.09124,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nukariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6ed1\u8c37"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u304b\u308a\u3084",
+        "\u30cc\u30ab\u30ea\u30e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171593
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4d40d9c7a0ce44c0cbc0d74a8f3dd3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1243091069,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243091069,
+    "wof:lastmodified":1537652445,
+    "wof:name":"Nukariya",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.09124,
+    35.11076,
+    140.09124,
+    35.11076
+],
+  "geometry": {"coordinates":[140.09124,35.11076],"type":"Point"}
+}

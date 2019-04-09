@@ -1,0 +1,75 @@
+{
+  "id": 1309803551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.31328,35.27653,140.31328,35.27653",
+    "geom:latitude":35.27653,
+    "geom:longitude":140.31328,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465524.0",
+    "gn:asciiname":"Atero",
+    "gn:country_code":"JP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11132347,
+    "gn:latitude":35.27653,
+    "gn:longitude":140.31328,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Atero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5f53\u5442"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u3066\u308d",
+        "\u30a2\u30c6\u30ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132347
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1c63bf60a3c88864dba2a7bbb5548e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519811,
+            "locality_id":1309803551,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1309803551,
+    "wof:lastmodified":1537652310,
+    "wof:name":"Atero",
+    "wof:parent_id":890519811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.31328,
+    35.27653,
+    140.31328,
+    35.27653
+],
+  "geometry": {"coordinates":[140.31327999999999,35.27653],"type":"Point"}
+}

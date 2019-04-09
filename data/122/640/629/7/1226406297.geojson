@@ -1,0 +1,75 @@
+{
+  "id": 1226406297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.61387,39.00527,141.61387,39.00527",
+    "geom:latitude":39.00527,
+    "geom:longitude":141.61387,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7441817.0",
+    "gn:asciiname":"Kesenmachi",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8203055,
+    "gn:latitude":39.00527,
+    "gn:longitude":141.61387,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kesenmachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c17\u4ed9\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3051\u305b\u3093\u307e\u3061",
+        "\u30b1\u30bb\u30f3\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        890520185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8203055
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"40fb08cda52342290075c577a367303a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520185,
+            "locality_id":1226406297,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1226406297,
+    "wof:lastmodified":1537650655,
+    "wof:name":"Kesenmachi",
+    "wof:parent_id":890520185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.61387,
+    39.00527,
+    141.61387,
+    39.00527
+],
+  "geometry": {"coordinates":[141.61386999999999,39.00527],"type":"Point"}
+}

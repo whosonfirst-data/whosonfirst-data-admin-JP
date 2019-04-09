@@ -1,0 +1,80 @@
+{
+  "id": 1108744663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000638,
+    "geom:area_square_m":6407856.544401,
+    "geom:bbox":"139.56199646,35.6184005737,139.593795776,35.6506652832",
+    "geom:latitude":35.634841,
+    "geom:longitude":139.577546,
+    "iso:country":"JP",
+    "lbl:latitude":35.634988,
+    "lbl:longitude":139.575653,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Komae",
+    "meso:gadm_hasc2":"JP.TK.KM",
+    "meso:gaul_admin":"Komaesi",
+    "meso:hasc_id":"JP.TK.KM",
+    "meso:local_id":"13219",
+    "meso:mps_x":139.575653,
+    "meso:mps_y":35.634988,
+    "meso:name_alt":"Komae",
+    "meso:name_en":"Komae Shi",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.634988,
+    "mps:longitude":139.575653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Komae"
+    ],
+    "name:eng_x_variant":[
+        "Komaesi",
+        "Komae Shi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"JP.TK.KM"
+    },
+    "wof:country":"JP",
+    "wof:created":1479152221,
+    "wof:geomhash":"aa3d4a789e2f85f29e20efb1857092ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744663,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1108744663,
+    "wof:lastmodified":1536615689,
+    "wof:name":"Komae",
+    "wof:parent_id":85672817,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:shortcode":"KM",
+    "wof:superseded_by":[
+        1108741747
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.561996459961,
+    35.61840057373048,
+    139.59379577636702,
+    35.65066528320308
+],
+  "geometry": {"coordinates":[[[139.58790588378901,35.64573287963874],[139.58500671386702,35.63986587524408],[139.58929443359401,35.63473129272464],[139.59379577636702,35.6272659301758],[139.59130859375,35.62379837036131],[139.58959960937503,35.62406539916989],[139.59019470214804,35.61840057373048],[139.58810424804702,35.61940002441412],[139.57850646972699,35.6218643188477],[139.56590270996099,35.62719726562504],[139.56599426269503,35.62906646728516],[139.56199645996099,35.63253402709964],[139.56599426269503,35.64673233032229],[139.56970214843798,35.64839935302732],[139.57530212402301,35.65066528320308],[139.57989501953102,35.64899826049796],[139.58120727539099,35.64726638793953],[139.58200073242202,35.64793395996092],[139.584396362305,35.64846420288089],[139.58630371093801,35.64613342285156],[139.58790588378901,35.64573287963874]]],"type":"Polygon"}
+}

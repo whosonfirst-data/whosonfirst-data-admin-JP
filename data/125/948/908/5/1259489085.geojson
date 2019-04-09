@@ -1,0 +1,75 @@
+{
+  "id": 1259489085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.97887,35.03117,139.97887,35.03117",
+    "geom:latitude":35.03117,
+    "geom:longitude":139.97887,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Higashiodo",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11109525,
+    "gn:latitude":35.03117,
+    "gn:longitude":139.97887,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Higashiodo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6771\u5c0f\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u304c\u3057\u304a\u3069",
+        "\u30d2\u30ac\u30b7\u30aa\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109525
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8d2bcc2c056b3aca8f90f6670487e8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1259489085,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1259489085,
+    "wof:lastmodified":1537652272,
+    "wof:name":"Higashiodo",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.97887,
+    35.03117,
+    139.97887,
+    35.03117
+],
+  "geometry": {"coordinates":[139.97887,35.03117],"type":"Point"}
+}

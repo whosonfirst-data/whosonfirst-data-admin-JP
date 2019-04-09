@@ -1,0 +1,75 @@
+{
+  "id": 1242923773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.0729,37.9402,139.0729,37.9402",
+    "geom:latitude":37.9402,
+    "geom:longitude":139.0729,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"1855427.0",
+    "gn:admin3_code":"15102.0",
+    "gn:asciiname":"Yamanoshitamachi",
+    "gn:country_code":"JP",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1848642,
+    "gn:latitude":37.9402,
+    "gn:longitude":139.0729,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yamanoshitamachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c71\u306e\u4e0b\u753a"
+    ],
+    "name:und_x_variant":[
+        "Yamanoshita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672849,
+        890520757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1848642
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c7c0cfdc8d6b3e3958f778f1057cc7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520757,
+            "locality_id":1242923773,
+            "region_id":85672849
+        }
+    ],
+    "wof:id":1242923773,
+    "wof:lastmodified":1537649890,
+    "wof:name":"Yamanoshitamachi",
+    "wof:parent_id":890520757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.0729,
+    37.9402,
+    139.0729,
+    37.9402
+],
+  "geometry": {"coordinates":[139.0729,37.9402],"type":"Point"}
+}

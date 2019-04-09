@@ -1,0 +1,75 @@
+{
+  "id": 1343381525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.5823,33.6247,130.5823,33.6247",
+    "geom:latitude":33.6247,
+    "geom:longitude":130.5823,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859874.0",
+    "gn:admin3_code":"40342.0",
+    "gn:asciiname":"Gonohara",
+    "gn:country_code":"JP",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10269674,
+    "gn:latitude":33.6247,
+    "gn:longitude":130.5823,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"G\u014dnohara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u90f7\u30ce\u539f"
+    ],
+    "name:und_x_variant":[
+        "G\u014dnohara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10269674
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4b8364ec652a7b8f6ce4fecd3e98defc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743031,
+            "locality_id":1343381525,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1343381525,
+    "wof:lastmodified":1537651796,
+    "wof:name":"Gonohara",
+    "wof:parent_id":1108743031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.5823,
+    33.6247,
+    130.5823,
+    33.6247
+],
+  "geometry": {"coordinates":[130.5823,33.6247],"type":"Point"}
+}

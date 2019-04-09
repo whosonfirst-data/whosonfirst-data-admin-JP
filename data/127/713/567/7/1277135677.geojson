@@ -1,0 +1,76 @@
+{
+  "id": 1277135677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.84519,32.34692,130.84519,32.34692",
+    "geom:latitude":32.34692,
+    "geom:longitude":130.84519,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43511.0",
+    "gn:asciiname":"Kobama",
+    "gn:country_code":"JP",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10252509,
+    "gn:latitude":32.34692,
+    "gn:longitude":130.84519,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kobama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6d5c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3070\u307e",
+        "\u30b3\u30d0\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10252509
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"513671db0052391e365242a2ce91241d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743223,
+            "locality_id":1277135677,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1277135677,
+    "wof:lastmodified":1537651724,
+    "wof:name":"Kobama",
+    "wof:parent_id":1108743223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.84519,
+    32.34692,
+    130.84519,
+    32.34692
+],
+  "geometry": {"coordinates":[130.84519,32.34692],"type":"Point"}
+}

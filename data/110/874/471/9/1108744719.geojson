@@ -1,0 +1,77 @@
+{
+  "id": 1108744719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000915,
+    "geom:area_square_m":9231989.498023,
+    "geom:bbox":"139.233001709,35.2862014771,139.269302368,35.3297996521",
+    "geom:latitude":35.307733,
+    "geom:longitude":139.249651,
+    "iso:country":"JP",
+    "lbl:latitude":35.306719,
+    "lbl:longitude":139.249926,
+    "meso:admin_1":"Kanagawa Ken",
+    "meso:gadm_admin":"Ninomiya",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Ninomiyamati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"14342",
+    "meso:mps_x":139.249926,
+    "meso:mps_y":35.306719,
+    "meso:name_alt":"Ninomiya",
+    "meso:name_en":"Ninomiya Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.306719,
+    "mps:longitude":139.249926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ninomiya"
+    ],
+    "name:eng_x_variant":[
+        "Ninomiyamati",
+        "Ninomiya Machi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152243,
+    "wof:geomhash":"eba01b90870a18b918fec1bf158bba2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108744719,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1108744719,
+    "wof:lastmodified":1511300754,
+    "wof:name":"Ninomiya",
+    "wof:parent_id":85672805,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741803
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.233001708984,
+    35.28620147705077,
+    139.26930236816403,
+    35.32979965209961
+],
+  "geometry": {"coordinates":[[[139.24929809570301,35.32979965209961],[139.25080871582003,35.32873535156249],[139.25889587402304,35.3151321411133],[139.26440429687503,35.31520080566414],[139.26930236816403,35.29726791381844],[139.24679565429702,35.2915344238281],[139.23410034179702,35.28620147705077],[139.23399353027304,35.28806686401371],[139.23460388183599,35.29026794433589],[139.23750305175801,35.28913497924801],[139.23629760742202,35.29266738891598],[139.23699951171901,35.29660034179686],[139.23570251464801,35.29873275756838],[139.23789978027301,35.30179977416987],[139.23710632324202,35.31133270263666],[139.23699951171901,35.31586456298827],[139.23300170898401,35.31966781616209],[139.234298706055,35.32040023803714],[139.24499511718801,35.32880020141597],[139.24679565429702,35.32859802246088],[139.24929809570301,35.32979965209961]]],"type":"Polygon"}
+}

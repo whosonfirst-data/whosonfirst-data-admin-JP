@@ -1,0 +1,74 @@
+{
+  "id": 1259367699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.17695,37.23519,140.17695,37.23519",
+    "geom:latitude":37.23519,
+    "geom:longitude":140.17695,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2111029.0",
+    "gn:asciiname":"Tokaichi",
+    "gn:country_code":"JP",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8991925,
+    "gn:latitude":37.23519,
+    "gn:longitude":140.17695,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"T\u014dkaichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5341\u65e5\u5e02"
+    ],
+    "name:und_x_variant":[
+        "T\u014dkaichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672835,
+        890520803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991925
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"8ffff2eabd1157dca9f61f39fe53f6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520803,
+            "locality_id":1259367699,
+            "region_id":85672835
+        }
+    ],
+    "wof:id":1259367699,
+    "wof:lastmodified":1537651296,
+    "wof:name":"Tokaichi",
+    "wof:parent_id":890520803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.17695,
+    37.23519,
+    140.17695,
+    37.23519
+],
+  "geometry": {"coordinates":[140.17695000000001,37.23519],"type":"Point"}
+}

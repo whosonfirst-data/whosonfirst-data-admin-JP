@@ -1,0 +1,75 @@
+{
+  "id": 1243031465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"133.7804,34.28823,133.7804,34.28823",
+    "geom:latitude":34.28823,
+    "geom:longitude":133.7804,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1857664.0",
+    "gn:asciiname":"Shioyacho",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1851962,
+    "gn:latitude":34.28823,
+    "gn:longitude":133.7804,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shioyach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5869\u5c4b\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shioyach\u014d",
+        "Shioya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672715,
+        890523773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851962
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a0dcd1e2e106bfe6d3e50b58f5e4c2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523773,
+            "locality_id":1243031465,
+            "region_id":85672715
+        }
+    ],
+    "wof:id":1243031465,
+    "wof:lastmodified":1537649977,
+    "wof:name":"Shioyacho",
+    "wof:parent_id":890523773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.7804,
+    34.28823,
+    133.7804,
+    34.28823
+],
+  "geometry": {"coordinates":[133.78039999999999,34.28823],"type":"Point"}
+}

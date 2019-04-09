@@ -1,0 +1,78 @@
+{
+  "id": 1309833203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.43081,36.92643,137.43081,36.92643",
+    "geom:latitude":36.92643,
+    "geom:longitude":137.43081,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"1852239.0",
+    "gn:admin3_code":"16342.0",
+    "gn:asciiname":"Ashizaki",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1864994,
+    "gn:latitude":36.92643,
+    "gn:longitude":137.43081,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ashizaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u82a6\u5d0e"
+    ],
+    "name:und_x_variant":[
+        "Shimbama",
+        "Asusaki",
+        "Ashizaki",
+        "Ashisaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672759,
+        1108741875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1864994
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d66820bda75111e69b1357fa0e24614b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741875,
+            "locality_id":1309833203,
+            "region_id":85672759
+        }
+    ],
+    "wof:id":1309833203,
+    "wof:lastmodified":1537650322,
+    "wof:name":"Ashizaki",
+    "wof:parent_id":1108741875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.43081,
+    36.92643,
+    137.43081,
+    36.92643
+],
+  "geometry": {"coordinates":[137.43081000000001,36.92643],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360060493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.62833,35.52709,139.62833,35.52709",
+    "geom:latitude":35.52709,
+    "geom:longitude":139.62833,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1848350.0",
+    "gn:admin3_code":"14109.0",
+    "gn:asciiname":"Osonedai",
+    "gn:country_code":"JP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862227,
+    "gn:latitude":35.52709,
+    "gn:longitude":139.62833,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014csonedai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u66fd\u6839\u53f0"
+    ],
+    "name:und_x_variant":[
+        "\u014csonedai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        1108741785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862227
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"742bd1e6c7cb6213b4c31a74ae37a4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741785,
+            "locality_id":1360060493,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1360060493,
+    "wof:lastmodified":1537652017,
+    "wof:name":"Osonedai",
+    "wof:parent_id":1108741785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.62833,
+    35.52709,
+    139.62833,
+    35.52709
+],
+  "geometry": {"coordinates":[139.62833000000001,35.52709],"type":"Point"}
+}

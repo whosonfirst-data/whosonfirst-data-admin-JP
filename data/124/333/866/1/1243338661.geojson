@@ -1,0 +1,79 @@
+{
+  "id": 1243338661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.63917,35.21801,139.63917,35.21801",
+    "geom:latitude":35.21801,
+    "geom:longitude":139.63917,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1848308.0",
+    "gn:asciiname":"Hayashi",
+    "gn:country_code":"JP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1862978,
+    "gn:latitude":35.21801,
+    "gn:longitude":139.63917,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hayashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6797"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3084\u3057",
+        "\u30cf\u30e4\u30b7"
+    ],
+    "name:und_x_variant":[
+        "Takeyama",
+        "Hayashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1862978
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b6e366f585f62b03d60bd69b733bc88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519941,
+            "locality_id":1243338661,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1243338661,
+    "wof:lastmodified":1537650269,
+    "wof:name":"Hayashi",
+    "wof:parent_id":890519941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.63917,
+    35.21801,
+    139.63917,
+    35.21801
+],
+  "geometry": {"coordinates":[139.63917000000001,35.21801],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310079585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.12134,32.50481,130.12134,32.50481",
+    "geom:latitude":32.50481,
+    "geom:longitude":130.12134,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Owatari",
+    "gn:country_code":"JP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11266505,
+    "gn:latitude":32.50481,
+    "gn:longitude":130.12134,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014cwatari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u6e21"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u304a\u308f\u305f\u308a",
+        "\u30aa\u30aa\u30ef\u30bf\u30ea"
+    ],
+    "name:und_x_variant":[
+        "\u014cwatari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11266505
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0e4f77472097c073da725afd08c11d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1310079585,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1310079585,
+    "wof:lastmodified":1537652806,
+    "wof:name":"Owatari",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.12134,
+    32.50481,
+    130.12134,
+    32.50481
+],
+  "geometry": {"coordinates":[130.12134,32.50481],"type":"Point"}
+}

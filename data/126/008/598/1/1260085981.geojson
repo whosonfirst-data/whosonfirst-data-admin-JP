@@ -1,0 +1,75 @@
+{
+  "id": 1260085981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.86523,35.29765,139.86523,35.29765",
+    "geom:latitude":35.29765,
+    "geom:longitude":139.86523,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Harane",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11106682,
+    "gn:latitude":35.29765,
+    "gn:longitude":139.86523,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Harane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3089\u306d",
+        "\u30cf\u30e9\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11106682
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4e8f1da4059d64cc6020669e081f3b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1260085981,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1260085981,
+    "wof:lastmodified":1537652241,
+    "wof:name":"Harane",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.86523,
+    35.29765,
+    139.86523,
+    35.29765
+],
+  "geometry": {"coordinates":[139.86523,35.29765],"type":"Point"}
+}

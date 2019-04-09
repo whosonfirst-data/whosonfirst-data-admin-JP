@@ -1,0 +1,75 @@
+{
+  "id": 1327029775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.97284,35.29859,139.97284,35.29859",
+    "geom:latitude":35.29859,
+    "geom:longitude":139.97284,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Fujiki",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11078725,
+    "gn:latitude":35.29859,
+    "gn:longitude":139.97284,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fujiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u85e4\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3075\u3058\u304d",
+        "\u30d5\u30b8\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078725
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ada11ad5b8b82e9f59fd4299647bc2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1327029775,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1327029775,
+    "wof:lastmodified":1537652197,
+    "wof:name":"Fujiki",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.97284,
+    35.29859000000001,
+    139.97284,
+    35.29859000000001
+],
+  "geometry": {"coordinates":[139.97283999999999,35.29859000000001],"type":"Point"}
+}

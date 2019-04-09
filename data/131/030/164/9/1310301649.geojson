@@ -1,0 +1,75 @@
+{
+  "id": 1310301649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.83947,33.89017,130.83947,33.89017",
+    "geom:latitude":33.89017,
+    "geom:longitude":130.83947,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859306.0",
+    "gn:admin3_code":"40105.0",
+    "gn:asciiname":"Sensuicho",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316741,
+    "gn:latitude":33.89017,
+    "gn:longitude":130.83947,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sensuich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4ed9\u6c34\u753a"
+    ],
+    "name:und_x_variant":[
+        "Sensuich\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        890523793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316741
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"29c18273a7e037608b973902cdb03300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523793,
+            "locality_id":1310301649,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1310301649,
+    "wof:lastmodified":1537651838,
+    "wof:name":"Sensuicho",
+    "wof:parent_id":890523793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.83947,
+    33.89017,
+    130.83947,
+    33.89017
+],
+  "geometry": {"coordinates":[130.83947000000001,33.89017],"type":"Point"}
+}

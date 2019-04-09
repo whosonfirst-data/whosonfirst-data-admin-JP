@@ -1,0 +1,75 @@
+{
+  "id": 1293000483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.86021,35.28893,139.86021,35.28893",
+    "geom:latitude":35.28893,
+    "geom:longitude":139.86021,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Iwase",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1861181,
+    "gn:latitude":35.28893,
+    "gn:longitude":139.86021,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Iwase",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca9\u702c"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u308f\u305b",
+        "\u30a4\u30ef\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1861181
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d27ee6ee510060216cd1147e03b73203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1293000483,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293000483,
+    "wof:lastmodified":1537650217,
+    "wof:name":"Iwase",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.86021000000002,
+    35.28893,
+    139.86021000000002,
+    35.28893
+],
+  "geometry": {"coordinates":[139.86021000000002,35.28893],"type":"Point"}
+}

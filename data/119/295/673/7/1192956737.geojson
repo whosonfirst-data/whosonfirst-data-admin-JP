@@ -1,0 +1,75 @@
+{
+  "id": 1192956737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.45126,36.75112,139.45126,36.75112",
+    "geom:latitude":36.75112,
+    "geom:longitude":139.45126,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"1861696.0",
+    "gn:asciiname":"Shobugahama",
+    "gn:country_code":"JP",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1851710,
+    "gn:latitude":36.75112,
+    "gn:longitude":139.45126,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sh\u014dbugahama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u83d6\u84b2\u30f6\u6d5c"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dbuhama",
+        "Sh\u014dbugahama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672813,
+        1108740327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851710
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"511b7aeccf0383a11b1a92fc6d89f924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740327,
+            "locality_id":1192956737,
+            "region_id":85672813
+        }
+    ],
+    "wof:id":1192956737,
+    "wof:lastmodified":1537649971,
+    "wof:name":"Shobugahama",
+    "wof:parent_id":1108740327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.45126000000002,
+    36.75112,
+    139.45126000000002,
+    36.75112
+],
+  "geometry": {"coordinates":[139.45126000000002,36.75112],"type":"Point"}
+}

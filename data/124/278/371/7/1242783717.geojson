@@ -1,0 +1,75 @@
+{
+  "id": 1242783717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.0059,35.38179,140.0059,35.38179",
+    "geom:latitude":35.38179,
+    "geom:longitude":140.0059,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2110982.0",
+    "gn:asciiname":"Takinokuchi",
+    "gn:country_code":"JP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137903,
+    "gn:latitude":35.38179,
+    "gn:longitude":140.0059,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takinokuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6edd\u306e\u53e3"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u304d\u306e\u304f\u3061",
+        "\u30bf\u30ad\u30ce\u30af\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137903
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2670c28e67977720858827c1b4eb901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741621,
+            "locality_id":1242783717,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1242783717,
+    "wof:lastmodified":1537652369,
+    "wof:name":"Takinokuchi",
+    "wof:parent_id":1108741621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.0059,
+    35.38179,
+    140.0059,
+    35.38179
+],
+  "geometry": {"coordinates":[140.0059,35.38179],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276559259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.64452,40.62134,140.64452,40.62134",
+    "geom:latitude":40.62134,
+    "geom:longitude":140.64452,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Hanamaki",
+    "gn:country_code":"JP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8510515,
+    "gn:latitude":40.62134,
+    "gn:longitude":140.64452,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hanamaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u82b1\u5dfb"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u306a\u307e\u304d",
+        "\u30cf\u30ca\u30de\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8510515
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e84d566123adc1c78c813842c9fdfe16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1276559259,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276559259,
+    "wof:lastmodified":1537650991,
+    "wof:name":"Hanamaki",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.64452,
+    40.62134,
+    140.64452,
+    40.62134
+],
+  "geometry": {"coordinates":[140.64452,40.62134],"type":"Point"}
+}

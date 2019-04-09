@@ -1,0 +1,75 @@
+{
+  "id": 1276235017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.7359,40.82679,140.7359,40.82679",
+    "geom:latitude":40.82679,
+    "geom:longitude":140.7359,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Shinmachi",
+    "gn:country_code":"JP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505918,
+    "gn:latitude":40.82679,
+    "gn:longitude":140.7359,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shinmachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65b0\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3093\u307e\u3061",
+        "\u30b7\u30f3\u30de\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505918
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"52295d42ce4f422df610be068b624e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1276235017,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276235017,
+    "wof:lastmodified":1537650970,
+    "wof:name":"Shinmachi",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.7359,
+    40.82679,
+    140.7359,
+    40.82679
+],
+  "geometry": {"coordinates":[140.73589999999999,40.82679],"type":"Point"}
+}

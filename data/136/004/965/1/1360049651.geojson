@@ -1,0 +1,75 @@
+{
+  "id": 1360049651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.70072,33.14928,130.70072,33.14928",
+    "geom:latitude":33.14928,
+    "geom:longitude":130.70072,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Nagaso",
+    "gn:country_code":"JP",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11317542,
+    "gn:latitude":33.14928,
+    "gn:longitude":130.70072,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagaso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u751f"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u305d",
+        "\u30ca\u30ac\u30bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11317542
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d24afffe7498bcc0ca6780aa20a0018a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1360049651,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1360049651,
+    "wof:lastmodified":1537652866,
+    "wof:name":"Nagaso",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.70072,
+    33.14928,
+    130.70072,
+    33.14928
+],
+  "geometry": {"coordinates":[130.70071999999999,33.14928],"type":"Point"}
+}

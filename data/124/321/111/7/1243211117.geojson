@@ -1,0 +1,75 @@
+{
+  "id": 1243211117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.99506,34.29104,135.99506,34.29104",
+    "geom:latitude":34.29104,
+    "geom:longitude":135.99506,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"1848164.0",
+    "gn:admin3_code":"29452.0",
+    "gn:asciiname":"Kodako",
+    "gn:country_code":"JP",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9629384,
+    "gn:latitude":34.29104,
+    "gn:longitude":135.99506,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014ddako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u591a\u53e4"
+    ],
+    "name:und_x_variant":[
+        "K\u014ddako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779,
+        1108742623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9629384
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"06503d1f12c46d639d91b881297530a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742623,
+            "locality_id":1243211117,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":1243211117,
+    "wof:lastmodified":1537651416,
+    "wof:name":"Kodako",
+    "wof:parent_id":1108742623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.99506,
+    34.29104,
+    135.99506,
+    34.29104
+],
+  "geometry": {"coordinates":[135.99506,34.29104],"type":"Point"}
+}

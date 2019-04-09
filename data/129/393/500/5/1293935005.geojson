@@ -1,0 +1,75 @@
+{
+  "id": 1293935005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.48853,36.30285,139.48853,36.30285",
+    "geom:latitude":36.30285,
+    "geom:longitude":139.48853,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"1865004.0",
+    "gn:asciiname":"Yanadacho",
+    "gn:country_code":"JP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1848575,
+    "gn:latitude":36.30285,
+    "gn:longitude":139.48853,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yanadach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6881\u7530\u753a"
+    ],
+    "name:und_x_variant":[
+        "Yanadach\u014d",
+        "Yanada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672813,
+        1108740323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1848575
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b5d0e8d95f7ce58efe13c0aed92ff9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740323,
+            "locality_id":1293935005,
+            "region_id":85672813
+        }
+    ],
+    "wof:id":1293935005,
+    "wof:lastmodified":1537649887,
+    "wof:name":"Yanadacho",
+    "wof:parent_id":1108740323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.48853,
+    36.30285,
+    139.48853,
+    36.30285
+],
+  "geometry": {"coordinates":[139.48853,36.30285],"type":"Point"}
+}

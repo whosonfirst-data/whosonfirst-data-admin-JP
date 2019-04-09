@@ -1,0 +1,75 @@
+{
+  "id": 1260183549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.78592,40.51579,140.78592,40.51579",
+    "geom:latitude":40.51579,
+    "geom:longitude":140.78592,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Nurukawa",
+    "gn:country_code":"JP",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549440,
+    "gn:latitude":40.51579,
+    "gn:longitude":140.78592,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nurukawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e29\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u308b\u304b\u308f",
+        "\u30cc\u30eb\u30ab\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549440
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ba95aca76458e953dfd8b6e08b19da7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1260183549,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260183549,
+    "wof:lastmodified":1537651048,
+    "wof:name":"Nurukawa",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.78592,
+    40.51579,
+    140.78592,
+    40.51579
+],
+  "geometry": {"coordinates":[140.78592,40.51579],"type":"Point"}
+}

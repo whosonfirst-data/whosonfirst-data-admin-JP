@@ -1,0 +1,115 @@
+{
+  "id": 85910561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":162298.756565,
+    "geom:bbox":"139.695281982,35.6922374105,139.699401855,35.6974558073",
+    "geom:latitude":35.694878,
+    "geom:longitude":139.697625,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.6944,
+    "lbl:longitude":139.697856,
+    "mps:latitude":35.694468,
+    "mps:longitude":139.697874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Nishishinjuku 7 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Nishishinjuku 7 Choume",
+        "Nishishinjuku 7 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff17\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3057\u3057\u3093\u3058\u3085\u304f \uff17\u3061\u3087\u3046\u3081",
+        "\u897f\u65b0\u5bbf \uff17\u4e01\u76ee",
+        "\uff17\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff17\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff17\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u65b0\u5bbf\u533a",
+    "qs:name_en":"Nishishinjuku 7 Chome",
+    "qs:name_lau":"\u897f\u65b0\u5bbf",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":367,
+    "qs:photo_sum":2088,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015378,
+    "qs:woe_lau":28414077,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527505,
+        "qs:id":1088123
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7da9834cc9007d05bd3e48f47a364059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910561,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910561,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268709,
+    "wof:name":"\uff17\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.69528198200004,
+    35.69223741050418,
+    139.69940185515628,
+    35.69745580730002
+],
+  "geometry": {"coordinates":[[[139.69722501553917,35.69745580640873],[139.69883210500939,35.69745580025854],[139.69940185500013,35.69745580351709],[139.69940185500013,35.69522524862528],[139.69940185508364,35.69446072947942],[139.69940185512178,35.69410994930003],[139.69940185515628,35.69372768298835],[139.69940185500013,35.6935522926001],[139.6990585328511,35.6935522926001],[139.69905853283353,35.69327346271692],[139.69905853284126,35.69299463197824],[139.69905853275031,35.69241962888883],[139.69885134630522,35.69223741050418],[139.69844333085109,35.69251651076281],[139.69766605973865,35.69270791847312],[139.69708260819459,35.692468453698],[139.69665527300015,35.69299462982512],[139.69556687011027,35.6929946306783],[139.69528198200004,35.6929946321001],[139.69528198200004,35.69410994930003],[139.69528198200032,35.69446072963316],[139.69528198200021,35.69522524873364],[139.69665527300015,35.69522524862528],[139.69665527300015,35.69745580730002],[139.69722501553917,35.69745580640873]]],"type":"Polygon"}
+}

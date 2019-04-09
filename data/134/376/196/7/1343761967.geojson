@@ -1,0 +1,75 @@
+{
+  "id": 1343761967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.89205,35.16028,139.89205,35.16028",
+    "geom:latitude":35.16028,
+    "geom:longitude":139.89205,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863711.0",
+    "gn:asciiname":"Hotemi",
+    "gn:country_code":"JP",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11107436,
+    "gn:latitude":35.16028,
+    "gn:longitude":139.89205,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hotemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4fdd\u7530\u898b"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3066\u307f",
+        "\u30db\u30c6\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11107436
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"597ec7150afd963a2a8239115deb86f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524709,
+            "locality_id":1343761967,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343761967,
+    "wof:lastmodified":1537652255,
+    "wof:name":"Hotemi",
+    "wof:parent_id":890524709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.89205,
+    35.16028,
+    139.89205,
+    35.16028
+],
+  "geometry": {"coordinates":[139.89205000000001,35.16028],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243130903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.94072,32.62852,130.94072,32.62852",
+    "geom:latitude":32.62852,
+    "geom:longitude":130.94072,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412709.0",
+    "gn:admin3_code":"43348.0",
+    "gn:asciiname":"Horaoka",
+    "gn:country_code":"JP",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241240,
+    "gn:latitude":32.62852,
+    "gn:longitude":130.94072,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Horaoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d1e\u5cb3"
+    ],
+    "name:jpn_x_variant":[
+        "\u307b\u3089\u304a\u304b",
+        "\u30db\u30e9\u30aa\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241240
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"85037429da6253993de21ab730dec045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743163,
+            "locality_id":1243130903,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1243130903,
+    "wof:lastmodified":1537652670,
+    "wof:name":"Horaoka",
+    "wof:parent_id":1108743163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.94072,
+    32.62852,
+    130.94072,
+    32.62852
+],
+  "geometry": {"coordinates":[130.94072,32.62852],"type":"Point"}
+}

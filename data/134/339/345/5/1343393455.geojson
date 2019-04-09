@@ -1,0 +1,75 @@
+{
+  "id": 1343393455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.94705,35.02323,139.94705,35.02323",
+    "geom:latitude":35.02323,
+    "geom:longitude":139.94705,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Kutsumi",
+    "gn:country_code":"JP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109434,
+    "gn:latitude":35.02323,
+    "gn:longitude":139.94705,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kutsumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c93\u898b"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u3064\u307f",
+        "\u30af\u30c4\u30df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109434
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2c5bf89ce9bdc4b7d6c146e0a447c71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1343393455,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1343393455,
+    "wof:lastmodified":1537652269,
+    "wof:name":"Kutsumi",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.94705,
+    35.02323,
+    139.94705,
+    35.02323
+],
+  "geometry": {"coordinates":[139.94704999999999,35.02323],"type":"Point"}
+}

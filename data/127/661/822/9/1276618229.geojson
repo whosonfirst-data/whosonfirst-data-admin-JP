@@ -1,0 +1,75 @@
+{
+  "id": 1276618229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.36542,32.46498,130.36542,32.46498",
+    "geom:latitude":32.46498,
+    "geom:longitude":130.36542,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Komugi",
+    "gn:country_code":"JP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11267606,
+    "gn:latitude":32.46498,
+    "gn:longitude":130.36542,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Komugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u9ea6"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3080\u304e",
+        "\u30b3\u30e0\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267606
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cc2bce243a0b8a50f4b5f79ab81e88d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1276618229,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1276618229,
+    "wof:lastmodified":1537652815,
+    "wof:name":"Komugi",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.36542,
+    32.46498,
+    130.36542,
+    32.46498
+],
+  "geometry": {"coordinates":[130.36542,32.46498],"type":"Point"}
+}

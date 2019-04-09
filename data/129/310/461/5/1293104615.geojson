@@ -1,0 +1,75 @@
+{
+  "id": 1293104615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.07579,35.32549,140.07579,35.32549",
+    "geom:latitude":35.32549,
+    "geom:longitude":140.07579,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1859468.0",
+    "gn:asciiname":"Hasegawa",
+    "gn:country_code":"JP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11141673,
+    "gn:latitude":35.32549,
+    "gn:longitude":140.07579,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hasegawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u8c37\u5ddd"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u305b\u304c\u308f",
+        "\u30cf\u30bb\u30ac\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11141673
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6982b7187fe0228b2e78934c0dea47f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741613,
+            "locality_id":1293104615,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293104615,
+    "wof:lastmodified":1537652407,
+    "wof:name":"Hasegawa",
+    "wof:parent_id":1108741613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.07578999999998,
+    35.32549,
+    140.07578999999998,
+    35.32549
+],
+  "geometry": {"coordinates":[140.07578999999998,35.32549],"type":"Point"}
+}

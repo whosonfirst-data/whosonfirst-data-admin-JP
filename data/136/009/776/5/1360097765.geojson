@@ -1,0 +1,75 @@
+{
+  "id": 1360097765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.06718,39.77122,140.06718,39.77122",
+    "geom:latitude":39.77122,
+    "geom:longitude":140.06718,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Numabata",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8314210,
+    "gn:latitude":39.77122,
+    "gn:longitude":140.06718,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Numabata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6cbc\u7aef"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u307e\u3070\u305f",
+        "\u30cc\u30de\u30d0\u30bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8314210
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"92225e26b11611e3b5d2e1496db0d200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1360097765,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1360097765,
+    "wof:lastmodified":1537650743,
+    "wof:name":"Numabata",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.06718,
+    39.77122,
+    140.06718,
+    39.77122
+],
+  "geometry": {"coordinates":[140.06718000000001,39.77122],"type":"Point"}
+}

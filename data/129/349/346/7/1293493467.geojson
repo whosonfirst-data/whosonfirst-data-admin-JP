@@ -1,0 +1,75 @@
+{
+  "id": 1293493467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.00429,35.43104,140.00429,35.43104",
+    "geom:latitude":35.43104,
+    "geom:longitude":140.00429,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2110982.0",
+    "gn:asciiname":"Sumayama",
+    "gn:country_code":"JP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11137264,
+    "gn:latitude":35.43104,
+    "gn:longitude":140.00429,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sumayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u89d2\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3059\u307e\u3084\u307e",
+        "\u30b9\u30de\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137264
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ef9c6e2eb58863a3f95334d026db6d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741621,
+            "locality_id":1293493467,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293493467,
+    "wof:lastmodified":1537652362,
+    "wof:name":"Sumayama",
+    "wof:parent_id":1108741621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.00429,
+    35.43104,
+    140.00429,
+    35.43104
+],
+  "geometry": {"coordinates":[140.00429,35.43104],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108741813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000651,
+    "geom:area_square_m":6565910.092085,
+    "geom:bbox":"139.107406616,35.3176002502,139.143005371,35.3521347046",
+    "geom:latitude":35.334725,
+    "geom:longitude":139.124948,
+    "iso:country":"JP",
+    "lbl:latitude":35.334361,
+    "lbl:longitude":139.126172,
+    "meso:admin_1":"Kanagawa Ken",
+    "meso:gadm_admin":"Kaisei",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Kaiseemati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"14366",
+    "meso:mps_x":139.126172,
+    "meso:mps_y":35.334361,
+    "meso:name_alt":"Kaisei",
+    "meso:name_en":"Kaisei Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.334361,
+    "mps:longitude":139.126172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kaisei"
+    ],
+    "name:eng_x_variant":[
+        "Kaiseemati",
+        "Kaisei Machi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151088,
+    "wof:geomhash":"71149f279ffd97358d85d60e6d21658d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741813,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1108741813,
+    "wof:lastmodified":1509652702,
+    "wof:name":"Kaisei",
+    "wof:parent_id":85672805,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744729
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.10740661621102,
+    35.31760025024406,
+    139.14300537109403,
+    35.35213470458977
+],
+  "geometry": {"coordinates":[[[139.11239624023395,35.35213470458977],[139.11439514160193,35.35193252563477],[139.12179565429696,35.34953308105468],[139.13180541992196,35.34426498413092],[139.13560485839795,35.33666610717773],[139.13560485839795,35.3365325927734],[139.14300537109403,35.32339859008788],[139.13609313964798,35.32206726074218],[139.13540649414102,35.31886672973627],[139.13279724121097,35.31893539428712],[139.13059997558597,35.31760025024406],[139.12969970703097,35.3179321289063],[139.12789916992196,35.31846618652336],[139.12570190429696,35.31819915771479],[139.12179565429696,35.31953430175784],[139.11489868164102,35.3365325927734],[139.11140441894503,35.34013366699222],[139.10740661621102,35.34266662597664],[139.10789489746094,35.34606552124019],[139.11239624023395,35.35213470458977]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343922191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.26727,32.42886,130.26727,32.42886",
+    "geom:latitude":32.42886,
+    "geom:longitude":130.26727,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Hirayama",
+    "gn:country_code":"JP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11264776,
+    "gn:latitude":32.42886,
+    "gn:longitude":130.26727,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hirayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5e73\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u3089\u3084\u307e",
+        "\u30d2\u30e9\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264776
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bb48da76277399b61fd09f60d41b8637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1343922191,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343922191,
+    "wof:lastmodified":1537652778,
+    "wof:name":"Hirayama",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.26727,
+    32.42886,
+    130.26727,
+    32.42886
+],
+  "geometry": {"coordinates":[130.26727,32.42886],"type":"Point"}
+}

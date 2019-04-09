@@ -1,0 +1,75 @@
+{
+  "id": 1243555953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.48089,40.51443,141.48089,40.51443",
+    "geom:latitude":40.51443,
+    "geom:longitude":141.48089,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130200.0",
+    "gn:asciiname":"Nagane",
+    "gn:country_code":"JP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311621,
+    "gn:latitude":40.51443,
+    "gn:longitude":141.48089,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u6839"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u306d",
+        "\u30ca\u30ac\u30cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311621
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"11ea08bbbf46cf79c9f31d5909e5bf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520787,
+            "locality_id":1243555953,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1243555953,
+    "wof:lastmodified":1537650688,
+    "wof:name":"Nagane",
+    "wof:parent_id":890520787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.48089,
+    40.51443,
+    141.48089,
+    40.51443
+],
+  "geometry": {"coordinates":[141.48088999999999,40.51443],"type":"Point"}
+}

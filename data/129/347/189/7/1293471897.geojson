@@ -1,0 +1,75 @@
+{
+  "id": 1293471897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.0399,39.3268,141.0399,39.3268",
+    "geom:latitude":39.3268,
+    "geom:longitude":141.0399,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112223.0",
+    "gn:asciiname":"Tateno",
+    "gn:country_code":"JP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438006,
+    "gn:latitude":39.3268,
+    "gn:longitude":141.0399,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tateno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7acb\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3066\u306e",
+        "\u30bf\u30c6\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438006
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"67c92fbc35b81e82819ab75c72cac0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739947,
+            "locality_id":1293471897,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1293471897,
+    "wof:lastmodified":1537650879,
+    "wof:name":"Tateno",
+    "wof:parent_id":1108739947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.0399,
+    39.3268,
+    141.0399,
+    39.3268
+],
+  "geometry": {"coordinates":[141.03989999999999,39.3268],"type":"Point"}
+}

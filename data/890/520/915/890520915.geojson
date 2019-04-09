@@ -1,0 +1,75 @@
+{
+  "id": 890520915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.708543,35.536015,139.708543,35.536015",
+    "geom:latitude":35.536015,
+    "geom:longitude":139.708543,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u65ed\u753a",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890523797,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1107547,
+        "qs:id":1199893
+    },
+    "wof:country":"JP",
+    "wof:created":1469056176,
+    "wof:geomhash":"4fc1e569a8ad67f9194b732c7047f9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523797,
+            "localadmin_id":890520915,
+            "region_id":85672805
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523797,
+            "localadmin_id":890520915,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":890520915,
+    "wof:lastmodified":1500053281,
+    "wof:name":"\u65ed\u753a",
+    "wof:parent_id":890523797,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.708543,
+    35.536015,
+    139.708543,
+    35.536015
+],
+  "geometry": {"coordinates":[139.70854299999999,35.536015],"type":"Point"}
+}

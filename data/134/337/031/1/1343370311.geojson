@@ -1,0 +1,75 @@
+{
+  "id": 1343370311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.34202,40.74076,140.34202,40.74076",
+    "geom:latitude":40.74076,
+    "geom:longitude":140.34202,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Akasaka",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475160,
+    "gn:latitude":40.74076,
+    "gn:longitude":140.34202,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Akasaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8d64\u5742"
+    ],
+    "name:jpn_x_variant":[
+        "\u3042\u304b\u3055\u304b",
+        "\u30a2\u30ab\u30b5\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475160
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bd5b1490d041a6e8bf2a0c0996951d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1343370311,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1343370311,
+    "wof:lastmodified":1537650948,
+    "wof:name":"Akasaka",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.34202,
+    40.74076,
+    140.34202,
+    40.74076
+],
+  "geometry": {"coordinates":[140.34201999999999,40.74076],"type":"Point"}
+}

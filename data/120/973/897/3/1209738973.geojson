@@ -1,0 +1,75 @@
+{
+  "id": 1209738973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.93584,35.67522,139.93584,35.67522",
+    "geom:latitude":35.67522,
+    "geom:longitude":139.93584,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1861964.0",
+    "gn:asciiname":"Takahamacho",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419756,
+    "gn:latitude":35.67522,
+    "gn:longitude":139.93584,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Takahamach\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9ad8\u6d5c\u753a"
+    ],
+    "name:und_x_variant":[
+        "Takahamach\u014d",
+        "Takahama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890523809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419756
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"73d653e34273c8c35fca52ad3a195960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523809,
+            "locality_id":1209738973,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209738973,
+    "wof:lastmodified":1537650594,
+    "wof:name":"Takahamacho",
+    "wof:parent_id":890523809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.93583999999998,
+    35.67522,
+    139.93583999999998,
+    35.67522
+],
+  "geometry": {"coordinates":[139.93583999999998,35.67522],"type":"Point"}
+}

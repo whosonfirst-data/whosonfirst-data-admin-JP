@@ -1,0 +1,75 @@
+{
+  "id": 1192986173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.90236,32.07045,130.90236,32.07045",
+    "geom:latitude":32.07045,
+    "geom:longitude":130.90236,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1864313.0",
+    "gn:asciiname":"Koyagano",
+    "gn:country_code":"JP",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10205094,
+    "gn:latitude":32.07045,
+    "gn:longitude":130.90236,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koyagano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6728\u5c4b\u30f6\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3084\u304c\u306e",
+        "\u30b3\u30e4\u30ac\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672707,
+        1108743265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10205094
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4948292efd1313ef9c767d8f8421ad54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743265,
+            "locality_id":1192986173,
+            "region_id":85672707
+        }
+    ],
+    "wof:id":1192986173,
+    "wof:lastmodified":1537651663,
+    "wof:name":"Koyagano",
+    "wof:parent_id":1108743265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.90236000000002,
+    32.07045,
+    130.90236000000002,
+    32.07045
+],
+  "geometry": {"coordinates":[130.90236000000002,32.07045],"type":"Point"}
+}

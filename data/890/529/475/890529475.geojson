@@ -1,0 +1,84 @@
+{
+  "id": 890529475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.88595,34.7684,138.88595,34.7684",
+    "geom:latitude":34.7684,
+    "geom:longitude":138.88595,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kamo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8cc0\u8302\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3082\u3050\u3093"
+    ],
+    "qs:name":"\u8cc0\u8302\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9759\u5ca1\u770c",
+    "qs:photos":857,
+    "qs:photos_1k":174,
+    "qs:photos_9k":27,
+    "qs:photos_9r":14,
+    "qs:photos_all":6129,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":305,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1860327,
+        "gp:id":24857646,
+        "qs:id":1058894,
+        "wd:id":"Q961511",
+        "wk:page":"Kamo District, Shizuoka"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056557,
+    "wof:geomhash":"d6ce9d7c92eac2b053780b4fc295b87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890529475,
+            "region_id":85672753
+        }
+    ],
+    "wof:id":890529475,
+    "wof:lastmodified":1527765658,
+    "wof:name":"\u8cc0\u8302\u90e1",
+    "wof:parent_id":85672753,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.88595,
+    34.7684,
+    138.88595,
+    34.7684
+],
+  "geometry": {"coordinates":[138.88595000000001,34.7684],"type":"Point"}
+}

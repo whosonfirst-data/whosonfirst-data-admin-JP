@@ -1,0 +1,75 @@
+{
+  "id": 1259356969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.73795,32.93046,130.73795,32.93046",
+    "geom:latitude":32.93046,
+    "geom:longitude":130.73795,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1859488.0",
+    "gn:asciiname":"Idoho",
+    "gn:country_code":"JP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11211594,
+    "gn:latitude":32.93046,
+    "gn:longitude":130.73795,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Idoho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e95\u6238\u65b9"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3069\u307b",
+        "\u30a4\u30c9\u30db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11211594
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"643d9040c75dcc6230d85fca1469e071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524677,
+            "locality_id":1259356969,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259356969,
+    "wof:lastmodified":1537652595,
+    "wof:name":"Idoho",
+    "wof:parent_id":890524677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.73795,
+    32.93046,
+    130.73795,
+    32.93046
+],
+  "geometry": {"coordinates":[130.73795000000001,32.93046],"type":"Point"}
+}

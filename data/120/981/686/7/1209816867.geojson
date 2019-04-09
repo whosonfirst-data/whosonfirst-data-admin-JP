@@ -1,0 +1,75 @@
+{
+  "id": 1209816867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.33473,40.7525,140.33473,40.7525",
+    "geom:latitude":40.7525,
+    "geom:longitude":140.33473,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Sarusawa",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475163,
+    "gn:latitude":40.7525,
+    "gn:longitude":140.33473,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sarusawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u733f\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u308b\u3055\u308f",
+        "\u30b5\u30eb\u30b5\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475163
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7514c0c566b743d80176558167f4eea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1209816867,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1209816867,
+    "wof:lastmodified":1537650949,
+    "wof:name":"Sarusawa",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.33473,
+    40.7525,
+    140.33473,
+    40.7525
+],
+  "geometry": {"coordinates":[140.33473000000001,40.7525],"type":"Point"}
+}

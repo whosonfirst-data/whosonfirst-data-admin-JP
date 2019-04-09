@@ -1,0 +1,80 @@
+{
+  "id": 1243036545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.5023,34.85699,136.5023,34.85699",
+    "geom:latitude":34.85699,
+    "geom:longitude":136.5023,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"1851345.0",
+    "gn:asciiname":"Kocho",
+    "gn:country_code":"JP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1858959,
+    "gn:latitude":34.85699,
+    "gn:longitude":136.5023,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dch\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "K\u014dch\u014d"
+    ],
+    "name:jpn_x_variant":[
+        "\u56fd\u5e9c\u753a"
+    ],
+    "name:und_x_variant":[
+        "Kokufu",
+        "Kofu",
+        "K\u014dmachi",
+        "Kokufumachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672745,
+        890524347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1858959
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"847b5aa7481494d2d2c5e4c6a20a41b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524347,
+            "locality_id":1243036545,
+            "region_id":85672745
+        }
+    ],
+    "wof:id":1243036545,
+    "wof:lastmodified":1537650155,
+    "wof:name":"Kocho",
+    "wof:parent_id":890524347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.5023,
+    34.85699,
+    136.5023,
+    34.85699
+],
+  "geometry": {"coordinates":[136.50229999999999,34.85699],"type":"Point"}
+}

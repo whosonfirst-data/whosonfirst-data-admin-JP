@@ -1,0 +1,80 @@
+{
+  "id": 1108741505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000512,
+    "geom:area_square_m":5137503.148678,
+    "geom:bbox":"139.662902832,35.8138008118,139.710006714,35.8353347778",
+    "geom:latitude":35.824518,
+    "geom:longitude":139.685865,
+    "iso:country":"JP",
+    "lbl:latitude":35.821504,
+    "lbl:longitude":139.691396,
+    "meso:admin_1":"Saitama Ken",
+    "meso:gadm_admin":"Warabi",
+    "meso:gadm_hasc2":"JP.ST.WR",
+    "meso:gaul_admin":"Warabisi",
+    "meso:hasc_id":"JP.ST.WR",
+    "meso:local_id":"11223",
+    "meso:mps_x":139.691396,
+    "meso:mps_y":35.821504,
+    "meso:name_alt":"Warabi",
+    "meso:name_en":"Warabi Shi",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.821504,
+    "mps:longitude":139.691396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Warabi"
+    ],
+    "name:eng_x_variant":[
+        "Warabisi",
+        "Warabi Shi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"JP.ST.WR"
+    },
+    "wof:country":"JP",
+    "wof:created":1479150988,
+    "wof:geomhash":"f7b258d7886a232932c03f0b1d7e43bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741505,
+            "region_id":85672807
+        }
+    ],
+    "wof:id":1108741505,
+    "wof:lastmodified":1536615673,
+    "wof:name":"Warabi",
+    "wof:parent_id":85672807,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:shortcode":"WR",
+    "wof:superseded_by":[
+        1108740451
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.66290283203097,
+    35.81380081176759,
+    139.710006713867,
+    35.83533477783202
+],
+  "geometry": {"coordinates":[[[139.67700195312497,35.83266830444344],[139.69320678710898,35.82866668701172],[139.71000671386699,35.82626724243163],[139.707595825195,35.8235321044922],[139.70719909667997,35.81926727294917],[139.70230102539097,35.8194007873535],[139.69990539550798,35.81533432006837],[139.699295043945,35.81533432006837],[139.69459533691398,35.81560134887704],[139.69169616699199,35.81380081176759],[139.68550109863298,35.81573104858401],[139.68460083007798,35.81953430175783],[139.68389892578099,35.81833267211911],[139.67820739746097,35.82040023803714],[139.66749572753898,35.82333374023438],[139.66290283203097,35.82880020141596],[139.66819763183597,35.83453369140629],[139.66960144042997,35.83533477783202],[139.67700195312497,35.83266830444344]]],"type":"Polygon"}
+}

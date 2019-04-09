@@ -1,0 +1,75 @@
+{
+  "id": 1309929367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.08776,35.37876,140.08776,35.37876",
+    "geom:latitude":35.37876,
+    "geom:longitude":140.08776,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Shikuno",
+    "gn:country_code":"JP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11138069,
+    "gn:latitude":35.37876,
+    "gn:longitude":140.08776,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shikuno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u56db\u7a7a\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u304f\u306e",
+        "\u30b7\u30af\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138069
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"84c731ca172ed32669974162402f8487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1309929367,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1309929367,
+    "wof:lastmodified":1537652376,
+    "wof:name":"Shikuno",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.08776,
+    35.37876,
+    140.08776,
+    35.37876
+],
+  "geometry": {"coordinates":[140.08776,35.37876],"type":"Point"}
+}

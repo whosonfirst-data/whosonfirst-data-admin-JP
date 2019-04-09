@@ -1,0 +1,75 @@
+{
+  "id": 1310055917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.55659,38.34279,139.55659,38.34279",
+    "geom:latitude":38.34279,
+    "geom:longitude":139.55659,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"7468177.0",
+    "gn:asciiname":"Osudo",
+    "gn:country_code":"JP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1853701,
+    "gn:latitude":38.34279,
+    "gn:longitude":139.55659,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u014csudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u9808\u6238"
+    ],
+    "name:und_x_variant":[
+        "\u014chosuto",
+        "\u014csudo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672849,
+        890520319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1853701
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"5871c10b9002b88a91a6a4a4525961b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520319,
+            "locality_id":1310055917,
+            "region_id":85672849
+        }
+    ],
+    "wof:id":1310055917,
+    "wof:lastmodified":1537650026,
+    "wof:name":"Osudo",
+    "wof:parent_id":890520319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.55659,
+    38.34279,
+    139.55659,
+    38.34279
+],
+  "geometry": {"coordinates":[139.55659,38.34279],"type":"Point"}
+}

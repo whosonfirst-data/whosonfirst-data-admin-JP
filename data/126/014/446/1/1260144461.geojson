@@ -1,0 +1,75 @@
+{
+  "id": 1260144461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.41988,32.48587,130.41988,32.48587",
+    "geom:latitude":32.48587,
+    "geom:longitude":130.41988,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Michizoe",
+    "gn:country_code":"JP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11267548,
+    "gn:latitude":32.48587,
+    "gn:longitude":130.41988,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Michizoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9053\u6dfb"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3061\u305e\u3048",
+        "\u30df\u30c1\u30be\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267548
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2e3143ba92eba14a45a6390939e31cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1260144461,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1260144461,
+    "wof:lastmodified":1537652813,
+    "wof:name":"Michizoe",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.41988,
+    32.48587,
+    130.41988,
+    32.48587
+],
+  "geometry": {"coordinates":[130.41988000000001,32.48587],"type":"Point"}
+}

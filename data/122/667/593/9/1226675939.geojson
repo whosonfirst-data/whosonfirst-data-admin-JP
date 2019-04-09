@@ -1,0 +1,79 @@
+{
+  "id": 1226675939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.22261,24.35228,124.22261,24.35228",
+    "geom:latitude":24.35228,
+    "geom:longitude":124.22261,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"1861412.0",
+    "gn:asciiname":"Miyara",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1856733,
+    "gn:latitude":24.35228,
+    "gn:longitude":124.22261,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u826f"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3084\u3089"
+    ],
+    "name:und_x_variant":[
+        "Kura",
+        "Miyaara",
+        "Miyara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867,
+        890520999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1856733
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d4bd5de61562a4f49b3dc616b0c7cbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520999,
+            "locality_id":1226675939,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1226675939,
+    "wof:lastmodified":1537650104,
+    "wof:name":"Miyara",
+    "wof:parent_id":890520999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.22261,
+    24.35228,
+    124.22261,
+    24.35228
+],
+  "geometry": {"coordinates":[124.22261,24.35228],"type":"Point"}
+}

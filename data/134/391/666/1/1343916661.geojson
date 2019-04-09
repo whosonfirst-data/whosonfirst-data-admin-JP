@@ -1,0 +1,76 @@
+{
+  "id": 1343916661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.02286,32.20879,131.02286,32.20879",
+    "geom:latitude":32.20879,
+    "geom:longitude":131.02286,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43505.0",
+    "gn:asciiname":"Yunoda",
+    "gn:country_code":"JP",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11402713,
+    "gn:latitude":32.20879,
+    "gn:longitude":131.02286,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yunoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6e6f\u30ce\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3086\u306e\u3060",
+        "\u30e6\u30ce\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402713
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d50e16f6bb75f411623b91754329997d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743213,
+            "locality_id":1343916661,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1343916661,
+    "wof:lastmodified":1537652932,
+    "wof:name":"Yunoda",
+    "wof:parent_id":1108743213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.02286,
+    32.20879,
+    131.02286,
+    32.20879
+],
+  "geometry": {"coordinates":[131.02286000000001,32.20879],"type":"Point"}
+}

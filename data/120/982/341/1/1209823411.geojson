@@ -1,0 +1,77 @@
+{
+  "id": 1209823411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.98333,40.1,139.98333,40.1",
+    "geom:latitude":40.1,
+    "geom:longitude":139.98333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2127468.0",
+    "gn:admin3_code":"5348.0",
+    "gn:asciiname":"Hamada",
+    "gn:cc2":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038792,
+    "gn:latitude":40.1,
+    "gn:longitude":139.98333,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hamada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d5c\u7530"
+    ],
+    "name:und_x_variant":[
+        "Hamata",
+        "Hamada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038792
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6577be52bd413d33f39948bffb09fead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740065,
+            "locality_id":1209823411,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1209823411,
+    "wof:lastmodified":1537650359,
+    "wof:name":"Hamada",
+    "wof:parent_id":1108740065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.98333,
+    40.1,
+    139.98333,
+    40.1
+],
+  "geometry": {"coordinates":[139.98333,40.1],"type":"Point"}
+}

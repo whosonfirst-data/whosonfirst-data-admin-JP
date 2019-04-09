@@ -1,0 +1,75 @@
+{
+  "id": 1309980059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.39169,32.47045,130.39169,32.47045",
+    "geom:latitude":32.47045,
+    "geom:longitude":130.39169,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Kanayama",
+    "gn:country_code":"JP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11267656,
+    "gn:latitude":32.47045,
+    "gn:longitude":130.39169,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kanayama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u306a\u3084\u307e",
+        "\u30ab\u30ca\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267656
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"96051f6113a8613ca2bd5fab3a4566a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1309980059,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1309980059,
+    "wof:lastmodified":1537652816,
+    "wof:name":"Kanayama",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.39168999999998,
+    32.47045,
+    130.39168999999998,
+    32.47045
+],
+  "geometry": {"coordinates":[130.39168999999998,32.47045],"type":"Point"}
+}

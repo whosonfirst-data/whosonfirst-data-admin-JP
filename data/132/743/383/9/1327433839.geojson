@@ -1,0 +1,75 @@
+{
+  "id": 1327433839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.13741,39.72697,140.13741,39.72697",
+    "geom:latitude":39.72697,
+    "geom:longitude":140.13741,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Hebino",
+    "gn:country_code":"JP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8316108,
+    "gn:latitude":39.72697,
+    "gn:longitude":140.13741,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hebino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u86c7\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3078\u3073\u306e",
+        "\u30d8\u30d3\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8316108
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"959dcbfc9a7a7f228b5b98867bff36fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1327433839,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1327433839,
+    "wof:lastmodified":1537650764,
+    "wof:name":"Hebino",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.13741000000002,
+    39.72697,
+    140.13741000000002,
+    39.72697
+],
+  "geometry": {"coordinates":[140.13741000000002,39.72697],"type":"Point"}
+}

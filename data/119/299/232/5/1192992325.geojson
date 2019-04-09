@@ -1,0 +1,75 @@
+{
+  "id": 1192992325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.19125,32.50019,130.19125,32.50019",
+    "geom:latitude":32.50019,
+    "geom:longitude":130.19125,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Kanegaoka",
+    "gn:country_code":"JP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11266526,
+    "gn:latitude":32.50019,
+    "gn:longitude":130.19125,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kanegaoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u30f6\u4e18"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u306d\u304c\u304a\u304b",
+        "\u30ab\u30cd\u30ac\u30aa\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11266526
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"753fa7293259e1fcf25cc538922eeb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1192992325,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1192992325,
+    "wof:lastmodified":1537652807,
+    "wof:name":"Kanegaoka",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.19125,
+    32.50019,
+    130.19125,
+    32.50019
+],
+  "geometry": {"coordinates":[130.19125,32.50019],"type":"Point"}
+}

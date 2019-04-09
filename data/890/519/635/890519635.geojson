@@ -1,0 +1,66 @@
+{
+  "id": 890519635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.72007,35.73139,139.72007,35.73139",
+    "geom:latitude":35.73139,
+    "geom:longitude":139.72007,
+    "gn:country":"JP",
+    "gn:fcode":"BLDG",
+    "gn:pop":1000,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Vanguard Tower",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6639622,
+        "qs:id":643408
+    },
+    "wof:country":"JP",
+    "wof:created":1469056111,
+    "wof:geomhash":"df515ddc46df8057ccb27a0f9e3709dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741713,
+            "locality_id":890519635,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":890519635,
+    "wof:lastmodified":1505343914,
+    "wof:name":"Vanguard Tower",
+    "wof:parent_id":1108741713,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.72007,
+    35.73139,
+    139.72007,
+    35.73139
+],
+  "geometry": {"coordinates":[139.72006999999999,35.73139],"type":"Point"}
+}

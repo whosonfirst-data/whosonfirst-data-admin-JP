@@ -1,0 +1,75 @@
+{
+  "id": 1343237795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.5418,32.03102,130.5418,32.03102",
+    "geom:latitude":32.03102,
+    "geom:longitude":130.5418,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Sakiyama",
+    "gn:country_code":"JP",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10192019,
+    "gn:latitude":32.03102,
+    "gn:longitude":130.5418,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakiyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5d0e\u5c71"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304d\u3084\u307e",
+        "\u30b5\u30ad\u30e4\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10192019
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"462eeb0f768506198db7d8313a18a282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1343237795,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1343237795,
+    "wof:lastmodified":1537651650,
+    "wof:name":"Sakiyama",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.5418,
+    32.03102,
+    130.5418,
+    32.03102
+],
+  "geometry": {"coordinates":[130.54179999999999,32.03102],"type":"Point"}
+}

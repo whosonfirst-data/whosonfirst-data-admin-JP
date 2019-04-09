@@ -1,0 +1,75 @@
+{
+  "id": 1209721439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.01953,35.10311,140.01953,35.10311",
+    "geom:latitude":35.10311,
+    "geom:longitude":140.01953,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Konishi",
+    "gn:country_code":"JP",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11171519,
+    "gn:latitude":35.10311,
+    "gn:longitude":140.01953,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Konishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u897f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u306b\u3057",
+        "\u30b3\u30cb\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171519
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2cfe76aeb325cbd47cec960763453ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1209721439,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1209721439,
+    "wof:lastmodified":1537652438,
+    "wof:name":"Konishi",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.01953,
+    35.10311,
+    140.01953,
+    35.10311
+],
+  "geometry": {"coordinates":[140.01953,35.10311],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1108743433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001132,
+    "geom:area_square_m":12602065.912019,
+    "geom:bbox":"131.180682177,24.4615127983,131.332264012,25.9604641322",
+    "geom:latitude":25.814983,
+    "geom:longitude":131.297264,
+    "iso:country":"JP",
+    "lbl:latitude":25.941981,
+    "lbl:longitude":131.308091,
+    "meso:admin_1":"Okinawa Ken",
+    "meso:gadm_admin":"Minami Daito",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Kitadaitooson",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"47358",
+    "meso:mps_x":131.308091,
+    "meso:mps_y":25.941981,
+    "meso:name_alt":"Kitadaito",
+    "meso:name_en":"Kitadaito Son",
+    "meso:source":"GSIJ",
+    "mps:latitude":25.941981,
+    "mps:longitude":131.308091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kitadaito"
+    ],
+    "name:eng_x_variant":[
+        "Kitadaitooson",
+        "Minami Daito",
+        "Kitadaito Son"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151690,
+    "wof:geomhash":"1c81774b52f6a3d3b6c00b025951a15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743433,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1108743433,
+    "wof:lastmodified":1509652716,
+    "wof:name":"Kitadaito",
+    "wof:parent_id":85672867,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108746353
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.18068217744084,
+    24.46151279833206,
+    131.3322640122942,
+    25.96046413224713
+],
+  "geometry": {"coordinates":[[[[131.18392559653611,24.47200656959822],[131.18750347283444,24.47120704416836],[131.19208075592016,24.47104713908239],[131.19447612275366,24.47015277199835],[131.19497966279258,24.46942035012338],[131.19433941525918,24.46668972548995],[131.19217204560459,24.46321955971797],[131.18956225081615,24.46151279833206],[131.18687724579976,24.46168605141736],[131.18468514569443,24.46343165936355],[131.18354582195684,24.46611006955337],[131.18198674736865,24.46882845601472],[131.18068217744084,24.47208491616337],[131.18392559653611,24.47200656959822]]],[[[131.30606467147425,25.95546497148053],[131.32007223983325,25.95606387895126],[131.33226401229419,25.95193256181256],[131.32387167831024,25.9327980403283],[131.31937033553618,25.92879833024526],[131.30575949569325,25.92833102983018],[131.30485922713825,25.92839778703235],[131.29396445174717,25.93419803422476],[131.28557211776322,25.94806636613384],[131.28546530623925,25.96046413224713],[131.30606467147425,25.95546497148053]]]],"type":"MultiPolygon"}
+}

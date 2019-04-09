@@ -1,0 +1,75 @@
+{
+  "id": 1193101273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.41992,32.49346,130.41992,32.49346",
+    "geom:latitude":32.49346,
+    "geom:longitude":130.41992,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413151.0",
+    "gn:asciiname":"Kurae",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11267537,
+    "gn:latitude":32.49346,
+    "gn:longitude":130.41992,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kurae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8535\u6c5f"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u3089\u3048",
+        "\u30af\u30e9\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267537
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"99b6f7155e0b4854a5c6267a3b491833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524819,
+            "locality_id":1193101273,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193101273,
+    "wof:lastmodified":1537652812,
+    "wof:name":"Kurae",
+    "wof:parent_id":890524819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.41992,
+    32.49346,
+    130.41992,
+    32.49346
+],
+  "geometry": {"coordinates":[130.41991999999999,32.49346],"type":"Point"}
+}

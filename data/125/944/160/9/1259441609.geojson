@@ -1,0 +1,76 @@
+{
+  "id": 1259441609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.10865,32.75103,131.10865,32.75103",
+    "geom:latitude":32.75103,
+    "geom:longitude":131.10865,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412706.0",
+    "gn:admin3_code":"43447.0",
+    "gn:asciiname":"Otsugi",
+    "gn:country_code":"JP",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11242457,
+    "gn:latitude":32.75103,
+    "gn:longitude":131.10865,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Otsugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c3e\u6b21"
+    ],
+    "name:jpn_x_variant":[
+        "\u304a\u3064\u304e",
+        "\u30aa\u30c4\u30ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242457
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"dc5f8d4afecca368d23ae848ddde2bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743203,
+            "locality_id":1259441609,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259441609,
+    "wof:lastmodified":1537652700,
+    "wof:name":"Otsugi",
+    "wof:parent_id":1108743203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.10865,
+    32.75103,
+    131.10865,
+    32.75103
+],
+  "geometry": {"coordinates":[131.10865000000001,32.75103],"type":"Point"}
+}

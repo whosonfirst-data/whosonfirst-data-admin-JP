@@ -1,0 +1,76 @@
+{
+  "id": 1259490415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.529,40.67105,140.529,40.67105",
+    "geom:latitude":40.67105,
+    "geom:longitude":140.529,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129224.0",
+    "gn:admin3_code":"2361.0",
+    "gn:asciiname":"Kameda",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8507070,
+    "gn:latitude":40.67105,
+    "gn:longitude":140.529,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kameda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e80\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u3081\u3060",
+        "\u30ab\u30e1\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507070
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"80f2c83261338d7d6e2e58d8e115d83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739885,
+            "locality_id":1259490415,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1259490415,
+    "wof:lastmodified":1537650985,
+    "wof:name":"Kameda",
+    "wof:parent_id":1108739885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.529,
+    40.67105,
+    140.529,
+    40.67105
+],
+  "geometry": {"coordinates":[140.529,40.67105],"type":"Point"}
+}

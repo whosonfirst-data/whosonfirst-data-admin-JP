@@ -1,0 +1,75 @@
+{
+  "id": 1309810603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.33087,40.7543,140.33087,40.7543",
+    "geom:latitude":40.7543,
+    "geom:longitude":140.33087,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130056.0",
+    "gn:asciiname":"Nagamae",
+    "gn:country_code":"JP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475164,
+    "gn:latitude":40.7543,
+    "gn:longitude":140.33087,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagamae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u524d"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u307e\u3048",
+        "\u30ca\u30ac\u30de\u30a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475164
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"a222de564d86b84398d36815915a35ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739867,
+            "locality_id":1309810603,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1309810603,
+    "wof:lastmodified":1537650949,
+    "wof:name":"Nagamae",
+    "wof:parent_id":1108739867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.33087,
+    40.7543,
+    140.33087,
+    40.7543
+],
+  "geometry": {"coordinates":[140.33087,40.7543],"type":"Point"}
+}

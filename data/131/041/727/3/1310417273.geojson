@@ -1,0 +1,75 @@
+{
+  "id": 1310417273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.68236,40.85262,140.68236,40.85262",
+    "geom:latitude":40.85262,
+    "geom:longitude":140.68236,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130654.0",
+    "gn:asciiname":"Hajiro",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526318,
+    "gn:latitude":40.85262,
+    "gn:longitude":140.68236,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hajiro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7fbd\u767d"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3058\u308d",
+        "\u30cf\u30b8\u30ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        1108739865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526318
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b14b4f03102e20414875322a482936a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739865,
+            "locality_id":1310417273,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1310417273,
+    "wof:lastmodified":1537651010,
+    "wof:name":"Hajiro",
+    "wof:parent_id":1108739865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.68236000000002,
+    40.85262,
+    140.68236000000002,
+    40.85262
+],
+  "geometry": {"coordinates":[140.68236000000002,40.85262],"type":"Point"}
+}

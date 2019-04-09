@@ -1,0 +1,75 @@
+{
+  "id": 1310111633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.89456,35.05505,139.89456,35.05505",
+    "geom:latitude":35.05505,
+    "geom:longitude":139.89456,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465521.0",
+    "gn:asciiname":"Shimotakida",
+    "gn:country_code":"JP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109049,
+    "gn:latitude":35.05505,
+    "gn:longitude":139.89456,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimotakida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u6edd\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3082\u305f\u304d\u3060",
+        "\u30b7\u30e2\u30bf\u30ad\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109049
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f058ee348a74a881ae7be7bb008acdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741631,
+            "locality_id":1310111633,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1310111633,
+    "wof:lastmodified":1537652262,
+    "wof:name":"Shimotakida",
+    "wof:parent_id":1108741631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.89456,
+    35.05505,
+    139.89456,
+    35.05505
+],
+  "geometry": {"coordinates":[139.89456000000001,35.05505],"type":"Point"}
+}

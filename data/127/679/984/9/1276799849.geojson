@@ -1,0 +1,75 @@
+{
+  "id": 1276799849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.95372,35.39075,139.95372,35.39075",
+    "geom:latitude":35.39075,
+    "geom:longitude":139.95372,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8304237.0",
+    "gn:asciiname":"Gion",
+    "gn:country_code":"JP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078124,
+    "gn:latitude":35.39075,
+    "gn:longitude":139.95372,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Gion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7947\u5712"
+    ],
+    "name:jpn_x_variant":[
+        "\u304e\u304a\u3093",
+        "\u30ae\u30aa\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078124
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"2fdd9c64dc381f0c52f4a467d7b9da6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741591,
+            "locality_id":1276799849,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1276799849,
+    "wof:lastmodified":1537652182,
+    "wof:name":"Gion",
+    "wof:parent_id":1108741591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.95372,
+    35.39075,
+    139.95372,
+    35.39075
+],
+  "geometry": {"coordinates":[139.95372,35.39075],"type":"Point"}
+}

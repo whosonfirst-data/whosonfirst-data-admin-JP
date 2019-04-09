@@ -1,0 +1,75 @@
+{
+  "id": 1326931763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.46429,40.45171,141.46429,40.45171",
+    "geom:latitude":40.45171,
+    "geom:longitude":141.46429,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130200.0",
+    "gn:asciiname":"Tsuchihashi",
+    "gn:country_code":"JP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562583,
+    "gn:latitude":40.45171,
+    "gn:longitude":141.46429,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsuchihashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u571f\u6a4b"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u3061\u306f\u3057",
+        "\u30c4\u30c1\u30cf\u30b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562583
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"4a7d54b4c3a24a01a06424976108d940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520787,
+            "locality_id":1326931763,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1326931763,
+    "wof:lastmodified":1537651125,
+    "wof:name":"Tsuchihashi",
+    "wof:parent_id":890520787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.46428999999995,
+    40.45171,
+    141.46428999999995,
+    40.45171
+],
+  "geometry": {"coordinates":[141.46428999999995,40.45171],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242835789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.75595,34.62535,135.75595,34.62535",
+    "geom:latitude":34.62535,
+    "geom:longitude":135.75595,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"1848602.0",
+    "gn:asciiname":"Koizumicho",
+    "gn:country_code":"JP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1859025,
+    "gn:latitude":34.62535,
+    "gn:longitude":135.75595,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koizumich\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u6cc9\u753a"
+    ],
+    "name:und_x_variant":[
+        "Koizumich\u014d",
+        "Koizumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672779,
+        1108742557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859025
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3575a243f00f8ce145351a70aed918ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742557,
+            "locality_id":1242835789,
+            "region_id":85672779
+        }
+    ],
+    "wof:id":1242835789,
+    "wof:lastmodified":1537650157,
+    "wof:name":"Koizumicho",
+    "wof:parent_id":1108742557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.75595,
+    34.62535,
+    135.75595,
+    34.62535
+],
+  "geometry": {"coordinates":[135.75595000000001,34.62535],"type":"Point"}
+}

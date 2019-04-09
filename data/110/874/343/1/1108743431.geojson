@@ -1,0 +1,77 @@
+{
+  "id": 1108743431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002713,
+    "geom:area_square_m":30195441.977196,
+    "geom:bbox":"131.214497788,25.8128121475,131.273091538,25.8723462203",
+    "geom:latitude":25.843266,
+    "geom:longitude":131.242821,
+    "iso:country":"JP",
+    "lbl:latitude":25.842728,
+    "lbl:longitude":131.242821,
+    "meso:admin_1":"Okinawa Ken",
+    "meso:gadm_admin":"Minami Daito",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Minamidaitooson",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"47357",
+    "meso:mps_x":131.242821,
+    "meso:mps_y":25.842728,
+    "meso:name_alt":"Minamidaito",
+    "meso:name_en":"Minamidaito Son",
+    "meso:source":"GSIJ",
+    "mps:latitude":25.842728,
+    "mps:longitude":131.242821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Minamidaito"
+    ],
+    "name:eng_x_variant":[
+        "Minamidaitooson",
+        "Minami Daito",
+        "Minamidaito Son"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151689,
+    "wof:geomhash":"78e8f3e8aa93c4f77df580cbdfdc6042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743431,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":1108743431,
+    "wof:lastmodified":1509652716,
+    "wof:name":"Minamidaito",
+    "wof:parent_id":85672867,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108746349
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.2144977881901,
+    25.81281214747257,
+    131.27309153819013,
+    25.87234622034853
+],
+  "geometry": {"coordinates":[[[131.21819041514311,25.83434611353701],[131.2170917823301,25.84321146998231],[131.2204944922911,25.85661250147641],[131.21999095225212,25.86421137842951],[131.2232868506901,25.86894541773621],[131.23529551768212,25.87234622034853],[131.25308726572911,25.87207919153995],[131.26279185557311,25.86881190333196],[131.27309153819013,25.85521250757996],[131.26689646983013,25.83434611353701],[131.2674000098701,25.83301096949404],[131.26389048838513,25.82407885584656],[131.25308726572911,25.81574564966981],[131.24449656748709,25.81327944788764],[131.2305958106511,25.81281214747257],[131.2144977881901,25.8220780471307],[131.21819041514311,25.83434611353701]]],"type":"Polygon"}
+}

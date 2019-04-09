@@ -1,0 +1,75 @@
+{
+  "id": 1259843615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.64493,33.0657,130.64493,33.0657",
+    "geom:latitude":33.0657,
+    "geom:longitude":130.64493,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Kuginomoto",
+    "gn:country_code":"JP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11333548,
+    "gn:latitude":33.0657,
+    "gn:longitude":130.64493,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kuginomoto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d8\u30ce\u5143"
+    ],
+    "name:jpn_x_variant":[
+        "\u304f\u304e\u306e\u3082\u3068",
+        "\u30af\u30ae\u30ce\u30e2\u30c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333548
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bcba83086c27b339261928ec517f9400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1259843615,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259843615,
+    "wof:lastmodified":1537652888,
+    "wof:name":"Kuginomoto",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.64493000000002,
+    33.0657,
+    130.64493000000002,
+    33.0657
+],
+  "geometry": {"coordinates":[130.64493000000002,33.0657],"type":"Point"}
+}

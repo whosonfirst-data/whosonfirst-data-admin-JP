@@ -1,0 +1,75 @@
+{
+  "id": 1277049597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.6357,32.55026,130.6357,32.55026",
+    "geom:latitude":32.55026,
+    "geom:longitude":130.6357,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1848441.0",
+    "gn:asciiname":"Kitade",
+    "gn:country_code":"JP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11191356,
+    "gn:latitude":32.55026,
+    "gn:longitude":130.6357,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kitade",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u51fa"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u305f\u3067",
+        "\u30ad\u30bf\u30c7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191356
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f98bce5e4b0390c071c2c2de0e916ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524581,
+            "locality_id":1277049597,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1277049597,
+    "wof:lastmodified":1537652511,
+    "wof:name":"Kitade",
+    "wof:parent_id":890524581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.6357,
+    32.55025999999999,
+    130.6357,
+    32.55025999999999
+],
+  "geometry": {"coordinates":[130.63570000000001,32.55025999999999],"type":"Point"}
+}

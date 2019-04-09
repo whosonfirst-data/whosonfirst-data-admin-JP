@@ -1,0 +1,74 @@
+{
+  "id": 890524779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.37036,33.54882,130.37036,33.54882",
+    "geom:latitude":33.54882,
+    "geom:longitude":130.37036,
+    "gn:country":"JP",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u57ce\u5357\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u3058\u3087\u3046\u306a\u3093\u304f",
+        "\u798f\u5ca1\u5e02\u57ce\u5357\u533a"
+    ],
+    "name:unk_x_variant":[
+        "J\u014dnan Ku"
+    ],
+    "qs:name":"J\u014dnan-ku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108742999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7407403,
+        "qs:id":1041288
+    },
+    "wof:country":"JP",
+    "wof:created":1469056352,
+    "wof:geomhash":"5eefe947702b52ab2bbcc56282148ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742999,
+            "localadmin_id":890524779,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":890524779,
+    "wof:lastmodified":1505343926,
+    "wof:name":"J\u014dnan-ku",
+    "wof:parent_id":1108742999,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.37036,
+    33.54882,
+    130.37036,
+    33.54882
+],
+  "geometry": {"coordinates":[130.37036000000001,33.54882],"type":"Point"}
+}

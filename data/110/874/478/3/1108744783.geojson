@@ -1,0 +1,76 @@
+{
+  "id": 1108744783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000347,
+    "geom:area_square_m":3441877.080399,
+    "geom:bbox":"137.292999268,36.6869354248,137.320602417,36.7128677368",
+    "geom:latitude":36.701219,
+    "geom:longitude":137.306973,
+    "iso:country":"JP",
+    "lbl:latitude":36.702176,
+    "lbl:longitude":137.307915,
+    "meso:admin_1":"Toyama Ken",
+    "meso:gadm_admin":"Funahashi",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Kamiitimati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"16321",
+    "meso:mps_x":137.307915,
+    "meso:mps_y":36.702176,
+    "meso:name_alt":"Funahashi",
+    "meso:name_en":"Funahashi Mura",
+    "meso:source":"GSIJ",
+    "mps:latitude":36.702176,
+    "mps:longitude":137.307915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Funahashi"
+    ],
+    "name:eng_x_variant":[
+        "Kamiitimati",
+        "Funahashi Mura"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        0,
+        85672759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152267,
+    "wof:geomhash":"953914bdbfa2fa96590a70717d66a702",
+    "wof:hierarchy":[
+        {
+            "continent_id":0,
+            "country_id":0,
+            "county_id":1108744783,
+            "region_id":85672759
+        }
+    ],
+    "wof:id":1108744783,
+    "wof:lastmodified":1511300754,
+    "wof:name":"Funahashi",
+    "wof:parent_id":85672759,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108741867
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.292999267578,
+    36.68693542480474,
+    137.32060241699202,
+    36.71286773681636
+],
+  "geometry": {"coordinates":[[[137.31660461425801,36.7123985290527],[137.31700134277301,36.71066665649409],[137.31640625,36.7043342590332],[137.31900024414099,36.7034683227539],[137.32060241699202,36.70266723632808],[137.31719970703102,36.70033264160157],[137.31140136718798,36.69559860229487],[137.31010437011702,36.69753265380857],[137.30879211425801,36.69666671752926],[137.31129455566401,36.69260025024414],[137.30929565429702,36.69093322753911],[137.30470275878901,36.68759918212886],[137.30050659179699,36.68853378295901],[137.29879760742199,36.68693542480474],[137.29739379882801,36.68986511230472],[137.30139160156298,36.69779968261723],[137.30239868164099,36.70146560668954],[137.29930114746099,36.70140075683587],[137.29820251464801,36.70446777343754],[137.29299926757801,36.70406723022463],[137.30180358886699,36.71093368530266],[137.30599975585901,36.71286773681636],[137.30709838867199,36.71020126342769],[137.30799865722699,36.70793533325202],[137.311599731445,36.71166610717773],[137.31660461425801,36.7123985290527]]],"type":"Polygon"}
+}

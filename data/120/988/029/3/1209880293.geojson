@@ -1,0 +1,75 @@
+{
+  "id": 1209880293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.7116,32.64713,130.7116,32.64713",
+    "geom:latitude":32.64713,
+    "geom:longitude":130.7116,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413152.0",
+    "gn:asciiname":"Tatsuda",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11176093,
+    "gn:latitude":32.64713,
+    "gn:longitude":130.7116,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tatsuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7acb\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u305f\u3064\u3060",
+        "\u30bf\u30c4\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176093
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e34ae886748817fece688f628c115d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":1209880293,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1209880293,
+    "wof:lastmodified":1537652490,
+    "wof:name":"Tatsuda",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.7116,
+    32.64713,
+    130.7116,
+    32.64713
+],
+  "geometry": {"coordinates":[130.7116,32.64713],"type":"Point"}
+}

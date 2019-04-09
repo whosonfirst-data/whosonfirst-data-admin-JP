@@ -1,0 +1,75 @@
+{
+  "id": 1242571897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.76556,33.6786,130.76556,33.6786",
+    "geom:latitude":33.6786,
+    "geom:longitude":130.76556,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1851269.0",
+    "gn:admin3_code":"40610.0",
+    "gn:asciiname":"Kozaki",
+    "gn:country_code":"JP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352682,
+    "gn:latitude":33.6786,
+    "gn:longitude":130.76556,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u014dzaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u795e\u5d0e"
+    ],
+    "name:und_x_variant":[
+        "K\u014dzaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352682
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"180a471db6889bbb6e5583b6bfab6194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743085,
+            "locality_id":1242571897,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1242571897,
+    "wof:lastmodified":1537651876,
+    "wof:name":"Kozaki",
+    "wof:parent_id":1108743085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.76556000000002,
+    33.6786,
+    130.76556000000002,
+    33.6786
+],
+  "geometry": {"coordinates":[130.76556000000002,33.6786],"type":"Point"}
+}

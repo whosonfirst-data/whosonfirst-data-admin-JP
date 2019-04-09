@@ -1,0 +1,75 @@
+{
+  "id": 1243179179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.26041,40.659,141.26041,40.659",
+    "geom:latitude":40.659,
+    "geom:longitude":141.26041,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2127674.0",
+    "gn:asciiname":"Toyohira",
+    "gn:country_code":"JP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312305,
+    "gn:latitude":40.659,
+    "gn:longitude":141.26041,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Toyohira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8c4a\u5e73"
+    ],
+    "name:jpn_x_variant":[
+        "\u3068\u3088\u3072\u3089",
+        "\u30c8\u30e8\u30d2\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312305
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"fc62a61abcacc8bef0ef9201621f150a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519961,
+            "locality_id":1243179179,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1243179179,
+    "wof:lastmodified":1537650712,
+    "wof:name":"Toyohira",
+    "wof:parent_id":890519961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.26041,
+    40.659,
+    141.26041,
+    40.659
+],
+  "geometry": {"coordinates":[141.26041000000001,40.659],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293791909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.5601,40.27248,140.5601,40.27248",
+    "geom:latitude":40.27248,
+    "geom:longitude":140.5601,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Nagakura",
+    "gn:country_code":"JP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458766,
+    "gn:latitude":40.27248,
+    "gn:longitude":140.5601,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nagakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9577\u5009"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304c\u304f\u3089",
+        "\u30ca\u30ac\u30af\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458766
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ace04937bb3c2348e42238898b2b768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1293791909,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1293791909,
+    "wof:lastmodified":1537650928,
+    "wof:name":"Nagakura",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.5601,
+    40.27248,
+    140.5601,
+    40.27248
+],
+  "geometry": {"coordinates":[140.56010000000001,40.27248],"type":"Point"}
+}

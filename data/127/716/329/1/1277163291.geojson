@@ -1,0 +1,75 @@
+{
+  "id": 1277163291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.52099,33.53538,130.52099,33.53538",
+    "geom:latitude":33.53538,
+    "geom:longitude":130.52099,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859874.0",
+    "gn:admin3_code":"40341.0",
+    "gn:asciiname":"Shioji",
+    "gn:country_code":"JP",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10259615,
+    "gn:latitude":33.53538,
+    "gn:longitude":130.52099,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shi\u014dji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u56db\u738b\u5bfa"
+    ],
+    "name:und_x_variant":[
+        "Shi\u014dji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10259615
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"1a01b52d69eb0af60d5ea8675edf955b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743029,
+            "locality_id":1277163291,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1277163291,
+    "wof:lastmodified":1537651765,
+    "wof:name":"Shioji",
+    "wof:parent_id":1108743029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.52098999999998,
+    33.53538,
+    130.52098999999998,
+    33.53538
+],
+  "geometry": {"coordinates":[130.52098999999998,33.53538],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293224029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.25958,35.45146,140.25958,35.45146",
+    "geom:latitude":35.45146,
+    "geom:longitude":140.25958,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2111854.0",
+    "gn:asciiname":"Harada",
+    "gn:country_code":"JP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11134239,
+    "gn:latitude":35.45146,
+    "gn:longitude":140.25958,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Harada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u539f\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u306f\u3089\u3060",
+        "\u30cf\u30e9\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134239
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"282ffaa18662a360c663cf95d1e7a20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741595,
+            "locality_id":1293224029,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293224029,
+    "wof:lastmodified":1537652342,
+    "wof:name":"Harada",
+    "wof:parent_id":1108741595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.25958,
+    35.45146,
+    140.25958,
+    35.45146
+],
+  "geometry": {"coordinates":[140.25958,35.45146],"type":"Point"}
+}

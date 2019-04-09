@@ -1,0 +1,75 @@
+{
+  "id": 1293098673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.97457,35.12645,139.97457,35.12645",
+    "geom:latitude":35.12645,
+    "geom:longitude":139.97457,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Dairi",
+    "gn:country_code":"JP",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109992,
+    "gn:latitude":35.12645,
+    "gn:longitude":139.97457,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Dairi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5927\u91cc"
+    ],
+    "name:jpn_x_variant":[
+        "\u3060\u3044\u308a",
+        "\u30c0\u30a4\u30ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109992
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7a0918cdeb66b7db6d0ca0f6b56d2e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1293098673,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1293098673,
+    "wof:lastmodified":1537652284,
+    "wof:name":"Dairi",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.97457,
+    35.12645,
+    139.97457,
+    35.12645
+],
+  "geometry": {"coordinates":[139.97457,35.12645],"type":"Point"}
+}

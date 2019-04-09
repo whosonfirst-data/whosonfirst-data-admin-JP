@@ -1,0 +1,75 @@
+{
+  "id": 1310573053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15701,39.34119,141.15701,39.34119",
+    "geom:latitude":39.34119,
+    "geom:longitude":141.15701,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112223.0",
+    "gn:asciiname":"Saraki",
+    "gn:country_code":"JP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437359,
+    "gn:latitude":39.34119,
+    "gn:longitude":141.15701,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Saraki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u66f4\u6728"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u3089\u304d",
+        "\u30b5\u30e9\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437359
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ae4c6d41071ce3e0942112351d235924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739947,
+            "locality_id":1310573053,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1310573053,
+    "wof:lastmodified":1537650857,
+    "wof:name":"Saraki",
+    "wof:parent_id":1108739947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15701,
+    39.34119000000001,
+    141.15701,
+    39.34119000000001
+],
+  "geometry": {"coordinates":[141.15701000000001,39.34119000000001],"type":"Point"}
+}

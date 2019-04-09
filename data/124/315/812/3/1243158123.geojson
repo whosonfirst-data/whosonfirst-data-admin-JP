@@ -1,0 +1,75 @@
+{
+  "id": 1243158123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.50936,33.57512,130.50936,33.57512",
+    "geom:latitude":33.57512,
+    "geom:longitude":130.50936,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1859874.0",
+    "gn:admin3_code":"40341.0",
+    "gn:asciiname":"Myojinzaka",
+    "gn:country_code":"JP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10259622,
+    "gn:latitude":33.57512,
+    "gn:longitude":130.50936,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"My\u014djinzaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u660e\u795e\u5742"
+    ],
+    "name:und_x_variant":[
+        "My\u014djinzaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697,
+        1108743029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10259622
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ab3e4eb14a0740599bb087e9eb3e751c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743029,
+            "locality_id":1243158123,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1243158123,
+    "wof:lastmodified":1537651765,
+    "wof:name":"Myojinzaka",
+    "wof:parent_id":1108743029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.50936000000002,
+    33.57512,
+    130.50936000000002,
+    33.57512
+],
+  "geometry": {"coordinates":[130.50936000000002,33.57512],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108745243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001545,
+    "geom:area_square_m":15635706.908926,
+    "geom:bbox":"136.714096069,35.0207328796,136.772506714,35.1048660278",
+    "geom:latitude":35.06548,
+    "geom:longitude":136.739837,
+    "iso:country":"JP",
+    "lbl:latitude":35.06456,
+    "lbl:longitude":136.739394,
+    "meso:admin_1":"Mie Ken",
+    "meso:gadm_admin":"Kisosaki",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"NO DATA",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"24303",
+    "meso:mps_x":136.739394,
+    "meso:mps_y":35.06456,
+    "meso:name_alt":"Kisosaki",
+    "meso:name_en":"Kisosaki Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.06456,
+    "mps:longitude":136.739394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kisosaki"
+    ],
+    "name:eng_x_variant":[
+        "Kisosaki Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152402,
+    "wof:geomhash":"3d4379d9ce390bd838fee61354c6a08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745243,
+            "region_id":85672731
+        }
+    ],
+    "wof:id":1108745243,
+    "wof:lastmodified":1511300759,
+    "wof:name":"Kisosaki",
+    "wof:parent_id":85672731,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742327
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.71409606933597,
+    35.02073287963869,
+    136.772506713867,
+    35.10486602783197
+],
+  "geometry": {"coordinates":[[[136.77040100097699,35.02140045166017],[136.76460266113298,35.02073287963869],[136.753982543945,35.0316581726074],[136.74969482421898,35.03606796264648],[136.75500488281298,35.0392684936523],[136.75169372558599,35.04426574707031],[136.74679565429699,35.04133224487298],[136.74299621582,35.0390663146973],[136.72850036621097,35.05839920043947],[136.71850585937497,35.08653259277336],[136.71409606933597,35.10486602783197],[136.71830749511696,35.10260009765631],[136.72070312499997,35.10266876220697],[136.73350524902298,35.09460067749021],[136.74060058593795,35.08653259277336],[136.74679565429699,35.08240127563484],[136.75090026855497,35.07719802856447],[136.75199890136699,35.05893325805662],[136.75309753417997,35.05306625366213],[136.76309204101599,35.03486633300776],[136.77250671386699,35.02433395385741],[136.76989746093798,35.0219993591309],[136.77040100097699,35.02140045166017]]],"type":"Polygon"}
+}

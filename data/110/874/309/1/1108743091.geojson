@@ -1,0 +1,77 @@
+{
+  "id": 1108743091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000543,
+    "geom:area_square_m":5589964.685113,
+    "geom:bbox":"131.152496338,33.5875320435,131.184509277,33.6197357178",
+    "geom:latitude":33.604671,
+    "geom:longitude":131.169255,
+    "iso:country":"JP",
+    "lbl:latitude":33.603633,
+    "lbl:longitude":131.168163,
+    "meso:admin_1":"Fukuoka Ken",
+    "meso:gadm_admin":"K\u014dge",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Yositomimati",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"40642",
+    "meso:mps_x":131.168163,
+    "meso:mps_y":33.603633,
+    "meso:name_alt":"Yoshitomi",
+    "meso:name_en":"Yoshitomi Machi",
+    "meso:source":"GSIJ",
+    "mps:latitude":33.603633,
+    "mps:longitude":131.168163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yoshitomi"
+    ],
+    "name:eng_x_variant":[
+        "Yositomimati",
+        "K\u014dge",
+        "Yoshitomi Machi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479151584,
+    "wof:geomhash":"266f3cda14023f8666bb9e0c8aacfc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743091,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":1108743091,
+    "wof:lastmodified":1509652713,
+    "wof:name":"Yoshitomi",
+    "wof:parent_id":85672697,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108746011
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.15249633789097,
+    33.58753204345703,
+    131.18450927734398,
+    33.61973571777341
+],
+  "geometry": {"coordinates":[[[131.16540527343804,33.61686706542974],[131.16889953613295,33.6167335510254],[131.16979980468804,33.61846542358401],[131.17799377441398,33.61973571777341],[131.18040466308597,33.61953353881841],[131.18450927734398,33.61619949340817],[131.17829895019497,33.6070022583008],[131.17709350585898,33.59920120239261],[131.17520141601597,33.59313201904303],[131.17190551757798,33.58833312988276],[131.16960144042997,33.58866882324218],[131.16850280761696,33.58753204345703],[131.16490173339798,33.58819961547852],[131.16380310058597,33.58893585205085],[131.16380310058597,33.59446716308591],[131.15579223632798,33.59826660156246],[131.15510559081997,33.60086822509773],[131.15249633789097,33.6031341552734],[131.16009521484398,33.60933303833013],[131.16430664062497,33.61233520507813],[131.16540527343804,33.61686706542974]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226208061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.53313,32.09965,130.53313,32.09965",
+    "geom:latitude":32.09965,
+    "geom:longitude":130.53313,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383991.0",
+    "gn:asciiname":"Yoshigano",
+    "gn:country_code":"JP",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10191302,
+    "gn:latitude":32.09965,
+    "gn:longitude":130.53313,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yoshigano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u82b3\u30f6\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3088\u3057\u304c\u306e",
+        "\u30e8\u30b7\u30ac\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890524127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10191302
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"f21c64325645cbf6fd34afd104083ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524127,
+            "locality_id":1226208061,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1226208061,
+    "wof:lastmodified":1537651647,
+    "wof:name":"Yoshigano",
+    "wof:parent_id":890524127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.53313,
+    32.09965,
+    130.53313,
+    32.09965
+],
+  "geometry": {"coordinates":[130.53313,32.09965],"type":"Point"}
+}

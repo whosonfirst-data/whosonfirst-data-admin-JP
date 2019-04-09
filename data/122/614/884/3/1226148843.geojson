@@ -1,0 +1,75 @@
+{
+  "id": 1226148843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.98419,35.1387,139.98419,35.1387",
+    "geom:latitude":35.1387,
+    "geom:longitude":139.98419,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112386.0",
+    "gn:asciiname":"Kamanuma",
+    "gn:country_code":"JP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11110000,
+    "gn:latitude":35.1387,
+    "gn:longitude":139.98419,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamanuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91dc\u6cbc"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307e\u306c\u307e",
+        "\u30ab\u30de\u30cc\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110000
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"bb16b4063a07dc2eec84417bb7931a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741611,
+            "locality_id":1226148843,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1226148843,
+    "wof:lastmodified":1537652285,
+    "wof:name":"Kamanuma",
+    "wof:parent_id":1108741611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.98418999999998,
+    35.1387,
+    139.98418999999998,
+    35.1387
+],
+  "geometry": {"coordinates":[139.98418999999998,35.1387],"type":"Point"}
+}

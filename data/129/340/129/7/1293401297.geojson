@@ -1,0 +1,75 @@
+{
+  "id": 1293401297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.4455,40.7883,140.4455,40.7883",
+    "geom:latitude":40.7883,
+    "geom:longitude":140.4455,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130225.0",
+    "gn:asciiname":"Nekobuchi",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8476332,
+    "gn:latitude":40.7883,
+    "gn:longitude":140.4455,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nekobuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u732b\u6df5"
+    ],
+    "name:jpn_x_variant":[
+        "\u306d\u3053\u3076\u3061",
+        "\u30cd\u30b3\u30d6\u30c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890523933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8476332
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"667a0a14c4f3884a8b3790d3aa98aeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890523933,
+            "locality_id":1293401297,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1293401297,
+    "wof:lastmodified":1537650957,
+    "wof:name":"Nekobuchi",
+    "wof:parent_id":890523933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.4455,
+    40.7883,
+    140.4455,
+    40.7883
+],
+  "geometry": {"coordinates":[140.44550000000001,40.7883],"type":"Point"}
+}

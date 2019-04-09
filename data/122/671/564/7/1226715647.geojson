@@ -1,0 +1,75 @@
+{
+  "id": 1226715647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.84861,31.16759,130.84861,31.16759",
+    "geom:latitude":31.16759,
+    "geom:longitude":130.84861,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7383999.0",
+    "gn:admin3_code":"46490.0",
+    "gn:asciiname":"Ikenno",
+    "gn:country_code":"JP",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10178735,
+    "gn:latitude":31.16759,
+    "gn:longitude":130.84861,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikenno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c60\u91ce"
+    ],
+    "name:und_x_variant":[
+        "Ikeno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178735
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"7b3f821c9f04206a3c8a280cb29f2805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743333,
+            "locality_id":1226715647,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1226715647,
+    "wof:lastmodified":1537651609,
+    "wof:name":"Ikenno",
+    "wof:parent_id":1108743333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.84861,
+    31.16759,
+    130.84861,
+    31.16759
+],
+  "geometry": {"coordinates":[130.84861000000001,31.16759],"type":"Point"}
+}

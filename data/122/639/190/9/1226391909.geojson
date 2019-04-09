@@ -1,0 +1,76 @@
+{
+  "id": 1226391909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.19833,33.6004,131.19833,33.6004",
+    "geom:latitude":33.6004,
+    "geom:longitude":131.19833,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1855742.0",
+    "gn:asciiname":"Shimata-honmachi",
+    "gn:country_code":"JP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1852474,
+    "gn:latitude":33.6004,
+    "gn:longitude":131.19833,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimata-honmachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5cf6\u7530\u672c\u753a"
+    ],
+    "name:und_x_variant":[
+        "Shimata",
+        "Shimada",
+        "Shimata-honmachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672723,
+        890524649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852474
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"001a673a7e67800dc87a0fab78af5ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524649,
+            "locality_id":1226391909,
+            "region_id":85672723
+        }
+    ],
+    "wof:id":1226391909,
+    "wof:lastmodified":1537649997,
+    "wof:name":"Shimata-honmachi",
+    "wof:parent_id":890524649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.19833,
+    33.6004,
+    131.19833,
+    33.6004
+],
+  "geometry": {"coordinates":[131.19833,33.6004],"type":"Point"}
+}

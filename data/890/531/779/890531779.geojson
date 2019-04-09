@@ -1,0 +1,73 @@
+{
+  "id": 890531779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.66667,32.65,130.66667,32.65",
+    "geom:latitude":32.65,
+    "geom:longitude":130.66667,
+    "gn:country":"JP",
+    "gn:fcode":"PPL",
+    "gn:pop":26163,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u677e\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u307e\u3064\u3070\u305b",
+        "\u30de\u30c4\u30d0\u30bb"
+    ],
+    "qs:name":"Matsubase",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1857560,
+        "gp:id":28489137,
+        "qs:id":89919
+    },
+    "wof:country":"JP",
+    "wof:created":1469056675,
+    "wof:geomhash":"477c10534decb392305b04b828d45b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524813,
+            "locality_id":890531779,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":890531779,
+    "wof:lastmodified":1505343931,
+    "wof:name":"Matsubase",
+    "wof:parent_id":890524813,
+    "wof:placetype":"locality",
+    "wof:population":26163,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.66667,
+    32.65,
+    130.66667,
+    32.65
+],
+  "geometry": {"coordinates":[130.66667000000001,32.65],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276304215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15562,39.43583,141.15562,39.43583",
+    "geom:latitude":39.43583,
+    "geom:longitude":141.15562,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Nakamura",
+    "gn:country_code":"JP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437296,
+    "gn:latitude":39.43583,
+    "gn:longitude":141.15562,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nakamura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e2d\u6751"
+    ],
+    "name:jpn_x_variant":[
+        "\u306a\u304b\u3080\u3089",
+        "\u30ca\u30ab\u30e0\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437296
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"525dee1d64bae98760321ddac533d130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1276304215,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1276304215,
+    "wof:lastmodified":1537650855,
+    "wof:name":"Nakamura",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15562,
+    39.43583,
+    141.15562,
+    39.43583
+],
+  "geometry": {"coordinates":[141.15562,39.43583],"type":"Point"}
+}

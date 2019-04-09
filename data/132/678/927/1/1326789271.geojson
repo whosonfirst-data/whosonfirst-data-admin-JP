@@ -1,0 +1,75 @@
+{
+  "id": 1326789271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.77865,33.0625,130.77865,33.0625",
+    "geom:latitude":33.0625,
+    "geom:longitude":130.77865,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7413150.0",
+    "gn:asciiname":"Uchino",
+    "gn:country_code":"JP",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11325826,
+    "gn:latitude":33.0625,
+    "gn:longitude":130.77865,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Uchino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5185\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3046\u3061\u306e",
+        "\u30a6\u30c1\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325826
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c84184d6a0a2beba8a3c87d8bd7286fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524817,
+            "locality_id":1326789271,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1326789271,
+    "wof:lastmodified":1537652873,
+    "wof:name":"Uchino",
+    "wof:parent_id":890524817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.77865,
+    33.0625,
+    130.77865,
+    33.0625
+],
+  "geometry": {"coordinates":[130.77865,33.0625],"type":"Point"}
+}

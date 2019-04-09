@@ -1,0 +1,75 @@
+{
+  "id": 1226020069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.52514,35.33482,139.52514,35.33482",
+    "geom:latitude":35.33482,
+    "geom:longitude":139.52514,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1860670.0",
+    "gn:asciiname":"Terabun",
+    "gn:country_code":"JP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1850386,
+    "gn:latitude":35.33482,
+    "gn:longitude":139.52514,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Terabun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bfa\u5206"
+    ],
+    "name:jpn_x_variant":[
+        "\u3066\u3089\u3076\u3093",
+        "\u30c6\u30e9\u30d6\u30f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672805,
+        890519469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1850386
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"e41844f74baddabb77886e763f2869b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519469,
+            "locality_id":1226020069,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":1226020069,
+    "wof:lastmodified":1537649936,
+    "wof:name":"Terabun",
+    "wof:parent_id":890519469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.52514,
+    35.33482,
+    139.52514,
+    35.33482
+],
+  "geometry": {"coordinates":[139.52513999999999,35.33482],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890524411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.8208,34.73681,135.8208,34.73681",
+    "geom:latitude":34.73681,
+    "geom:longitude":135.8208,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":41760,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kizugawa-shi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6728\u6d25\u5ddd\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u6728\u6d25\u5ddd"
+    ],
+    "name:unk_x_variant":[
+        "Kizumachi"
+    ],
+    "qs:name":"Kizu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1859202,
+        "qs:id":1028026
+    },
+    "wof:country":"JP",
+    "wof:created":1469056338,
+    "wof:geomhash":"24f88fb35c4e7e8bfc9c716e0d63dacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524411,
+            "region_id":85672777
+        }
+    ],
+    "wof:id":890524411,
+    "wof:lastmodified":1505343925,
+    "wof:name":"Kizu",
+    "wof:parent_id":85672777,
+    "wof:placetype":"county",
+    "wof:population":41760,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.8208,
+    34.73681,
+    135.8208,
+    34.73681
+],
+  "geometry": {"coordinates":[135.82079999999999,34.73681],"type":"Point"}
+}

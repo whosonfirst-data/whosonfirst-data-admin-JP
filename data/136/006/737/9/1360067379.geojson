@@ -1,0 +1,75 @@
+{
+  "id": 1360067379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.24242,39.47636,141.24242,39.47636",
+    "geom:latitude":39.47636,
+    "geom:longitude":141.24242,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2112822.0",
+    "gn:asciiname":"Sakaida",
+    "gn:country_code":"JP",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431316,
+    "gn:latitude":39.47636,
+    "gn:longitude":141.24242,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sakaida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5883\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3055\u304b\u3044\u3060",
+        "\u30b5\u30ab\u30a4\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        1108739945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431316
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d897fc1b73ba73982a23c3909c1bb85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108739945,
+            "locality_id":1360067379,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1360067379,
+    "wof:lastmodified":1537650843,
+    "wof:name":"Sakaida",
+    "wof:parent_id":1108739945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.24241999999995,
+    39.47636,
+    141.24241999999995,
+    39.47636
+],
+  "geometry": {"coordinates":[141.24241999999995,39.47636],"type":"Point"}
+}

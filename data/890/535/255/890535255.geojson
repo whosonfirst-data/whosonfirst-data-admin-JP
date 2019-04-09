@@ -1,0 +1,84 @@
+{
+  "id": 890535255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.52681,34.33976,136.52681,34.33976",
+    "geom:latitude":34.33976,
+    "geom:longitude":136.52681,
+    "gn:country":"JP",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424856,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Watarai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5ea6\u4f1a\u90e1"
+    ],
+    "name:jpn_x_variant":[
+        "\u308f\u305f\u3089\u3044\u3050\u3093"
+    ],
+    "qs:name":"\u5ea6\u4f1a\u90e1",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u4e09\u91cd\u770c",
+    "qs:photos":262,
+    "qs:photos_1k":53,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":436,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1848873,
+        "gp:id":24857313,
+        "qs:id":247229,
+        "wd:id":"Q1131032",
+        "wk:page":"Watarai District, Mie"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056813,
+    "wof:geomhash":"4eb8fe810f6eb5bfc4d07e97c1389636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890535255,
+            "region_id":85672745
+        }
+    ],
+    "wof:id":890535255,
+    "wof:lastmodified":1527727097,
+    "wof:name":"\u5ea6\u4f1a\u90e1",
+    "wof:parent_id":85672745,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.52681,
+    34.33976,
+    136.52681,
+    34.33976
+],
+  "geometry": {"coordinates":[136.52681000000001,34.33976],"type":"Point"}
+}

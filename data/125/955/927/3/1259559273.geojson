@@ -1,0 +1,77 @@
+{
+  "id": 1259559273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32494,28.0947,129.32494,28.0947",
+    "geom:latitude":28.0947,
+    "geom:longitude":129.32494,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1853737.0",
+    "gn:admin3_code":"46525.0",
+    "gn:asciiname":"Shodon",
+    "gn:country_code":"JP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1851706,
+    "gn:latitude":28.0947,
+    "gn:longitude":129.32494,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shodon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u8af8\u920d"
+    ],
+    "name:und_x_variant":[
+        "Shoton",
+        "Shiodo",
+        "Shodon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1851706
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"b809485df71f09f095bd8f1ff658c101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743351,
+            "locality_id":1259559273,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":1259559273,
+    "wof:lastmodified":1537649971,
+    "wof:name":"Shodon",
+    "wof:parent_id":1108743351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32494,
+    28.0947,
+    129.32494,
+    28.0947
+],
+  "geometry": {"coordinates":[129.32494,28.0947],"type":"Point"}
+}

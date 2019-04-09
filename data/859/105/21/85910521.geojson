@@ -1,0 +1,115 @@
+{
+  "id": 85910521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":889400.712896,
+    "geom:bbox":"139.685668945,35.710837827,139.699401855,35.7208103267",
+    "geom:latitude":35.715373,
+    "geom:longitude":139.69191,
+    "gn:id":"",
+    "iso:country":"JP",
+    "lbl:latitude":35.714615,
+    "lbl:longitude":139.690915,
+    "mps:latitude":35.7145,
+    "mps:longitude":139.691778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Kamiochiai 1 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Kamiochiai 1 Choume",
+        "Kamiochiai 1 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u304a\u3061\u3042\u3044 \uff11\u3061\u3087\u3046\u3081",
+        "\u4e0a\u843d\u5408 \uff11\u4e01\u76ee",
+        "\uff11\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff11\u4e01\u76ee"
+    ],
+    "qs:gn_adm0_cc":"JP",
+    "qs:gn_id":0,
+    "qs:gn_local":1850147,
+    "qs:local_max":18112,
+    "qs:local_sum":895907,
+    "qs:localhoods":857,
+    "qs:name":"\uff11\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u6771\u4eac\u90fd",
+    "qs:name_adm2":"\u65b0\u5bbf\u533a",
+    "qs:name_en":"Kamiochiai 1 Chome",
+    "qs:name_lau":"\u4e0a\u843d\u5408",
+    "qs:name_local":"\u6771\u4eac",
+    "qs:photo_max":306,
+    "qs:photo_sum":539,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345889,
+    "qs:woe_adm2":15015378,
+    "qs:woe_lau":28414044,
+    "qs:woe_local":1118370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28527466,
+        "qs:id":371030
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"28de1ca6a2b015eb8712b47de766657a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "neighbourhood_id":85910521,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":85910521,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268709,
+    "wof:name":"\uff11\u4e01\u76ee",
+    "wof:parent_id":102031307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.68566894500003,
+    35.71083782698012,
+    139.69940185516674,
+    35.72081032669725
+],
+  "geometry": {"coordinates":[[[139.69390869099999,35.71975793930002],[139.69390869099993,35.71752800095733],[139.69665527300015,35.71752799823365],[139.69665527300015,35.71529800615731],[139.69940185513548,35.71529800300029],[139.69940185516674,35.71306794796693],[139.69665527300015,35.71306794623366],[139.69665527300015,35.7108378278715],[139.69390869099993,35.71083782698012],[139.69116210900006,35.71083782698012],[139.68841552700007,35.71083782750007],[139.68841552700007,35.71236634997008],[139.68784586726593,35.71306793930054],[139.68814764885587,35.71418298740043],[139.68784586937716,35.71529801210004],[139.68566894500003,35.71529801210004],[139.6856689450002,35.71670118927236],[139.68566894500026,35.71835469166282],[139.68566894500003,35.71975793930002],[139.69116211179903,35.71975793702762],[139.69201653632308,35.72081032669725],[139.69390869099993,35.72003345659904],[139.69390869099999,35.71975793930002]]],"type":"Polygon"}
+}

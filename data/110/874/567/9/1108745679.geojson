@@ -1,0 +1,77 @@
+{
+  "id": 1108745679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000755,
+    "geom:area_square_m":7685752.003707,
+    "geom:bbox":"133.801803589,34.590801239,133.838500977,34.6277999878",
+    "geom:latitude":34.608422,
+    "geom:longitude":133.822289,
+    "iso:country":"JP",
+    "lbl:latitude":34.608464,
+    "lbl:longitude":133.82354,
+    "meso:admin_1":"Okayama Ken",
+    "meso:gadm_admin":"Hayashima",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Hayasimatyoo",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"33423",
+    "meso:mps_x":133.82354,
+    "meso:mps_y":34.608464,
+    "meso:name_alt":"Hayashima",
+    "meso:name_en":"Hayashima Cho",
+    "meso:source":"GSIJ",
+    "mps:latitude":34.608464,
+    "mps:longitude":133.82354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hayashima"
+    ],
+    "name:eng_x_variant":[
+        "Hayasimatyoo",
+        "Hayashima Cho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"JP",
+    "wof:created":1479152551,
+    "wof:geomhash":"98658cba84b41645cf1696e6ceb60368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108745679,
+            "region_id":85672675
+        }
+    ],
+    "wof:id":1108745679,
+    "wof:lastmodified":1511300763,
+    "wof:name":"Hayashima",
+    "wof:parent_id":85672675,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[
+        1108742761
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.801803588867,
+    34.59080123901367,
+    133.83850097656298,
+    34.62779998779297
+],
+  "geometry": {"coordinates":[[[133.82969665527301,34.62779998779297],[133.83270263671901,34.62620162963869],[133.83450317382801,34.6193313598633],[133.83500671386699,34.61780166625978],[133.83500671386699,34.60766601562499],[133.83850097656298,34.59993362426756],[133.83770751953099,34.5993995666504],[133.82600402832,34.59113311767582],[133.82400512695298,34.59080123901367],[133.82279968261699,34.59640121459959],[133.81170654296898,34.59866714477543],[133.806396484375,34.59713363647464],[133.80180358886699,34.6080665588379],[133.80490112304699,34.61146545410163],[133.81269836425798,34.61253356933593],[133.81439208984401,34.61826705932617],[133.82969665527301,34.62779998779297]]],"type":"Polygon"}
+}

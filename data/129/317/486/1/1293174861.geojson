@@ -1,0 +1,75 @@
+{
+  "id": 1293174861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.13645,32.54538,130.13645,32.54538",
+    "geom:latitude":32.54538,
+    "geom:longitude":130.13645,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Sunowaki",
+    "gn:country_code":"JP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265492,
+    "gn:latitude":32.54538,
+    "gn:longitude":130.13645,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sunowaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9808\u30ce\u8107"
+    ],
+    "name:jpn_x_variant":[
+        "\u3059\u306e\u308f\u304d",
+        "\u30b9\u30ce\u30ef\u30ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265492
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"95b2eea521754960a2fcb6b604ec133e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1293174861,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293174861,
+    "wof:lastmodified":1537652792,
+    "wof:name":"Sunowaki",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.13645,
+    32.54538,
+    130.13645,
+    32.54538
+],
+  "geometry": {"coordinates":[130.13645,32.54538],"type":"Point"}
+}

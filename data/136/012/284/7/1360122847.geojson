@@ -1,0 +1,74 @@
+{
+  "id": 1360122847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.81083,35.69341,139.81083,35.69341",
+    "geom:latitude":35.69341,
+    "geom:longitude":139.81083,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1851451.0",
+    "gn:asciiname":"Kotobashi",
+    "gn:country_code":"JP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922495,
+    "gn:latitude":35.69341,
+    "gn:longitude":139.81083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u014dt\u014dbashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c5f\u6771\u6a4b"
+    ],
+    "name:und_x_variant":[
+        "K\u014dt\u014dbashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922495
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"d19eaa2ed8b41cc810c2073ddbb3358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741693,
+            "locality_id":1360122847,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1360122847,
+    "wof:lastmodified":1537652044,
+    "wof:name":"Kotobashi",
+    "wof:parent_id":1108741693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.81083,
+    35.69341,
+    139.81083,
+    35.69341
+],
+  "geometry": {"coordinates":[139.81083000000001,35.69341],"type":"Point"}
+}

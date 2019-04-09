@@ -1,0 +1,75 @@
+{
+  "id": 1327333363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.26342,35.18496,140.26342,35.18496",
+    "geom:latitude":35.18496,
+    "geom:longitude":140.26342,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9062338.0",
+    "gn:asciiname":"Kobado",
+    "gn:country_code":"JP",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112499,
+    "gn:latitude":35.18496,
+    "gn:longitude":140.26342,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kobado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u7fbd\u6238"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3070\u3069",
+        "\u30b3\u30d0\u30c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        1108741605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112499
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"170cd2fe86bf1027da91facaf2eba994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741605,
+            "locality_id":1327333363,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1327333363,
+    "wof:lastmodified":1537652290,
+    "wof:name":"Kobado",
+    "wof:parent_id":1108741605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.26342,
+    35.18496,
+    140.26342,
+    35.18496
+],
+  "geometry": {"coordinates":[140.26342,35.18496],"type":"Point"}
+}

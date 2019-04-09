@@ -1,0 +1,75 @@
+{
+  "id": 1276449643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.48565,40.49458,141.48565,40.49458",
+    "geom:latitude":40.49458,
+    "geom:longitude":141.48565,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2130200.0",
+    "gn:asciiname":"Nukazuka",
+    "gn:country_code":"JP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563556,
+    "gn:latitude":40.49458,
+    "gn:longitude":141.48565,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nukazuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u7ce0\u585a"
+    ],
+    "name:jpn_x_variant":[
+        "\u306c\u304b\u3065\u304b",
+        "\u30cc\u30ab\u30c5\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563556
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"c2f382ddac666a836a521d57d99f5caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520787,
+            "locality_id":1276449643,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1276449643,
+    "wof:lastmodified":1537651136,
+    "wof:name":"Nukazuka",
+    "wof:parent_id":890520787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.48565,
+    40.49458,
+    141.48565,
+    40.49458
+],
+  "geometry": {"coordinates":[141.48564999999999,40.49458],"type":"Point"}
+}

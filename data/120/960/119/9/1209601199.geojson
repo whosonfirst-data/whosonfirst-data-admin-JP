@@ -1,0 +1,65 @@
+{
+  "id": 1209601199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.47649,33.083,130.47649,33.083",
+    "geom:latitude":33.083,
+    "geom:longitude":130.47649,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1854081.0",
+    "gn:asciiname":"Miyazaki",
+    "gn:country_code":"JP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891861,
+    "gn:latitude":33.083,
+    "gn:longitude":130.47649,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Miyazaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5bae\u5d0e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891861
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"ad8eb9ff0b13b0eec20389945eb8a987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632429,
+            "locality_id":1209601199
+        }
+    ],
+    "wof:id":1209601199,
+    "wof:lastmodified":1537651574,
+    "wof:name":"Miyazaki",
+    "wof:parent_id":85632429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.47648999999998,
+    33.083,
+    130.47648999999998,
+    33.083
+],
+  "geometry": {"coordinates":[130.47648999999998,33.083],"type":"Point"}
+}

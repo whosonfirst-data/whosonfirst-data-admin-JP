@@ -1,0 +1,76 @@
+{
+  "id": 1293663143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.06761,32.33652,131.06761,32.33652",
+    "geom:latitude":32.33652,
+    "geom:longitude":131.06761,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43507.0",
+    "gn:asciiname":"Kobaru",
+    "gn:country_code":"JP",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11360719,
+    "gn:latitude":32.33652,
+    "gn:longitude":131.06761,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kobaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5c0f\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u3053\u3070\u308b",
+        "\u30b3\u30d0\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11360719
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0c91e6958a9fbd5eb674d3672c0a2418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743217,
+            "locality_id":1293663143,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1293663143,
+    "wof:lastmodified":1537652930,
+    "wof:name":"Kobaru",
+    "wof:parent_id":1108743217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.06761,
+    32.33652,
+    131.06761,
+    32.33652
+],
+  "geometry": {"coordinates":[131.06761,32.33652],"type":"Point"}
+}

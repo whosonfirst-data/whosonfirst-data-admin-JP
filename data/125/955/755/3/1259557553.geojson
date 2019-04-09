@@ -1,0 +1,75 @@
+{
+  "id": 1259557553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.31152,32.40154,130.31152,32.40154",
+    "geom:latitude":32.40154,
+    "geom:longitude":130.31152,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1865358.0",
+    "gn:asciiname":"Nishinohara",
+    "gn:country_code":"JP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11264971,
+    "gn:latitude":32.40154,
+    "gn:longitude":130.31152,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nishinohara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u897f\u306e\u539f"
+    ],
+    "name:jpn_x_variant":[
+        "\u306b\u3057\u306e\u306f\u3089",
+        "\u30cb\u30b7\u30ce\u30cf\u30e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        890524499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264971
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"cb334034704f3e1d62baf6d5167b7bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524499,
+            "locality_id":1259557553,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1259557553,
+    "wof:lastmodified":1537652781,
+    "wof:name":"Nishinohara",
+    "wof:parent_id":890524499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.31152,
+    32.40154,
+    130.31152,
+    32.40154
+],
+  "geometry": {"coordinates":[130.31152,32.40154],"type":"Point"}
+}

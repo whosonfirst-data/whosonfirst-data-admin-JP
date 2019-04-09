@@ -1,0 +1,75 @@
+{
+  "id": 1260081575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.59346,40.66482,140.59346,40.66482",
+    "geom:latitude":40.66482,
+    "geom:longitude":140.59346,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2129393.0",
+    "gn:asciiname":"Kitatanaka",
+    "gn:country_code":"JP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512033,
+    "gn:latitude":40.66482,
+    "gn:longitude":140.59346,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kitatanaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u7530\u4e2d"
+    ],
+    "name:jpn_x_variant":[
+        "\u304d\u305f\u305f\u306a\u304b",
+        "\u30ad\u30bf\u30bf\u30ca\u30ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890519963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512033
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"0a2335ec6a6fa6c1caa3e3852fee14af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519963,
+            "locality_id":1260081575,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1260081575,
+    "wof:lastmodified":1537650997,
+    "wof:name":"Kitatanaka",
+    "wof:parent_id":890519963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.59346000000002,
+    40.66482,
+    140.59346000000002,
+    40.66482
+],
+  "geometry": {"coordinates":[140.59346000000002,40.66482],"type":"Point"}
+}

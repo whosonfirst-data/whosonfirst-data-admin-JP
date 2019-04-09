@@ -1,0 +1,75 @@
+{
+  "id": 1360009129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.35047,35.23628,140.35047,35.23628",
+    "geom:latitude":35.23628,
+    "geom:longitude":140.35047,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7465524.0",
+    "gn:asciiname":"Shimobuse",
+    "gn:country_code":"JP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114265,
+    "gn:latitude":35.23628,
+    "gn:longitude":140.35047,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shimobuse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0b\u5e03\u65bd"
+    ],
+    "name:jpn_x_variant":[
+        "\u3057\u3082\u3076\u305b",
+        "\u30b7\u30e2\u30d6\u30bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114265
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6a284a393d9dce292469e1e04dcd7a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519811,
+            "locality_id":1360009129,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1360009129,
+    "wof:lastmodified":1537652297,
+    "wof:name":"Shimobuse",
+    "wof:parent_id":890519811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.35047,
+    35.23628,
+    140.35047,
+    35.23628
+],
+  "geometry": {"coordinates":[140.35047,35.23628],"type":"Point"}
+}

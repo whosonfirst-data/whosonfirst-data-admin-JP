@@ -1,0 +1,75 @@
+{
+  "id": 1243178029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.16909,35.38204,140.16909,35.38204",
+    "geom:latitude":35.38204,
+    "geom:longitude":140.16909,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2112663.0",
+    "gn:asciiname":"Ikewada",
+    "gn:country_code":"JP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139577,
+    "gn:latitude":35.38204,
+    "gn:longitude":140.16909,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ikewada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6c60\u548c\u7530"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u3051\u308f\u3060",
+        "\u30a4\u30b1\u30ef\u30c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672797,
+        890519781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139577
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"51e447aed71b44eced806c4deaf21d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519781,
+            "locality_id":1243178029,
+            "region_id":85672797
+        }
+    ],
+    "wof:id":1243178029,
+    "wof:lastmodified":1537652386,
+    "wof:name":"Ikewada",
+    "wof:parent_id":890519781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.16908999999998,
+    35.38204,
+    140.16908999999998,
+    35.38204
+],
+  "geometry": {"coordinates":[140.16908999999998,35.38204],"type":"Point"}
+}

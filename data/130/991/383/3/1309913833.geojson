@@ -1,0 +1,75 @@
+{
+  "id": 1309913833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.5761,40.27122,140.5761,40.27122",
+    "geom:latitude":40.27122,
+    "geom:longitude":140.5761,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2128783.0",
+    "gn:asciiname":"Higashidai",
+    "gn:country_code":"JP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456572,
+    "gn:latitude":40.27122,
+    "gn:longitude":140.5761,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Higashidai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6771\u53f0"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u304c\u3057\u3060\u3044",
+        "\u30d2\u30ac\u30b7\u30c0\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456572
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6adaa702408d5a049b355df6350851bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740053,
+            "locality_id":1309913833,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1309913833,
+    "wof:lastmodified":1537650921,
+    "wof:name":"Higashidai",
+    "wof:parent_id":1108740053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.5761,
+    40.27122,
+    140.5761,
+    40.27122
+],
+  "geometry": {"coordinates":[140.5761,40.27122],"type":"Point"}
+}

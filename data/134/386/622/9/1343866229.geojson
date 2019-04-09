@@ -1,0 +1,75 @@
+{
+  "id": 1343866229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.20117,39.79255,140.20117,39.79255",
+    "geom:latitude":39.79255,
+    "geom:longitude":140.20117,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2113122.0",
+    "gn:asciiname":"Kamidai",
+    "gn:country_code":"JP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8321983,
+    "gn:latitude":39.79255,
+    "gn:longitude":140.20117,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kamidai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e0a\u53f0"
+    ],
+    "name:jpn_x_variant":[
+        "\u304b\u307f\u3060\u3044",
+        "\u30ab\u30df\u30c0\u30a4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672825,
+        1108740049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8321983
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"3f512923779a5a940354a0105921e7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740049,
+            "locality_id":1343866229,
+            "region_id":85672825
+        }
+    ],
+    "wof:id":1343866229,
+    "wof:lastmodified":1537650775,
+    "wof:name":"Kamidai",
+    "wof:parent_id":1108740049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.20117,
+    39.79255,
+    140.20117,
+    39.79255
+],
+  "geometry": {"coordinates":[140.20116999999999,39.79255],"type":"Point"}
+}

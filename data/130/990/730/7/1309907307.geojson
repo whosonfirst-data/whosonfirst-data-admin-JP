@@ -1,0 +1,75 @@
+{
+  "id": 1309907307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.5191,40.61797,140.5191,40.61797",
+    "geom:latitude":40.61797,
+    "geom:longitude":140.5191,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"7439934.0",
+    "gn:asciiname":"Hinuma",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411339,
+    "gn:latitude":40.61797,
+    "gn:longitude":140.5191,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Hinuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u65e5\u6cbc"
+    ],
+    "name:jpn_x_variant":[
+        "\u3072\u306c\u307e",
+        "\u30d2\u30cc\u30de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672831,
+        890520595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411339
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"6ee373a65f19e430575105768aca73f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520595,
+            "locality_id":1309907307,
+            "region_id":85672831
+        }
+    ],
+    "wof:id":1309907307,
+    "wof:lastmodified":1537650797,
+    "wof:name":"Hinuma",
+    "wof:parent_id":890520595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.5191,
+    40.61797,
+    140.5191,
+    40.61797
+],
+  "geometry": {"coordinates":[140.51910000000001,40.61797],"type":"Point"}
+}

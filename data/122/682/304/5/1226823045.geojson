@@ -1,0 +1,76 @@
+{
+  "id": 1226823045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.06211,32.31704,131.06211,32.31704",
+    "geom:latitude":32.31704,
+    "geom:longitude":131.06211,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412708.0",
+    "gn:admin3_code":"43507.0",
+    "gn:asciiname":"Motono",
+    "gn:country_code":"JP",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11360714,
+    "gn:latitude":32.31704,
+    "gn:longitude":131.06211,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Motono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u672c\u91ce"
+    ],
+    "name:jpn_x_variant":[
+        "\u3082\u3068\u306e",
+        "\u30e2\u30c8\u30ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11360714
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"93aff6785150ef7720d65d544caac2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743217,
+            "locality_id":1226823045,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1226823045,
+    "wof:lastmodified":1537652929,
+    "wof:name":"Motono",
+    "wof:parent_id":1108743217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.06211000000002,
+    32.31704000000001,
+    131.06211000000002,
+    32.31704000000001
+],
+  "geometry": {"coordinates":[131.06211000000002,32.31704000000001],"type":"Point"}
+}

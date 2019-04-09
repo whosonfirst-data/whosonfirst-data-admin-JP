@@ -1,0 +1,75 @@
+{
+  "id": 1343633225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1011,40.20767,141.1011,40.20767",
+    "geom:latitude":40.20767,
+    "geom:longitude":141.1011,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"2128940.0",
+    "gn:asciiname":"Iwanazawa",
+    "gn:country_code":"JP",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554753,
+    "gn:latitude":40.20767,
+    "gn:longitude":141.1011,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Iwanazawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5ca9\u540d\u6ca2"
+    ],
+    "name:jpn_x_variant":[
+        "\u3044\u308f\u306a\u3056\u308f",
+        "\u30a4\u30ef\u30ca\u30b6\u30ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672839,
+        890520775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554753
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"be26ed752d87bf44a4bc8d3ef108d2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520775,
+            "locality_id":1343633225,
+            "region_id":85672839
+        }
+    ],
+    "wof:id":1343633225,
+    "wof:lastmodified":1537651106,
+    "wof:name":"Iwanazawa",
+    "wof:parent_id":890520775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1011,
+    40.20767,
+    141.1011,
+    40.20767
+],
+  "geometry": {"coordinates":[141.1011,40.20767],"type":"Point"}
+}

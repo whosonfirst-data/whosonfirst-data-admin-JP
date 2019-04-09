@@ -1,0 +1,67 @@
+{
+  "id": 890523217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.12455,35.97259,136.12455,35.97259",
+    "geom:latitude":35.97259,
+    "geom:longitude":136.12455,
+    "gn:country":"JP",
+    "gn:fcode":"PPLL",
+    "gn:pop":9800,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Asahi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672767,
+        1108741919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6697514,
+        "qs:id":644075,
+        "wk:page":"Asahi"
+    },
+    "wof:country":"JP",
+    "wof:created":1469056293,
+    "wof:geomhash":"288d2a0d55a80d9e64ca71d2966b0cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741919,
+            "locality_id":890523217,
+            "region_id":85672767
+        }
+    ],
+    "wof:id":890523217,
+    "wof:lastmodified":1527793079,
+    "wof:name":"Asahi",
+    "wof:parent_id":1108741919,
+    "wof:placetype":"locality",
+    "wof:population":9800,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.12455,
+    35.97259,
+    136.12455,
+    35.97259
+],
+  "geometry": {"coordinates":[136.12455,35.97259],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193095781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.86521,32.61548,130.86521,32.61548",
+    "geom:latitude":32.61548,
+    "geom:longitude":130.86521,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"7412709.0",
+    "gn:admin3_code":"43348.0",
+    "gn:asciiname":"Tsuru",
+    "gn:country_code":"JP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11241182,
+    "gn:latitude":32.61548,
+    "gn:longitude":130.86521,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tsuru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6d25\u7559"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u308b",
+        "\u30c4\u30eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241182
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"935118dca93b6e30be0eda9cbf19796f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743163,
+            "locality_id":1193095781,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":1193095781,
+    "wof:lastmodified":1537652666,
+    "wof:name":"Tsuru",
+    "wof:parent_id":1108743163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.86521000000002,
+    32.61548,
+    130.86521000000002,
+    32.61548
+],
+  "geometry": {"coordinates":[130.86521000000002,32.61548],"type":"Point"}
+}
