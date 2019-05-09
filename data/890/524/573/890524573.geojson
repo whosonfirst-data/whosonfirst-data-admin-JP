@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003894,
-    "geom:area_square_m":39811863.184239,
+    "geom:area_square_m":39811863.184224,
     "geom:bbox":"133.726501465,34.1875991821,133.822006226,34.258731842",
     "geom:latitude":34.224111,
     "geom:longitude":133.777211,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Zentsuji Shi"
+    ],
     "lbl:latitude":34.222705,
     "lbl:longitude":133.777244,
     "meso:admin_1":"Kagawa Ken",
@@ -228,11 +231,10 @@
         }
     ],
     "wof:id":890524573,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Zentsuji Shi",
+    "wof:lastmodified":1555036893,
+    "wof:name":"Zentsuji",
     "wof:parent_id":85672715,
     "wof:placetype":"county",
-    "wof:placetype_local":"city",
     "wof:population":36413,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-jp",

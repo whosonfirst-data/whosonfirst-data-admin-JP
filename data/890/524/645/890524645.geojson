@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003319,
-    "geom:area_square_m":33612762.582908,
+    "geom:area_square_m":33612762.582891,
     "geom:bbox":"136.914596558,34.9756660461,137.001403809,35.0533332825",
     "geom:latitude":35.018834,
     "geom:longitude":136.954614,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Obu Shi"
+    ],
     "lbl:latitude":35.021996,
     "lbl:longitude":136.96117,
     "meso:admin_1":"Aichi Ken",
@@ -222,11 +225,10 @@
         }
     ],
     "wof:id":890524645,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Obu Shi",
+    "wof:lastmodified":1555036891,
+    "wof:name":"Obu",
     "wof:parent_id":85672731,
     "wof:placetype":"county",
-    "wof:placetype_local":"city",
     "wof:population":75273,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065186,
-    "geom:area_square_m":680667334.581205,
+    "geom:area_square_m":680667334.581358,
     "geom:bbox":"129.963195801,32.1443328857,130.389801025,32.5526657104",
     "geom:latitude":32.385275,
     "geom:longitude":130.149033,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Amakusa Shi"
+    ],
     "lbl:latitude":32.367112,
     "lbl:longitude":130.094643,
     "meso:admin_1":"Kumamoto Ken",
@@ -221,11 +224,10 @@
         }
     ],
     "wof:id":890524499,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Amakusa Shi",
+    "wof:lastmodified":1555036893,
+    "wof:name":"Amakusa",
     "wof:parent_id":85672703,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":88283,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",

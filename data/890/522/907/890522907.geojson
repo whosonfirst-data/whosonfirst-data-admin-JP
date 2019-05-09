@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001356,
-    "geom:area_square_m":13609124.172936,
+    "geom:area_square_m":13609124.172929,
     "geom:bbox":"139.391906738,35.7299346924,139.451095581,35.7693977356",
     "geom:latitude":35.750472,
     "geom:longitude":139.426583,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Higashiyamato Shi"
+    ],
     "lbl:latitude":35.749939,
     "lbl:longitude":139.427031,
     "meso:admin_1":"Tokyo To",
@@ -238,11 +241,10 @@
         }
     ],
     "wof:id":890522907,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Higashiyamato Shi",
+    "wof:lastmodified":1555036899,
+    "wof:name":"Higashiyamato",
     "wof:parent_id":85672817,
     "wof:placetype":"county",
-    "wof:placetype_local":"city",
     "wof:population":77212,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",

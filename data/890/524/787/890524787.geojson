@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023904,
-    "geom:area_square_m":246710454.121443,
+    "geom:area_square_m":246710454.121496,
     "geom:bbox":"130.61479187,33.3434677124,130.860900879,33.4994010925",
     "geom:latitude":33.416738,
     "geom:longitude":130.740795,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Asakura Shi"
+    ],
     "lbl:latitude":33.430391,
     "lbl:longitude":130.713755,
     "meso:admin_1":"Fukuoka Ken",
@@ -218,11 +221,10 @@
         }
     ],
     "wof:id":890524787,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Asakura Shi",
+    "wof:lastmodified":1555036890,
+    "wof:name":"Asakura",
     "wof:parent_id":85672697,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":50938,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",

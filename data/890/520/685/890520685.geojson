@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022782,
-    "geom:area_square_m":226087591.497212,
+    "geom:area_square_m":226087591.497183,
     "geom:bbox":"140.517501831,36.480178833,140.716903687,36.7141990662",
     "geom:latitude":36.624752,
     "geom:longitude":140.619099,
@@ -13,6 +13,9 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Hitachi Shi"
+    ],
     "lbl:latitude":36.646,
     "lbl:longitude":140.637124,
     "meso:admin_1":"Ibaraki Ken",
@@ -230,11 +233,10 @@
         }
     ],
     "wof:id":890520685,
-    "wof:lastmodified":1553816435,
-    "wof:name":"Hitachi Shi",
+    "wof:lastmodified":1555036903,
+    "wof:name":"Hitachi",
     "wof:parent_id":85672801,
     "wof:placetype":"county",
-    "wof:placetype_local":"city",
     "wof:population":193353,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
