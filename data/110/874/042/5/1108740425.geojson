@@ -36,13 +36,13 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09af\u09bc\u09cb\u09a6\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u884c\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Gyoda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
+        "Gy\u014dda"
+    ],
+    "name:ell_x_preferred":[
         "Gy\u014dda"
     ],
     "name:eng_x_preferred":[
@@ -53,19 +53,16 @@
         "Gy\u014dda",
         "Gyoda Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u062f\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gy\u014dda"
     ],
-    "name:fre_x_preferred":[
-        "Gy\u014dda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gy\u014dda"
     ],
     "name:glg_x_preferred":[
-        "Gy\u014dda"
-    ],
-    "name:gre_x_preferred":[
         "Gy\u014dda"
     ],
     "name:guj_x_preferred":[
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u092f\u094b\u0921\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gyoda"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Gy\u00f4da-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Gy\u014dda"
+    ],
     "name:nob_x_preferred":[
         "Gyoda"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u06cc\u0648\u062f\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Gy\u014dda"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Gyoda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gyoda"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     "name:war_x_preferred":[
         "Gy\u014dda"
     ],
+    "name:zho_x_preferred":[
+        "\u884c\u7530\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":1108740425,
-    "wof:lastmodified":1554759595,
+    "wof:lastmodified":1561776361,
     "wof:name":"Gyoda",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

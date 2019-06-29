@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09ae\u09bf\u09b8\u09bf\u09b0\u09be\u09b8\u09be\u09a4\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u7db2\u767d\u91cc\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Oamishirasato"
     ],
-    "name:dut_x_preferred":[
-        "Oamishirasato"
+    "name:deu_x_preferred":[
+        "\u014camishirasato"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03b1\u03bc\u03b9\u03c3\u03b9\u03c1\u03b1\u03c3\u03ac\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oamishirasato"
@@ -56,14 +56,8 @@
     "name:fin_x_preferred":[
         "\u014camishirasato"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u014camishirasato"
-    ],
-    "name:ger_x_preferred":[
-        "\u014camishirasato"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03b1\u03bc\u03b9\u03c3\u03b9\u03c1\u03b1\u03c3\u03ac\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aae\u0abf\u0ab6\u0abf\u0ab0\u0abe\u0ab8\u0ac7\u0a9f\u0acb"
@@ -95,8 +89,11 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u0940\u0936\u093f\u0930\u093e\u0938\u093e\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u014camishirasato"
+    ],
+    "name:nld_x_preferred":[
+        "Oamishirasato"
     ],
     "name:nob_x_preferred":[
         "Oamishirasato"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "\u014camishirasato"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u014camishirasato"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +143,9 @@
     "name:vie_x_preferred":[
         "Oamishirasato"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u7db2\u767d\u91cc\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1108741649,
-    "wof:lastmodified":1554759601,
+    "wof:lastmodified":1561776359,
     "wof:name":"Oamishirasato",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

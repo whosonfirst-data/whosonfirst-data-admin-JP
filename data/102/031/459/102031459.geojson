@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01835,
-    "geom:area_square_m":189843548.951942,
+    "geom:area_square_m":189843548.951726,
     "geom:bbox":"131.512107634,33.123940711,131.7642608,33.2798526755",
     "geom:latitude":33.210692,
     "geom:longitude":131.632856,
@@ -21,17 +21,11 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u056b\u057f\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0626\u06cc\u062a\u0627"
     ],
     "name:aze_x_preferred":[
         "Oita"
-    ],
-    "name:baq_x_preferred":[
-        "\u014cita"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u0456\u0442\u0430"
@@ -48,14 +42,8 @@
     "name:ces_x_preferred":[
         "\u00d3ita"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5206\u5e02"
-    ],
     "name:cym_x_preferred":[
         "\u014cita"
-    ],
-    "name:cze_x_preferred":[
-        "\u00d3ita"
     ],
     "name:dan_x_preferred":[
         "Ooita"
@@ -63,8 +51,8 @@
     "name:deu_x_preferred":[
         "\u014cita"
     ],
-    "name:dut_x_preferred":[
-        "Oita"
+    "name:ell_x_preferred":[
+        "\u038c\u03b9\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Oita-shi"
@@ -81,16 +69,16 @@
     "name:est_x_preferred":[
         "\u014cita"
     ],
+    "name:eus_x_preferred":[
+        "\u014cita"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u014cita"
     ],
     "name:fra_x_preferred":[
-        "\u014cita"
-    ],
-    "name:fre_x_preferred":[
-        "\u014cita"
-    ],
-    "name:ger_x_preferred":[
         "\u014cita"
     ],
     "name:gle_x_preferred":[
@@ -98,9 +86,6 @@
     ],
     "name:glg_x_preferred":[
         "\u014cita"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03b9\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a88\u0aa4\u0abe"
@@ -119,6 +104,9 @@
     ],
     "name:hun_x_preferred":[
         "\u00d3ita"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u056b\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Oita"
@@ -156,7 +144,7 @@
     "name:mar_x_preferred":[
         "\u0913\u0907\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oita"
     ],
     "name:mzn_x_preferred":[
@@ -165,11 +153,11 @@
     "name:nan_x_preferred":[
         "\u00d4ita-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Oita"
+    ],
     "name:nob_x_preferred":[
         "\u014cita"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0626\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "\u014cita"
@@ -177,7 +165,7 @@
     "name:por_x_preferred":[
         "Oita"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u014cita"
     ],
     "name:rup_x_preferred":[
@@ -240,13 +228,13 @@
     "name:war_x_preferred":[
         "\u014cita"
     ],
-    "name:wel_x_preferred":[
-        "\u014cita"
-    ],
     "name:wuu_x_preferred":[
         "\u5927\u5206\u5e02"
     ],
     "name:yue_x_preferred":[
+        "\u5927\u5206\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5927\u5206\u5e02"
     ],
     "ne:ADM0CAP":0.0,
@@ -360,7 +348,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672723
+        85672723,
+        1108743233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -386,7 +375,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1514468676,
+    "wof:lastmodified":1561776095,
     "wof:name":"\u014cita-shi",
     "wof:parent_id":1108743233,
     "wof:placetype":"locality",

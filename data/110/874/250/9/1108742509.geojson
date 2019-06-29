@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b6\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8606\u5c4b\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ashiya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ashiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ashiya"
@@ -61,20 +61,17 @@
     "name:est_x_preferred":[
         "Ashiya"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u06cc\u0627\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ashiya"
     ],
-    "name:fre_x_preferred":[
-        "Ashiya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ashiya"
     ],
     "name:glg_x_preferred":[
         "Ashiya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab6\u0abf\u0aaf\u0abe"
@@ -109,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0906\u0936\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ashiya"
     ],
     "name:mzn_x_preferred":[
@@ -118,11 +115,11 @@
     "name:nan_x_preferred":[
         "Asiya-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ashiya"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0634\u06cc\u0627\u060c \u0647\u06cc\u0648\u06af\u0648"
+    "name:nob_x_preferred":[
+        "Ashiya"
     ],
     "name:pol_x_preferred":[
         "Ashiya"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Ashiya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ashiya"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     "name:war_x_preferred":[
         "Ashiya"
     ],
+    "name:zho_x_preferred":[
+        "\u8606\u5c4b\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108742509,
-    "wof:lastmodified":1555037258,
+    "wof:lastmodified":1561776352,
     "wof:name":"Ashiya",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

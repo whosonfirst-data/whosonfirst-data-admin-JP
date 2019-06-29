@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b9\u09be\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u539f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Mihara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mihara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mihara"
@@ -55,20 +55,17 @@
         "Miharasi",
         "Mihara Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0647\u0627\u0631\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mihara"
     ],
-    "name:fre_x_preferred":[
-        "Mihara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mihara"
     ],
     "name:glg_x_preferred":[
         "Mihara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab9\u0abe\u0ab0\u0abe"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0939\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mihara"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Mihara-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mihara"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0647\u0627\u0631\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Mihara"
     ],
     "name:pol_x_preferred":[
         "Mihara"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Mihara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mihara"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Mihara"
     ],
+    "name:zho_x_preferred":[
+        "\u4e09\u539f\u5e02"
+    ],
     "qs:name":"Mihara-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":890520161,
-    "wof:lastmodified":1554759529,
+    "wof:lastmodified":1561776453,
     "wof:name":"Mihara",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

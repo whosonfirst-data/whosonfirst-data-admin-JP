@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a8\u09bf\u0993"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u9633\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nanj\u00f3"
     ],
     "name:dan_x_preferred":[
         "Nanyo"
     ],
-    "name:dut_x_preferred":[
-        "Nanyo"
+    "name:deu_x_preferred":[
+        "Nan\u2019y\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd\u03b3\u03b9\u03cc"
     ],
     "name:eng_x_preferred":[
         "Nan-yo"
@@ -57,20 +57,17 @@
         "Nan-yo Shi",
         "Nany\u014d"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u06cc\u0648\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nany\u014d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nan'y\u014d"
-    ],
-    "name:ger_x_preferred":[
-        "Nan\u2019y\u014d"
     ],
     "name:glg_x_preferred":[
         "Nan'y\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bd\u03b3\u03b9\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aa8\u0acd\u0aaf\u0acb"
@@ -102,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0928\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nanyo"
     ],
     "name:mzn_x_preferred":[
@@ -111,11 +108,11 @@
     "name:nan_x_preferred":[
         "Nany\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Nanyo"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0646\u06cc\u0648\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Nanyo"
     ],
     "name:pol_x_preferred":[
         "Nan'y\u014d"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Nanyo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nanyo"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     "name:war_x_preferred":[
         "Nan'y\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u9633\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":1108740103,
-    "wof:lastmodified":1554759590,
+    "wof:lastmodified":1561776365,
     "wof:name":"Nan-yo",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

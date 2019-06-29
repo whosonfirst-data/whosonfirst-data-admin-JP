@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u0986\u09b6\u09bf\u0995\u09be\u0997\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8db3\u5229\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "A\u0161ikaga"
     ],
     "name:dan_x_preferred":[
         "Ashikaga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ashikaga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03b9\u03ba\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ashikaga"
@@ -55,20 +55,17 @@
         "Asikagasi",
         "Ashikaga Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ashikaga"
     ],
-    "name:fre_x_preferred":[
-        "Ashikaga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ashikaga"
     ],
     "name:glg_x_preferred":[
         "Ashikaga - \u8db3\u5229\u5e02"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03b9\u03ba\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab6\u0abf\u0a95\u0abe\u0a97\u0abe"
@@ -103,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0936\u093f\u0915\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ashikaga"
     ],
     "name:mzn_x_preferred":[
@@ -112,11 +109,11 @@
     "name:nan_x_preferred":[
         "Asikaga-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ashikaga"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    "name:nob_x_preferred":[
+        "Ashikaga"
     ],
     "name:pol_x_preferred":[
         "Ashikaga"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Ashikaga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ashikaga"
     ],
     "name:rup_x_preferred":[
@@ -178,6 +175,9 @@
     "name:war_x_preferred":[
         "Ashikaga"
     ],
+    "name:zho_x_preferred":[
+        "\u8db3\u5229\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108740323,
-    "wof:lastmodified":1554759594,
+    "wof:lastmodified":1561776366,
     "wof:name":"Ashikaga",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

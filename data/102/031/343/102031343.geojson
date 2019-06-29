@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":3130536.775969,
+    "geom:area_square_m":3130536.775972,
     "geom:bbox":"123.756615373,24.4231156314,123.776343585,24.4411775593",
     "geom:latitude":24.432147,
     "geom:longitude":123.766479,
@@ -19,13 +19,10 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u064a\u062a\u0648\u0645\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u7af9\u5bcc\u753a"
-    ],
     "name:deu_x_preferred":[
         "Taketomi-jima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Taketomi"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +31,7 @@
     "name:fra_x_preferred":[
         "Taketomi-jima"
     ],
-    "name:fre_x_preferred":[
-        "Taketomi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Taketomi"
     ],
     "name:ind_x_preferred":[
@@ -60,7 +54,10 @@
     "name:lit_x_preferred":[
         "Taketomi"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Taketomi"
+    ],
+    "name:nld_x_preferred":[
         "Taketomi"
     ],
     "name:por_x_preferred":[
@@ -89,6 +86,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7af9\u5bcc\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u5bcc\u753a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":102031343,
-    "wof:lastmodified":1527637069,
+    "wof:lastmodified":1561776098,
     "wof:name":"Taketomi",
     "wof:parent_id":1108743447,
     "wof:placetype":"locality",

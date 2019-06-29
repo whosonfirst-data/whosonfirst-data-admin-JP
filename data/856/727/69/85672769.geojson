@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.829497,
-    "geom:area_square_m":8397673770.017063,
+    "geom:area_square_m":8397673770.018881,
     "geom:bbox":"134.253097534,34.1564674377,135.467102051,35.6746673584",
     "geom:latitude":35.040435,
     "geom:longitude":134.825595,
@@ -42,9 +42,6 @@
     "name:bak_x_preferred":[
         "\u0425\u0451\u0433\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Hy\u014dgo"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u0451\u0433\u0430"
     ],
@@ -63,17 +60,11 @@
     "name:ces_x_preferred":[
         "Prefektura Hj\u00f3go"
     ],
-    "name:chi_x_preferred":[
-        "\u5175\u5e93\u53bf"
-    ],
     "name:ckb_x_preferred":[
         "\u06be\u06cc\u06c6\u06af\u06c6"
     ],
     "name:cym_x_preferred":[
         "Hy\u014dgo"
-    ],
-    "name:cze_x_preferred":[
-        "Prefektura Hj\u00f3go"
     ],
     "name:dan_x_preferred":[
         "Hyougo-pr\u00e6fekturet"
@@ -81,8 +72,11 @@
     "name:deu_x_preferred":[
         "Pr\u00e4fektur Hy\u014dgo"
     ],
-    "name:dut_x_preferred":[
-        "Hyogo"
+    "name:deu_x_variant":[
+        "Hy\u014dgo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03b3\u03ba\u03cc\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hyogo Prefecture"
@@ -101,6 +95,9 @@
     "name:est_x_preferred":[
         "Hy\u014dgo prefektuur"
     ],
+    "name:eus_x_preferred":[
+        "Hy\u014dgo"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u06cc\u0648\u06af\u0648"
     ],
@@ -110,20 +107,14 @@
     "name:fra_x_preferred":[
         "Pr\u00e9fecture de Hy\u014dgo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "pr\u00e9fecture de Hy\u014dgo"
-    ],
-    "name:ger_x_preferred":[
-        "Hy\u014dgo"
     ],
     "name:gle_x_preferred":[
         "Maoracht Hy\u014dgo"
     ],
     "name:glg_x_preferred":[
         "Prefectura de Hy\u014dgo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03b3\u03ba\u03cc\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acd\u0aaf\u0acb\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
@@ -145,9 +136,6 @@
     ],
     "name:hun_x_preferred":[
         "Hj\u00f3go prefekt\u00fara"
-    ],
-    "name:ice_x_preferred":[
-        "Hyogo-h\u00e9ra\u00f0"
     ],
     "name:ilo_x_preferred":[
         "Prepektura ti Hy\u014dgo"
@@ -190,14 +178,8 @@
     "name:lzh_x_preferred":[
         "\u5175\u5eab\u7e23"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0458\u043e\u0433\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u094d\u092f\u094b\u0917\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Hy\u014dgo"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0458\u043e\u0433\u043e"
@@ -220,9 +202,6 @@
     "name:pam_x_preferred":[
         "Prepektura ning Hy\u014dgo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0647\u06cc\u0648\u06af\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u06cc\u0648\u06af\u0648"
     ],
@@ -235,9 +214,6 @@
     "name:ron_x_preferred":[
         "Prefectura Hy\u014dgo"
     ],
-    "name:rum_x_preferred":[
-        "Prefectura Hy\u014dgo"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0451\u0433\u043e"
     ],
@@ -248,9 +224,6 @@
         "\u0dc4\u0dba\u0ddd\u0d9c\u0ddd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Hj\u00f3go"
-    ],
-    "name:slo_x_preferred":[
         "Hj\u00f3go"
     ],
     "name:slv_x_preferred":[
@@ -309,9 +282,6 @@
         "Hy\u014dgo"
     ],
     "name:war_x_preferred":[
-        "Hy\u014dgo"
-    ],
-    "name:wel_x_preferred":[
         "Hy\u014dgo"
     ],
     "name:wuu_x_preferred":[
@@ -446,7 +416,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1553814801,
+    "wof:lastmodified":1561776191,
     "wof:name":"Hy\u014dgo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

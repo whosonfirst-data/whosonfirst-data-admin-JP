@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09b6\u09bf\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u8fdb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nisshin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nisshin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03c3\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nisshin"
@@ -52,20 +52,17 @@
         "Nissinsi",
         "Nisshin Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0633\u0634\u06cc\u0646\u060c \u0622\u06cc\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Nisshin"
     ],
-    "name:fre_x_preferred":[
-        "Nisshin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nisshin"
     ],
     "name:glg_x_preferred":[
         "Nisshin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03c3\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0ab6\u0ac0\u0aa8"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0936\u0940\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nisshin"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Nissin-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Nisshin"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0633\u0634\u06cc\u0646\u060c \u0622\u06cc\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Nisshin"
     ],
     "name:pol_x_preferred":[
         "Nisshin"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Nisshin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nisshin"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Nisshin"
     ],
+    "name:zho_x_preferred":[
+        "\u65e5\u8fdb\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108742269,
-    "wof:lastmodified":1554759611,
+    "wof:lastmodified":1561776349,
     "wof:name":"Nisshin",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

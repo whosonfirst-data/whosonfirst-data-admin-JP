@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0982\u0997\u09c1\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u8c50\u5f8c\u5927\u91ce\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Bungo-ono"
     ],
-    "name:dut_x_preferred":[
-        "Bungo-Ono"
+    "name:deu_x_preferred":[
+        "Bungo-\u014cno"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cc\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bungoono"
@@ -57,20 +57,17 @@
     "name:est_x_preferred":[
         "Bungo-\u014dno"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u06af\u0648-\u0627\u0648\u0646\u0648\u060c \u0627\u0648\u0626\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bungo\u014dno"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bungo-\u014dno"
-    ],
-    "name:ger_x_preferred":[
-        "Bungo-\u014cno"
     ],
     "name:glg_x_preferred":[
         "Bungo\u014dno"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cc\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0aa8\u0acd\u0a97\u0ac1\u0aa8\u0acb"
@@ -102,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0917\u0941\u0923\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bungoono"
     ],
     "name:mzn_x_preferred":[
@@ -111,11 +108,11 @@
     "name:nan_x_preferred":[
         "Bungo\u00f4no-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Bungo-Ono"
+    ],
     "name:nob_x_preferred":[
         "Bungoono"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0646\u06af\u0648-\u0627\u0648\u0646\u0648\u060c \u0627\u0648\u0626\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Bungo-\u014dno"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Bungo\u014dno"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bungo-\u014dno"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     "name:war_x_preferred":[
         "Bungo-\u014dno"
     ],
+    "name:zho_x_preferred":[
+        "\u8c50\u5f8c\u5927\u91ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":1108743243,
-    "wof:lastmodified":1554759628,
+    "wof:lastmodified":1561776356,
     "wof:name":"Bungoono",
     "wof:parent_id":85672723,
     "wof:placetype":"county",

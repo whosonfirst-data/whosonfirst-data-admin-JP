@@ -36,29 +36,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0647\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0574\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Oume"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09ae\u09cd\u09ae\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u041e\u043c\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u9752\u6885\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u00d3me"
     ],
     "name:dan_x_preferred":[
         "Ome"
     ],
-    "name:dut_x_preferred":[
-        "Ome"
+    "name:deu_x_preferred":[
+        "\u014cme"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ome"
@@ -71,26 +65,29 @@
     "name:epo_x_preferred":[
         "Ome"
     ],
+    "name:eus_x_preferred":[
+        "Oume"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0645\u0647\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "\u014cme"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oume"
-    ],
-    "name:ger_x_preferred":[
-        "\u014cme"
     ],
     "name:glg_x_preferred":[
         "\u014cme"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bc\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aae\u0ac7"
     ],
     "name:hin_x_preferred":[
         "\u0913\u092e\u0947"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0574\u0565"
     ],
     "name:ind_x_preferred":[
         "\u014cme"
@@ -119,7 +116,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092e\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ome"
     ],
     "name:mzn_x_preferred":[
@@ -128,11 +125,11 @@
     "name:nan_x_preferred":[
         "\u00d4me-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ome"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0645\u0647\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Ome"
     ],
     "name:pol_x_preferred":[
         "\u014cme"
@@ -140,7 +137,7 @@
     "name:por_x_preferred":[
         "Ome"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u014cme"
     ],
     "name:rup_x_preferred":[
@@ -200,6 +197,9 @@
     "name:yue_x_preferred":[
         "\u9752\u6885\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u9752\u6885\u5e02"
+    ],
     "qs:name":"\u014cme-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -245,7 +245,7 @@
         }
     ],
     "wof:id":890524379,
-    "wof:lastmodified":1554759539,
+    "wof:lastmodified":1561776481,
     "wof:name":"Ome",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

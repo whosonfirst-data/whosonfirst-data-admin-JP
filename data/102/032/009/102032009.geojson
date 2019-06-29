@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":3118945.450409,
+    "geom:area_square_m":3118945.450406,
     "geom:bbox":"140.750141356,42.5804827734,140.774516864,42.5984940954",
     "geom:latitude":42.589489,
     "geom:longitude":140.762329,
@@ -18,9 +18,6 @@
     "mps:longitude":140.762329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d1e\u723a\u6751"
-    ],
     "name:deu_x_preferred":[
         "Toya"
     ],
@@ -30,7 +27,7 @@
     "name:fra_x_preferred":[
         "Toya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "T\u014dya"
     ],
     "name:ido_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Muk\u014d-t\u014dya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1e\u723a\u6751"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":102032009,
-    "wof:lastmodified":1527637848,
+    "wof:lastmodified":1561776100,
     "wof:name":"T\u014dya",
     "wof:parent_id":1108739767,
     "wof:placetype":"locality",

@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ae\u09be\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u7389\u91ce\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Tamano"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tamano"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03ac\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Naoshima"
@@ -52,20 +52,17 @@
         "Tamano",
         "Naoshima Cho"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0627\u0646\u0648\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tamano"
     ],
-    "name:fre_x_preferred":[
-        "Tamano"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tamano"
     ],
     "name:glg_x_preferred":[
         "Tamano"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bc\u03ac\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0aae\u0aa8\u0acb"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u091f\u092e\u093e\u0923\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tamano"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Tamano-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tamano"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0645\u0627\u0646\u0648\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Tamano"
     ],
     "name:pol_x_preferred":[
         "Tamano"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Tamano"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tamano"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Tamano"
     ],
+    "name:zho_x_preferred":[
+        "\u7389\u91ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108742897,
-    "wof:lastmodified":1554759622,
+    "wof:lastmodified":1561776349,
     "wof:name":"Naoshima",
     "wof:parent_id":85672715,
     "wof:placetype":"county",

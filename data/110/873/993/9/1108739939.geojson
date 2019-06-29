@@ -36,13 +36,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0648\u0643\u0627\u060c \u0625\u064a\u0648\u0627\u062a\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0580\u056b\u0578\u056f\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Morioka"
-    ],
-    "name:baq_x_preferred":[
         "Morioka"
     ],
     "name:ben_x_preferred":[
@@ -54,17 +48,20 @@
     "name:cat_x_preferred":[
         "Morioka"
     ],
-    "name:chi_x_preferred":[
-        "\u76db\u5ca1\u5e02"
+    "name:ces_x_preferred":[
+        "Morioka"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Morioka"
     ],
     "name:dan_x_preferred":[
         "Morioka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Morioka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03b9\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Morioka"
@@ -79,16 +76,16 @@
     "name:est_x_preferred":[
         "Morioka"
     ],
+    "name:eus_x_preferred":[
+        "Morioka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u0648\u06a9\u0627\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Morioka"
     ],
-    "name:fre_x_preferred":[
-        "Morioka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e0\u10d8\u10dd\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Morioka"
     ],
     "name:gle_x_preferred":[
@@ -96,9 +93,6 @@
     ],
     "name:glg_x_preferred":[
         "Morioka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03b9\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0abf\u0a93\u0a95\u0abe"
@@ -115,6 +109,9 @@
     "name:hun_x_preferred":[
         "Morioka"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0580\u056b\u0578\u056f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Morioka"
     ],
@@ -126,6 +123,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccb\u0cb0\u0cbf\u0caf\u0cca\u0c95\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d8\u10dd\u10d9\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ub9ac\uc624\uce74 \uc2dc"
@@ -142,11 +142,11 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u093f\u0913\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Morioka"
-    ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u0440\u0438\u043e\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Morioka"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u0648\u06a9\u0627\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
@@ -154,14 +154,14 @@
     "name:nan_x_preferred":[
         "Morioka-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Morioka"
+    ],
     "name:nno_x_preferred":[
         "Morioka"
     ],
     "name:nob_x_preferred":[
         "Morioka"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0631\u06cc\u0648\u06a9\u0627\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Morioka"
@@ -169,7 +169,7 @@
     "name:por_x_preferred":[
         "Morioka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Morioka"
     ],
     "name:rus_x_preferred":[
@@ -229,8 +229,8 @@
     "name:war_x_preferred":[
         "Morioka"
     ],
-    "name:wel_x_preferred":[
-        "Morioka"
+    "name:zho_x_preferred":[
+        "\u76db\u5ca1\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1108739939,
-    "wof:lastmodified":1554759587,
+    "wof:lastmodified":1561776373,
     "wof:name":"Morioka",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

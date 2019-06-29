@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00252,
-    "geom:area_square_m":25271791.887061,
+    "geom:area_square_m":25271791.887067,
     "geom:bbox":"139.627909318,35.7866262601,139.696655273,35.8437918475",
     "geom:latitude":35.814474,
     "geom:longitude":139.658965,
@@ -29,17 +29,17 @@
     "name:cat_x_preferred":[
         "Toda"
     ],
-    "name:chi_x_preferred":[
-        "\u6236\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Toda"
     ],
     "name:deu_x_preferred":[
         "Shimotoda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Toda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Toda-shi"
@@ -48,23 +48,20 @@
         "Toda",
         "Shimotoda"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u062f\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Toda"
     ],
     "name:fra_x_preferred":[
         "Shimotoda"
     ],
-    "name:fre_x_preferred":[
-        "Toda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Toda"
     ],
     "name:glg_x_preferred":[
         "Toda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0aa1\u0abe"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u091f\u0949\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Toda"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Toda-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Toda"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u062f\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Toda"
     ],
     "name:pol_x_preferred":[
         "Toda"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Shimotoda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Toda"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Toda"
     ],
+    "name:zho_x_preferred":[
+        "\u6236\u7530\u5e02"
+    ],
     "qs:a0":"\u65e5\u672c",
     "qs:a1":"*\u57fc\u7389\u770c",
     "qs:a1r":"*",
@@ -198,7 +198,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807
+        85672807,
+        1108740453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -223,7 +224,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1514468432,
+    "wof:lastmodified":1561776085,
     "wof:name":"Toda",
     "wof:parent_id":1108740453,
     "wof:placetype":"locality",

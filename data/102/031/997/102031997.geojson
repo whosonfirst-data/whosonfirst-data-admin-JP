@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004497,
-    "geom:area_square_m":45062542.693019,
+    "geom:area_square_m":45062542.693038,
     "geom:bbox":"139.993192426,35.8399720462,140.114224855,35.9114144689",
     "geom:latitude":35.871646,
     "geom:longitude":140.048409,
@@ -26,10 +26,7 @@
     "name:cat_x_preferred":[
         "Abiko"
     ],
-    "name:chi_x_preferred":[
-        "\u6211\u5b6b\u5b50\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Abiko"
     ],
     "name:dan_x_preferred":[
@@ -38,8 +35,8 @@
     "name:deu_x_preferred":[
         "Abiko"
     ],
-    "name:dut_x_preferred":[
-        "Abiko"
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03af\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Abiko-shi"
@@ -50,23 +47,17 @@
     "name:est_x_preferred":[
         "Abiko"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u06cc\u06a9\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Abiko"
     ],
     "name:fra_x_preferred":[
         "Abiko"
     ],
-    "name:fre_x_preferred":[
-        "Abiko"
-    ],
-    "name:ger_x_preferred":[
-        "Abiko"
-    ],
     "name:glg_x_preferred":[
         "Abiko"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c0\u03af\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0abf\u0a95\u0acb"
@@ -104,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0905\u092c\u093f\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Abiko"
     ],
     "name:mzn_x_preferred":[
@@ -119,16 +110,13 @@
     "name:nob_x_preferred":[
         "Abiko"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0628\u06cc\u06a9\u0648\u060c \u0686\u06cc\u0628\u0627"
-    ],
     "name:pol_x_preferred":[
         "Abiko"
     ],
     "name:por_x_preferred":[
         "Abiko"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Abiko"
     ],
     "name:rup_x_preferred":[
@@ -191,6 +179,9 @@
     "name:zho_x_preferred":[
         "\u6211\u5b6b\u5b50"
     ],
+    "name:zho_x_variant":[
+        "\u6211\u5b6b\u5b50\u5e02"
+    ],
     "qs:a0":"\u65e5\u672c",
     "qs:a1":"*\u5343\u8449\u770c",
     "qs:a1r":"*",
@@ -241,7 +232,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637053,
+    "wof:lastmodified":1561776079,
     "wof:name":"Abiko",
     "wof:parent_id":1108741609,
     "wof:placetype":"locality",

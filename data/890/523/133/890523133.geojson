@@ -24,32 +24,29 @@
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09a4\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u9054\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Date"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Date"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Date"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Date"
     ],
-    "name:fre_x_preferred":[
-        "Date"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Date"
     ],
     "name:glg_x_preferred":[
         "Date"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0a9f"
@@ -87,11 +84,14 @@
     "name:mar_x_preferred":[
         "\u0921\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Date"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Date"
     ],
     "name:nob_x_preferred":[
         "Date"
@@ -99,16 +99,13 @@
     "name:pam_x_preferred":[
         "Date"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
-    ],
     "name:pol_x_preferred":[
         "Date"
     ],
     "name:por_x_preferred":[
         "Date"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Date"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     "name:yue_x_preferred":[
         "\u4f0a\u9054\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u9054\u5e02"
+    ],
     "qs:name":"Date",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":890523133,
-    "wof:lastmodified":1527793079,
+    "wof:lastmodified":1561776470,
     "wof:name":"Date",
     "wof:parent_id":85672761,
     "wof:placetype":"locality",

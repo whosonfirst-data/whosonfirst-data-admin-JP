@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u098f\u09a4\u09be\u099c\u09bf\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6c5f\u7530\u5cf6\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Etad\u017eima"
     ],
     "name:dan_x_preferred":[
         "Etajima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Etajima"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c4\u03b1\u03b6\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Etajima"
@@ -55,20 +55,17 @@
         "Noomityoo",
         "Etajima Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062a\u0627\u062c\u06cc\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Etajima"
     ],
-    "name:fre_x_preferred":[
-        "Etajima"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Etajima"
     ],
     "name:glg_x_preferred":[
         "Etajima"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c4\u03b1\u03b6\u03af\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0a9c\u0ac0\u0aae\u0abe"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u090f\u091f\u091c\u0940\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Etajima"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Etazima-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Etajima"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062a\u0627\u062c\u06cc\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Etajima"
     ],
     "name:pol_x_preferred":[
         "Etajima"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Etajima"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Etajima"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Etajima"
     ],
+    "name:zho_x_preferred":[
+        "\u6c5f\u7530\u5cf6\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1108742801,
-    "wof:lastmodified":1554759620,
+    "wof:lastmodified":1561776348,
     "wof:name":"Etajima",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

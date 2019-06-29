@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Nanj\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u57ce\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nanjo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nanj\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd\u03c4\u03b6\u03cc"
     ],
     "name:eng_x_preferred":[
         "Nanjo"
@@ -56,20 +56,17 @@
         "Nanj\u014d",
         "Nanjo Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u062c\u0648\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nanj\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Nanj\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nanj\u014d"
     ],
     "name:glg_x_preferred":[
         "Nanj\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bd\u03c4\u03b6\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aa8\u0acd\u0a9c\u0acb"
@@ -101,17 +98,17 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0928\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nanjo"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u0646\u062c\u0648\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
     ],
+    "name:nld_x_preferred":[
+        "Nanj\u014d"
+    ],
     "name:nob_x_preferred":[
         "Nanjo"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0646\u062c\u0648\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Nanj\u014d"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Nanjo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nanj\u014d"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:war_x_preferred":[
         "Nanj\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u57ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1108743383,
-    "wof:lastmodified":1554759630,
+    "wof:lastmodified":1561776338,
     "wof:name":"Nanjo",
     "wof:parent_id":85672867,
     "wof:placetype":"county",

@@ -36,23 +36,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u0648\u0634\u064a\u062f\u0627\u060c \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u0571\u056b\u0575\u0578\u057d\u056b\u0564\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u099c\u09bf\u0993\u09b8\u09bf\u09a6\u09be"
     ],
     "name:cat_x_preferred":[
         "Fujiyoshida"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u58eb\u5409\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Fujiyoshida"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fujiyoshida"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03b3\u03b9\u03bf\u03c3\u03af\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fujiyoshida"
@@ -61,17 +58,14 @@
         "Huziyosidasi",
         "Fujiyoshida Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u062c\u06cc\u200c\u06cc\u0648\u0634\u06cc\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fujiyoshida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fujiyoshida"
-    ],
-    "name:ger_x_preferred":[
-        "Fujiyoshida"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03b3\u03b9\u03bf\u03c3\u03af\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a9c\u0ac0\u0aaf\u0acb\u0ab6\u0ac0\u0aa6\u0abe"
@@ -81,6 +75,9 @@
     ],
     "name:hun_x_preferred":[
         "Fudzsijosida"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0571\u056b\u0575\u0578\u057d\u056b\u0564\u0561"
     ],
     "name:ind_x_preferred":[
         "Fujiyoshida"
@@ -110,7 +107,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u091c\u093f\u092f\u094b\u0936\u093f\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fujiyoshida"
     ],
     "name:mzn_x_preferred":[
@@ -119,11 +116,11 @@
     "name:nan_x_preferred":[
         "Huziyosida-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fujiyoshida"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u062c\u06cc\u200c\u06cc\u0648\u0634\u06cc\u062f\u0627"
+    "name:nob_x_preferred":[
+        "Fujiyoshida"
     ],
     "name:pol_x_preferred":[
         "Fujiyoshida"
@@ -131,7 +128,7 @@
     "name:por_x_preferred":[
         "Fujiyoshida"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fujiyoshida"
     ],
     "name:rup_x_preferred":[
@@ -185,6 +182,9 @@
     "name:war_x_preferred":[
         "Fujiyoshida"
     ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u58eb\u5409\u7530\u5e02"
+    ],
     "qs:name":"Fujiyoshida-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -232,7 +232,7 @@
         }
     ],
     "wof:id":890524471,
-    "wof:lastmodified":1554759540,
+    "wof:lastmodified":1561776477,
     "wof:name":"Fujiyoshida",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

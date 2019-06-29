@@ -33,26 +33,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u064a\u062a\u0627\u062a\u0634\u064a\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0576\u056b\u057f\u0561\u057f\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Kunitachi"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a8\u09bf\u099f\u09be\u099a\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u570b\u7acb\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kunita\u010di"
     ],
     "name:dan_x_preferred":[
         "Kunitachi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kunitachi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03b9\u03c4\u03ac\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kunitachi"
@@ -64,26 +58,29 @@
     "name:epo_x_preferred":[
         "Kunita\u0109i"
     ],
+    "name:eus_x_preferred":[
+        "Kunitachi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u06cc\u062a\u0627\u0686\u06cc\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kunitachi"
     ],
-    "name:fre_x_preferred":[
-        "Kunitachi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kunitachi"
     ],
     "name:glg_x_preferred":[
         "Kunitachi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03bd\u03b9\u03c4\u03ac\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aa8\u0abf\u0a9f\u0abe\u0a9a\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0942\u0923\u093f\u0924\u093e\u091a\u0940 \u0938\u093f\u091f\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0576\u056b\u057f\u0561\u057f\u056b"
     ],
     "name:ind_x_preferred":[
         "Kunitachi"
@@ -109,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0928\u0940\u0924\u093e\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kunitachi"
     ],
     "name:mzn_x_preferred":[
@@ -118,11 +115,11 @@
     "name:nan_x_preferred":[
         "Kunitati-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kunitachi"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u06cc\u062a\u0627\u0686\u06cc\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Kunitachi"
     ],
     "name:pol_x_preferred":[
         "Kunitachi"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Kunitachi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kunitachi"
     ],
     "name:rup_x_preferred":[
@@ -184,6 +181,9 @@
     "name:yue_x_preferred":[
         "\u570b\u7acb\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u570b\u7acb\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -220,7 +220,7 @@
         }
     ],
     "wof:id":1108741745,
-    "wof:lastmodified":1554759602,
+    "wof:lastmodified":1561776355,
     "wof:name":"Kunitachi",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

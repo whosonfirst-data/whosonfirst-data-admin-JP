@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09a4\u09cd\u09af\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u6817\u6771\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ritto"
     ],
-    "name:dut_x_preferred":[
-        "Ritto"
+    "name:deu_x_preferred":[
+        "Ritt\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03c4\u03c4\u03cc"
     ],
     "name:eng_x_preferred":[
         "Ritto"
@@ -53,20 +53,17 @@
         "Ritt\u014d",
         "Ritto Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062a\u0648\u060c \u0634\u06cc\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ritt\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Ritt\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ritt\u014d"
     ],
     "name:glg_x_preferred":[
         "Ritt\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03c4\u03c4\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0a9f\u0acb"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ritto"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Ritt\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ritto"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u062a\u0648\u060c \u0634\u06cc\u06af\u0627"
+    "name:nob_x_preferred":[
+        "Ritto"
     ],
     "name:pol_x_preferred":[
         "Ritt\u014d"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Ritto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ritto"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:war_x_preferred":[
         "Ritt\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u6817\u6771\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108742365,
-    "wof:lastmodified":1554759612,
+    "wof:lastmodified":1561776366,
     "wof:name":"Ritto",
     "wof:parent_id":85672789,
     "wof:placetype":"county",

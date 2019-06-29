@@ -36,23 +36,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0643\u0648\u062a\u0648\u060c \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u056f\u0578\u0582\u057f\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u0995\u09c1\u09a4\u09c1"
     ],
     "name:cat_x_preferred":[
         "Hokuto"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u675c\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Hokuto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hokuto"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03ba\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hokuto"
@@ -65,20 +62,17 @@
     "name:epo_x_preferred":[
         "Hokuto"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06a9\u0648\u062a\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Hokuto"
     ],
-    "name:fre_x_preferred":[
-        "Hokuto"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hokuto"
     ],
     "name:glg_x_preferred":[
         "Hokuto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03ba\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0a95\u0ac1\u0a9f\u0acb"
@@ -88,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u094b\u0915\u0941\u091f\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u056f\u0578\u0582\u057f\u0578"
     ],
     "name:ind_x_preferred":[
         "Hokuto"
@@ -118,7 +115,7 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u0915\u0941\u0924\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hokuto"
     ],
     "name:mzn_x_preferred":[
@@ -127,11 +124,11 @@
     "name:nan_x_preferred":[
         "Hokuto-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hokuto"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u06a9\u0648\u062a\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    "name:nob_x_preferred":[
+        "Hokuto"
     ],
     "name:pol_x_preferred":[
         "Hokuto"
@@ -139,7 +136,7 @@
     "name:por_x_preferred":[
         "Hokuto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hokuto"
     ],
     "name:rup_x_preferred":[
@@ -193,6 +190,9 @@
     "name:war_x_preferred":[
         "Hokuto"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u675c\u5e02"
+    ],
     "qs:name":"Hokuto-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -226,7 +226,7 @@
         }
     ],
     "wof:id":890525009,
-    "wof:lastmodified":1554759546,
+    "wof:lastmodified":1561776466,
     "wof:name":"Hokuto",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

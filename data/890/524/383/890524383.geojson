@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09ac\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u77e2\u90e8\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Oyabe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oyabe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03b3\u03b9\u03ac\u03bc\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Oyabe"
@@ -55,20 +55,17 @@
         "Oyabesi",
         "Oyabe Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0627\u0628\u0647\u060c \u062a\u0648\u06cc\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Oyabe"
     ],
-    "name:fre_x_preferred":[
-        "Oyabe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oyabe"
     ],
     "name:glg_x_preferred":[
         "Oyabe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03b3\u03b9\u03ac\u03bc\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aaf\u0abe\u0aac\u0ac7"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0913\u090f\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oyabe"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Oyabe-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Oyabe"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06cc\u0627\u0628\u0647\u060c \u062a\u0648\u06cc\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Oyabe"
     ],
     "name:pol_x_preferred":[
         "Oyabe"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Oyabe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oyabe"
     ],
     "name:rup_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Oyabe"
     ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u77e2\u90e8\u5e02"
+    ],
     "qs:name":"Oyabe-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":890524383,
-    "wof:lastmodified":1554759539,
+    "wof:lastmodified":1561776481,
     "wof:name":"Oyabe",
     "wof:parent_id":85672759,
     "wof:placetype":"county",

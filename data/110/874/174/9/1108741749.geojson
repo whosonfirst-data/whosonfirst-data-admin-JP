@@ -33,23 +33,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0648\u0631\u0627\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0574\u0578\u0582\u0580\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Hamura"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09c1\u09b0\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u7fbd\u6751\u5e02"
     ],
     "name:dan_x_preferred":[
         "Hamura"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hamura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hamura"
@@ -61,26 +55,29 @@
     "name:epo_x_preferred":[
         "Hamura"
     ],
+    "name:eus_x_preferred":[
+        "Hamura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0645\u0648\u0631\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Hamura"
     ],
-    "name:fre_x_preferred":[
-        "Hamura"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hamura"
     ],
     "name:glg_x_preferred":[
         "Hamura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bc\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0aae\u0ac1\u0ab0\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0939\u092e\u0941\u0930\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0578\u0582\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Hamura"
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093e\u092e\u0941\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hamura"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Hamura-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hamura"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0645\u0648\u0631\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Hamura"
     ],
     "name:pol_x_preferred":[
         "Hamura"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Hamura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hamura"
     ],
     "name:rup_x_preferred":[
@@ -181,6 +178,9 @@
     "name:yue_x_preferred":[
         "\u7fbd\u6751\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u7fbd\u6751\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1108741749,
-    "wof:lastmodified":1554759602,
+    "wof:lastmodified":1561776355,
     "wof:name":"Hamura",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

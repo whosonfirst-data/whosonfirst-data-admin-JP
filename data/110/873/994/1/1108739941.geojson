@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0993\u09ab\u09c1\u09a8\u09be\u099f\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u8239\u6e21\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ofunato"
     ],
-    "name:dut_x_preferred":[
-        "Ofunato"
+    "name:deu_x_preferred":[
+        "\u014cfunato"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c6\u03bf\u03c5\u03bd\u03ac\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ofunato"
@@ -56,20 +56,17 @@
     "name:est_x_preferred":[
         "\u014cfunato"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0641\u0648\u0646\u0627\u062a\u0648\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "\u014cfunato"
     ],
-    "name:fre_x_preferred":[
-        "\u014cfunato"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u014cfunato"
     ],
     "name:glg_x_preferred":[
         "\u014cfunato"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c6\u03bf\u03c5\u03bd\u03ac\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aab\u0ac2\u0aa8\u0abe\u0a9f\u0acb"
@@ -101,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u0905\u092b\u0942\u0902\u0924\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u014cfunato"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +107,11 @@
     "name:nan_x_preferred":[
         "\u00d4hunato-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ofunato"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0641\u0648\u0646\u0627\u062a\u0648\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    "name:nob_x_preferred":[
+        "Ofunato"
     ],
     "name:pol_x_preferred":[
         "\u014cfunato"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Ofunato"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u014cfunato"
     ],
     "name:rup_x_preferred":[
@@ -173,6 +170,9 @@
     "name:war_x_preferred":[
         "\u014cfunato"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u8239\u6e21\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1108739941,
-    "wof:lastmodified":1554759586,
+    "wof:lastmodified":1561776373,
     "wof:name":"Ofunato",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

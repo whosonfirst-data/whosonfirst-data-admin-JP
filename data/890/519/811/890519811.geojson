@@ -36,26 +36,23 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0648\u0645\u064a\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u057d\u0578\u0582\u0574\u056b"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09c1\u09ae\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0443\u043c\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5937\u9685\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Isumi"
     ],
     "name:dan_x_preferred":[
         "Isumi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Isumi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03bf\u03cd\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Isumi"
@@ -64,26 +61,26 @@
         "Ooharamati",
         "Isumi Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u0648\u0645\u06cc\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Isumi"
     ],
-    "name:fre_x_preferred":[
-        "Isumi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Isumi"
     ],
     "name:glg_x_preferred":[
         "Isumi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c3\u03bf\u03cd\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0ab8\u0acd\u0aaf\u0ac1\u0aae\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0938\u0941\u092e\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u0578\u0582\u0574\u056b"
     ],
     "name:ind_x_preferred":[
         "Isumi"
@@ -114,7 +111,7 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u092e\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Isumi"
     ],
     "name:mzn_x_preferred":[
@@ -123,11 +120,11 @@
     "name:nan_x_preferred":[
         "Isumi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Isumi"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0633\u0648\u0645\u06cc\u060c \u0686\u06cc\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Isumi"
     ],
     "name:pol_x_preferred":[
         "Isumi"
@@ -135,7 +132,7 @@
     "name:por_x_preferred":[
         "Isumi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Isumi"
     ],
     "name:rus_x_preferred":[
@@ -189,6 +186,9 @@
     "name:war_x_preferred":[
         "Isumi"
     ],
+    "name:zho_x_preferred":[
+        "\u5937\u9685\u5e02"
+    ],
     "qs:name":"Isumi-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":890519811,
-    "wof:lastmodified":1554759527,
+    "wof:lastmodified":1561776443,
     "wof:name":"Isumi",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

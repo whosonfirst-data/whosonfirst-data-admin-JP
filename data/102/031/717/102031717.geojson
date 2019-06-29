@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002033,
-    "geom:area_square_m":20635095.41468,
+    "geom:area_square_m":20635095.414677,
     "geom:bbox":"135.410217272,34.7855257452,135.468068498,34.8453672991",
     "geom:latitude":34.813661,
     "geom:longitude":135.435313,
@@ -23,8 +23,8 @@
     "name:ben_x_preferred":[
         "\u0987\u0995\u09c7\u09a1\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6c60\u7530\u5e02"
+    "name:cym_x_preferred":[
+        "Ikeda"
     ],
     "name:dan_x_preferred":[
         "Ikeda"
@@ -32,8 +32,8 @@
     "name:deu_x_preferred":[
         "Ikeda"
     ],
-    "name:dut_x_preferred":[
-        "Ikeda"
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ikeda-shi"
@@ -44,23 +44,17 @@
     "name:epo_x_preferred":[
         "Ikeda"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0647\u200c\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ikeda"
     ],
     "name:fra_x_preferred":[
         "Ikeda"
     ],
-    "name:fre_x_preferred":[
-        "Ikeda"
-    ],
-    "name:ger_x_preferred":[
-        "Ikeda"
-    ],
     "name:glg_x_preferred":[
         "Ikeda"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03ba\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0ac7\u0aa1\u0abe"
@@ -101,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0907\u0915\u0947\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ikeda"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +104,11 @@
     "name:nan_x_preferred":[
         "Ikeda-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ikeda"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u06a9\u0647\u200c\u062f\u0627"
+    "name:nob_x_preferred":[
+        "Ikeda"
     ],
     "name:pol_x_preferred":[
         "Ikeda"
@@ -123,9 +117,6 @@
         "Ikeda"
     ],
     "name:ron_x_preferred":[
-        "Ikeda"
-    ],
-    "name:rum_x_preferred":[
         "Ikeda"
     ],
     "name:rus_x_preferred":[
@@ -173,11 +164,11 @@
     "name:war_x_preferred":[
         "Ikeda"
     ],
-    "name:wel_x_preferred":[
-        "Ikeda"
-    ],
     "name:zho_x_preferred":[
         "\u6c60\u7530"
+    ],
+    "name:zho_x_variant":[
+        "\u6c60\u7530\u5e02"
     ],
     "qs:a0":"\u65e5\u672c",
     "qs:a1":"*\u5927\u962a\u5e9c",
@@ -229,7 +220,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637068,
+    "wof:lastmodified":1561776097,
     "wof:name":"Ikeda",
     "wof:parent_id":1108742443,
     "wof:placetype":"locality",

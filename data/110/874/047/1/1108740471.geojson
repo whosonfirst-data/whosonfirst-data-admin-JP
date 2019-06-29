@@ -33,10 +33,7 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0648\u062f\u0648\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u5742\u6236\u5e02"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sakado"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +43,10 @@
         "Sakadosi",
         "Sakado Shi"
     ],
-    "name:fre_x_preferred":[
-        "Sakado"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0627\u062f\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sakado"
     ],
     "name:glg_x_preferred":[
@@ -73,8 +70,8 @@
     "name:nan_x_preferred":[
         "Sakado-chh\u012b"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06a9\u0627\u062f\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    "name:nld_x_preferred":[
+        "Sakado"
     ],
     "name:pol_x_preferred":[
         "Sakado"
@@ -82,7 +79,7 @@
     "name:por_x_preferred":[
         "Sakado"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sakado"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Sakado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5742\u6236\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108740471,
-    "wof:lastmodified":1554759596,
+    "wof:lastmodified":1561776351,
     "wof:name":"Sakado",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

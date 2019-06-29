@@ -33,20 +33,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u062a\u0634\u064a-\u0623\u0648\u0631\u0627\u060c \u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0578\u0582\u057f\u056b\u0578\u0582\u0580\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09c1\u09c1\u099a\u09bf\u0989\u09b0\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u571f\u6d66\u5e02"
     ],
     "name:dan_x_preferred":[
         "Tsuchiura"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsuchiura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03c4\u03c3\u03b9\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tsuchiura"
@@ -55,20 +52,17 @@
         "Tutiurasi",
         "Tsuchiura Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tsuchiura"
     ],
-    "name:fre_x_preferred":[
-        "Tsuchiura"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsuchiura"
     ],
     "name:glg_x_preferred":[
         "Tsuchiura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c5\u03c4\u03c3\u03b9\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac2\u0a9a\u0ac0\u0ab0\u0abe"
@@ -81,6 +75,9 @@
     ],
     "name:hun_x_preferred":[
         "Cucsiura"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0578\u0582\u057f\u056b\u0578\u0582\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Tsuchiura"
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u091a\u0940\u0909\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tsuchiura"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Tutiura-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Tsuchiura"
+    ],
     "name:nob_x_preferred":[
         "Tsuchirua"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Tsuchiura"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Tsuchiura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tsuchiura"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     "name:war_x_preferred":[
         "Tsuchiura"
     ],
+    "name:zho_x_preferred":[
+        "\u571f\u6d66\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108740273,
-    "wof:lastmodified":1554759592,
+    "wof:lastmodified":1561776362,
     "wof:name":"Tsuchiura",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

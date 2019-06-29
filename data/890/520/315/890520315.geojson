@@ -36,9 +36,6 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0634\u064a\u060c \u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0541\u0578\u0582\u057d\u056b"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u0443\u0441\u0456"
     ],
@@ -51,17 +48,17 @@
     "name:cat_x_preferred":[
         "Zushi"
     ],
-    "name:chi_x_preferred":[
-        "\u9017\u5b50\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zushi"
     ],
     "name:dan_x_preferred":[
         "Zushi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zushi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03cd\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zushi"
@@ -70,29 +67,26 @@
         "Zusisi",
         "Zushi Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0634\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Zushi"
     ],
-    "name:fre_x_preferred":[
-        "Zushi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10eb\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zushi"
     ],
     "name:glg_x_preferred":[
         "Zushi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03cd\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab6\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0941\u0936\u093f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u0578\u0582\u057d\u056b"
     ],
     "name:ind_x_preferred":[
         "Zushi"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cc1\u0cb6\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc988\uc2dc \uc2dc"
     ],
@@ -123,7 +120,7 @@
     "name:mar_x_preferred":[
         "\u091d\u0942\u0939\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zushi"
     ],
     "name:mzn_x_preferred":[
@@ -132,14 +129,14 @@
     "name:nan_x_preferred":[
         "Zusi-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Zushi"
+    ],
     "name:nno_x_preferred":[
         "Zushi"
     ],
     "name:nob_x_preferred":[
         "Zushi"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0634\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Zushi"
@@ -147,7 +144,7 @@
     "name:por_x_preferred":[
         "Zushi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zushi"
     ],
     "name:rus_x_preferred":[
@@ -159,7 +156,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd4\u0dc2\u0dd3"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zushi"
     ],
     "name:slv_x_preferred":[
@@ -207,6 +204,9 @@
     "name:war_x_preferred":[
         "Zushi"
     ],
+    "name:zho_x_preferred":[
+        "\u9017\u5b50\u5e02"
+    ],
     "qs:name":"Zushi-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -252,7 +252,7 @@
         }
     ],
     "wof:id":890520315,
-    "wof:lastmodified":1555036904,
+    "wof:lastmodified":1561776456,
     "wof:name":"Zushi",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

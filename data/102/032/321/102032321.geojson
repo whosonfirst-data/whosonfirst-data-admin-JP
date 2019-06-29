@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":7825029.985775,
+    "geom:area_square_m":7825029.985776,
     "geom:bbox":"139.444009055,35.3755578459,139.476661805,35.4114970326",
     "geom:latitude":35.392379,
     "geom:longitude":139.460852,
@@ -21,12 +21,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u0633\u0627\u0648\u0627\u060c \u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u0571\u056b\u057d\u0561\u057e\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Fujisawa"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0443\u0434\u0437\u0456\u0441\u0430\u0432\u0430"
     ],
@@ -39,10 +33,7 @@
     "name:cat_x_preferred":[
         "Fujisawa"
     ],
-    "name:chi_x_preferred":[
-        "\u85e4\u6fa4\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fud\u017eisawa"
     ],
     "name:dan_x_preferred":[
@@ -51,8 +42,8 @@
     "name:deu_x_preferred":[
         "Fujisawa"
     ],
-    "name:dut_x_preferred":[
-        "Fujisawa"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03c3\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fujisawa"
@@ -60,20 +51,20 @@
     "name:est_x_preferred":[
         "Fujisawa"
     ],
+    "name:eus_x_preferred":[
+        "Fujisawa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u062c\u06cc\u0633\u0627\u0648\u0627\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fujisawa"
     ],
-    "name:fre_x_preferred":[
-        "Fujisawa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fujisawa"
     ],
     "name:glg_x_preferred":[
         "Fujisawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03c3\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a9c\u0abf\u0ab8\u0ab5\u0abe"
@@ -86,6 +77,9 @@
     ],
     "name:hun_x_preferred":[
         "Fudzsiszava City"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0571\u056b\u057d\u0561\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Fujisawa"
@@ -116,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u091c\u093f\u0938\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fujisawa"
     ],
     "name:mzn_x_preferred":[
@@ -125,11 +119,11 @@
     "name:nan_x_preferred":[
         "Huzisawa-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fujisawa"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u062c\u06cc\u0633\u0627\u0648\u0627\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    "name:nob_x_preferred":[
+        "Fujisawa"
     ],
     "name:pol_x_preferred":[
         "Fujisawa"
@@ -137,7 +131,7 @@
     "name:por_x_preferred":[
         "Fujisawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fujisawa"
     ],
     "name:rus_x_preferred":[
@@ -191,6 +185,9 @@
     "name:war_x_preferred":[
         "Fujisawa"
     ],
+    "name:zho_x_preferred":[
+        "\u85e4\u6fa4\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -228,7 +225,7 @@
         }
     ],
     "wof:id":102032321,
-    "wof:lastmodified":1527637852,
+    "wof:lastmodified":1561776104,
     "wof:name":"Fujisawa",
     "wof:parent_id":890521399,
     "wof:placetype":"locality",

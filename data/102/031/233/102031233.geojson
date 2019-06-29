@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":5029125.655099,
+    "geom:area_square_m":5029125.655098,
     "geom:bbox":"136.57653635,35.2410914298,136.609498669,35.2591186248",
     "geom:latitude":35.250105,
     "geom:longitude":136.593018,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u990a\u8001\u753a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Y\u014dr\u014d"
     ],
     "name:eng_x_preferred":[
         "Y\u014dr\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Y\u014dr\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Y\u014dr\u014d"
     ],
     "name:hun_x_preferred":[
@@ -46,7 +40,10 @@
     "name:kor_x_preferred":[
         "\uc694\ub85c \uc815"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Y\u014dr\u014d"
+    ],
+    "name:nld_x_preferred":[
         "Y\u014dr\u014d"
     ],
     "name:por_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0648\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u990a\u8001\u753a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":102031233,
-    "wof:lastmodified":1527637057,
+    "wof:lastmodified":1561776086,
     "wof:name":"Yoro",
     "wof:parent_id":1108742135,
     "wof:placetype":"locality",

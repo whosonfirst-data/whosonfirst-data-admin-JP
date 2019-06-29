@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3123016.478563,
+    "geom:area_square_m":3123016.478557,
     "geom:bbox":"133.357646322,34.4567916309,133.379414302,34.4748207646",
     "geom:latitude":34.465806,
     "geom:longitude":133.36853,
@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u056f\u0578\u0582\u0575\u0561\u0574\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Fukuyama"
-    ],
-    "name:baq_x_preferred":[
         "Fukuyama"
     ],
     "name:bel_x_preferred":[
@@ -41,10 +35,7 @@
     "name:cat_x_preferred":[
         "Fukuyama"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fukuyama"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +44,8 @@
     "name:deu_x_preferred":[
         "Fukuyama"
     ],
-    "name:dut_x_preferred":[
-        "Fukuyama"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03c5\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fukuyama"
@@ -74,20 +65,11 @@
     "name:fra_x_preferred":[
         "Fukuyama"
     ],
-    "name:fre_x_preferred":[
-        "Fukuyama"
-    ],
-    "name:ger_x_preferred":[
-        "Fukuyama"
-    ],
     "name:gle_x_preferred":[
         "Fukuyama"
     ],
     "name:glg_x_preferred":[
         "Fukuyama"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03c5\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a95\u0ac1\u0aaf\u0abe\u0aae\u0abe"
@@ -100,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092b\u0941\u0915\u0941\u092f\u093e\u092e\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u056f\u0578\u0582\u0575\u0561\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Fukuyama"
@@ -134,7 +119,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0941\u092f\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fukuyama"
     ],
     "name:mzn_x_preferred":[
@@ -152,9 +137,6 @@
     "name:nor_x_preferred":[
         "Fukuyama"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Fukuyama"
     ],
@@ -162,9 +144,6 @@
         "Fukuyama"
     ],
     "name:ron_x_preferred":[
-        "Fukuyama"
-    ],
-    "name:rum_x_preferred":[
         "Fukuyama"
     ],
     "name:rus_x_preferred":[
@@ -270,7 +249,7 @@
         }
     ],
     "wof:id":102031791,
-    "wof:lastmodified":1527637052,
+    "wof:lastmodified":1561776078,
     "wof:name":"Fukuyama",
     "wof:parent_id":890524463,
     "wof:placetype":"locality",

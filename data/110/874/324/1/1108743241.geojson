@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0982\u0997\u09c1\u09c1\u099f\u09be\u0995\u09be\u09a6\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8c50\u5f8c\u9ad8\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Bungotakada"
     ],
-    "name:dut_x_preferred":[
-        "Bungotakada"
+    "name:deu_x_preferred":[
+        "Bungo-Takada"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03c4\u03b1\u03ba\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bungotakada"
@@ -52,20 +52,17 @@
         "Bungotakadasi",
         "Bungotakada Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u06af\u0648\u062a\u0627\u06a9\u0627\u062f\u0627\u060c \u0627\u0648\u0626\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bungotakada"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bungotakada"
-    ],
-    "name:ger_x_preferred":[
-        "Bungo-Takada"
     ],
     "name:glg_x_preferred":[
         "Bungotakada"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03c4\u03b1\u03ba\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a82\u0a97\u0acb\u0a9f\u0a95\u0abe\u0aa1\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u0917\u094b\u091f\u093e\u0915\u093e\u0921\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bungotakada"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Bungotakada-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Bungotakada"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0646\u06af\u0648\u062a\u0627\u06a9\u0627\u062f\u0627\u060c \u0627\u0648\u0626\u06cc\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Bungotakada"
     ],
     "name:pol_x_preferred":[
         "Bungotakada"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Bungotakada"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bungotakada"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Bungotakada"
     ],
+    "name:zho_x_preferred":[
+        "\u8c50\u5f8c\u9ad8\u7530\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108743241,
-    "wof:lastmodified":1554759627,
+    "wof:lastmodified":1561776356,
     "wof:name":"Bungotakada",
     "wof:parent_id":85672723,
     "wof:placetype":"county",

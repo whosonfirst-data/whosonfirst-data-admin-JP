@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u0646\u0648\u0647\u0648\u0631\u0627\u060c \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0565\u0576\u0578\u0570\u0561\u0580\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0989\u09af\u09bc\u09c7\u09a8\u09cb\u09b9\u09be\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
         "Uenohara"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u91ce\u539f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Uenohara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Uenohara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03bd\u03bf\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Uenohara"
@@ -58,26 +55,26 @@
         "Uenoharamati",
         "Uenohara Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Uenohara"
     ],
-    "name:fre_x_preferred":[
-        "Uenohara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Uenohara"
     ],
     "name:glg_x_preferred":[
         "Uenohara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b5\u03bd\u03bf\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0a8f\u0aa8\u0acb\u0ab9\u0ab0\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0928\u094b\u0939\u093e\u0930\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u0576\u0578\u0570\u0561\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Uenohara"
@@ -103,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0928\u0940\u0939\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Uenohara"
     ],
     "name:mzn_x_preferred":[
@@ -112,11 +109,11 @@
     "name:nan_x_preferred":[
         "Uenohara-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Uenohara"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    "name:nob_x_preferred":[
+        "Uenohara"
     ],
     "name:pol_x_preferred":[
         "Uenohara"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Uenohara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Uenohara"
     ],
     "name:rup_x_preferred":[
@@ -172,6 +169,9 @@
     "name:war_x_preferred":[
         "Uenohara"
     ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u91ce\u539f\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":1108741937,
-    "wof:lastmodified":1554759605,
+    "wof:lastmodified":1561776344,
     "wof:name":"Uenohara",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

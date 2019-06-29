@@ -30,17 +30,11 @@
     "mps:longitude":142.236989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hidaka suprefetura"
-    ],
-    "name:chi_x_preferred":[
-        "\u65e5\u9ad8\u632f\u8208\u5c40"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Podprefektura Hidaka"
     ],
-    "name:dut_x_preferred":[
-        "Hidaka"
+    "name:deu_x_preferred":[
+        "Unterpr\u00e4fektur Hidaka"
     ],
     "name:eng_x_preferred":[
         "Hidaka"
@@ -53,11 +47,11 @@
     "name:epo_x_preferred":[
         "Hidaka-subgubernio"
     ],
-    "name:fre_x_preferred":[
-        "sous-pr\u00e9fecture de Hidaka"
+    "name:eus_x_preferred":[
+        "Hidaka suprefetura"
     ],
-    "name:ger_x_preferred":[
-        "Unterpr\u00e4fektur Hidaka"
+    "name:fra_x_preferred":[
+        "sous-pr\u00e9fecture de Hidaka"
     ],
     "name:glg_x_preferred":[
         "Subprefectura de Hidaka"
@@ -80,6 +74,9 @@
     "name:nan_x_preferred":[
         "Hidaka Ch\u00ecn-heng-kio\u030dk"
     ],
+    "name:nld_x_preferred":[
+        "Hidaka"
+    ],
     "name:pol_x_preferred":[
         "Podprefektura Hidaka"
     ],
@@ -100,6 +97,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0425\u0456\u0434\u0430\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u9ad8\u632f\u8208\u5c40"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1108739773,
-    "wof:lastmodified":1554759583,
+    "wof:lastmodified":1561776372,
     "wof:name":"Hidaka",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

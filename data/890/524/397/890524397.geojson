@@ -39,17 +39,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09ce\u09b8\u09c1\u09b8\u09be\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u962a\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Macusaka"
     ],
     "name:dan_x_preferred":[
         "Matsusaka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matsusaka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03c3\u03bf\u03c5\u03c3\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Matsusaka"
@@ -61,20 +61,17 @@
     "name:est_x_preferred":[
         "Matsusaka"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0633\u0648\u0633\u0627\u06a9\u0627\u060c \u0645\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Matsusaka"
     ],
-    "name:fre_x_preferred":[
-        "Matsusaka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Matsusaka"
     ],
     "name:glg_x_preferred":[
         "Matsusaka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03c3\u03bf\u03c5\u03c3\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0aa4\u0acd\u0ab8\u0ac1\u0ab8\u0abe\u0a95\u0abe"
@@ -109,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0924\u094d\u0938\u0941\u0915\u093e\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Matsusaka"
     ],
     "name:mzn_x_preferred":[
@@ -118,11 +115,11 @@
     "name:nan_x_preferred":[
         "Matusaka-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Matsusaka"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u062a\u0633\u0648\u0633\u0627\u06a9\u0627\u060c \u0645\u06cc\u0647"
+    "name:nob_x_preferred":[
+        "Matsusaka"
     ],
     "name:pol_x_preferred":[
         "Matsusaka"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Matsusaka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Matsusaka"
     ],
     "name:rup_x_preferred":[
@@ -184,6 +181,9 @@
     "name:war_x_preferred":[
         "Matsusaka"
     ],
+    "name:zho_x_preferred":[
+        "\u677e\u962a\u5e02"
+    ],
     "qs:name":"Matsusaka-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -230,7 +230,7 @@
         }
     ],
     "wof:id":890524397,
-    "wof:lastmodified":1554759540,
+    "wof:lastmodified":1561776476,
     "wof:name":"Matsusaka",
     "wof:parent_id":85672745,
     "wof:placetype":"county",

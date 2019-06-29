@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09a4\u09cb\u0981"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6771\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ito"
     ],
-    "name:dut_x_preferred":[
-        "Ito"
+    "name:deu_x_preferred":[
+        "It\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ito"
@@ -53,20 +53,17 @@
         "It\u014d",
         "Ito Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062a\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "It\u014d"
     ],
-    "name:fre_x_preferred":[
-        "It\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "It\u014d"
     ],
     "name:glg_x_preferred":[
         "It\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c4\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9f\u0acb"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0907\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ito"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "It\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ito"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u062a\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Ito"
     ],
     "name:pol_x_preferred":[
         "It\u014d"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Ito"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ito"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     "name:war_x_preferred":[
         "It\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6771\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1108742195,
-    "wof:lastmodified":1555037261,
+    "wof:lastmodified":1561776350,
     "wof:name":"Ito",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

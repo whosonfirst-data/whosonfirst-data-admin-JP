@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010305,
-    "geom:area_square_m":94986639.243836,
+    "geom:area_square_m":94986639.243879,
     "geom:bbox":"140.684368075,41.7418170467,140.840284124,41.8662945971",
     "geom:latitude":41.800999,
     "geom:longitude":140.749728,
@@ -26,9 +26,6 @@
     "name:aze_x_preferred":[
         "Hakodate"
     ],
-    "name:baq_x_preferred":[
-        "Hakodate"
-    ],
     "name:bar_x_preferred":[
         "Hakodate"
     ],
@@ -41,10 +38,7 @@
     "name:cat_x_preferred":[
         "Hakodate"
     ],
-    "name:chi_x_preferred":[
-        "\u51fd\u9928\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hakodate"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "Hakodate"
     ],
-    "name:dut_x_preferred":[
-        "Hakodate"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ba\u03bf\u03bd\u03c4\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Hakodate-shi"
@@ -74,19 +68,13 @@
     "name:fas_x_preferred":[
         "\u0647\u0627\u06a9\u0648\u062f\u0627\u062a\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u06a9\u0648\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Hakodate"
     ],
     "name:fra_x_preferred":[
-        "Hakodate"
-    ],
-    "name:fre_x_preferred":[
-        "Hakodate"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10d9\u10dd\u10d3\u10d0\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Hakodate"
     ],
     "name:gle_x_preferred":[
@@ -94,9 +82,6 @@
     ],
     "name:glg_x_preferred":[
         "Hakodate"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03ba\u03bf\u03bd\u03c4\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0a95\u0acb\u0aa1\u0ac7\u0a9f"
@@ -148,11 +133,11 @@
     "name:mar_x_preferred":[
         "\u0939\u0915\u094b\u0926\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Hakodate"
-    ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u043a\u043e\u0434\u0430\u0442\u044d"
+    ],
+    "name:msa_x_preferred":[
+        "Hakodate"
     ],
     "name:mzn_x_preferred":[
         "\u0647\u0627\u06a9\u0648\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
@@ -178,9 +163,6 @@
     "name:pam_x_preferred":[
         "Hakodate"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u06a9\u0648\u062f\u0627\u062a\u0647\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
-    ],
     "name:pol_x_preferred":[
         "Hakodate"
     ],
@@ -188,9 +170,6 @@
         "Hakodate"
     ],
     "name:ron_x_preferred":[
-        "Hakodate"
-    ],
-    "name:rum_x_preferred":[
         "Hakodate"
     ],
     "name:rus_x_preferred":[
@@ -202,7 +181,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0d9a\u0ddc\u0da9\u0da7\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hakodate"
     ],
     "name:slv_x_preferred":[
@@ -405,7 +384,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637848,
+    "wof:lastmodified":1561776100,
     "wof:name":"Hakodate",
     "wof:parent_id":1108739513,
     "wof:placetype":"locality",

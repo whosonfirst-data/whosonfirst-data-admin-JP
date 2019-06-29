@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":3120718.276312,
+    "geom:area_square_m":3120718.276311,
     "geom:bbox":"131.555950882,34.0208903672,131.577593919,34.0389099654",
     "geom:latitude":34.0299,
     "geom:longitude":131.566772,
@@ -29,20 +29,14 @@
     "name:ces_x_preferred":[
         "H\u00f3fu"
     ],
-    "name:chi_x_preferred":[
-        "\u9632\u5e9c\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "H\u00f3fu"
-    ],
     "name:dan_x_preferred":[
         "Hofu"
     ],
     "name:deu_x_preferred":[
         "H\u014dfu"
     ],
-    "name:dut_x_preferred":[
-        "H\u014dfu"
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "H\u014dfu"
@@ -59,17 +53,8 @@
     "name:fra_x_preferred":[
         "H\u014dfu"
     ],
-    "name:fre_x_preferred":[
-        "H\u014dfu"
-    ],
-    "name:ger_x_preferred":[
-        "H\u014dfu"
-    ],
     "name:glg_x_preferred":[
         "H\u014dfu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03cc\u03c6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aab\u0ac1"
@@ -104,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u092b\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hofu"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +98,11 @@
     "name:nan_x_preferred":[
         "H\u00f4hu-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "H\u014dfu"
+    ],
     "name:nob_x_preferred":[
         "Hofu"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0641\u0648\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
     ],
     "name:pol_x_preferred":[
         "H\u014dfu"
@@ -125,7 +110,7 @@
     "name:por_x_preferred":[
         "H\u014dfu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hofu"
     ],
     "name:rup_x_preferred":[
@@ -182,6 +167,9 @@
     "name:war_x_preferred":[
         "H\u014dfu"
     ],
+    "name:zho_x_preferred":[
+        "\u9632\u5e9c\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -225,7 +213,7 @@
         }
     ],
     "wof:id":102031733,
-    "wof:lastmodified":1527637060,
+    "wof:lastmodified":1561776089,
     "wof:name":"H\u014dfu",
     "wof:parent_id":1108742827,
     "wof:placetype":"locality",

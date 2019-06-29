@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Kitakata"
     ],
-    "name:chi_x_preferred":[
-        "\u559c\u591a\u65b9\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Kitakata"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kitakata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c4\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kitakata"
@@ -55,20 +55,17 @@
         "Atusiokanoomura",
         "Kitakata Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kitakata"
     ],
-    "name:fre_x_preferred":[
-        "Kitakata"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kitakata"
     ],
     "name:glg_x_preferred":[
         "Kitakata"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03c4\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac0\u0aa4\u0a95\u0abe\u0aa4\u0abe"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0940\u091f\u0915\u093e\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kitakata"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Kitakata-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kitakata"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u062a\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Kitakata"
     ],
     "name:pol_x_preferred":[
         "Kitakata"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Kitakata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kitakata"
     ],
     "name:rup_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Kitakata"
     ],
+    "name:zho_x_preferred":[
+        "\u559c\u591a\u65b9\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108740157,
-    "wof:lastmodified":1554759590,
+    "wof:lastmodified":1561776347,
     "wof:name":"Kitakata",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

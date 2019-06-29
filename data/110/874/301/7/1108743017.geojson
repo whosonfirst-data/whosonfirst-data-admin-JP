@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a8\u09be\u09be\u0995\u09be\u099f\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5b97\u50cf\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Munakata"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Munakata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bd\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Munakata"
@@ -54,20 +54,17 @@
     "name:est_x_preferred":[
         "Munakata"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Munakata"
     ],
-    "name:fre_x_preferred":[
-        "Munakata"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Munakata"
     ],
     "name:glg_x_preferred":[
         "Munakata"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03bd\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0aa8\u0abe\u0a95\u0aa4\u0abe"
@@ -102,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0923\u0915\u093e\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Munakata"
     ],
     "name:mzn_x_preferred":[
@@ -111,11 +108,11 @@
     "name:nan_x_preferred":[
         "Munakata-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Munakata"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Munakata"
     ],
     "name:pol_x_preferred":[
         "Munakata"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Munakata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Munakata"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +165,9 @@
     "name:war_x_preferred":[
         "Munakata"
     ],
+    "name:zho_x_preferred":[
+        "\u5b97\u50cf\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":1108743017,
-    "wof:lastmodified":1554759624,
+    "wof:lastmodified":1561776342,
     "wof:name":"Munakata",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

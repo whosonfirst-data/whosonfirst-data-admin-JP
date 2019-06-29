@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ae\u09be\u09a8\u09cd\u09a4"
     ],
-    "name:chi_x_preferred":[
-        "\u56db\u842c\u5341\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Shimanto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shimanto"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Shimanto"
@@ -56,17 +56,14 @@
         "Shimanto City",
         "Shimanto Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0645\u0627\u0646\u062a\u0648\u060c \u06a9\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Shimanto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shimanto"
-    ],
-    "name:ger_x_preferred":[
-        "Shimanto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bc\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0aae\u0aa8\u0acd\u0aa4\u0acb"
@@ -102,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u0936\u093f\u092e\u0902\u0924\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shimanto"
     ],
     "name:mzn_x_preferred":[
@@ -111,11 +108,11 @@
     "name:nan_x_preferred":[
         "Simanto-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Shimanto"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0645\u0627\u0646\u062a\u0648\u060c \u06a9\u0648\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Shimanto"
     ],
     "name:pol_x_preferred":[
         "Shimanto"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Shimanto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shimanto"
     ],
     "name:rus_x_preferred":[
@@ -180,6 +177,9 @@
     "name:wuu_x_preferred":[
         "\u56db\u4e07\u5341\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u56db\u842c\u5341\u5e02"
+    ],
     "qs:name":"Shimanto-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":890524983,
-    "wof:lastmodified":1554759545,
+    "wof:lastmodified":1561776481,
     "wof:name":"Shimanto",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

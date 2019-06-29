@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09be\u0993\u09af\u09bc\u09be\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5bae\u82e5\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Miyawaka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Miyawaka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03b3\u03b9\u03b1\u03b2\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Miyawaka"
@@ -52,20 +52,17 @@
         "Wakamiyamati",
         "Miyawaka Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0648\u0627\u06a9\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Miyawaka"
     ],
-    "name:fre_x_preferred":[
-        "Miyawaka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Miyawaka"
     ],
     "name:glg_x_preferred":[
         "Miyawaka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03b3\u03b9\u03b1\u03b2\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aaf\u0abe\u0ab5\u0a95\u0abe"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0935\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Miyawaka"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Miyawaka-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Miyawaka"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0627\u0648\u0627\u06a9\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Miyawaka"
     ],
     "name:pol_x_preferred":[
         "Miyawaka"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Miyawaka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Miyawaka"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Miyawaka"
     ],
+    "name:zho_x_preferred":[
+        "\u5bae\u82e5\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1108743023,
-    "wof:lastmodified":1554759624,
+    "wof:lastmodified":1561776360,
     "wof:name":"Miyawaka",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

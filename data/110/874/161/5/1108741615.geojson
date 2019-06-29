@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0989\u09b0\u09be\u09af\u09bc\u09be\u09b8\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u6d66\u5b89\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Urayasu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Urayasu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c1\u03b1\u03b3\u03b9\u03ac\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Urayasu"
@@ -53,20 +53,17 @@
         "Edogawa",
         "Urayasu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Urayasu"
     ],
-    "name:fre_x_preferred":[
-        "Urayasu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Urayasu"
     ],
     "name:glg_x_preferred":[
         "Urayasu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c1\u03b1\u03b3\u03b9\u03ac\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab0\u0abe\u0aaf\u0ab8\u0ac1"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0930\u093e\u092f\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Urayasu"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Urayasu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Urayasu"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Urayasu"
     ],
     "name:pol_x_preferred":[
         "Urayasu"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Urayasu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Urayasu"
     ],
     "name:rus_x_preferred":[
@@ -173,6 +170,9 @@
     "name:war_x_preferred":[
         "Urayasu"
     ],
+    "name:zho_x_preferred":[
+        "\u6d66\u5b89\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1108741615,
-    "wof:lastmodified":1554759600,
+    "wof:lastmodified":1561776341,
     "wof:name":"Urayasu",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

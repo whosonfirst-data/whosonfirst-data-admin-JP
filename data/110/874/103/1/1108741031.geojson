@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0997\u09be\u099c\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u8cc0\u57ce\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Tagajo"
     ],
-    "name:dut_x_preferred":[
-        "Tagajo"
+    "name:deu_x_preferred":[
+        "Tagaj\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b3\u03ba\u03b1\u03c4\u03b6\u03cc"
     ],
     "name:eng_x_preferred":[
         "Tagajo"
@@ -53,20 +53,17 @@
         "Tagaj\u014d",
         "Tagajo Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06af\u0627\u062c\u0648\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tagaj\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Tagaj\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tagaj\u014d"
     ],
     "name:glg_x_preferred":[
         "Tagaj\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03b3\u03ba\u03b1\u03c4\u03b6\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a97\u0abe\u0a9c\u0acb"
@@ -101,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u091f\u0945\u0917\u094b\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tagajo"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +107,11 @@
     "name:nan_x_preferred":[
         "Tagazy\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tagajo"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u06af\u0627\u062c\u0648\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    "name:nob_x_preferred":[
+        "Tagajo"
     ],
     "name:pol_x_preferred":[
         "Tagaj\u014d"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Tagajo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tagajo"
     ],
     "name:rup_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Tagaj\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u591a\u8cc0\u57ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":1108741031,
-    "wof:lastmodified":1554759598,
+    "wof:lastmodified":1561776340,
     "wof:name":"Tagajo",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

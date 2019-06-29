@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002889,
-    "geom:area_square_m":29322335.299526,
+    "geom:area_square_m":29322335.299549,
     "geom:bbox":"135.434007248,34.7994926927,135.516357422,34.8634001403",
     "geom:latitude":34.833872,
     "geom:longitude":135.472355,
@@ -23,17 +23,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09cd\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u7b95\u9762\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Mino"
     ],
     "name:deu_x_preferred":[
         "Mino"
     ],
-    "name:dut_x_preferred":[
-        "Minoh"
+    "name:deu_x_variant":[
+        "Min\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mino"
@@ -46,23 +46,20 @@
     "name:epo_x_preferred":[
         "Minoo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Min\u014d"
     ],
     "name:fra_x_preferred":[
         "Mino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Minoh"
-    ],
-    "name:ger_x_preferred":[
-        "Min\u014d"
     ],
     "name:glg_x_preferred":[
         "Min\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac0\u0aa8\u0acb"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mino"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +107,11 @@
     "name:nld_x_preferred":[
         "Mino"
     ],
+    "name:nld_x_variant":[
+        "Minoh"
+    ],
     "name:nob_x_preferred":[
         "Mino"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0646\u0648\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Mino"
@@ -125,7 +122,7 @@
     "name:ron_x_preferred":[
         "Mino"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Minoh"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +176,9 @@
     "name:war_x_preferred":[
         "Minoh"
     ],
+    "name:zho_x_preferred":[
+        "\u7b95\u9762\u5e02"
+    ],
     "qs:a0":"\u65e5\u672c",
     "qs:a1":"*\u5927\u962a\u5e9c",
     "qs:a1r":"*",
@@ -227,7 +227,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637060,
+    "wof:lastmodified":1561776089,
     "wof:name":"Mino",
     "wof:parent_id":1108742471,
     "wof:placetype":"locality",

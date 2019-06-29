@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8607\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Aso"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aso"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Aso"
@@ -55,17 +55,14 @@
     "name:est_x_preferred":[
         "Aso"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0633\u0648\u060c \u06a9\u0648\u0645\u0627\u0645\u0648\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Aso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aso"
-    ],
-    "name:ger_x_preferred":[
-        "Aso"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab8\u0acb"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Aso"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Aso-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Aso"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0633\u0648\u060c \u06a9\u0648\u0645\u0627\u0645\u0648\u062a\u0648"
+    "name:nob_x_preferred":[
+        "Aso"
     ],
     "name:pol_x_preferred":[
         "Aso"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Aso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aso"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Aso"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u8607\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108743159,
-    "wof:lastmodified":1555037254,
+    "wof:lastmodified":1561776356,
     "wof:name":"Aso",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

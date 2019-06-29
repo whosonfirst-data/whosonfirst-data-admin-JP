@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000835,
-    "geom:area_square_m":9235333.825915,
+    "geom:area_square_m":9235333.825909,
     "geom:bbox":"127.92026153,26.5156226454,127.96230694,26.5435074503",
     "geom:latitude":26.531796,
     "geom:longitude":127.938862,
@@ -20,17 +20,11 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0648\u060c \u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0563\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09cb"
     ],
     "name:cat_x_preferred":[
         "Nago"
-    ],
-    "name:chi_x_preferred":[
-        "\u540d\u8b77\u5e02"
     ],
     "name:dan_x_preferred":[
         "Nago"
@@ -38,8 +32,8 @@
     "name:deu_x_preferred":[
         "Nago"
     ],
-    "name:dut_x_preferred":[
-        "Nago"
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Nago"
@@ -53,17 +47,8 @@
     "name:fra_x_preferred":[
         "Nago"
     ],
-    "name:fre_x_preferred":[
-        "Nago"
-    ],
-    "name:ger_x_preferred":[
-        "Nago"
-    ],
     "name:glg_x_preferred":[
         "Nago"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0acb"
@@ -73,6 +58,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u0917\u094b\u0902"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u0578"
     ],
     "name:ind_x_preferred":[
         "Nago"
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nago"
     ],
     "name:mzn_x_preferred":[
@@ -119,9 +107,6 @@
     "name:oci_x_preferred":[
         "Nago"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06af\u0648\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "Nago"
     ],
@@ -129,9 +114,6 @@
         "Nago"
     ],
     "name:ron_x_preferred":[
-        "Nago"
-    ],
-    "name:rum_x_preferred":[
         "Nago"
     ],
     "name:rus_x_preferred":[
@@ -234,7 +216,7 @@
         }
     ],
     "wof:id":102031501,
-    "wof:lastmodified":1527637060,
+    "wof:lastmodified":1561776089,
     "wof:name":"Nago",
     "wof:parent_id":890524657,
     "wof:placetype":"locality",

@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a4\u09cb\u09b8\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u5de2\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Motosu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Motosu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c4\u03cc\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Motosu"
@@ -55,20 +55,17 @@
         "Neomura",
         "Motosu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062a\u0648\u0633\u0648\u060c \u06af\u06cc\u0641\u0648"
+    ],
     "name:fin_x_preferred":[
         "Motosu"
     ],
-    "name:fre_x_preferred":[
-        "Motosu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Motosu"
     ],
     "name:glg_x_preferred":[
         "Motosu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c4\u03cc\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a9f\u0acb\u0ab8\u0ac1"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u091f\u094b\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Motosu"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Motosu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Motosu"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u062a\u0648\u0633\u0648\u060c \u06af\u06cc\u0641\u0648"
+    "name:nob_x_preferred":[
+        "Motosu"
     ],
     "name:pol_x_preferred":[
         "Motosu"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Motosu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Motosu"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Motosu"
     ],
+    "name:zho_x_preferred":[
+        "\u672c\u5de2\u5e02"
+    ],
     "qs:name":"Motosu-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":890524861,
-    "wof:lastmodified":1554759545,
+    "wof:lastmodified":1561776479,
     "wof:name":"Motosu",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

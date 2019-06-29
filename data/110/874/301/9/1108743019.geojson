@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a1\u09be\u099c\u09be\u0987\u09ab\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u592a\u5bb0\u5e9c\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Dazaifu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dazaifu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03b6\u03b1\u0390\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Dazaifu"
@@ -52,20 +52,17 @@
         "Dazaihusi",
         "Dazaifu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0632\u0627\u06cc\u0641\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Dazaifu"
     ],
-    "name:fre_x_preferred":[
-        "Dazaifu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dazaifu"
     ],
     "name:glg_x_preferred":[
         "Dazaifu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03b6\u03b1\u0390\u03c6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0a9d\u0ac7\u0aab\u0ac1"
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0921\u0947\u091d\u093e\u092b\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dazaifu"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Dazaifu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Dazaifu"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0632\u0627\u06cc\u0641\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Dazaifu"
     ],
     "name:pol_x_preferred":[
         "Dazaifu"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Dazaifu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dazaifu"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Dazaifu"
     ],
+    "name:zho_x_preferred":[
+        "\u592a\u5bb0\u5e9c\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108743019,
-    "wof:lastmodified":1554759624,
+    "wof:lastmodified":1561776342,
     "wof:name":"Dazaifu",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

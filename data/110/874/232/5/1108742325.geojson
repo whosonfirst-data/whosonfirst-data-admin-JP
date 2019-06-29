@@ -33,23 +33,23 @@
     "name:ara_x_preferred":[
         "\u0625\u063a\u0627\u060c \u0645\u064a\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0563\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u0997\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u8cc0\u5e02"
+    "name:ces_x_preferred":[
+        "Iga"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Iga"
     ],
     "name:dan_x_preferred":[
         "Iga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iga"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Iga"
@@ -61,26 +61,26 @@
     "name:est_x_preferred":[
         "Iga"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06af\u0627\u060c \u0645\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Iga"
     ],
-    "name:fre_x_preferred":[
-        "Iga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Iga"
     ],
     "name:glg_x_preferred":[
         "Iga"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a97\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0917\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0563\u0561"
     ],
     "name:ind_x_preferred":[
         "Iga"
@@ -106,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Iga"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +115,11 @@
     "name:nan_x_preferred":[
         "Iga-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Iga"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u06af\u0627\u060c \u0645\u06cc\u0647"
+    "name:nob_x_preferred":[
+        "Iga"
     ],
     "name:pol_x_preferred":[
         "Iga"
@@ -127,7 +127,7 @@
     "name:por_x_preferred":[
         "Iga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iga"
     ],
     "name:rup_x_preferred":[
@@ -181,8 +181,8 @@
     "name:war_x_preferred":[
         "Iga"
     ],
-    "name:wel_x_preferred":[
-        "Iga"
+    "name:zho_x_preferred":[
+        "\u4f0a\u8cc0\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":1108742325,
-    "wof:lastmodified":1554759612,
+    "wof:lastmodified":1561776353,
     "wof:name":"Iga",
     "wof:parent_id":85672745,
     "wof:placetype":"county",

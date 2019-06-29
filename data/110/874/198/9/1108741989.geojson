@@ -33,20 +33,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u064a\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0574\u056b"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09ae\u09bf"
-    ],
-    "name:chi_x_preferred":[
-        "\u6771\u5fa1\u5e02"
     ],
     "name:dan_x_preferred":[
         "Tomi"
     ],
-    "name:dut_x_preferred":[
-        "Tomi"
+    "name:deu_x_preferred":[
+        "T\u014dmi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Tomi"
@@ -56,26 +53,26 @@
         "T\u014dmi",
         "Tomi Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u06cc\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "T\u014dmi"
     ],
-    "name:fre_x_preferred":[
-        "T\u014dmi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "T\u014dmi"
     ],
     "name:glg_x_preferred":[
         "T\u014dmi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0aae\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u091f\u0949\u092e\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0574\u056b"
     ],
     "name:ind_x_preferred":[
         "T\u014dmi"
@@ -101,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u0924\u094b\u092e\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tomi"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +107,11 @@
     "name:nan_x_preferred":[
         "T\u00f4mi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tomi"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0645\u06cc\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    "name:nob_x_preferred":[
+        "Tomi"
     ],
     "name:pol_x_preferred":[
         "T\u014dmi"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Tomi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tomi"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     "name:war_x_preferred":[
         "T\u014dmi"
     ],
+    "name:zho_x_preferred":[
+        "\u6771\u5fa1\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1108741989,
-    "wof:lastmodified":1554759606,
+    "wof:lastmodified":1561776358,
     "wof:name":"Tomi",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

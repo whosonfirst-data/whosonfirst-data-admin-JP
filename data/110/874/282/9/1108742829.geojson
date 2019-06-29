@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "San'y\u014d-Onoda"
     ],
-    "name:chi_x_preferred":[
-        "\u5c71\u967d\u5c0f\u91ce\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sanyo-Onoda"
     ],
-    "name:dut_x_preferred":[
-        "Sanyo-Onoda"
+    "name:deu_x_preferred":[
+        "San\u2019y\u014d-Onoda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03bf \u039f\u03bd\u03cc\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "San-yo-onoda"
@@ -57,20 +57,17 @@
         "San-yo-onoda Shi",
         "Sany\u014donoda"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u06cc\u0648-\u0627\u0648\u0646\u0648\u062f\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sany\u014donoda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San'y\u014d-Onoda"
-    ],
-    "name:ger_x_preferred":[
-        "San\u2019y\u014d-Onoda"
     ],
     "name:glg_x_preferred":[
         "San'y\u014donoda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03bf \u039f\u03bd\u03cc\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aaf\u0acb\u0aa8\u0acb\u0aa1\u0abe"
@@ -105,7 +102,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u094d\u092f\u094b\u0928\u094b\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sanyoonoda"
     ],
     "name:mzn_x_preferred":[
@@ -114,11 +111,11 @@
     "name:nan_x_preferred":[
         "Sany\u00f4onoda-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Sanyo-Onoda"
+    ],
     "name:nob_x_preferred":[
         "Sanyoonoda"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u06cc\u0648-\u0627\u0648\u0646\u0648\u062f\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
     ],
     "name:pol_x_preferred":[
         "San'y\u014d-Onoda"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Sanyo-Onoda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sany\u014donoda"
     ],
     "name:rus_x_preferred":[
@@ -177,6 +174,9 @@
     "name:yue_x_preferred":[
         "\u5c71\u967d\u5c0f\u91ce\u7530\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u5c71\u967d\u5c0f\u91ce\u7530\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1108742829,
-    "wof:lastmodified":1554759621,
+    "wof:lastmodified":1561776364,
     "wof:name":"San-yo-onoda",
     "wof:parent_id":85672689,
     "wof:placetype":"county",

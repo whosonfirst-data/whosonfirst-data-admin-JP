@@ -36,23 +36,17 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0633\u0647\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0575\u0578\u057d\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Kiyose"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0993\u09b8\u09c7"
-    ],
-    "name:chi_x_preferred":[
-        "\u6e05\u7028\u5e02"
     ],
     "name:dan_x_preferred":[
         "Kiyose"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kiyose"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b3\u03b9\u03cc\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kiyose"
@@ -65,20 +59,20 @@
     "name:epo_x_preferred":[
         "Kijose"
     ],
+    "name:eus_x_preferred":[
+        "Kiyose"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u0633\u0647\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kiyose"
     ],
-    "name:fre_x_preferred":[
-        "Kiyose"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kiyose"
     ],
     "name:glg_x_preferred":[
         "Kiyose"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03b3\u03b9\u03cc\u03c3\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aaf\u0acb\u0ab8\u0ac7"
@@ -86,10 +80,13 @@
     "name:hin_x_preferred":[
         "\u0915\u093f\u092f\u094b\u0938\u0947  \u0938\u093f\u091f\u0940"
     ],
-    "name:ice_x_preferred":[
-        "Kiyose"
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0575\u0578\u057d\u0565"
     ],
     "name:ind_x_preferred":[
+        "Kiyose"
+    ],
+    "name:isl_x_preferred":[
         "Kiyose"
     ],
     "name:ita_x_preferred":[
@@ -116,7 +113,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u092f\u094b\u0938\u0947\u0902"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kiyose"
     ],
     "name:mzn_x_preferred":[
@@ -125,11 +122,11 @@
     "name:nan_x_preferred":[
         "Kiyose-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kiyose"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0648\u0633\u0647\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Kiyose"
     ],
     "name:pol_x_preferred":[
         "Kiyose"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Kiyose"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kiyose"
     ],
     "name:rup_x_preferred":[
@@ -194,6 +191,9 @@
     "name:yue_x_preferred":[
         "\u6e05\u7028\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u6e05\u7028\u5e02"
+    ],
     "qs:name":"Kiyose-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":890520719,
-    "wof:lastmodified":1554759533,
+    "wof:lastmodified":1561776459,
     "wof:name":"Kiyose",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

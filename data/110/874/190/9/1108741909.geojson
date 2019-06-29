@@ -36,14 +36,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ac\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u9bd6\u6c5f\u5e02"
+    "name:cym_x_preferred":[
+        "Sabae"
     ],
     "name:dan_x_preferred":[
         "Sabae"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sabae"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sabae"
@@ -52,20 +55,17 @@
         "Sabaesi",
         "Sabae Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u0626\u0647\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sabae"
     ],
-    "name:fre_x_preferred":[
-        "Sabae"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sabae"
     ],
     "name:glg_x_preferred":[
         "Sabae"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aac\u0ac7"
@@ -97,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0938\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sabae"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +106,11 @@
     "name:nan_x_preferred":[
         "Sabae-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sabae"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0628\u0627\u0626\u0647\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    "name:nob_x_preferred":[
+        "Sabae"
     ],
     "name:pol_x_preferred":[
         "Sabae"
@@ -118,7 +118,7 @@
     "name:por_x_preferred":[
         "Sabae"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sabae"
     ],
     "name:rus_x_preferred":[
@@ -163,8 +163,8 @@
     "name:war_x_preferred":[
         "Sabae"
     ],
-    "name:wel_x_preferred":[
-        "Sabae"
+    "name:zho_x_preferred":[
+        "\u9bd6\u6c5f\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108741909,
-    "wof:lastmodified":1554759605,
+    "wof:lastmodified":1561776359,
     "wof:name":"Sabae",
     "wof:parent_id":85672767,
     "wof:placetype":"county",

@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09b8\u09be\u0981"
     ],
-    "name:chi_x_preferred":[
-        "\u571f\u4f50\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Tosa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tosa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tosa"
@@ -52,20 +52,17 @@
         "Tosatyoo",
         "Tosa Cho"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0633\u0627\u060c \u06a9\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tosa"
     ],
-    "name:fre_x_preferred":[
-        "Tosa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tosa"
     ],
     "name:glg_x_preferred":[
         "Tosa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0ab8\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0938\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tosa"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Tosa-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tosa"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0633\u0627\u060c \u06a9\u0648\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Tosa"
     ],
     "name:pol_x_preferred":[
         "Tosa"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Tosa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tosa"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Tosa"
     ],
+    "name:zho_x_preferred":[
+        "\u571f\u4f50\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1108742969,
-    "wof:lastmodified":1554759623,
+    "wof:lastmodified":1561776367,
     "wof:name":"Tosa",
     "wof:parent_id":85672717,
     "wof:placetype":"county",
