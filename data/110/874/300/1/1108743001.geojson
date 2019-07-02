@@ -33,20 +33,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0648\u062a\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0574\u0578\u0582\u057f\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09ae\u09cb\u09a4\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u5927\u725f\u7530\u5e02"
     ],
     "name:dan_x_preferred":[
         "Omuta"
     ],
-    "name:dut_x_preferred":[
-        "Omuta"
+    "name:deu_x_preferred":[
+        "\u014cmuta"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bc\u03bf\u03c5\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Omuta"
@@ -56,20 +53,17 @@
         "\u014cmuta",
         "Omuta Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0645\u0648\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u014cmuta"
     ],
-    "name:fre_x_preferred":[
-        "\u014cmuta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u014cmuta"
     ],
     "name:glg_x_preferred":[
         "\u014cmuta"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bc\u03bf\u03c5\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aae\u0acd\u0aaf\u0ac1\u0a9f\u0abe"
@@ -82,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0913\u092e\u0941\u0924\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0574\u0578\u0582\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "\u014cmuta"
@@ -107,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092e\u0942\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Omuta"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:nan_x_preferred":[
         "\u00d4muta-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Omuta"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0645\u0648\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Omuta"
     ],
     "name:pol_x_preferred":[
         "\u014cmuta"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Omuta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Omuta"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "\u014cmuta"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u725f\u7530\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":1108743001,
-    "wof:lastmodified":1554759623,
+    "wof:lastmodified":1561776339,
     "wof:name":"Omuta",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

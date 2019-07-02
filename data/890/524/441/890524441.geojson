@@ -39,17 +39,17 @@
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09c1\u0997\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u5411\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hj\u00faga"
     ],
     "name:dan_x_preferred":[
         "Hyuga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hy\u016bga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bf\u03cd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hyuga"
@@ -59,20 +59,17 @@
         "Hy\u016bga",
         "Hyuga Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u06af\u0627\u060c \u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Hy\u016bga"
     ],
-    "name:fre_x_preferred":[
-        "Hy\u016bga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hy\u016bga"
     ],
     "name:glg_x_preferred":[
         "Hy\u016bga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03bf\u03cd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acd\u0aaf\u0ac1\u0a97\u0abe"
@@ -111,7 +108,7 @@
     "name:mar_x_preferred":[
         "\u0939\u094d\u092f\u0942\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hyuga"
     ],
     "name:mzn_x_preferred":[
@@ -120,11 +117,11 @@
     "name:nan_x_preferred":[
         "Hy\u00fbga-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Hy\u016bga"
+    ],
     "name:nob_x_preferred":[
         "Hyuga"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0648\u06af\u0627\u060c \u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Hy\u016bga"
@@ -132,7 +129,7 @@
     "name:por_x_preferred":[
         "Hy\u016bga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hyuga"
     ],
     "name:rus_x_preferred":[
@@ -180,6 +177,9 @@
     "name:war_x_preferred":[
         "Hy\u016bga"
     ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5411\u5e02"
+    ],
     "qs:name":"Hy\u016bga-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":890524441,
-    "wof:lastmodified":1554759540,
+    "wof:lastmodified":1561776478,
     "wof:name":"Hyuga",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

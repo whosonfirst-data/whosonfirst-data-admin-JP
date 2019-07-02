@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3124793.381223,
+    "geom:area_square_m":3124793.381216,
     "geom:bbox":"135.214346645,34.3389530238,135.236092798,34.3569897001",
     "geom:latitude":34.347971,
     "geom:longitude":135.22522,
@@ -24,17 +24,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u962a\u5357\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Hannan"
     ],
     "name:deu_x_preferred":[
         "Hannan"
     ],
-    "name:dut_x_preferred":[
-        "Hannan"
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bd\u03bd\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Hannan"
@@ -42,23 +39,17 @@
     "name:fas_x_preferred":[
         "\u0647\u0627\u0646\u200c\u0646\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u0646 \u0646\u0627\u0646\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hannan"
     ],
     "name:fra_x_preferred":[
         "Hannan"
     ],
-    "name:fre_x_preferred":[
-        "Hannan"
-    ],
-    "name:ger_x_preferred":[
-        "Hannan"
-    ],
     "name:glg_x_preferred":[
         "Hannan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03bd\u03bd\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aa8\u0aa8"
@@ -93,7 +84,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0928\u094d\u0928\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hannan"
     ],
     "name:mzn_x_preferred":[
@@ -108,9 +99,6 @@
     "name:nob_x_preferred":[
         "Hannan"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0646 \u0646\u0627\u0646\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Hannan"
     ],
@@ -118,9 +106,6 @@
         "Hannan"
     ],
     "name:ron_x_preferred":[
-        "Hannan"
-    ],
-    "name:rum_x_preferred":[
         "Hannan"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +195,7 @@
         }
     ],
     "wof:id":102032215,
-    "wof:lastmodified":1527637850,
+    "wof:lastmodified":1561776102,
     "wof:name":"Hannan",
     "wof:parent_id":890520511,
     "wof:placetype":"locality",

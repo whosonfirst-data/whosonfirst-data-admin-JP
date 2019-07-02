@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u099a\u09bf\u0995\u09cb\u09b6\u09bf\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u7b51\u7d2b\u91ce\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Chikushino"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chikushino"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03c3\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Chikushino"
@@ -52,20 +52,17 @@
         "Tikusinosi",
         "Chikushino Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u06a9\u0648\u0634\u06cc\u0646\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Chikushino"
     ],
-    "name:fre_x_preferred":[
-        "Chikushino"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chikushino"
     ],
     "name:glg_x_preferred":[
         "Chikushino"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03c3\u03af\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0a95\u0ac1\u0ab6\u0abf\u0aa8\u0acb"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u0915\u0941\u0936\u093f\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chikushino"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Tikusino-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Chikushino"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u06a9\u0648\u0634\u06cc\u0646\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Chikushino"
     ],
     "name:pol_x_preferred":[
         "Chikushino"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Chikushino"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chikushino"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Chikushino"
     ],
+    "name:zho_x_preferred":[
+        "\u7b51\u7d2b\u91ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108743013,
-    "wof:lastmodified":1554759624,
+    "wof:lastmodified":1561776342,
     "wof:name":"Chikushino",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

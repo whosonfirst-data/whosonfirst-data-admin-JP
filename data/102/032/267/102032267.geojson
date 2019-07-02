@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000597,
-    "geom:area_square_m":6248034.290128,
+    "geom:area_square_m":6248034.29012,
     "geom:bbox":"130.787125794,32.180542767,130.841292979,32.2078739119",
     "geom:latitude":32.194209,
     "geom:longitude":130.81421,
@@ -21,22 +21,16 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0634\u064a\u0643\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u9326\u753a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ni\u0161iki"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nishiki"
     ],
     "name:eng_x_preferred":[
         "Nishiki"
     ],
-    "name:fre_x_preferred":[
-        "Nishiki"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nishiki"
     ],
     "name:ita_x_preferred":[
@@ -53,7 +47,10 @@
     "name:kor_x_preferred":[
         "\ub2c8\uc2dc\ud0a4 \uc815"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nishiki"
+    ],
+    "name:nld_x_preferred":[
         "Nishiki"
     ],
     "name:por_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u795e\u7530\u9326\u753a"
+    ],
+    "name:zho_x_variant":[
+        "\u9326\u753a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102032267,
-    "wof:lastmodified":1527637848,
+    "wof:lastmodified":1561776100,
     "wof:name":"Nishikich\u014d",
     "wof:parent_id":1108743211,
     "wof:placetype":"locality",

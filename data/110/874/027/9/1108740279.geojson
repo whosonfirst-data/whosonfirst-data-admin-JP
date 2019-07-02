@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09b0\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5b88\u8c37\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Moriya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Moriya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Moriya"
@@ -52,20 +52,17 @@
         "Moriyamati",
         "Moriya Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Moriya"
     ],
-    "name:fre_x_preferred":[
-        "Moriya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Moriya"
     ],
     "name:glg_x_preferred":[
         "Moriya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0abf\u0aaf\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Moriya"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Moriya-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Moriya"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0631\u06cc\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    "name:nob_x_preferred":[
+        "Moriya"
     ],
     "name:pol_x_preferred":[
         "Moriya"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Moriya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Moriya"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Moriya"
     ],
+    "name:zho_x_preferred":[
+        "\u5b88\u8c37\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":1108740279,
-    "wof:lastmodified":1554759592,
+    "wof:lastmodified":1561776362,
     "wof:name":"Moriya",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

@@ -39,17 +39,17 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u0995\u09cb\u09a4\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u6a6b\u624b\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jokote"
     ],
     "name:dan_x_preferred":[
         "Yokote"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yokote"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bf\u03ba\u03cc\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Yokote"
@@ -58,20 +58,17 @@
         "Hirakamati",
         "Yokote Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u06a9\u0648\u062a\u0647\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Yokote"
     ],
-    "name:fre_x_preferred":[
-        "Yokote"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yokote"
     ],
     "name:glg_x_preferred":[
         "Yokote"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03bf\u03ba\u03cc\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac9\u0a95\u0acb\u0a9f"
@@ -110,7 +107,7 @@
     "name:mar_x_preferred":[
         "\u092f\u094b\u0915\u094b\u091f\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yokote"
     ],
     "name:mzn_x_preferred":[
@@ -119,11 +116,11 @@
     "name:nan_x_preferred":[
         "Yokote-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Yokote"
+    ],
     "name:nob_x_preferred":[
         "Yakote"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u06a9\u0648\u062a\u0647\u060c \u0622\u06a9\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Yokote"
@@ -131,7 +128,7 @@
     "name:por_x_preferred":[
         "Yokote"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yokote"
     ],
     "name:rup_x_preferred":[
@@ -188,6 +185,9 @@
     "name:war_x_preferred":[
         "Yokote"
     ],
+    "name:zho_x_preferred":[
+        "\u6a6b\u624b\u5e02"
+    ],
     "qs:name":"Yokote-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":890524509,
-    "wof:lastmodified":1554759541,
+    "wof:lastmodified":1561776484,
     "wof:name":"Yokote",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

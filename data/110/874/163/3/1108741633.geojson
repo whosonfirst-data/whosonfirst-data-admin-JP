@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09b8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u531d\u7473\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sosa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u014dsa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sosa"
@@ -56,20 +56,17 @@
     "name:est_x_preferred":[
         "S\u014dsa"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sosa"
     ],
-    "name:fre_x_preferred":[
-        "S\u014dsa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u014dsa"
     ],
     "name:glg_x_preferred":[
         "S\u014dsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab8\u0abe"
@@ -101,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0938\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sosa"
     ],
     "name:mzn_x_preferred":[
@@ -110,11 +107,11 @@
     "name:nan_x_preferred":[
         "S\u00f4sa-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "S\u014dsa"
+    ],
     "name:nob_x_preferred":[
         "Sosa"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
     "name:pol_x_preferred":[
         "Sosa"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Sosa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "S\u014dsa"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     "name:war_x_preferred":[
         "S\u014dsa"
     ],
+    "name:zho_x_preferred":[
+        "\u531d\u7473\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1108741633,
-    "wof:lastmodified":1554759600,
+    "wof:lastmodified":1561776360,
     "wof:name":"Sosa",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
-    "geom:area_square_m":20327516.628158,
+    "geom:area_square_m":20327516.62816,
     "geom:bbox":"130.35865465,32.1712428695,130.415576895,32.2287910002",
     "geom:latitude":32.20174,
     "geom:longitude":130.387448,
@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0645\u0627\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u0576\u0561\u0574\u0561\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Minamata"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u09ae\u09be\u09a4\u09be"
     ],
@@ -35,20 +29,14 @@
     "name:ces_x_preferred":[
         "Minamata"
     ],
-    "name:chi_x_preferred":[
-        "\u6c34\u4fc1\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Minamata"
-    ],
     "name:dan_x_preferred":[
         "Minamata"
     ],
     "name:deu_x_preferred":[
         "Minamata"
     ],
-    "name:dut_x_preferred":[
-        "Minamata"
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bd\u03b1\u03bc\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Minamata-shi"
@@ -74,26 +62,17 @@
     "name:fra_x_preferred":[
         "Minamata"
     ],
-    "name:fre_x_preferred":[
-        "Minamata"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10dc\u10d0\u10db\u10d0\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Minamata"
-    ],
     "name:glg_x_preferred":[
         "Minamata"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03bd\u03b1\u03bc\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa8\u0abe\u0aae\u0abe\u0a9f\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0928\u093e\u092e\u093e\u0924\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0576\u0561\u0574\u0561\u057f\u0561"
     ],
     "name:ido_x_preferred":[
         "Minamata"
@@ -115,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0ca8\u0cbe\u0cae\u0cbe\u0c9f\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10dc\u10d0\u10db\u10d0\u10e2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\ub098\ub9c8\ud0c0 \uc2dc"
     ],
@@ -127,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u092e\u093e\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Minamata"
     ],
     "name:mzn_x_preferred":[
@@ -142,9 +124,6 @@
     "name:nob_x_preferred":[
         "Minamata"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0646\u0627\u0645\u0627\u062a\u0627\u060c \u06a9\u0648\u0645\u0627\u0645\u0648\u062a\u0648"
-    ],
     "name:pol_x_preferred":[
         "Minamata"
     ],
@@ -152,9 +131,6 @@
         "Minamata"
     ],
     "name:ron_x_preferred":[
-        "Minamata"
-    ],
-    "name:rum_x_preferred":[
         "Minamata"
     ],
     "name:rus_x_preferred":[
@@ -255,7 +231,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637068,
+    "wof:lastmodified":1561776097,
     "wof:name":"Minamata",
     "wof:parent_id":1108743157,
     "wof:placetype":"locality",

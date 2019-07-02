@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000914,
-    "geom:area_square_m":9319121.191625,
+    "geom:area_square_m":9319121.191623,
     "geom:bbox":"132.720449311,34.4024302895,132.755931761,34.4408437858",
     "geom:latitude":34.422682,
     "geom:longitude":132.736905,
@@ -25,17 +25,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0997\u09be\u09b8\u09bf\u09b9\u09bf\u09b0\u09cb\u09b8\u09bf\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u5ee3\u5cf6\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Higashihiroshima"
     ],
     "name:deu_x_preferred":[
         "Higashihiroshima"
     ],
-    "name:dut_x_preferred":[
-        "Higashihiroshima"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03c7\u03b9\u03c1\u03bf\u03c3\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Higashihiroshima"
@@ -46,23 +43,17 @@
     "name:fas_x_preferred":[
         "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Higashihiroshima"
     ],
     "name:fra_x_preferred":[
         "Higashihiroshima"
     ],
-    "name:fre_x_preferred":[
-        "Higashihiroshima"
-    ],
-    "name:ger_x_preferred":[
-        "Higashihiroshima"
-    ],
     "name:glg_x_preferred":[
         "Higashihiroshima"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03c7\u03b9\u03c1\u03bf\u03c3\u03af\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0a97\u0abe\u0ab6\u0abf\u0ab9\u0abf\u0ab0\u0acb\u0ab6\u0ac0\u0aae\u0abe"
@@ -100,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093f\u0917\u094d\u0936\u093f\u0939\u093f\u0930\u094b\u0936\u093f\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Higashihiroshima"
     ],
     "name:mzn_x_preferred":[
@@ -115,9 +106,6 @@
     "name:nob_x_preferred":[
         "Higashihiroshima"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Higashi-Hiroshima"
     ],
@@ -125,9 +113,6 @@
         "Higashihiroshima"
     ],
     "name:ron_x_preferred":[
-        "Higashihiroshima"
-    ],
-    "name:rum_x_preferred":[
         "Higashihiroshima"
     ],
     "name:rus_x_preferred":[
@@ -234,7 +219,7 @@
         }
     ],
     "wof:id":102032105,
-    "wof:lastmodified":1527637847,
+    "wof:lastmodified":1561776099,
     "wof:name":"Higashi-Hiroshima",
     "wof:parent_id":890524703,
     "wof:placetype":"locality",

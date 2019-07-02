@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Niiza"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u5ea7\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Niiza"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Niiza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03af\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Niiza"
@@ -58,20 +58,17 @@
         "Niizasi",
         "Niiza Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u200c\u0627\u06cc\u0632\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Niiza"
     ],
-    "name:fre_x_preferred":[
-        "Niiza"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Niiza"
     ],
     "name:glg_x_preferred":[
         "Niiza"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03af\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a9d\u0abe"
@@ -109,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u091d\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Niiza"
     ],
     "name:mzn_x_preferred":[
@@ -118,11 +115,11 @@
     "name:nan_x_preferred":[
         "Niiza-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Niiza"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u200c\u0627\u06cc\u0632\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Niiza"
     ],
     "name:pol_x_preferred":[
         "Niiza"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Niiza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Niiza"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     "name:war_x_preferred":[
         "Niiza"
     ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5ea7\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1108740461,
-    "wof:lastmodified":1554759596,
+    "wof:lastmodified":1561776348,
     "wof:name":"Niiza",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

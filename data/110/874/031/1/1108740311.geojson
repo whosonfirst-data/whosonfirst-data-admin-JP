@@ -39,17 +39,17 @@
     "name:bul_x_preferred":[
         "\u042f\u0447\u0438\u0439\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u516b\u5343\u4ee3\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ja\u010dijo"
     ],
     "name:dan_x_preferred":[
         "Yachiyo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yachiyo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c4\u03c3\u03af\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Yachiyo"
@@ -58,20 +58,17 @@
         "Yatiyomati",
         "Yachiyo Machi"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0634\u06cc\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Yachiyo"
     ],
-    "name:fre_x_preferred":[
-        "Yachiyo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yachiyo"
     ],
     "name:glg_x_preferred":[
         "Yachiyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03c4\u03c3\u03af\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a9a\u0ac0\u0aaf\u0acb"
@@ -103,11 +100,11 @@
     "name:mar_x_preferred":[
         "\u092f\u091a\u0940\u092f\u094b"
     ],
-    "name:may_x_preferred":[
-        "Yachiyo"
-    ],
     "name:mon_x_preferred":[
         "\u042f\u0447\u0438\u0451"
+    ],
+    "name:msa_x_preferred":[
+        "Yachiyo"
     ],
     "name:mzn_x_preferred":[
         "\u06cc\u0627\u0634\u06cc\u0648\u060c \u0686\u06cc\u0628\u0627"
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Yatiyo-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Yachiyo"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0634\u06cc\u0648\u060c \u0686\u06cc\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Yachiyo"
     ],
     "name:pol_x_preferred":[
         "Yachiyo"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Yachiyo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yachiyo"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     "name:war_x_preferred":[
         "Yachiyo"
     ],
+    "name:zho_x_preferred":[
+        "\u516b\u5343\u4ee3\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108740311,
-    "wof:lastmodified":1554759593,
+    "wof:lastmodified":1561776354,
     "wof:name":"Yachiyo",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

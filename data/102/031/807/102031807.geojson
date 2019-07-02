@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005976,
-    "geom:area_square_m":60636116.966845,
+    "geom:area_square_m":60636116.96689,
     "geom:bbox":"138.186035156,34.8138030703,138.312082402,34.9174651878",
     "geom:latitude":34.861986,
     "geom:longitude":138.250623,
@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u062f\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u0571\u056b\u0565\u0564\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09c1\u099c\u09bf\u09af\u09bc\u09c7\u09a1\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u85e4\u679d\u5e02"
     ],
     "name:dan_x_preferred":[
         "Fujieda"
@@ -35,8 +29,8 @@
     "name:deu_x_preferred":[
         "Fujieda"
     ],
-    "name:dut_x_preferred":[
-        "Fujieda"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fujieda-shi"
@@ -47,23 +41,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0648\u062c\u06cc\u200c\u0626\u062f\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u062c\u06cc\u200c\u0626\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fujieda"
     ],
     "name:fra_x_preferred":[
         "Fujieda"
     ],
-    "name:fre_x_preferred":[
-        "Fujieda"
-    ],
-    "name:ger_x_preferred":[
-        "Fujieda"
-    ],
     "name:glg_x_preferred":[
         "Fujieda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a9c\u0abf\u0aa1\u0abe"
@@ -76,6 +64,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092b\u0941\u091c\u093f\u090f\u0926\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0571\u056b\u0565\u0564\u0561"
     ],
     "name:ind_x_preferred":[
         "Fujieda"
@@ -106,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u091c\u0940\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fujieda"
     ],
     "name:mzn_x_preferred":[
@@ -121,9 +112,6 @@
     "name:nob_x_preferred":[
         "Fujieda"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u062c\u06cc\u200c\u0626\u062f\u0627"
-    ],
     "name:pol_x_preferred":[
         "Fujieda"
     ],
@@ -131,9 +119,6 @@
         "Fujieda"
     ],
     "name:ron_x_preferred":[
-        "Fujieda"
-    ],
-    "name:rum_x_preferred":[
         "Fujieda"
     ],
     "name:rus_x_preferred":[
@@ -237,7 +222,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637065,
+    "wof:lastmodified":1561776094,
     "wof:name":"Fujieda",
     "wof:parent_id":1108742199,
     "wof:placetype":"locality",

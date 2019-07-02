@@ -39,17 +39,17 @@
     "name:cat_x_preferred":[
         "Asahi"
     ],
-    "name:chi_x_preferred":[
-        "\u65ed\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Asahi"
     ],
     "name:dan_x_preferred":[
         "Asahi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Asahi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ac\u03c7\u03b9"
     ],
     "name:eng_x_preferred":[
         "Asahi"
@@ -59,20 +59,17 @@
         "T\u014dnosh\u014d",
         "Asahi Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0633\u0627\u0647\u06cc\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Asahi"
     ],
-    "name:fre_x_preferred":[
-        "Asahi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Asahi"
     ],
     "name:glg_x_preferred":[
         "Asahi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03ac\u03c7\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0abe\u0ab9\u0abf"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u093e\u0939\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Asahi"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Asahi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Asahi"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0633\u0627\u0647\u06cc\u060c \u0686\u06cc\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Asahi"
     ],
     "name:pol_x_preferred":[
         "Asahi"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Asahi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Asahi"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Asahi"
     ],
+    "name:zho_x_preferred":[
+        "\u65ed\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1108741601,
-    "wof:lastmodified":1554759600,
+    "wof:lastmodified":1561776343,
     "wof:name":"Asahi",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

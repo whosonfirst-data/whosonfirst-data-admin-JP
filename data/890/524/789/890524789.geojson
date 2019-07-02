@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u0995\u09c1\u099f\u09b8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u6d25\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Fukutsu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fukutsu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Fukutsu"
@@ -55,20 +55,17 @@
         "Hukumamati",
         "Fukutsu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fukutsu"
     ],
-    "name:fre_x_preferred":[
-        "Fukutsu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fukutsu"
     ],
     "name:glg_x_preferred":[
         "Fukutsu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a95\u0ac1\u0aa4\u0acd\u0ab8\u0ac1"
@@ -107,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0941\u0924\u094d\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fukutsu"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:nan_x_preferred":[
         "Hukutu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fukutsu"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Fukutsu"
     ],
     "name:pol_x_preferred":[
         "Fukutsu"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Fukutsu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fukutsu"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +179,9 @@
     "name:war_x_preferred":[
         "Fukutsu"
     ],
+    "name:zho_x_preferred":[
+        "\u798f\u6d25\u5e02"
+    ],
     "qs:name":"Fukutsu-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":890524789,
-    "wof:lastmodified":1554759544,
+    "wof:lastmodified":1561776487,
     "wof:name":"Fukutsu",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

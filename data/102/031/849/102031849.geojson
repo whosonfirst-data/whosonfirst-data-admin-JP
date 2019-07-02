@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002189,
-    "geom:area_square_m":22227048.151519,
+    "geom:area_square_m":22227048.151541,
     "geom:bbox":"134.442498182,34.7912548571,134.500071101,34.8363492706",
     "geom:latitude":34.81442,
     "geom:longitude":134.471333,
@@ -29,17 +29,14 @@
     "name:bul_x_preferred":[
         "\u0410\u0438\u043e\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u76f8\u751f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Aioi"
     ],
     "name:deu_x_preferred":[
         "Aioi"
     ],
-    "name:dut_x_preferred":[
-        "Aioi"
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Aioi-shi"
@@ -59,17 +56,8 @@
     "name:fra_x_preferred":[
         "Aioi"
     ],
-    "name:fre_x_preferred":[
-        "Aioi"
-    ],
-    "name:ger_x_preferred":[
-        "Aioi"
-    ],
     "name:glg_x_preferred":[
         "Aioi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03cc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a87\u0a93\u0a87"
@@ -106,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0913\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Aioi"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +103,11 @@
     "name:nan_x_preferred":[
         "Aioi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Aioi"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06cc\u0648\u06cc\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    "name:nob_x_preferred":[
+        "Aioi"
     ],
     "name:pol_x_preferred":[
         "Aioi"
@@ -127,7 +115,7 @@
     "name:por_x_preferred":[
         "Aioi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aioi"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +163,9 @@
     "name:war_x_preferred":[
         "Aioi"
     ],
+    "name:zho_x_preferred":[
+        "\u76f8\u751f\u5e02"
+    ],
     "qs:a0":"\u65e5\u672c",
     "qs:a1":"*\u5175\u5eab\u770c",
     "qs:a1r":"*",
@@ -198,7 +189,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769
+        85672769,
+        1108742513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -224,7 +216,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1553815725,
+    "wof:lastmodified":1561776093,
     "wof:name":"Aioi-shi",
     "wof:parent_id":1108742513,
     "wof:placetype":"locality",

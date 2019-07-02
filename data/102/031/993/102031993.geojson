@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002565,
-    "geom:area_square_m":25745910.566576,
+    "geom:area_square_m":25745910.566549,
     "geom:bbox":"140.773246066,35.6973609557,140.861277934,35.7532993112",
     "geom:latitude":35.72763,
     "geom:longitude":140.814014,
@@ -20,16 +20,10 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0634\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Ch\u014dshi"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09cb\u09b6\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u929a\u5b50\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010c\u00f3\u0161i"
     ],
     "name:dan_x_preferred":[
@@ -38,8 +32,8 @@
     "name:deu_x_preferred":[
         "Ch\u014dshi"
     ],
-    "name:dut_x_preferred":[
-        "Choshi"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Choshi-shi"
@@ -65,17 +59,8 @@
     "name:fra_x_variant":[
         "Choshi"
     ],
-    "name:fre_x_preferred":[
-        "Ch\u014dshi"
-    ],
-    "name:ger_x_preferred":[
-        "Ch\u014dshi"
-    ],
     "name:glg_x_preferred":[
         "Ch\u014dshi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03cc\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0ab6\u0ac0"
@@ -112,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u0936\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Choshi"
     ],
     "name:mzn_x_preferred":[
@@ -127,16 +112,13 @@
     "name:nob_x_preferred":[
         "Choshi"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0634\u06cc\u060c \u0686\u06cc\u0628\u0627"
-    ],
     "name:pol_x_preferred":[
         "Ch\u014dshi"
     ],
     "name:por_x_preferred":[
         "Choshi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Choshi"
     ],
     "name:rus_x_preferred":[
@@ -193,6 +175,9 @@
     "name:war_x_preferred":[
         "Ch\u014dshi"
     ],
+    "name:zho_x_preferred":[
+        "\u929a\u5b50\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -247,7 +232,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637061,
+    "wof:lastmodified":1561776090,
     "wof:name":"Choshi",
     "wof:parent_id":1108740533,
     "wof:placetype":"locality",

@@ -39,17 +39,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09ce\u09b8\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u9678\u5967\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mucu"
     ],
     "name:dan_x_preferred":[
         "Mutsu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mutsu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Mutsu"
@@ -61,23 +61,17 @@
     "name:epo_x_preferred":[
         "Mucu"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062a\u0633\u0648\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Mutsu"
     ],
-    "name:fre_x_preferred":[
-        "Mutsu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10ea\u10e3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mutsu"
     ],
     "name:glg_x_preferred":[
         "Mutsu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03cd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0aa4\u0acd\u0ab8\u0ac1"
@@ -104,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0ca4\u0ccd\u0cb8\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10ea\u10e3"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0443\u0446\u0443 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -119,7 +116,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u091f\u094d\u0938\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mutsu"
     ],
     "name:mzn_x_preferred":[
@@ -128,11 +125,11 @@
     "name:nan_x_preferred":[
         "Mutu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mutsu"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u062a\u0633\u0648\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    "name:nob_x_preferred":[
+        "Mutsu"
     ],
     "name:pol_x_preferred":[
         "Mutsu"
@@ -140,7 +137,7 @@
     "name:por_x_preferred":[
         "Mutsu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mutsu"
     ],
     "name:rup_x_preferred":[
@@ -191,6 +188,9 @@
     "name:war_x_preferred":[
         "Mutsu"
     ],
+    "name:zho_x_preferred":[
+        "\u9678\u5967\u5e02"
+    ],
     "qs:name":"Mutsu-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -236,7 +236,7 @@
         }
     ],
     "wof:id":890519907,
-    "wof:lastmodified":1554759527,
+    "wof:lastmodified":1561776442,
     "wof:name":"Mutsu",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":24540298.490956,
+    "geom:area_square_m":24540298.49099,
     "geom:bbox":"137.123137004,35.0254830996,137.180759981,35.0974613949",
     "geom:latitude":35.060108,
     "geom:longitude":137.152528,
@@ -23,12 +23,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0648\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0575\u0578\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Toyota"
-    ],
     "name:ben_x_preferred":[
         "\u099f\u09af\u09bc\u09cb\u099f\u09be"
     ],
@@ -41,11 +35,8 @@
     "name:ces_x_preferred":[
         "Tojota"
     ],
-    "name:chi_x_preferred":[
-        "\u4e30\u7530\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Tojota"
+    "name:cym_x_preferred":[
+        "Toyota"
     ],
     "name:dan_x_preferred":[
         "Toyota"
@@ -53,8 +44,8 @@
     "name:deu_x_preferred":[
         "Toyota"
     ],
-    "name:dut_x_preferred":[
-        "Toyota"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03b3\u03b9\u03cc\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Toyota"
@@ -74,20 +65,11 @@
     "name:fra_x_preferred":[
         "Toyota"
     ],
-    "name:fre_x_preferred":[
-        "Toyota"
-    ],
-    "name:ger_x_preferred":[
-        "Toyota"
-    ],
     "name:gle_x_preferred":[
         "Toyota"
     ],
     "name:glg_x_preferred":[
         "Toyota"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03b3\u03b9\u03cc\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0aaf\u0acb\u0a9f\u0abe"
@@ -103,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Tojota"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0575\u0578\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Toyota"
@@ -134,11 +119,11 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u092f\u094b\u091f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Toyota"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u043e\u0451\u043e\u0442\u0430 \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Toyota"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
@@ -161,9 +146,6 @@
     "name:nor_x_preferred":[
         "Toyota"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06cc\u0648\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Toyota"
     ],
@@ -177,9 +159,6 @@
         "Toyota"
     ],
     "name:ron_x_preferred":[
-        "Toyota"
-    ],
-    "name:rum_x_preferred":[
         "Toyota"
     ],
     "name:rus_x_preferred":[
@@ -242,9 +221,6 @@
     "name:war_x_preferred":[
         "Toyota"
     ],
-    "name:wel_x_preferred":[
-        "Toyota"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Toyota-chh\u012b"
     ],
@@ -294,7 +270,7 @@
         }
     ],
     "wof:id":102031289,
-    "wof:lastmodified":1553815725,
+    "wof:lastmodified":1561776081,
     "wof:name":"Toyota",
     "wof:parent_id":890520043,
     "wof:placetype":"locality",

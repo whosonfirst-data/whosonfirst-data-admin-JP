@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09cd\u09ae\u09ac\u09c1\u0995\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u4ed9\u5317\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Senboku"
     ],
-    "name:dut_x_preferred":[
-        "Senboku"
+    "name:deu_x_preferred":[
+        "Semboku"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03c0\u03cc\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Senboku"
@@ -56,20 +56,17 @@
     "name:est_x_preferred":[
         "Semboku"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0628\u0648\u06a9\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Semboku"
     ],
-    "name:fre_x_preferred":[
-        "Semboku"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Semboku"
     ],
     "name:glg_x_preferred":[
         "Senboku"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bc\u03c0\u03cc\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aae\u0acd\u0aac\u0acb\u0a95\u0ac1"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u092e\u094d\u092c\u094b\u0915\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Semboku"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Senboku-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Senboku"
+    ],
     "name:nob_x_preferred":[
         "Semboku"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0645\u0628\u0648\u06a9\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Semboku"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Senboku"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Semboku"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     "name:war_x_preferred":[
         "Semboku"
     ],
+    "name:zho_x_preferred":[
+        "\u4ed9\u5317\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":1108740057,
-    "wof:lastmodified":1554759589,
+    "wof:lastmodified":1561776368,
     "wof:name":"Senboku",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

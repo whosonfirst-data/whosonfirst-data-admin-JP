@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09cb\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u9e7f\u6cbc\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Kanuma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kanuma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kanuma"
@@ -52,20 +52,17 @@
         "Kanumasi",
         "Kanuma Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u0648\u0645\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kanuma"
     ],
-    "name:fre_x_preferred":[
-        "Kanuma"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kanuma"
     ],
     "name:glg_x_preferred":[
         "Kanuma"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aa8\u0ac1\u0aae\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0928\u0941\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kanuma"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Kanuma-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kanuma"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0646\u0648\u0645\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    "name:nob_x_preferred":[
+        "Kanuma"
     ],
     "name:pol_x_preferred":[
         "Kanuma"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Kanuma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kanuma"
     ],
     "name:rup_x_preferred":[
@@ -172,6 +169,9 @@
     "name:war_x_preferred":[
         "Kanuma"
     ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u6cbc\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1108740325,
-    "wof:lastmodified":1554759594,
+    "wof:lastmodified":1561776366,
     "wof:name":"Kanuma",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

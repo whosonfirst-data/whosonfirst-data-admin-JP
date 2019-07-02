@@ -39,14 +39,14 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0433\u0430\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u9577\u4e95\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nagai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b3\u03ba\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nagai"
@@ -55,20 +55,17 @@
         "Nagaisi",
         "Nagai Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u0627\u06cc\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nagai"
     ],
-    "name:fre_x_preferred":[
-        "Nagai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nagai"
     ],
     "name:glg_x_preferred":[
         "Nagai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03b3\u03ba\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0a87"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nagai"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Nagai-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Nagai"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06af\u0627\u06cc\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Nagai"
     ],
     "name:pol_x_preferred":[
         "Nagai"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Nagai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nagai"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Nagai"
     ],
+    "name:zho_x_preferred":[
+        "\u9577\u4e95\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108740099,
-    "wof:lastmodified":1554759593,
+    "wof:lastmodified":1561776353,
     "wof:name":"Nagai",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

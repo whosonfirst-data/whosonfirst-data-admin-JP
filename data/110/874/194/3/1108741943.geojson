@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0648 \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0575\u0578\u0582\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09cb\u0989"
     ],
     "name:cat_x_preferred":[
         "Ch\u016b\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u592e\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Chuuo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ch\u016b\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03cc"
     ],
     "name:eng_x_preferred":[
         "Chuo"
@@ -59,26 +56,26 @@
         "Ch\u016b\u014d",
         "Chuo Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0626\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ch\u016b\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Ch\u016b\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ch\u016b\u014d"
     ],
     "name:glg_x_preferred":[
         "Ch\u016b\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c5\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac1\u0a93"
     ],
     "name:hin_x_preferred":[
         "\u091a\u0941\u0913"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0575\u0578\u0582\u0578"
     ],
     "name:ind_x_preferred":[
         "Ch\u016b\u014d"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u091a\u0941\u0913"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chuo"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "T\u00fb\u00f4-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Ch\u016b\u014d"
+    ],
     "name:nob_x_preferred":[
         "Chuo"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0626\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ch\u016b\u014d"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Chu\u00f5"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ch\u016b\u014d"
     ],
     "name:rup_x_preferred":[
@@ -170,6 +167,9 @@
     "name:war_x_preferred":[
         "Ch\u016b\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":1108741943,
-    "wof:lastmodified":1554759606,
+    "wof:lastmodified":1561776344,
     "wof:name":"Chuo",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

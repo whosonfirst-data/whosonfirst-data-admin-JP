@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cb\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5ca9\u6cbc\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Iwanuma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iwanuma"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b2\u03b1\u03bd\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Iwanuma"
@@ -52,20 +52,17 @@
         "Iwanumasi",
         "Iwanuma Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Iwanuma"
     ],
-    "name:fre_x_preferred":[
-        "Iwanuma"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Iwanuma"
     ],
     "name:glg_x_preferred":[
         "Iwanuma"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b2\u03b1\u03bd\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab5\u0abe\u0aa8\u0ac1\u0aae\u0abe"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0907\u0935\u093e\u0928\u0941\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Iwanuma"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Iwanuma-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Iwanuma"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    "name:nob_x_preferred":[
+        "Iwanuma"
     ],
     "name:pol_x_preferred":[
         "Iwanuma"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Iwanuma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iwanuma"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Iwanuma"
     ],
+    "name:zho_x_preferred":[
+        "\u5ca9\u6cbc\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108740001,
-    "wof:lastmodified":1554759588,
+    "wof:lastmodified":1561776353,
     "wof:name":"Iwanuma",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

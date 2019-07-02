@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":3123686.119914,
+    "geom:area_square_m":3123686.119916,
     "geom:bbox":"135.730551732,35.4919121318,135.752602527,35.5099440045",
     "geom:latitude":35.500928,
     "geom:longitude":135.741577,
@@ -26,17 +26,17 @@
     "name:cat_x_preferred":[
         "Obama"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u6ff1\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Obama"
     ],
     "name:dan_x_preferred":[
         "Obama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Obama"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03c0\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Obama"
@@ -53,17 +53,11 @@
     "name:fin_x_preferred":[
         "Obama"
     ],
-    "name:fre_x_preferred":[
-        "Obama"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Obama"
     ],
     "name:glg_x_preferred":[
         "Obama"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bc\u03c0\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aac\u0abe\u0aae\u0abe"
@@ -101,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092c\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Obama"
     ],
     "name:mzn_x_preferred":[
@@ -110,14 +104,14 @@
     "name:nan_x_preferred":[
         "Obama-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Obama"
+    ],
     "name:nob_x_preferred":[
         "Obama"
     ],
     "name:oci_x_preferred":[
         "Obama"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0628\u0627\u0645\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
     ],
     "name:pol_x_preferred":[
         "Obama"
@@ -125,7 +119,7 @@
     "name:por_x_preferred":[
         "Obama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Obama"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +128,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0db6\u0db8\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Obama"
     ],
     "name:spa_x_preferred":[
@@ -201,7 +195,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672767
+        85672767,
+        1108741907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -221,7 +216,7 @@
         }
     ],
     "wof:id":102031469,
-    "wof:lastmodified":1514468099,
+    "wof:lastmodified":1561776094,
     "wof:name":"Obama",
     "wof:parent_id":1108741907,
     "wof:placetype":"locality",

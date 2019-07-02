@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0997\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u5bd2\u6cb3\u6c5f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sagae"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sagae"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b3\u03ba\u03ac\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sagae"
@@ -52,20 +52,17 @@
         "Sagaesi",
         "Sagae Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06af\u0627\u0626\u0647\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sagae"
     ],
-    "name:fre_x_preferred":[
-        "Sagae"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sagae"
     ],
     "name:glg_x_preferred":[
         "Sagae"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b3\u03ba\u03ac\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a97\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0917\u093e\u090f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sagae"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Sagae-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sagae"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06af\u0627\u0626\u0647\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Sagae"
     ],
     "name:pol_x_preferred":[
         "Sagae"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Sagae"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sagae"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Sagae"
     ],
+    "name:zho_x_preferred":[
+        "\u5bd2\u6cb3\u6c5f\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108740095,
-    "wof:lastmodified":1554759592,
+    "wof:lastmodified":1561776353,
     "wof:name":"Sagae",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

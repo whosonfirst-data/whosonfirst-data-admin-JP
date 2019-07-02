@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001059,
-    "geom:area_square_m":10716709.495554,
+    "geom:area_square_m":10716709.495564,
     "geom:bbox":"136.181044818,35.0614540266,136.323831408,35.1244304959",
     "geom:latitude":35.099938,
     "geom:longitude":136.235343,
@@ -30,17 +30,14 @@
     "name:cat_x_preferred":[
         "Higashi\u014dmi"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u8fd1\u6c5f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Higashiomi"
     ],
     "name:deu_x_preferred":[
         "Higashi\u014dmi"
     ],
-    "name:dut_x_preferred":[
-        "Higashiomi"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03cc\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Higashi\u014dmi"
@@ -54,17 +51,8 @@
     "name:fra_x_preferred":[
         "Higashi\u014dmi"
     ],
-    "name:fre_x_preferred":[
-        "Higashi\u014dmi"
-    ],
-    "name:ger_x_preferred":[
-        "Higashi\u014dmi"
-    ],
     "name:glg_x_preferred":[
         "Higashi\u014dmi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03cc\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0a97\u0abe\u0ab6\u0ac0\u0a93\u0aae\u0ac0"
@@ -105,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0940\u0902\u0917\u093e\u0936\u0940\u0909\u092e\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Higashiomi"
     ],
     "name:mzn_x_preferred":[
@@ -114,11 +102,11 @@
     "name:nan_x_preferred":[
         "Higasi\u00f4mi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Higashiomi"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0627\u0648\u0645\u06cc\u060c \u0634\u06cc\u06af\u0627"
+    "name:nob_x_preferred":[
+        "Higashiomi"
     ],
     "name:pol_x_preferred":[
         "Higashi\u014dmi"
@@ -126,7 +114,7 @@
     "name:por_x_preferred":[
         "Higashiomi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Higashioumi"
     ],
     "name:rus_x_preferred":[
@@ -177,6 +165,9 @@
     "name:war_x_preferred":[
         "Higashi\u014dmi"
     ],
+    "name:zho_x_preferred":[
+        "\u6771\u8fd1\u6c5f\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -216,7 +207,7 @@
         }
     ],
     "wof:id":102032183,
-    "wof:lastmodified":1527637852,
+    "wof:lastmodified":1561776103,
     "wof:name":"Higashi\u014dmi",
     "wof:parent_id":1108742377,
     "wof:placetype":"locality",

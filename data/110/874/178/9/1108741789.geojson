@@ -42,17 +42,17 @@
     "name:cat_x_preferred":[
         "Hadano"
     ],
-    "name:chi_x_preferred":[
-        "\u79e6\u91ce\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hadano"
     ],
     "name:dan_x_preferred":[
         "Hadano"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hadano"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03c4\u03ac\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hadano"
@@ -64,20 +64,17 @@
     "name:epo_x_preferred":[
         "Hadano"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062f\u0627\u0646\u0648\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hadano"
     ],
-    "name:fre_x_preferred":[
-        "Hadano"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hadano"
     ],
     "name:glg_x_preferred":[
         "Hadano"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bd\u03c4\u03ac\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0aa1\u0abe\u0aa8\u0acb"
@@ -112,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0921\u093e\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hadano"
     ],
     "name:mzn_x_preferred":[
@@ -121,11 +118,11 @@
     "name:nan_x_preferred":[
         "Hadano-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hadano"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u062f\u0627\u0646\u0648\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    "name:nob_x_preferred":[
+        "Hadano"
     ],
     "name:pol_x_preferred":[
         "Hadano"
@@ -133,7 +130,7 @@
     "name:por_x_preferred":[
         "Hadano"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hadano"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     "name:war_x_preferred":[
         "Hadano"
     ],
+    "name:zho_x_preferred":[
+        "\u79e6\u91ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1108741789,
-    "wof:lastmodified":1554759603,
+    "wof:lastmodified":1561776371,
     "wof:name":"Hadano",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

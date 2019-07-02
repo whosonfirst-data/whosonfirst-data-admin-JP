@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":6249523.31466,
+    "geom:area_square_m":6249523.314665,
     "geom:bbox":"135.247298622,34.3298819665,135.302009538,34.4113955307",
     "geom:latitude":34.370651,
     "geom:longitude":135.274652,
@@ -24,14 +24,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u09a8\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u6cc9\u5357\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sennan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sennan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03bd\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Sennan"
@@ -39,20 +39,17 @@
     "name:epo_x_preferred":[
         "Sennan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u200c\u0646\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Sennan"
     ],
-    "name:fre_x_preferred":[
-        "Sennan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sennan"
     ],
     "name:glg_x_preferred":[
         "Sennan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bd\u03bd\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0aa8"
@@ -84,7 +81,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0923\u094d\u0923\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sennan"
     ],
     "name:mzn_x_preferred":[
@@ -99,16 +96,13 @@
     "name:nob_x_preferred":[
         "Sennan"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u200c\u0646\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Sennan"
     ],
     "name:por_x_preferred":[
         "Sennan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sennan"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +147,9 @@
     "name:war_x_preferred":[
         "Sennan"
     ],
+    "name:zho_x_preferred":[
+        "\u6cc9\u5357\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -185,7 +182,7 @@
         }
     ],
     "wof:id":102032219,
-    "wof:lastmodified":1527637848,
+    "wof:lastmodified":1561776100,
     "wof:name":"Sennan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

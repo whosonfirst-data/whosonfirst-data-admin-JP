@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003387,
-    "geom:area_square_m":34360287.585207,
+    "geom:area_square_m":34360287.585225,
     "geom:bbox":"136.793570134,34.8431158302,136.864882113,34.9174706362",
     "geom:latitude":34.879655,
     "geom:longitude":136.831869,
@@ -21,14 +21,8 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0648\u0646\u0627\u0645\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u056f\u0578\u0576\u0561\u0574\u0565"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0995\u09cb\u09a8\u09be\u09ae"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e38\u6ed1\u5e02"
     ],
     "name:dan_x_preferred":[
         "Tokoname"
@@ -36,8 +30,8 @@
     "name:deu_x_preferred":[
         "Tokoname"
     ],
-    "name:dut_x_preferred":[
-        "Tokoname"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03bf\u03bd\u03ac\u03bc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Tokoname-shi"
@@ -54,23 +48,17 @@
     "name:fra_x_preferred":[
         "Tokoname"
     ],
-    "name:fre_x_preferred":[
-        "Tokoname"
-    ],
-    "name:ger_x_preferred":[
-        "Tokoname"
-    ],
     "name:glg_x_preferred":[
         "Tokoname"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03ba\u03bf\u03bd\u03ac\u03bc\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a95\u0acb\u0aa8\u0ac7\u0aae"
     ],
     "name:hin_x_preferred":[
         "\u091f\u094b\u0915\u094b\u0928\u093e\u092e\u0947"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u056f\u0578\u0576\u0561\u0574\u0565"
     ],
     "name:ind_x_preferred":[
         "Tokoname"
@@ -104,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0915\u094b\u0928\u0947\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tokoname"
     ],
     "name:mzn_x_preferred":[
@@ -122,9 +110,6 @@
     "name:nob_x_preferred":[
         "Tokoname"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647\u060c \u0622\u06cc\u0686\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u06af\u0645\u0627\u06af\u0648\u0631\u06cc"
     ],
@@ -135,9 +120,6 @@
         "Tokoname"
     ],
     "name:ron_x_preferred":[
-        "Tokoname"
-    ],
-    "name:rum_x_preferred":[
         "Tokoname"
     ],
     "name:rus_x_preferred":[
@@ -255,7 +237,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637059,
+    "wof:lastmodified":1561776088,
     "wof:name":"Tokoname",
     "wof:parent_id":1108742261,
     "wof:placetype":"locality",

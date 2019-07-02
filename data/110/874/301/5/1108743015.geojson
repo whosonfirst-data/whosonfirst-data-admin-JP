@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u062c\u0648\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0576\u0578\u0571\u0575\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u0985\u09a8\u09c1\u099c\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u91ce\u57ce\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u00d3nod\u017e\u00f3"
     ],
     "name:dan_x_preferred":[
         "Onojo"
     ],
-    "name:dut_x_preferred":[
-        "Onojo"
+    "name:deu_x_preferred":[
+        "\u014cnoj\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bd\u03bf\u03c4\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
         "Onojo"
@@ -59,20 +56,17 @@
         "\u014cnoj\u014d",
         "Onojo Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u0648\u062c\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u014cnoj\u014d"
     ],
-    "name:fre_x_preferred":[
-        "\u014cnoj\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u014cnoj\u014d"
     ],
     "name:glg_x_preferred":[
         "\u014cnoj\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bd\u03bf\u03c4\u03b6\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aa8\u0acb\u0a9c\u0acb"
@@ -82,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0913\u0928\u094b\u091c\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0576\u0578\u0571\u0575\u0578"
     ],
     "name:ind_x_preferred":[
         "\u014cnoj\u014d"
@@ -107,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u0913\u0902\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Onojo"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:nan_x_preferred":[
         "\u00d4nozy\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Onojo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0646\u0648\u062c\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Onojo"
     ],
     "name:pol_x_preferred":[
         "\u014cnoj\u014d"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Onojo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Onojo"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "\u014cnoj\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u91ce\u57ce\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":1108743015,
-    "wof:lastmodified":1555037254,
+    "wof:lastmodified":1561776342,
     "wof:name":"Onojo",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

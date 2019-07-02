@@ -33,26 +33,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0631\u0648\u063a\u0627\u060c \u0641\u0648\u0643\u0648\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Tsuruga"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b0\u09cb\u0997\u09be"
     ],
     "name:bos_x_preferred":[
         "Tsuruga"
     ],
-    "name:chi_x_preferred":[
-        "\u6566\u8cc0\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Curuga"
     ],
     "name:dan_x_preferred":[
         "Tsuruga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsuruga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03c1\u03bf\u03cd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tsuruga"
@@ -61,20 +58,20 @@
         "Turugasi",
         "Tsuruga Shi"
     ],
+    "name:eus_x_preferred":[
+        "Tsuruga"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u0631\u0648\u06af\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tsuruga"
     ],
-    "name:fre_x_preferred":[
-        "Tsuruga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsuruga"
     ],
     "name:glg_x_preferred":[
         "Tsuruga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c5\u03c1\u03bf\u03cd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "Tsuruga"
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u0930\u0941\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tsuruga"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Turuga-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tsuruga"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0648\u0631\u0648\u06af\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    "name:nob_x_preferred":[
+        "Tsuruga"
     ],
     "name:pol_x_preferred":[
         "Tsuruga"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Tsuruga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tsuruga"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     "name:war_x_preferred":[
         "Tsuruga"
     ],
+    "name:zho_x_preferred":[
+        "\u6566\u8cc0\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1108741903,
-    "wof:lastmodified":1554759605,
+    "wof:lastmodified":1561776359,
     "wof:name":"Tsuruga",
     "wof:parent_id":85672767,
     "wof:placetype":"county",

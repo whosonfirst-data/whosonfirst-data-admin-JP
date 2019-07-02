@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09a8\u09be\u0997\u09be\u0993\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7802\u5ddd\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sunagawa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sunagawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bd\u03b1\u03b3\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sunagawa"
@@ -61,20 +61,17 @@
     "name:epo_x_preferred":[
         "Sunagawa"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u0627\u06af\u0627\u0648\u0627\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sunagawa"
     ],
-    "name:fre_x_preferred":[
-        "Sunagawa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sunagawa"
     ],
     "name:glg_x_preferred":[
         "Sunagawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03bd\u03b1\u03b3\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0aa8\u0abe\u0a97\u0abe\u0ab5\u0abe"
@@ -113,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0928\u093e\u0917\u093e\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sunagawa"
     ],
     "name:mzn_x_preferred":[
@@ -122,11 +119,11 @@
     "name:nan_x_preferred":[
         "Sunagawa-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sunagawa"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0646\u0627\u06af\u0627\u0648\u0627\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    "name:nob_x_preferred":[
+        "Sunagawa"
     ],
     "name:pol_x_preferred":[
         "Sunagawa"
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Sunagawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sunagawa"
     ],
     "name:rus_x_preferred":[
@@ -188,6 +185,9 @@
     "name:yue_x_preferred":[
         "\u7802\u5ddd\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u7802\u5ddd\u5e02"
+    ],
     "qs:name":"Sunagawa-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":890520299,
-    "wof:lastmodified":1554759530,
+    "wof:lastmodified":1561776459,
     "wof:name":"Sunagawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

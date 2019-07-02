@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0995\u09c1\u09af\u09c7\u09a8\u09cd\u099f\u09be\u0995\u09be\u099f\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u9678\u524d\u9ad8\u7530\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Rikuzentakata"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rikuzentakata"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03ba\u03bf\u03c5\u03b6\u03b5\u03bd\u03c4\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rikuzentakata"
@@ -58,20 +58,17 @@
     "name:est_x_preferred":[
         "Rikuzentakata"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06a9\u0648\u0632\u0646\u062a\u0627\u06a9\u0627\u062a\u0627\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Rikuzentakata"
     ],
-    "name:fre_x_preferred":[
-        "Rikuzentakata"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rikuzentakata"
     ],
     "name:glg_x_preferred":[
         "Rikuzentakata"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03ba\u03bf\u03c5\u03b6\u03b5\u03bd\u03c4\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0a95\u0ac1\u0a9d\u0ac7\u0aa8\u0acd\u0a9f\u0abe\u0a95\u0abe\u0a9f\u0abe"
@@ -107,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0915\u0941\u091d\u0947\u0902\u091f\u0915\u093e\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rikuzentakata"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:nan_x_preferred":[
         "Rikuzentakata-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Rikuzentakata"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u06a9\u0648\u0632\u0646\u062a\u0627\u06a9\u0627\u062a\u0627\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    "name:nob_x_preferred":[
+        "Rikuzentakata"
     ],
     "name:pol_x_preferred":[
         "Rikuzentakata"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Rikuzentakata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rikuzentakata"
     ],
     "name:rup_x_preferred":[
@@ -182,6 +179,9 @@
     "name:war_x_preferred":[
         "Rikuzentakata"
     ],
+    "name:zho_x_preferred":[
+        "\u9678\u524d\u9ad8\u7530\u5e02"
+    ],
     "qs:name":"Rikuzentakata-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -229,7 +229,7 @@
         }
     ],
     "wof:id":890520185,
-    "wof:lastmodified":1554759529,
+    "wof:lastmodified":1561776460,
     "wof:name":"Rikuzentakata",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

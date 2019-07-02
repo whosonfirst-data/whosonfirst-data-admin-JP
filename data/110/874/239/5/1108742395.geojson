@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Fukuchiyama"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u77e5\u5c71\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Fukuchiyama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fukuchiyama"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03c5\u03c4\u03c3\u03b9\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fukuchiyama"
@@ -55,20 +55,17 @@
         "Ooetyoo",
         "Fukuchiyama Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u06a9\u0648\u0686\u06cc\u200c\u06cc\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fukuchiyama"
     ],
-    "name:fre_x_preferred":[
-        "Fukuchiyama"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fukuchiyama"
     ],
     "name:glg_x_preferred":[
         "Fukuchiyama"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03ba\u03bf\u03c5\u03c4\u03c3\u03b9\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a95\u0ac1\u0a9a\u0abf\u0aaf\u0abe\u0aae\u0abe"
@@ -103,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0941\u0936\u093f\u092f\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fukuchiyama"
     ],
     "name:mzn_x_preferred":[
@@ -112,11 +109,11 @@
     "name:nan_x_preferred":[
         "Hukutiyama-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fukuchiyama"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u06a9\u0648\u0686\u06cc\u200c\u06cc\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Fukuchiyama"
     ],
     "name:pol_x_preferred":[
         "Fukuchiyama"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Fukuchiyama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fukuchiyama"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Fukuchiyama"
     ],
+    "name:zho_x_preferred":[
+        "\u798f\u77e5\u5c71\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108742395,
-    "wof:lastmodified":1554759613,
+    "wof:lastmodified":1561776367,
     "wof:name":"Fukuchiyama",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

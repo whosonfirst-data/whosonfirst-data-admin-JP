@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000682,
-    "geom:area_square_m":6693409.077144,
+    "geom:area_square_m":6693409.077123,
     "geom:bbox":"138.839409628,37.4353279178,138.872992912,37.4620647819",
     "geom:latitude":37.449964,
     "geom:longitude":138.854611,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0627\u0648\u0643\u0627\u060c \u0646\u064a\u064a\u063a\u0627\u062a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Nagaoka"
-    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0433\u0430\u043e\u043a\u0430"
     ],
@@ -36,35 +33,32 @@
     "name:cat_x_preferred":[
         "Nagaoka"
     ],
-    "name:chi_x_preferred":[
-        "\u9577\u5ca1\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nagaoka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagaoka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b3\u03ba\u03b1\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nagaoka"
     ],
+    "name:eus_x_preferred":[
+        "Nagaoka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nagaoka"
     ],
-    "name:fre_x_preferred":[
-        "Nagaoka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10d2\u10d0\u10dd\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nagaoka"
     ],
     "name:glg_x_preferred":[
         "Nagaoka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03b3\u03ba\u03b1\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0abe\u0a93\u0a95\u0abe"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0c97\u0cca\u0c95"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d2\u10d0\u10dd\u10d9\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub098\uac00\uc624\uce74 \uc2dc"
     ],
@@ -108,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u093e\u0913\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nagaoka"
     ],
     "name:mzn_x_preferred":[
@@ -117,14 +114,14 @@
     "name:nan_x_preferred":[
         "Nagaoka-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Nagaoka"
+    ],
     "name:nno_x_preferred":[
         "Nagaoka"
     ],
     "name:nob_x_preferred":[
         "Nagaoka"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Nagaoka"
@@ -132,7 +129,7 @@
     "name:por_x_preferred":[
         "Nagaoka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nagaoka"
     ],
     "name:rus_x_preferred":[
@@ -183,6 +180,9 @@
     "name:war_x_preferred":[
         "Nagaoka"
     ],
+    "name:zho_x_preferred":[
+        "\u9577\u5ca1\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":102032291,
-    "wof:lastmodified":1514468317,
+    "wof:lastmodified":1561776103,
     "wof:name":"Shimoshinj\u014d-nagaoka",
     "wof:parent_id":890520409,
     "wof:placetype":"locality",

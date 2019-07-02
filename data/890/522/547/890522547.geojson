@@ -18,29 +18,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0641\u0648\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0575\u0578\u0586\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Ch\u014dfu"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09cb\u09ab\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u0427\u043e\u0444\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u8abf\u5e03\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010c\u00f3fu"
     ],
     "name:dan_x_preferred":[
         "Chofu"
     ],
-    "name:dut_x_preferred":[
-        "Chofu"
+    "name:deu_x_preferred":[
+        "Ch\u014dfu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ch\u014dfu"
@@ -48,26 +42,29 @@
     "name:est_x_preferred":[
         "Ch\u014dfu"
     ],
+    "name:eus_x_preferred":[
+        "Ch\u014dfu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0641\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ch\u014dfu"
     ],
-    "name:fre_x_preferred":[
-        "Ch\u014dfu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ch\u014dfu"
     ],
     "name:glg_x_preferred":[
         "Ch\u014dfu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03cc\u03c6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0aab\u0ac1"
     ],
     "name:hin_x_preferred":[
         "\u091a\u094b\u092b\u0942"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0575\u0578\u0586\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Ch\u014dfu"
@@ -93,11 +90,11 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u092b\u0942"
     ],
-    "name:may_x_preferred":[
-        "Chofu"
-    ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u0444\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Chofu"
     ],
     "name:mzn_x_preferred":[
         "\u0686\u0648\u0641\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
@@ -105,11 +102,11 @@
     "name:nan_x_preferred":[
         "Ty\u00f4hu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Chofu"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0641\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Chofu"
     ],
     "name:pol_x_preferred":[
         "Ch\u014dfu"
@@ -117,7 +114,7 @@
     "name:por_x_preferred":[
         "Chofu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ch\u014dfu"
     ],
     "name:rup_x_preferred":[
@@ -177,6 +174,9 @@
     "name:yue_x_preferred":[
         "\u8abf\u5e03\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u8abf\u5e03\u5e02"
+    ],
     "qs:name":"Ch\u014dfu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":890522547,
-    "wof:lastmodified":1514467144,
+    "wof:lastmodified":1561776469,
     "wof:name":"Ch\u014dfu",
     "wof:parent_id":1108741737,
     "wof:placetype":"locality",

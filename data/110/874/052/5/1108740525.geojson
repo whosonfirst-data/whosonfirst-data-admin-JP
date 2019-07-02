@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09b0\u09be\u0993\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u5ca1\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Shiraoka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shiraoka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c1\u03b1\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Shiraoka"
@@ -55,14 +55,8 @@
     "name:fin_x_preferred":[
         "Shiraoka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shiraoka"
-    ],
-    "name:ger_x_preferred":[
-        "Shiraoka"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c1\u03b1\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0ab0\u0abe\u0a93\u0a95\u0abe"
@@ -94,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u0936\u093f\u0930\u094b\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Shiraoka"
+    ],
+    "name:nld_x_preferred":[
         "Shiraoka"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Shiraoka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shiraoka"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     "name:vie_x_preferred":[
         "Shiraoka"
     ],
+    "name:zho_x_preferred":[
+        "\u767d\u5ca1\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1108740525,
-    "wof:lastmodified":1554759597,
+    "wof:lastmodified":1561776354,
     "wof:name":"Shiraoka",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u98ef\u80fd\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Hanno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hann\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bd'\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hanno"
@@ -53,20 +53,17 @@
         "Hann\u014d",
         "Hanno Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646 \u0646\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hann\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Hann\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hann\u014d"
     ],
     "name:glg_x_preferred":[
         "Hann\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03bd'\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aa8\u0acd\u0aa8\u0acb"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0945\u0928\u094d\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hanno"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Hanno-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Hann\u014d"
+    ],
     "name:nob_x_preferred":[
         "Hanno"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0646 \u0646\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Hann\u014d"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Hanno"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hannou"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     "name:war_x_preferred":[
         "Hann\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u98ef\u80fd\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":1108740427,
-    "wof:lastmodified":1554759595,
+    "wof:lastmodified":1561776360,
     "wof:name":"Hanno",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u0987\u099c\u09c1\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u8c46\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Izu"
     ],
     "name:dan_x_preferred":[
         "Izu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Izu"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Izu"
@@ -55,20 +55,17 @@
         "Amagiyugasimatyoo",
         "Izu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Izu"
     ],
-    "name:fre_x_preferred":[
-        "Izu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Izu"
     ],
     "name:glg_x_preferred":[
         "Izu"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9d\u0ac1"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0907\u091d\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Izu"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Izu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Izu"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0632\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Izu"
     ],
     "name:pol_x_preferred":[
         "Izu"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Izu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Izu"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Izu"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8c46\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1108742205,
-    "wof:lastmodified":1554759610,
+    "wof:lastmodified":1561776348,
     "wof:name":"Izu",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

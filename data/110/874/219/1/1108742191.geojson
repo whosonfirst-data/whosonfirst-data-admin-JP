@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u099c\u09bf\u09a8\u09cb\u09ae\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u58eb\u5bae\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Fujinomiya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fujinomiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03bd\u03bf\u03bc\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fujinomiya"
@@ -55,17 +55,14 @@
     "name:est_x_preferred":[
         "Fujinomiya"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u062c\u06cc\u200c\u0646\u0648\u0645\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fujinomiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fujinomiya"
-    ],
-    "name:ger_x_preferred":[
-        "Fujinomiya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03c4\u03b6\u03b9\u03bd\u03bf\u03bc\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0a9c\u0abf\u0aa8\u0acb\u0aae\u0abf\u0aaf\u0abe"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u091c\u093f\u0928\u094b\u092e\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fujinomiya"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Huzinomiya-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fujinomiya"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u062c\u06cc\u200c\u0646\u0648\u0645\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Fujinomiya"
     ],
     "name:pol_x_preferred":[
         "Fujinomiya"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Fujinomiya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fujinomiya"
     ],
     "name:rus_x_preferred":[
@@ -172,6 +169,9 @@
     "name:war_x_preferred":[
         "Fujinomiya"
     ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u58eb\u5bae\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1108742191,
-    "wof:lastmodified":1554759610,
+    "wof:lastmodified":1561776350,
     "wof:name":"Fujinomiya",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

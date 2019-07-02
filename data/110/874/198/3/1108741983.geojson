@@ -33,20 +33,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0576\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09be\u0997\u09c0"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u90a3\u5e02"
     ],
     "name:dan_x_preferred":[
         "Ina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ina"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ina"
@@ -55,26 +52,26 @@
         "Takatoomati",
         "Ina Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ina"
     ],
-    "name:fre_x_preferred":[
-        "Ina"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ina"
     ],
     "name:glg_x_preferred":[
         "Ina"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0aa8\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0928\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Ina"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ina"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Ina-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ina"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0646\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    "name:nob_x_preferred":[
+        "Ina"
     ],
     "name:pol_x_preferred":[
         "Ina"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Ina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ina"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Ina"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u90a3\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1108741983,
-    "wof:lastmodified":1554759606,
+    "wof:lastmodified":1561776358,
     "wof:name":"Ina",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

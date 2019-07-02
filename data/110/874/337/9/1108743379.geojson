@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09cb\u09be\u0995\u09cb\u099c\u09bf\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5bae\u53e4\u5cf6\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Miyakojima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Miyakojima"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03b3\u03b9\u03b1\u03ba\u03bf\u03c4\u03b6\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Miyakojima"
@@ -52,17 +52,14 @@
         "Hirarasi",
         "Miyakojima Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u06a9\u0648\u062c\u06cc\u0645\u0627\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Miyakojima"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Miyakojima"
-    ],
-    "name:ger_x_preferred":[
-        "Miyakojima"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03b3\u03b9\u03b1\u03ba\u03bf\u03c4\u03b6\u03af\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aaf\u0abe\u0a95\u0acb\u0a9c\u0ac0\u0aae\u0abe"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u092e\u092f\u093e\u0915\u094b\u091c\u094b\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Miyakojima"
     ],
     "name:mzn_x_preferred":[
@@ -106,14 +103,14 @@
     "name:nan_x_preferred":[
         "Miyakozima-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Miyakojima"
+    ],
     "name:nno_x_preferred":[
         "Miyakojima"
     ],
     "name:nob_x_preferred":[
         "Miyakojima"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0627\u06a9\u0648\u062c\u06cc\u0645\u0627\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Miyakojima"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Miyakojima"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Miyakojima"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Miyakojima"
     ],
+    "name:zho_x_preferred":[
+        "\u5bae\u53e4\u5cf6\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1108743379,
-    "wof:lastmodified":1554759630,
+    "wof:lastmodified":1561776341,
     "wof:name":"Miyakojima",
     "wof:parent_id":85672867,
     "wof:placetype":"county",

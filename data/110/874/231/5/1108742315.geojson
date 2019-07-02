@@ -36,9 +36,6 @@
     "name:aze_x_preferred":[
         "Tsu"
     ],
-    "name:baq_x_preferred":[
-        "Tsu"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09c1"
     ],
@@ -48,17 +45,20 @@
     "name:cat_x_preferred":[
         "Tsu"
     ],
-    "name:chi_x_preferred":[
-        "\u6d25\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cu"
+    ],
+    "name:cym_x_preferred":[
+        "Tsu"
     ],
     "name:dan_x_preferred":[
         "Tsu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Tsu"
@@ -73,23 +73,23 @@
     "name:est_x_preferred":[
         "Tsu"
     ],
+    "name:eus_x_preferred":[
+        "Tsu"
+    ],
     "name:fao_x_preferred":[
         "Tsu"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u060c \u0645\u06cc\u0647"
     ],
     "name:fin_x_preferred":[
         "Tsu"
     ],
-    "name:fre_x_preferred":[
-        "Tsu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsu"
     ],
     "name:glg_x_preferred":[
         "Tsu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0acd\u0ab8\u0ac1"
@@ -127,7 +127,7 @@
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tsu"
     ],
     "name:mzn_x_preferred":[
@@ -136,14 +136,14 @@
     "name:nan_x_preferred":[
         "Tu-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Tsu"
+    ],
     "name:nno_x_preferred":[
         "Tsu"
     ],
     "name:nob_x_preferred":[
         "Tsu"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0648\u060c \u0645\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Tsu"
@@ -151,7 +151,7 @@
     "name:por_x_preferred":[
         "Tsu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tsu"
     ],
     "name:rup_x_preferred":[
@@ -211,8 +211,8 @@
     "name:war_x_preferred":[
         "Tsu"
     ],
-    "name:wel_x_preferred":[
-        "Tsu"
+    "name:zho_x_preferred":[
+        "\u6d25\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1108742315,
-    "wof:lastmodified":1555037260,
+    "wof:lastmodified":1561776366,
     "wof:name":"Tsu",
     "wof:parent_id":85672745,
     "wof:placetype":"county",

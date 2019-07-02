@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Got\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u4e94\u5cf6\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Got\u014d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Got\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c4\u03cc"
     ],
     "name:eng_x_preferred":[
         "Goto"
@@ -55,17 +55,14 @@
         "Got\u014d",
         "Goto Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u062a\u0648\u060c \u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Got\u014d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Got\u014d"
-    ],
-    "name:ger_x_preferred":[
-        "Got\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c4\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0a9f\u0acb"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Goto"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Got\u00f4-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Got\u014d"
+    ],
     "name:nob_x_preferred":[
         "Goto"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u062a\u0648\u060c \u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Got\u014d"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Goto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Got\u014d"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Got\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u4e94\u5cf6\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1108743135,
-    "wof:lastmodified":1554759627,
+    "wof:lastmodified":1561776357,
     "wof:name":"Goto",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

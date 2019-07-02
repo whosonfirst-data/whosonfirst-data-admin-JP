@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":3122950.399405,
+    "geom:area_square_m":3122950.399412,
     "geom:bbox":"139.916270995,36.0178749028,139.938465387,36.0359035413",
     "geom:latitude":36.026889,
     "geom:longitude":139.927368,
@@ -28,17 +28,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09cd\u09a6\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5742\u6771\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Bando"
     ],
     "name:deu_x_preferred":[
         "Band\u014d"
     ],
-    "name:dut_x_preferred":[
-        "Bando"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03cc"
     ],
     "name:eng_x_preferred":[
         "Band\u014d"
@@ -52,17 +49,8 @@
     "name:fra_x_preferred":[
         "Band\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Band\u014d"
-    ],
-    "name:ger_x_preferred":[
-        "Band\u014d"
-    ],
     "name:glg_x_preferred":[
         "Band\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c4\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a82\u0aa6\u0acb"
@@ -97,7 +85,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u0926\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bando"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +94,11 @@
     "name:nan_x_preferred":[
         "Band\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Bando"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u062f\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    "name:nob_x_preferred":[
+        "Bando"
     ],
     "name:pol_x_preferred":[
         "Band\u014d"
@@ -118,7 +106,7 @@
     "name:por_x_preferred":[
         "Bando"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bando"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +147,9 @@
     ],
     "name:war_x_preferred":[
         "Band\u014d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5742\u6771\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -211,7 +202,7 @@
         }
     ],
     "wof:id":102032101,
-    "wof:lastmodified":1527637850,
+    "wof:lastmodified":1561776101,
     "wof:name":"Band\u014d",
     "wof:parent_id":1108740283,
     "wof:placetype":"locality",

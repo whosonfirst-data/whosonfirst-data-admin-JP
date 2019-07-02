@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":3124340.54598,
+    "geom:area_square_m":3124340.545989,
     "geom:bbox":"130.369525586,33.16992164,130.390972397,33.1879566264",
     "geom:latitude":33.178939,
     "geom:longitude":130.380249,
@@ -27,14 +27,14 @@
     "name:ben_x_preferred":[
         "\u0993\u0995\u09be\u0989\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5ddd\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Okawa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u014ckawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03ba\u03b1\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "\u014ckawa"
@@ -42,23 +42,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u06a9\u0627\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u06a9\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u014ckawa"
     ],
     "name:fra_x_preferred":[
         "Okawa"
     ],
-    "name:fre_x_preferred":[
-        "\u014ckawa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "\u014ckawa"
     ],
     "name:glg_x_preferred":[
         "\u014ckawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03ba\u03b1\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a95\u0abe\u0ab5\u0abe"
@@ -96,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0915\u094d\u0915\u093e\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Okawa"
     ],
     "name:mzn_x_preferred":[
@@ -105,11 +102,11 @@
     "name:nan_x_preferred":[
         "\u00d4kawa-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "\u014ckawa"
+    ],
     "name:nob_x_preferred":[
         "Okawa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06a9\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "\u014ckawa"
@@ -117,7 +114,7 @@
     "name:por_x_preferred":[
         "Okawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Okawa"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +158,9 @@
     ],
     "name:war_x_preferred":[
         "\u014ckawa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5ddd\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":102032317,
-    "wof:lastmodified":1553815725,
+    "wof:lastmodified":1561776103,
     "wof:name":"\u014ckawa",
     "wof:parent_id":890524587,
     "wof:placetype":"locality",

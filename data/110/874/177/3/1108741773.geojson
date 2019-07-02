@@ -33,15 +33,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0643\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Miyake suprefetura"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e09\u5b85\u652f\u5ef3"
-    ],
-    "name:dut_x_preferred":[
-        "Miyake"
-    ],
     "name:eng_x_preferred":[
         "Miyake"
     ],
@@ -50,7 +41,10 @@
         "Miyake Mura",
         "Miyake Subprefecture"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Miyake suprefetura"
+    ],
+    "name:fra_x_preferred":[
         "sous-pr\u00e9fecture de Miyake"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +55,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\ucf00 \uc9c0\uccad"
+    ],
+    "name:nld_x_preferred":[
+        "Miyake"
     ],
     "name:pol_x_preferred":[
         "Podprefektura Miyake"
@@ -79,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Miyake Subprefecture"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5b85\u652f\u5ef3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108741773,
-    "wof:lastmodified":1555037263,
+    "wof:lastmodified":1561776370,
     "wof:name":"Miyake",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

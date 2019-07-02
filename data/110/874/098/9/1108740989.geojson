@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u0995\u09bf\u09af\u09be\u0993\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7027\u6fa4\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Takizawa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Takizawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ba\u03b9\u03b6\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Takizawa"
@@ -55,14 +55,8 @@
     "name:fin_x_preferred":[
         "Takizawa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Takizawa"
-    ],
-    "name:ger_x_preferred":[
-        "Takizawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ba\u03b9\u03b6\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a95\u0ac0\u0a9d\u0abe\u0ab5\u0abe"
@@ -94,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093f\u091d\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Takizawa"
+    ],
+    "name:nld_x_preferred":[
         "Takizawa"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Takizawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Takizawa"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     "name:vie_x_preferred":[
         "Takizawa"
     ],
+    "name:zho_x_preferred":[
+        "\u7027\u6fa4\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1108740989,
-    "wof:lastmodified":1554759598,
+    "wof:lastmodified":1561776352,
     "wof:name":"Takizawa",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

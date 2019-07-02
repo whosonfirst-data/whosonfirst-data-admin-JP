@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09a4\u09cb\u09ae\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u5f4c\u5bcc\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jatomi"
     ],
     "name:dan_x_preferred":[
         "Yatomi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yatomi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c4\u03cc\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Yatomi"
@@ -55,20 +55,17 @@
         "Yatomityoo",
         "Yatomi Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u062a\u0648\u0645\u06cc\u060c \u0622\u06cc\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Yatomi"
     ],
-    "name:fre_x_preferred":[
-        "Yatomi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yatomi"
     ],
     "name:glg_x_preferred":[
         "Yatomi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03c4\u03cc\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a9f\u0acb\u0aae\u0ac0"
@@ -103,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u092f\u094b\u0924\u094b\u092e\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yatomi"
     ],
     "name:mzn_x_preferred":[
@@ -112,11 +109,11 @@
     "name:nan_x_preferred":[
         "Yatomi-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Yatomi"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u062a\u0648\u0645\u06cc\u060c \u0622\u06cc\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Yatomi"
     ],
     "name:pol_x_preferred":[
         "Yatomi"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Yatomi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yatomi"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     "name:war_x_preferred":[
         "Yatomi"
     ],
+    "name:zho_x_preferred":[
+        "\u5f4c\u5bcc\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1108742273,
-    "wof:lastmodified":1554759611,
+    "wof:lastmodified":1561776347,
     "wof:name":"Yatomi",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

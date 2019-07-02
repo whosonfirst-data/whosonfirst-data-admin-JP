@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09b6\u09bf\u09a8\u09c1\u09ae\u09cb\u09a4\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u4e4b\u8868\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ni\u0161inoomote"
     ],
     "name:dan_x_preferred":[
         "Nishinoomote"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nishinoomote"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03c3\u03b9\u03bd\u03bf\u03c5\u03bc\u03cc\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Nishinoomote"
@@ -55,17 +55,14 @@
         "Nisinoomotesi",
         "Nishinoomote Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0634\u06cc\u0646\u0648\u0627\u0648\u0645\u0648\u062a\u0647\u060c \u06a9\u0627\u06af\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nishinoomote"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nishinoomote"
-    ],
-    "name:ger_x_preferred":[
-        "Nishinoomote"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03c3\u03b9\u03bd\u03bf\u03c5\u03bc\u03cc\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0ab6\u0abf\u0aa8\u0acb\u0aae\u0acb\u0a9f"
@@ -97,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0936\u093f\u0928\u094b\u092e\u094b\u091f\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nishinoomote"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Nisinoomote-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Nishinoomote"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0634\u06cc\u0646\u0648\u0627\u0648\u0645\u0648\u062a\u0647\u060c \u06a9\u0627\u06af\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Nishinoomote"
     ],
     "name:pol_x_preferred":[
         "Nishinoomote"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Nishinoomote"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nishinoomote"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Nishinoomote"
     ],
+    "name:zho_x_preferred":[
+        "\u897f\u4e4b\u8868\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108743311,
-    "wof:lastmodified":1554759629,
+    "wof:lastmodified":1561776340,
     "wof:name":"Nishinoomote",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

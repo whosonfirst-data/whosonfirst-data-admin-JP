@@ -39,14 +39,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0430\u0440\u0430\u0437\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u66f4\u6d25\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Kisarazu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kisarazu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Kisarazu"
@@ -55,20 +55,17 @@
         "Kisaradusi",
         "Kisarazu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u0627\u0631\u0627\u0632\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kisarazu"
     ],
-    "name:fre_x_preferred":[
-        "Kisarazu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kisarazu"
     ],
     "name:glg_x_preferred":[
         "Kisarazu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab8\u0abe\u0ab0\u0abe\u0a9d\u0ac1"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0938\u0930\u091d\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kisarazu"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Kisarazu-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kisarazu"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0633\u0627\u0631\u0627\u0632\u0648\u060c \u0686\u06cc\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Kisarazu"
     ],
     "name:pol_x_preferred":[
         "Kisarazu"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Kisarazu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kisarazu"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     "name:war_x_preferred":[
         "Kisarazu"
     ],
+    "name:zho_x_preferred":[
+        "\u6728\u66f4\u6d25\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1108741591,
-    "wof:lastmodified":1554759600,
+    "wof:lastmodified":1561776340,
     "wof:name":"Kisarazu",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

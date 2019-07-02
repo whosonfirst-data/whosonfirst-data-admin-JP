@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":8924995.305265,
+    "geom:area_square_m":8924995.305256,
     "geom:bbox":"131.380551472,31.8265517656,131.415284254,31.8635619581",
     "geom:latitude":31.845655,
     "geom:longitude":131.400232,
@@ -16,22 +16,13 @@
     "mps:longitude":131.401969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Miyazaki"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0632\u0627\u0643\u064a\u060c \u0645\u064a\u0627\u0632\u0627\u0643\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u056b\u0561\u0571\u0561\u056f\u056b"
     ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
     ],
     "name:aze_x_preferred":[
-        "Miyazaki"
-    ],
-    "name:baq_x_preferred":[
         "Miyazaki"
     ],
     "name:bel_x_preferred":[
@@ -46,17 +37,20 @@
     "name:cat_x_preferred":[
         "Miyazaki"
     ],
-    "name:chi_x_preferred":[
-        "\u5bae\u5d0e\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mijazaki"
+    ],
+    "name:cym_x_preferred":[
+        "Miyazaki"
     ],
     "name:dan_x_preferred":[
         "Miyazaki"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Miyazaki"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03b3\u03b9\u03b1\u03b6\u03ac\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Miyazaki"
@@ -64,13 +58,16 @@
     "name:epo_x_preferred":[
         "Mijazaki"
     ],
+    "name:eus_x_preferred":[
+        "Miyazaki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Miyazaki"
     ],
-    "name:fre_x_preferred":[
-        "Miyazaki"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Miyazaki"
     ],
     "name:gle_x_preferred":[
@@ -78,9 +75,6 @@
     ],
     "name:glg_x_preferred":[
         "Miyazaki"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03b3\u03b9\u03b1\u03b6\u03ac\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aaf\u0abe\u0a9d\u0abe\u0a95\u0ac0"
@@ -90,6 +84,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u092f\u093e\u091c\u093e\u0915\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056b\u0561\u0571\u0561\u056f\u056b"
     ],
     "name:ind_x_preferred":[
         "Miyazaki"
@@ -118,7 +115,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u092f\u093e\u091d\u0915\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Miyazaki"
     ],
     "name:mzn_x_preferred":[
@@ -127,11 +124,11 @@
     "name:nan_x_preferred":[
         "Miyazaki-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Miyazaki"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
+    "name:nob_x_preferred":[
+        "Miyazaki"
     ],
     "name:pol_x_preferred":[
         "Miyazaki"
@@ -139,7 +136,7 @@
     "name:por_x_preferred":[
         "Miyazaki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Miyazaki"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +149,9 @@
         "Miyazaki"
     ],
     "name:spa_x_preferred":[
+        "Miyazaki"
+    ],
+    "name:sqi_x_preferred":[
         "Miyazaki"
     ],
     "name:srp_x_preferred":[
@@ -196,13 +196,13 @@
     "name:war_x_preferred":[
         "Miyazaki"
     ],
-    "name:wel_x_preferred":[
-        "Miyazaki"
-    ],
     "name:wuu_x_preferred":[
         "\u5bab\u5d0e\u5e02"
     ],
     "name:yue_x_preferred":[
+        "\u5bae\u5d0e\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5bae\u5d0e\u5e02"
     ],
     "qs:a1":"*",
@@ -242,7 +242,7 @@
         }
     ],
     "wof:id":102031815,
-    "wof:lastmodified":1553815725,
+    "wof:lastmodified":1561776093,
     "wof:name":"Ch\u014dfu-Miyazakich\u014d",
     "wof:parent_id":1108743259,
     "wof:placetype":"locality",

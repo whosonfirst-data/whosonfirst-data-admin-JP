@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001508,
-    "geom:area_square_m":13560617.83888,
+    "geom:area_square_m":13560617.838877,
     "geom:bbox":"145.551025311,43.3121794997,145.652590087,43.3461665242",
     "geom:latitude":43.328991,
     "geom:longitude":145.590507,
@@ -25,14 +25,8 @@
     "name:aze_x_preferred":[
         "Nemuro"
     ],
-    "name:baq_x_preferred":[
-        "Nemuro"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09ae\u09c1\u09b0\u09cb"
-    ],
-    "name:chi_x_preferred":[
-        "\u6839\u5ba4\u5e02"
     ],
     "name:dan_x_preferred":[
         "Nemuro"
@@ -40,13 +34,16 @@
     "name:deu_x_preferred":[
         "Nemuro"
     ],
-    "name:dut_x_preferred":[
-        "Nemuro"
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bc\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Nemuro-shi"
     ],
     "name:eng_x_variant":[
+        "Nemuro"
+    ],
+    "name:eus_x_preferred":[
         "Nemuro"
     ],
     "name:fas_x_preferred":[
@@ -55,17 +52,11 @@
     "name:fin_x_preferred":[
         "Nemuro"
     ],
-    "name:fre_x_preferred":[
-        "Nemuro"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nemuro"
     ],
     "name:glg_x_preferred":[
         "Nemuro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b5\u03bc\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aae\u0ac1\u0ab0\u0acb"
@@ -112,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0928\u0947\u092e\u0941\u0930\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nemuro"
     ],
     "name:mzn_x_preferred":[
@@ -130,16 +121,13 @@
     "name:pam_x_preferred":[
         "Nemuro"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0645\u0648\u0631\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
-    ],
     "name:pol_x_preferred":[
         "Nemuro"
     ],
     "name:por_x_preferred":[
         "Nemuro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nemuro"
     ],
     "name:rus_x_preferred":[
@@ -239,7 +227,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637851,
+    "wof:lastmodified":1561776102,
     "wof:name":"Nemuro",
     "wof:parent_id":1108739521,
     "wof:placetype":"locality",

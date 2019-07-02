@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001167,
-    "geom:area_square_m":11952005.177537,
+    "geom:area_square_m":11952005.177539,
     "geom:bbox":"132.929230023,34.0481970869,133.016811962,34.1117209104",
     "geom:latitude":34.080782,
     "geom:longitude":132.974654,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0645\u0628\u0627\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Imabari"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043c\u0430\u0431\u0430\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09ae\u09be\u09ac\u09be\u09b0\u09bf"
-    ],
-    "name:chi_x_preferred":[
-        "\u4eca\u6cbb\u5e02"
     ],
     "name:dan_x_preferred":[
         "Imabari"
@@ -37,8 +31,8 @@
     "name:deu_x_preferred":[
         "Imabari"
     ],
-    "name:dut_x_preferred":[
-        "Imabari"
+    "name:ell_x_preferred":[
+        "\u0399\u03bc\u03b1\u03bc\u03c0\u03ac\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Imabari"
@@ -55,20 +49,8 @@
     "name:fra_x_preferred":[
         "Imabari"
     ],
-    "name:fre_x_preferred":[
-        "Imabari"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10db\u10d0\u10d1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Imabari"
-    ],
     "name:glg_x_preferred":[
         "Imabari"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bc\u03b1\u03bc\u03c0\u03ac\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0aae\u0abe\u0aac\u0abe\u0ab0\u0ac0"
@@ -115,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0907\u092e\u093e\u092c\u0947\u0930\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Imabari"
     ],
     "name:mzn_x_preferred":[
@@ -130,9 +112,6 @@
     "name:nob_x_preferred":[
         "Imabari"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc\u060c \u0627\u0647\u06cc\u0645\u0647"
-    ],
     "name:pol_x_preferred":[
         "Imabari"
     ],
@@ -140,9 +119,6 @@
         "Imabari"
     ],
     "name:ron_x_preferred":[
-        "Imabari"
-    ],
-    "name:rum_x_preferred":[
         "Imabari"
     ],
     "name:rus_x_preferred":[
@@ -239,7 +215,7 @@
         }
     ],
     "wof:id":102031889,
-    "wof:lastmodified":1527637054,
+    "wof:lastmodified":1561776081,
     "wof:name":"Imabari-shi",
     "wof:parent_id":890524507,
     "wof:placetype":"locality",

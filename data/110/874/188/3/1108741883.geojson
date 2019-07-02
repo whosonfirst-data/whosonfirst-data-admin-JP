@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09a8\u09cb\u0987\u099a\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u91ce\u91ce\u5e02\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nonoichi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nonoichi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bd\u03bf\u0390\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nonoichi"
@@ -55,14 +55,8 @@
     "name:fin_x_preferred":[
         "Nonoichi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nonoichi"
-    ],
-    "name:ger_x_preferred":[
-        "Nonoichi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bd\u03bf\u0390\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0aa8\u0acb\u0a9a\u0ac0"
@@ -94,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u0928\u0949\u0928\u0939\u093f\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nonoichi"
+    ],
+    "name:nld_x_preferred":[
         "Nonoichi"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Nonoichi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nonoichi"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     "name:vie_x_preferred":[
         "Nonoichi"
     ],
+    "name:zho_x_preferred":[
+        "\u91ce\u91ce\u5e02\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1108741883,
-    "wof:lastmodified":1554759604,
+    "wof:lastmodified":1561776357,
     "wof:name":"Nonoichi",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

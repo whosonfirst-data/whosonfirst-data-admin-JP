@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000848,
-    "geom:area_square_m":8619193.764018,
+    "geom:area_square_m":8619193.764025,
     "geom:bbox":"134.335389136,34.7371088953,134.379211741,34.7641702139",
     "geom:latitude":34.75064,
     "geom:longitude":134.3573,
@@ -29,17 +29,14 @@
     "name:cat_x_preferred":[
         "Ak\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d64\u7a57\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ako"
     ],
     "name:deu_x_preferred":[
         "Ak\u014d"
     ],
-    "name:dut_x_preferred":[
-        "Ak\u014d"
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ak\u014d"
@@ -56,17 +53,8 @@
     "name:fra_x_preferred":[
         "Ak\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Ak\u014d"
-    ],
-    "name:ger_x_preferred":[
-        "Ak\u014d"
-    ],
     "name:glg_x_preferred":[
         "Ak\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ba\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a95\u0acb"
@@ -98,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ak\u014d"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +95,11 @@
     "name:nan_x_preferred":[
         "Ak\u00f4-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Ak\u014d"
+    ],
     "name:nob_x_preferred":[
         "Ako"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0648\u060c \u0647\u06cc\u0648\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Ak\u014d"
@@ -119,7 +107,7 @@
     "name:por_x_preferred":[
         "Ako"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ako"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +155,9 @@
     "name:war_x_preferred":[
         "Ak\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u8d64\u7a57\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -210,7 +201,7 @@
         }
     ],
     "wof:id":102031847,
-    "wof:lastmodified":1527637064,
+    "wof:lastmodified":1561776093,
     "wof:name":"Ak\u014d",
     "wof:parent_id":1108742519,
     "wof:placetype":"locality",

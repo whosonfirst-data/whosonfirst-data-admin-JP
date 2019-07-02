@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000649,
-    "geom:area_square_m":6243218.478072,
+    "geom:area_square_m":6243218.478064,
     "geom:bbox":"141.124327283,38.8948467668,141.235287641,38.9385137217",
     "geom:latitude":38.916683,
     "geom:longitude":141.179802,
@@ -23,17 +23,14 @@
     "name:ben_x_preferred":[
         "\u0987\u099a\u09bf\u09a8\u09cb\u09cd\u09b8\u09c7\u0995\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u4e00\u5173\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ichinoseki"
     ],
     "name:deu_x_preferred":[
         "Ichinoseki"
     ],
-    "name:dut_x_preferred":[
-        "Ichinoseki"
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03c3\u03b9\u03bd\u03bf\u03c3\u03ad\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ichinoseki"
@@ -47,17 +44,8 @@
     "name:fra_x_preferred":[
         "Ichinoseki"
     ],
-    "name:fre_x_preferred":[
-        "Ichinoseki"
-    ],
-    "name:ger_x_preferred":[
-        "Ichinoseki"
-    ],
     "name:glg_x_preferred":[
         "Ichinoseki"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c4\u03c3\u03b9\u03bd\u03bf\u03c3\u03ad\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a9a\u0abf\u0aa8\u0acb\u0ab8\u0ac7\u0a95\u0ac0"
@@ -95,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u091a\u093f\u0928\u094b\u0938\u0947\u0915\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ichinoseki"
     ],
     "name:mzn_x_preferred":[
@@ -110,9 +98,6 @@
     "name:nob_x_preferred":[
         "Ichinoseki"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
-    ],
     "name:pol_x_preferred":[
         "Ichinoseki"
     ],
@@ -120,9 +105,6 @@
         "Ichinoseki"
     ],
     "name:ron_x_preferred":[
-        "Ichinoseki"
-    ],
-    "name:rum_x_preferred":[
         "Ichinoseki"
     ],
     "name:rup_x_preferred":[
@@ -227,7 +209,7 @@
         }
     ],
     "wof:id":102031979,
-    "wof:lastmodified":1527637058,
+    "wof:lastmodified":1561776087,
     "wof:name":"Ichinoseki",
     "wof:parent_id":1108739951,
     "wof:placetype":"locality",

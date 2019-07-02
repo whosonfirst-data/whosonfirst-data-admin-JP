@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09a4\u09be\u099a\u09bf\u09af\u09bc\u09cb\u09ae\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5e38\u9678\u5927\u5bae\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Hitachiomiya"
     ],
-    "name:dut_x_preferred":[
-        "Hitachiomiya"
+    "name:deu_x_preferred":[
+        "Hitachi-\u014cmiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03c4\u03b1\u03c4\u03c3\u03b9\u03cc\u03bc\u03b9\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hitachiomiya"
@@ -53,20 +53,17 @@
         "Hitachi\u014dmiya",
         "Hitachiomiya Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u062a\u0627\u0686\u06cc\u200c\u0627\u0648\u0645\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hitachi\u014dmiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hitachi\u014dmiya"
-    ],
-    "name:ger_x_preferred":[
-        "Hitachi-\u014cmiya"
     ],
     "name:glg_x_preferred":[
         "Hitachi\u014dmiya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03c4\u03b1\u03c4\u03c3\u03b9\u03cc\u03bc\u03b9\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0a9f\u0abe\u0a9a\u0ac0\u0aaf\u0acb\u0aae\u0abf\u0aaf\u0abe"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093f\u091f\u093e\u091a\u0940\u0913\u092e\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hitachiomiya"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Hitati\u00f4miya-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hitachiomiya"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u062a\u0627\u0686\u06cc\u200c\u0627\u0648\u0645\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Hitachiomiya"
     ],
     "name:pol_x_preferred":[
         "Hitachi\u014dmiya"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Hitachi-Omiya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hitachiomiya"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:war_x_preferred":[
         "Hitachi\u014dmiya"
     ],
+    "name:zho_x_preferred":[
+        "\u5e38\u9678\u5927\u5bae\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108741331,
-    "wof:lastmodified":1554759599,
+    "wof:lastmodified":1561776342,
     "wof:name":"Hitachiomiya",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

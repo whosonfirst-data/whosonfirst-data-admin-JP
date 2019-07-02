@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":3122506.096486,
+    "geom:area_square_m":3122506.09648,
     "geom:bbox":"140.17978436,37.1118928833,140.202295761,37.1299195726",
     "geom:latitude":37.120906,
     "geom:longitude":140.19104,
@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Shirakawa"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u6cb3\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Shirakawa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shirakawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c1\u03b1\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Shirakawa"
@@ -40,20 +40,17 @@
     "name:est_x_preferred":[
         "Shirakawa"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Shirakawa"
     ],
-    "name:fre_x_preferred":[
-        "Shirakawa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Shirakawa"
     ],
     "name:glg_x_preferred":[
         "Shirakawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c1\u03b1\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0ab0\u0abe\u0a95\u0abe\u0ab5\u0abe"
@@ -85,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u0936\u093f\u0930\u0915\u093e\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shirakawa"
     ],
     "name:mzn_x_preferred":[
@@ -94,11 +91,11 @@
     "name:nan_x_preferred":[
         "Sirakawa-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Shirakawa"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Shirakawa"
     ],
     "name:pol_x_preferred":[
         "Shirakawa"
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Shirakawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shirakawa"
     ],
     "name:rup_x_preferred":[
@@ -157,6 +154,9 @@
     "name:war_x_preferred":[
         "Shirakawa"
     ],
+    "name:zho_x_preferred":[
+        "\u767d\u6cb3\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":102031917,
-    "wof:lastmodified":1514468326,
+    "wof:lastmodified":1561776098,
     "wof:name":"Shirakawa-machi",
     "wof:parent_id":890520803,
     "wof:placetype":"locality",

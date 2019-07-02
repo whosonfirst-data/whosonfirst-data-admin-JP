@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001315,
-    "geom:area_square_m":13256783.430849,
+    "geom:area_square_m":13256783.430871,
     "geom:bbox":"136.246927949,35.3665992987,136.334861243,35.4114979",
     "geom:latitude":35.388407,
     "geom:longitude":136.289822,
@@ -28,10 +28,7 @@
     "name:cat_x_preferred":[
         "Nagahama"
     ],
-    "name:chi_x_preferred":[
-        "\u9577\u6ff1\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nagahama"
     ],
     "name:dan_x_preferred":[
@@ -40,8 +37,8 @@
     "name:deu_x_preferred":[
         "Nagahama"
     ],
-    "name:dut_x_preferred":[
-        "Nagahama"
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b3\u03ba\u03b1\u03c7\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nagahama"
@@ -49,20 +46,17 @@
     "name:epo_x_preferred":[
         "Nagahama"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u0627\u0647\u0627\u0645\u0627\u060c \u0634\u06cc\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nagahama"
     ],
-    "name:fre_x_preferred":[
-        "Nagahama"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nagahama"
     ],
     "name:glg_x_preferred":[
         "Nagahama"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03b3\u03ba\u03b1\u03c7\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0abe\u0ab9\u0abe\u0aae\u0abe"
@@ -97,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u093e\u0939\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nagahama"
     ],
     "name:mzn_x_preferred":[
@@ -106,11 +100,11 @@
     "name:nan_x_preferred":[
         "Nagahama-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Nagahama"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06af\u0627\u0647\u0627\u0645\u0627\u060c \u0634\u06cc\u06af\u0627"
+    "name:nob_x_preferred":[
+        "Nagahama"
     ],
     "name:pol_x_preferred":[
         "Nagahama"
@@ -118,7 +112,7 @@
     "name:por_x_preferred":[
         "Nagahama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nagahama"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +160,9 @@
     "name:war_x_preferred":[
         "Nagahama"
     ],
+    "name:zho_x_preferred":[
+        "\u9577\u6ff1\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -211,7 +208,7 @@
         }
     ],
     "wof:id":102031513,
-    "wof:lastmodified":1527637068,
+    "wof:lastmodified":1561776097,
     "wof:name":"Nagahama",
     "wof:parent_id":890520323,
     "wof:placetype":"locality",

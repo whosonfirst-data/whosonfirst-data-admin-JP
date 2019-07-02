@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0995\u09c1\u0987"
     ],
-    "name:chi_x_preferred":[
-        "\u7fbd\u548b\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Hakui"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hakui"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ba\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hakui"
@@ -55,20 +55,17 @@
         "Hakuisi",
         "Hakui Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06a9\u0648\u06cc\u06cc\u060c \u0627\u06cc\u0634\u06cc\u06a9\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hakui"
     ],
-    "name:fre_x_preferred":[
-        "Hakui"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hakui"
     ],
     "name:glg_x_preferred":[
         "Hakui"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03ba\u03bf\u03cd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0a95\u0ac1\u0a88"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093e\u0915\u0941\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hakui"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:new_x_preferred":[
         "\u0939\u0915\u0941\u0908"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hakui"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u06a9\u0648\u06cc\u06cc\u060c \u0627\u06cc\u0634\u06cc\u06a9\u0627\u0648\u0627"
+    "name:nob_x_preferred":[
+        "Hakui"
     ],
     "name:pol_x_preferred":[
         "Hakui"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Hakui"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hakui"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     "name:war_x_preferred":[
         "Hakui"
     ],
+    "name:zho_x_preferred":[
+        "\u7fbd\u548b\u5e02"
+    ],
     "qs:name":"Hakui-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":890523825,
-    "wof:lastmodified":1554759537,
+    "wof:lastmodified":1561776473,
     "wof:name":"Hakui",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

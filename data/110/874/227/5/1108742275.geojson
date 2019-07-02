@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u90e8\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ama"
     ],
     "name:dan_x_preferred":[
         "Ama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ama"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ama"
@@ -56,23 +56,17 @@
         "Miwa",
         "Ama Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ama"
     ],
-    "name:fre_x_preferred":[
-        "Ama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ama"
     ],
     "name:glg_x_preferred":[
         "Ama"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0abe"
@@ -92,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cae\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub9c8 \uc2dc"
     ],
@@ -104,17 +101,17 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ama"
     ],
     "name:nan_x_preferred":[
         "Ama-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ama"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0645\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Ama"
     ],
     "name:pol_x_preferred":[
         "Ama"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Ama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ama"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:war_x_preferred":[
         "Ama"
     ],
+    "name:zho_x_preferred":[
+        "\u6d77\u90e8\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -188,7 +188,7 @@
         }
     ],
     "wof:id":1108742275,
-    "wof:lastmodified":1555037260,
+    "wof:lastmodified":1561776347,
     "wof:name":"Ama",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

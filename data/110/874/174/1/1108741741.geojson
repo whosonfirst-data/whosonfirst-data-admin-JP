@@ -33,29 +33,23 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u063a\u0627\u0634\u064a\u0645\u0648\u0631\u0627\u064a\u0627\u0645\u0627\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u056b\u056f\u0561\u057d\u056b\u0574\u0578\u0582\u0580\u0561\u0575\u0561\u0574\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Higashimurayama"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0997\u09be\u09b6\u09bf\u09ae\u09cb\u09b0\u09be\u09af\u09bc\u09be\u09ae"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0438\u0433\u0430\u0448\u0438\u043c\u0443\u0440\u0430\u044f\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u6751\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Higa\u0161imurajama"
     ],
     "name:dan_x_preferred":[
         "Higashimurayama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Higashimurayama"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03bc\u03bf\u03c5\u03c1\u03b1\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Higashimurayama"
@@ -67,26 +61,29 @@
     "name:est_x_preferred":[
         "Higashimurayama"
     ],
+    "name:eus_x_preferred":[
+        "Higashimurayama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Higashimurayama"
     ],
-    "name:fre_x_preferred":[
-        "Higashimurayama"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Higashimurayama"
     ],
     "name:glg_x_preferred":[
         "Higashimurayama"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03b3\u03ba\u03b1\u03c3\u03b9\u03bc\u03bf\u03c5\u03c1\u03b1\u03b3\u03b9\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0a97\u0abe\u0ab6\u0abf\u0aae\u0ac1\u0ab0\u0aaf\u0abe\u0aae\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0939\u093f\u0917\u093e\u0936\u093f\u092e\u0941\u0930\u093e\u092f\u093e\u092e\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u056f\u0561\u057d\u056b\u0574\u0578\u0582\u0580\u0561\u0575\u0561\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Higashimurayama"
@@ -112,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093f\u0917\u0936\u093f\u092e\u094d\u092f\u0941\u0930\u093e\u092f\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Higashimurayama"
     ],
     "name:mzn_x_preferred":[
@@ -121,11 +118,11 @@
     "name:nan_x_preferred":[
         "Higasimurayama-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Higashimurayama"
+    ],
     "name:nob_x_preferred":[
         "Higashimurayam"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Higashimurayama"
@@ -133,7 +130,7 @@
     "name:por_x_preferred":[
         "Higashimurayama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Higashimurayama"
     ],
     "name:rup_x_preferred":[
@@ -190,6 +187,9 @@
     "name:yue_x_preferred":[
         "\u6771\u6751\u5c71\u5e02"
     ],
+    "name:zho_x_preferred":[
+        "\u6771\u6751\u5c71\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -226,7 +226,7 @@
         }
     ],
     "wof:id":1108741741,
-    "wof:lastmodified":1554759602,
+    "wof:lastmodified":1561776355,
     "wof:name":"Higashimurayama",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

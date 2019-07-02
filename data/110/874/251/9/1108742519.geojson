@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Ak\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d64\u7a57\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ako"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ak\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ako"
@@ -62,20 +62,17 @@
     "name:est_x_preferred":[
         "Ak\u014d"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0648\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ak\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Ak\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ak\u014d"
     ],
     "name:glg_x_preferred":[
         "Ak\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ba\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a95\u0acb"
@@ -107,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ak\u014d"
     ],
     "name:mzn_x_preferred":[
@@ -116,11 +113,11 @@
     "name:nan_x_preferred":[
         "Ak\u00f4-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Ak\u014d"
+    ],
     "name:nob_x_preferred":[
         "Ako"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0648\u060c \u0647\u06cc\u0648\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Ak\u014d"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Ako"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ako"
     ],
     "name:rus_x_preferred":[
@@ -173,6 +170,9 @@
     "name:war_x_preferred":[
         "Ak\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u8d64\u7a57\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1108742519,
-    "wof:lastmodified":1555037257,
+    "wof:lastmodified":1561776354,
     "wof:name":"Ako",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

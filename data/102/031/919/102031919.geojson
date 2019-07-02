@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014272,
-    "geom:area_square_m":138539847.861999,
+    "geom:area_square_m":138539847.862015,
     "geom:bbox":"140.80582374,38.1968009952,140.96052698,38.3635925273",
     "geom:latitude":38.278483,
     "geom:longitude":140.876873,
@@ -22,20 +22,11 @@
     "name:afr_x_preferred":[
         "Sendai"
     ],
-    "name:alb_x_preferred":[
-        "Sendai"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0646\u062f\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576\u0564\u0561\u0575"
-    ],
     "name:aze_x_preferred":[
         "Senday"
-    ],
-    "name:baq_x_preferred":[
-        "Sendai"
     ],
     "name:bel_x_preferred":[
         "\u0421\u044d\u043d\u0434\u0430\u0439"
@@ -52,13 +43,13 @@
     "name:cat_x_preferred":[
         "Sendai"
     ],
+    "name:ces_x_preferred":[
+        "Sendai"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u043d\u0434\u0430\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u4ed9\u53f0\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sendai"
     ],
     "name:dan_x_preferred":[
@@ -67,8 +58,8 @@
     "name:deu_x_preferred":[
         "Sendai"
     ],
-    "name:dut_x_preferred":[
-        "Sendai"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:eng_x_colloquial":[
         "City of Trees"
@@ -85,8 +76,14 @@
     "name:est_x_preferred":[
         "Sendai"
     ],
+    "name:eus_x_preferred":[
+        "Sendai"
+    ],
     "name:fao_x_preferred":[
         "Sendai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062f\u0627\u06cc"
     ],
     "name:fin_x_preferred":[
         "Sendai"
@@ -94,23 +91,11 @@
     "name:fra_x_preferred":[
         "Sendai"
     ],
-    "name:fre_x_preferred":[
-        "Sendai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10d3\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sendai"
-    ],
     "name:gle_x_preferred":[
         "Sendai"
     ],
     "name:glg_x_preferred":[
         "Sendai"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0aa1\u0abe\u0a88"
@@ -126,6 +111,9 @@
     ],
     "name:hun_x_preferred":[
         "Szendai"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576\u0564\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Sendai"
@@ -149,6 +137,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0c82\u0ca6\u0cc8"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d3\u10d0\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Sendai"
     ],
@@ -167,17 +158,20 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u0921\u093e\u0908"
     ],
-    "name:may_x_preferred":[
-        "Sendai"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u044d\u043d\u0434\u0430\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Sendai"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0646\u062f\u0627\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
     ],
     "name:nan_x_preferred":[
         "Sendai-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Sendai"
     ],
     "name:nno_x_preferred":[
         "Sendai"
@@ -194,9 +188,6 @@
     "name:oss_x_preferred":[
         "\u0421\u0435\u043d\u0434\u0430\u0439"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062f\u0627\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Sendai"
     ],
@@ -206,7 +197,7 @@
     "name:que_x_preferred":[
         "Sendai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sendai"
     ],
     "name:rup_x_preferred":[
@@ -224,13 +215,16 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd9\u0db1\u0dca\u0daf\u0dcf\u0dba\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sendai"
     ],
     "name:slv_x_preferred":[
         "Sendai"
     ],
     "name:spa_x_preferred":[
+        "Sendai"
+    ],
+    "name:sqi_x_preferred":[
         "Sendai"
     ],
     "name:srp_x_preferred":[
@@ -287,11 +281,11 @@
     "name:war_x_preferred":[
         "Sendai"
     ],
-    "name:wel_x_preferred":[
-        "Sendai"
-    ],
     "name:yue_x_preferred":[
         "\u4ed9\u53f0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed9\u53f0\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Japan",
@@ -444,7 +438,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1514468275,
+    "wof:lastmodified":1561776097,
     "wof:megacity":1,
     "wof:name":"Sendai-shi",
     "wof:parent_id":1108739995,

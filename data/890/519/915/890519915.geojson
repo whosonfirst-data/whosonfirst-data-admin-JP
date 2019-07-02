@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u0987\u09af\u09bc\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u4e88\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Seiyo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Seiyo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03b9\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Seiyo"
@@ -58,20 +58,17 @@
     "name:epo_x_preferred":[
         "Seijo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06cc\u0648\u060c \u0627\u0647\u06cc\u0645\u0647"
+    ],
     "name:fin_x_preferred":[
         "Seiyo"
     ],
-    "name:fre_x_preferred":[
-        "Seiyo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Seiyo"
     ],
     "name:glg_x_preferred":[
         "Seiyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03b9\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aaf\u0acb"
@@ -103,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Seiyo"
     ],
     "name:mzn_x_preferred":[
@@ -112,11 +109,11 @@
     "name:nan_x_preferred":[
         "Seiyo-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Seiyo"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u06cc\u0648\u060c \u0627\u0647\u06cc\u0645\u0647"
+    "name:nob_x_preferred":[
+        "Seiyo"
     ],
     "name:pol_x_preferred":[
         "Seiyo"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Seiyo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Seiyo"
     ],
     "name:rus_x_preferred":[
@@ -172,6 +169,9 @@
     "name:war_x_preferred":[
         "Seiyo"
     ],
+    "name:zho_x_preferred":[
+        "\u897f\u4e88\u5e02"
+    ],
     "qs:name":"Seiyo-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":890519915,
-    "wof:lastmodified":1554759527,
+    "wof:lastmodified":1561776446,
     "wof:name":"Seiyo",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

@@ -33,20 +33,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0632\u0627\u0643\u0627\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u0571\u0561\u056f\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u099c\u09be\u0995\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u9808\u5742\u5e02"
     ],
     "name:dan_x_preferred":[
         "Suzaka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Suzaka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03b6\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Suzaka"
@@ -55,26 +52,26 @@
         "Suzakasi",
         "Suzaka Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0632\u0627\u06a9\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Suzaka"
     ],
-    "name:fre_x_preferred":[
-        "Suzaka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Suzaka"
     ],
     "name:glg_x_preferred":[
         "Suzaka"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03b6\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a9d\u0ac7\u0a95\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u091c\u093e\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0571\u0561\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Suzaka"
@@ -100,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u091c\u0945\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Suzaka"
     ],
     "name:mzn_x_preferred":[
@@ -109,11 +106,11 @@
     "name:nan_x_preferred":[
         "Suzaka-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Suzaka"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0632\u0627\u06a9\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    "name:nob_x_preferred":[
+        "Suzaka"
     ],
     "name:pol_x_preferred":[
         "Suzaka"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Suzaka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Suzaka"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     "name:war_x_preferred":[
         "Suzaka"
     ],
+    "name:zho_x_preferred":[
+        "\u9808\u5742\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108741981,
-    "wof:lastmodified":1554759606,
+    "wof:lastmodified":1561776358,
     "wof:name":"Suzaka",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

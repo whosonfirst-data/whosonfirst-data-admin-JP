@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008591,
-    "geom:area_square_m":86331379.228268,
+    "geom:area_square_m":86331379.228301,
     "geom:bbox":"139.572748258,35.5807206006,139.691162109,35.6974551833",
     "geom:latitude":35.641987,
     "geom:longitude":139.636499,
@@ -30,9 +30,6 @@
     ],
     "name:cat_x_preferred":[
         "Setagaya"
-    ],
-    "name:chi_x_preferred":[
-        "\u6885\u4e18"
     ],
     "name:dan_x_preferred":[
         "Setagaya"
@@ -154,6 +151,9 @@
     "name:zho_x_preferred":[
         "\u4e16\u7530\u8c37\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u6885\u4e18"
+    ],
     "name:zho_yue_x_preferred":[
         "\u4e16\u7530\u8c37\u5340"
     ],
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":102031397,
-    "wof:lastmodified":1527637053,
+    "wof:lastmodified":1561776079,
     "wof:name":"Setagaya",
     "wof:parent_id":1108741703,
     "wof:placetype":"locality",

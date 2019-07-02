@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u099c"
     ],
-    "name:chi_x_preferred":[
-        "\u4e94\u689d\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Gojo"
     ],
-    "name:dut_x_preferred":[
-        "Gojo"
+    "name:deu_x_preferred":[
+        "Goj\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c4\u03b6\u03cc"
     ],
     "name:eng_x_preferred":[
         "Gojo"
@@ -56,20 +56,17 @@
     "name:epo_x_preferred":[
         "Go\u011do"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u062c\u0648\u060c \u0646\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Goj\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Goj\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Goj\u014d"
     ],
     "name:glg_x_preferred":[
         "Goj\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c4\u03b6\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0a9d\u0acb"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gojo"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Gozy\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Gojo"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u062c\u0648\u060c \u0646\u0627\u0631\u0627"
+    "name:nob_x_preferred":[
+        "Gojo"
     ],
     "name:pol_x_preferred":[
         "Goj\u014d"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Goj\u014d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gojo"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     "name:war_x_preferred":[
         "Goj\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u4e94\u689d\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1108742561,
-    "wof:lastmodified":1554759616,
+    "wof:lastmodified":1561776354,
     "wof:name":"Gojo",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

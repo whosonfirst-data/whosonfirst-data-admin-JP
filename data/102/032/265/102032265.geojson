@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":3123542.905909,
+    "geom:area_square_m":3123542.90591,
     "geom:bbox":"140.597415395,36.0622865416,140.619625641,36.080317793",
     "geom:latitude":36.071302,
     "geom:longitude":140.608521,
@@ -24,9 +24,6 @@
     "name:aze_x_preferred":[
         "Mito"
     ],
-    "name:baq_x_preferred":[
-        "Mito"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0442\u043e"
     ],
@@ -39,17 +36,17 @@
     "name:cat_x_preferred":[
         "Mito"
     ],
-    "name:chi_x_preferred":[
-        "\u6c34\u6236\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mito"
     ],
     "name:dan_x_preferred":[
         "Mito"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mito"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mito"
@@ -60,16 +57,16 @@
     "name:est_x_preferred":[
         "Mito"
     ],
+    "name:eus_x_preferred":[
+        "Mito"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Mito"
     ],
-    "name:fre_x_preferred":[
-        "Mito"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mito"
     ],
     "name:gle_x_preferred":[
@@ -77,9 +74,6 @@
     ],
     "name:glg_x_preferred":[
         "Mito"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a9f\u0acb"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0c9f\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\ud1a0 \uc2dc"
     ],
@@ -123,7 +120,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0924\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mito"
     ],
     "name:mzn_x_preferred":[
@@ -132,14 +129,14 @@
     "name:nan_x_preferred":[
         "Mito-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Mito"
+    ],
     "name:nob_x_preferred":[
         "Mito"
     ],
     "name:oci_x_preferred":[
         "Mito"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062a\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Mito"
@@ -147,7 +144,7 @@
     "name:por_x_preferred":[
         "Mito"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mito"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +204,9 @@
     "name:war_x_preferred":[
         "Mito"
     ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6236\u5e02"
+    ],
     "name:zul_x_preferred":[
         "IMito"
     ],
@@ -245,7 +245,7 @@
         }
     ],
     "wof:id":102032265,
-    "wof:lastmodified":1553815725,
+    "wof:lastmodified":1561776103,
     "wof:name":"Mito",
     "wof:parent_id":85672801,
     "wof:placetype":"locality",

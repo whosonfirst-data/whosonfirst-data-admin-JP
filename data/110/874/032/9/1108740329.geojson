@@ -36,17 +36,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u771f\u5ca1\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Moka"
     ],
     "name:dan_x_preferred":[
         "Mooka"
     ],
-    "name:dut_x_preferred":[
-        "Moka"
+    "name:deu_x_preferred":[
+        "Mooka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mooka"
@@ -60,20 +60,17 @@
     "name:est_x_preferred":[
         "Mooka"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Mooka"
     ],
-    "name:fre_x_preferred":[
-        "Mooka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mooka"
     ],
     "name:glg_x_preferred":[
         "Mooka"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a95\u0abe"
@@ -105,7 +102,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Moka"
     ],
     "name:mzn_x_preferred":[
@@ -114,11 +111,11 @@
     "name:nan_x_preferred":[
         "Moka-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Moka"
+    ],
     "name:nob_x_preferred":[
         "Mooka"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06a9\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
     ],
     "name:pol_x_preferred":[
         "Mo'oka"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Mooka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mooka"
     ],
     "name:rup_x_preferred":[
@@ -177,6 +174,9 @@
     "name:war_x_preferred":[
         "Mooka"
     ],
+    "name:zho_x_preferred":[
+        "\u771f\u5ca1\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":1108740329,
-    "wof:lastmodified":1554759594,
+    "wof:lastmodified":1561776366,
     "wof:name":"Mooka",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

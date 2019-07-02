@@ -42,9 +42,6 @@
     "name:bak_x_preferred":[
         "\u041e\u0438\u0442\u0430"
     ],
-    "name:baq_x_preferred":[
-        "\u014cita"
-    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u0456\u0442\u0430"
     ],
@@ -60,14 +57,14 @@
     "name:cdo_x_preferred":[
         "\u014cita-g\u00e2ing"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5206\u53bf"
+    "name:ces_x_preferred":[
+        "Prefektura \u00d3ita"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0626\u06cc\u062a\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Prefektura \u00d3ita"
+    "name:cym_x_preferred":[
+        "\u014cita"
     ],
     "name:dan_x_preferred":[
         "Ooita-pr\u00e6fekturet"
@@ -76,10 +73,11 @@
         "Oita"
     ],
     "name:deu_x_variant":[
-        "Pr\u00e4fektur Oita"
+        "Pr\u00e4fektur Oita",
+        "Pr\u00e4fektur \u014cita"
     ],
-    "name:dut_x_preferred":[
-        "Oita"
+    "name:ell_x_preferred":[
+        "\u039f\u03bf\u03ca\u03c4\u03ac"
     ],
     "name:eng_x_preferred":[
         "Oita Prefecture"
@@ -97,6 +95,12 @@
     "name:est_x_preferred":[
         "\u014cita prefektuur"
     ],
+    "name:eus_x_preferred":[
+        "\u014cita"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0626\u06cc\u062a\u0627"
+    ],
     "name:fin_x_colloquial":[
         "Oitan Prefektuuri"
     ],
@@ -106,20 +110,14 @@
     "name:fra_x_preferred":[
         "Pr\u00e9fecture de Oita"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "pr\u00e9fecture d'\u014cita"
-    ],
-    "name:ger_x_preferred":[
-        "Pr\u00e4fektur \u014cita"
     ],
     "name:gle_x_preferred":[
         "Maoracht \u014cita"
     ],
     "name:glg_x_preferred":[
         "Prefectura de \u014cita"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bf\u03ca\u03c4\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a88\u0a9f\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
@@ -181,13 +179,13 @@
     "name:lit_x_preferred":[
         "Oitos prefekt\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0438\u0442\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0907\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0438\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah \u014cita"
     ],
     "name:nan_x_preferred":[
@@ -202,9 +200,6 @@
     "name:nor_x_preferred":[
         "Oita Prefektur"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0626\u06cc\u062a\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0648\u06cc\u0679\u0627"
     ],
@@ -214,7 +209,7 @@
     "name:por_x_preferred":[
         "Oita"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Prefectura \u014cita"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +221,7 @@
     "name:sin_x_preferred":[
         "\u0d95\u0dba\u0dd2\u0da7\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00d3ita"
     ],
     "name:slv_x_preferred":[
@@ -282,9 +277,6 @@
         "\u014cita"
     ],
     "name:war_x_preferred":[
-        "\u014cita"
-    ],
-    "name:wel_x_preferred":[
         "\u014cita"
     ],
     "name:yue_x_preferred":[
@@ -422,7 +414,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1553550389,
+    "wof:lastmodified":1561776194,
     "wof:name":"Oita",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

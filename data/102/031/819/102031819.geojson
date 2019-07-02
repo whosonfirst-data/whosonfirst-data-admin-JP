@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":3125382.525821,
+    "geom:area_square_m":3125382.525806,
     "geom:bbox":"130.424669495,31.3493078279,130.445691772,31.3673475917",
     "geom:latitude":31.358328,
     "geom:longitude":130.435181,
@@ -19,10 +19,7 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0627\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u77e5\u89bd\u753a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010ciran"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +28,16 @@
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0631\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:jpn_x_preferred":[
         "\u77e5\u89a7\u753a"
     ],
-    "name:mac_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:mkd_x_preferred":[
         "\u0427\u0438\u0440\u0430\u043d"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Chilanufuma"
+    ],
+    "name:zho_x_preferred":[
+        "\u77e5\u89bd\u753a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":102031819,
-    "wof:lastmodified":1527637055,
+    "wof:lastmodified":1561776082,
     "wof:name":"Chiran",
     "wof:parent_id":890533891,
     "wof:placetype":"locality",

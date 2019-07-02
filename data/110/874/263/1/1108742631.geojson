@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Gob\u014d"
     ],
-    "name:chi_x_preferred":[
-        "\u5fa1\u574a\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Gobo"
     ],
-    "name:dut_x_preferred":[
-        "Gobo"
+    "name:deu_x_preferred":[
+        "Gob\u014d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bc\u03c0\u03cc"
     ],
     "name:eng_x_preferred":[
         "Gobo"
@@ -56,20 +56,17 @@
         "Gob\u014d",
         "Gobo Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0628\u0648\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gob\u014d"
     ],
-    "name:fre_x_preferred":[
-        "Gob\u014d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gob\u014d"
     ],
     "name:glg_x_preferred":[
         "Gob\u014d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03bc\u03c0\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aac\u0acb"
@@ -104,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u092c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gobo"
     ],
     "name:mzn_x_preferred":[
@@ -113,11 +110,11 @@
     "name:nan_x_preferred":[
         "Gob\u00f4-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Gobo"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0628\u0648\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Gobo"
     ],
     "name:pol_x_preferred":[
         "Gob\u014d"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Gobo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gobou"
     ],
     "name:rup_x_preferred":[
@@ -173,6 +170,9 @@
     "name:war_x_preferred":[
         "Gob\u014d"
     ],
+    "name:zho_x_preferred":[
+        "\u5fa1\u574a\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1108742631,
-    "wof:lastmodified":1554759617,
+    "wof:lastmodified":1561776368,
     "wof:name":"Gobo",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

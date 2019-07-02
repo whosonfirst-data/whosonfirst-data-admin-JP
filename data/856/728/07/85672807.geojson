@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379616,
-    "geom:area_square_m":3797553700.627934,
+    "geom:area_square_m":3797553700.628307,
     "geom:bbox":"138.712295532,35.7536659241,139.899993896,36.2834014893",
     "geom:latitude":35.999784,
     "geom:longitude":139.344594,
@@ -36,17 +36,11 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0575\u057f\u0561\u0574\u0561"
-    ],
     "name:aze_x_preferred":[
         "Saytama"
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0439\u0442\u0430\u043c\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Saitama"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0421\u0430\u0439\u0442\u0430\u043c\u0430"
@@ -63,14 +57,14 @@
     "name:cdo_x_preferred":[
         "Saitama-g\u00e2ing"
     ],
-    "name:chi_x_preferred":[
-        "\u57fc\u7389\u7e23"
+    "name:ces_x_preferred":[
+        "Prefektura Saitama"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Prefektura Saitama"
+    "name:cym_x_preferred":[
+        "Saitama"
     ],
     "name:dan_x_preferred":[
         "Saitama-pr\u00e6fekturet"
@@ -78,8 +72,8 @@
     "name:deu_x_preferred":[
         "Pr\u00e4fektur Saitama"
     ],
-    "name:dut_x_preferred":[
-        "Saitama"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03ca\u03c4\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Saitama Prefecture"
@@ -94,23 +88,23 @@
     "name:est_x_preferred":[
         "Saitama prefektuur"
     ],
+    "name:eus_x_preferred":[
+        "Saitama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Saitaman Prefektuuri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Saitama"
-    ],
-    "name:ger_x_preferred":[
-        "Pr\u00e4fektur Saitama"
     ],
     "name:gle_x_preferred":[
         "Maoracht Saitama"
     ],
     "name:glg_x_preferred":[
         "Prefectura de Saitama"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03ca\u03c4\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac8\u0aa4\u0abe\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
@@ -126,6 +120,9 @@
     ],
     "name:hun_x_preferred":[
         "Szaitama prefekt\u00fara"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0575\u057f\u0561\u0574\u0561"
     ],
     "name:ilo_x_preferred":[
         "Saitama"
@@ -166,20 +163,23 @@
     "name:lit_x_preferred":[
         "Saitamos prefekt\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0458\u0442\u0430\u043c\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0948\u0924\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Saitama"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0458\u0442\u0430\u043c\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0439\u0442\u0430\u043c\u0430 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Saitama"
+    ],
     "name:nan_x_preferred":[
         "Saitama-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Saitama"
     ],
     "name:nob_x_preferred":[
         "Saitama"
@@ -193,9 +193,6 @@
     "name:oci_x_preferred":[
         "Prefectura de Saitama"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u0627\u0626\u06cc\u0679\u0627\u0645\u0627"
     ],
@@ -205,7 +202,7 @@
     "name:por_x_preferred":[
         "Saitama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Prefectura Saitama"
     ],
     "name:rus_x_preferred":[
@@ -217,7 +214,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dba\u0dd2\u0da7\u0dcf\u0db8\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saitama"
     ],
     "name:slv_x_preferred":[
@@ -278,9 +275,6 @@
     "name:war_x_preferred":[
         "Saitama"
     ],
-    "name:wel_x_preferred":[
-        "Saitama"
-    ],
     "name:wuu_x_preferred":[
         "\u57fc\u7389\u53bf"
     ],
@@ -289,6 +283,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fc\u7389\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u57fc\u7389\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -416,7 +413,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1553814802,
+    "wof:lastmodified":1561776189,
     "wof:name":"Saitama",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

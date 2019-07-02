@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u062a\u0633\u0648\u06a9\u0627\u06cc\u062c\u064a\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Hatsukaichi"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u099f\u09b8\u09cb\u0995\u09be\u0987\u099b\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u5eff\u65e5\u5e02\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hacukai\u010di"
     ],
     "name:dan_x_preferred":[
         "Hatsukaichi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hatsukaichi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c4\u03c3\u03bf\u03c5\u03ba\u03b1\u0390\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hatsukaichi"
@@ -61,20 +58,20 @@
     "name:epo_x_preferred":[
         "Hacukai\u0109i"
     ],
+    "name:eus_x_preferred":[
+        "Hatsukaichi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062a\u0633\u0648\u06a9\u0627\u0627\u06cc\u0686\u06cc\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hatsukaichi"
     ],
-    "name:fre_x_preferred":[
-        "Hatsukaichi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hatsukaichi"
     ],
     "name:glg_x_preferred":[
         "Hatsukaichi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c4\u03c3\u03bf\u03c5\u03ba\u03b1\u0390\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0a9f\u0acd\u0ab8\u0ac1\u0a95\u0ac7\u0a9a\u0ac0"
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0924\u094d\u0938\u0941\u091a\u0940\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hatsukaichi"
     ],
     "name:mzn_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Hatukaiti-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hatsukaichi"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u062a\u0633\u0648\u06a9\u0627\u0627\u06cc\u0686\u06cc\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Hatsukaichi"
     ],
     "name:pol_x_preferred":[
         "Hatsukaichi"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Hatsukaichi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hatsukaichi"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     "name:war_x_preferred":[
         "Hatsukaichi"
     ],
+    "name:zho_x_preferred":[
+        "\u5eff\u65e5\u5e02\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108742797,
-    "wof:lastmodified":1554759620,
+    "wof:lastmodified":1561776361,
     "wof:name":"Hatsukaichi",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

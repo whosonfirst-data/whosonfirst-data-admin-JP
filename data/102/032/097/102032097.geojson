@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002513,
-    "geom:area_square_m":25110530.534995,
+    "geom:area_square_m":25110530.535008,
     "geom:bbox":"140.1469694,36.0622870685,140.279050077,36.1335793961",
     "geom:latitude":36.099725,
     "geom:longitude":140.200569,
@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u062a\u0634\u064a-\u0623\u0648\u0631\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0578\u0582\u057f\u056b\u0578\u0582\u0580\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09c1\u09c1\u099a\u09bf\u0989\u09b0\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u571f\u6d66\u5e02"
     ],
     "name:dan_x_preferred":[
         "Tsuchiura"
@@ -37,8 +31,8 @@
     "name:deu_x_preferred":[
         "Tsuchiura"
     ],
-    "name:dut_x_preferred":[
-        "Tsuchiura"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03c4\u03c3\u03b9\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tsuchiura"
@@ -46,23 +40,17 @@
     "name:fas_x_preferred":[
         "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tsuchiura"
     ],
     "name:fra_x_preferred":[
         "Tsuchiura"
     ],
-    "name:fre_x_preferred":[
-        "Tsuchiura"
-    ],
-    "name:ger_x_preferred":[
-        "Tsuchiura"
-    ],
     "name:glg_x_preferred":[
         "Tsuchiura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c5\u03c4\u03c3\u03b9\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac2\u0a9a\u0ac0\u0ab0\u0abe"
@@ -78,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Cucsiura"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0578\u0582\u057f\u056b\u0578\u0582\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Tsuchiura"
@@ -106,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u091a\u0940\u0909\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tsuchiura"
     ],
     "name:mzn_x_preferred":[
@@ -121,9 +112,6 @@
     "name:nob_x_preferred":[
         "Tsuchirua"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tsuchiura"
     ],
@@ -131,9 +119,6 @@
         "Tsuchiura"
     ],
     "name:ron_x_preferred":[
-        "Tsuchiura"
-    ],
-    "name:rum_x_preferred":[
         "Tsuchiura"
     ],
     "name:rus_x_preferred":[
@@ -240,7 +225,7 @@
         }
     ],
     "wof:id":102032097,
-    "wof:lastmodified":1527637849,
+    "wof:lastmodified":1561776100,
     "wof:name":"Tsuchiura",
     "wof:parent_id":1108740273,
     "wof:placetype":"locality",

@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0648\u0633\u0627\u0643\u064a\u060c \u0622\u0648\u0645\u0648\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Hirosaki"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09b0\u09cb\u09b8\u09be\u0995\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u5f18\u524d\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hirosaki"
     ],
     "name:dan_x_preferred":[
         "Hirosaki"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hirosaki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03c1\u03bf\u03c3\u03ac\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hirosaki"
@@ -64,23 +61,20 @@
     "name:est_x_preferred":[
         "Hirosaki"
     ],
+    "name:eus_x_preferred":[
+        "Hirosaki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0631\u0648\u0632\u0627\u06a9\u06cc\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Hirosaki"
     ],
-    "name:fre_x_preferred":[
-        "Hirosaki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d8\u10e0\u10dd\u10e1\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hirosaki"
     ],
     "name:glg_x_preferred":[
         "Hirosaki"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03c1\u03bf\u03c3\u03ac\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0ab0\u0acb\u0ab8\u0abe\u0a95\u0ac0"
@@ -103,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cbf\u0cb0\u0ccb\u0cb8\u0cbe\u0c95\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10e0\u10dd\u10e1\u10d0\u10d9\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0438\u0440\u043e\u0441\u0430\u043a\u0438 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -118,7 +115,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093f\u0930\u094b\u0938\u093e\u0915\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hirosaki"
     ],
     "name:mzn_x_preferred":[
@@ -127,11 +124,11 @@
     "name:nan_x_preferred":[
         "Hirosaki-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hirosaki"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0631\u0648\u0632\u0627\u06a9\u06cc\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    "name:nob_x_preferred":[
+        "Hirosaki"
     ],
     "name:pol_x_preferred":[
         "Hirosaki"
@@ -139,7 +136,7 @@
     "name:por_x_preferred":[
         "Hirosaki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hirosaki"
     ],
     "name:rup_x_preferred":[
@@ -193,6 +190,9 @@
     "name:war_x_preferred":[
         "Hirosaki"
     ],
+    "name:zho_x_preferred":[
+        "\u5f18\u524d\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -229,7 +229,7 @@
         }
     ],
     "wof:id":1108739867,
-    "wof:lastmodified":1554759586,
+    "wof:lastmodified":1561776374,
     "wof:name":"Hirosaki",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

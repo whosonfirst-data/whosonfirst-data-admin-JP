@@ -36,14 +36,14 @@
     "name:ben_x_preferred":[
         "\u0987\u099c\u09c1\u09ae\u09bf\u0993\u09ce\u09b8\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u6cc9\u5927\u6d25\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Izumi\u014dtsu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Izumi\u014dtsu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b6\u03bf\u03c5\u03bc\u03b9\u03cc\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Izumiotsu"
@@ -53,20 +53,17 @@
         "Izumi\u014dtsu",
         "Izumiotsu Shi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0648\u0645\u06cc\u200c\u0627\u0648\u062a\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Izumi\u014dtsu"
     ],
-    "name:fre_x_preferred":[
-        "Izumi\u014dtsu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Izumi\u014dtsu"
     ],
     "name:glg_x_preferred":[
         "Izumi\u014dtsu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b6\u03bf\u03c5\u03bc\u03b9\u03cc\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9d\u0ac1\u0aae\u0abf\u0a93\u0aa4\u0acd\u0ab8\u0ac1"
@@ -98,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u091d\u0942\u092e\u094b\u0924\u094d\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Izumiotsu"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +104,11 @@
     "name:nan_x_preferred":[
         "Izumi\u00f4tu-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Izumi\u014dtsu"
+    ],
     "name:nob_x_preferred":[
         "Izumiotsu"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0632\u0648\u0645\u06cc\u200c\u0627\u0648\u062a\u0633\u0648"
     ],
     "name:pol_x_preferred":[
         "Izumi\u014dtsu"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Izumiotsu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Izumiotsu"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:war_x_preferred":[
         "Izumi\u014dtsu"
     ],
+    "name:zho_x_preferred":[
+        "\u6cc9\u5927\u6d25\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1108742449,
-    "wof:lastmodified":1554759614,
+    "wof:lastmodified":1561776350,
     "wof:name":"Izumiotsu",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

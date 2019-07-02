@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000308,
-    "geom:area_square_m":3121818.350224,
+    "geom:area_square_m":3121818.350226,
     "geom:bbox":"132.951106146,34.8273378963,132.972966218,34.8453618237",
     "geom:latitude":34.83635,
     "geom:longitude":132.962036,
@@ -23,17 +23,14 @@
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ac\u09be\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5e84\u539f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Shobara"
     ],
     "name:deu_x_preferred":[
         "Sh\u014dbara"
     ],
-    "name:dut_x_preferred":[
-        "Sh\u014dbara"
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03bc\u03c0\u03b1\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sh\u014dbara"
@@ -47,17 +44,8 @@
     "name:fra_x_preferred":[
         "Sh\u014dbara"
     ],
-    "name:fre_x_preferred":[
-        "Sh\u014dbara"
-    ],
-    "name:ger_x_preferred":[
-        "Sh\u014dbara"
-    ],
     "name:glg_x_preferred":[
         "Sh\u014dbara"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03bc\u03c0\u03b1\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0acb\u0aac\u0abe\u0ab0\u0abe"
@@ -95,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u0936\u094b\u092c\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shobara"
     ],
     "name:mzn_x_preferred":[
@@ -107,11 +95,11 @@
     "name:nld_x_preferred":[
         "Shobara"
     ],
+    "name:nld_x_variant":[
+        "Sh\u014dbara"
+    ],
     "name:nob_x_preferred":[
         "Shobara"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0648\u0628\u0627\u0631\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Sh\u014dbara"
@@ -119,7 +107,7 @@
     "name:por_x_preferred":[
         "Shobara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sh\u014dbara"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +201,7 @@
         }
     ],
     "wof:id":102031369,
-    "wof:lastmodified":1527637061,
+    "wof:lastmodified":1561776090,
     "wof:name":"Sh\u014dbara",
     "wof:parent_id":1108742795,
     "wof:placetype":"locality",
