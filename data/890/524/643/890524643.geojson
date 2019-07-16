@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u063a\u0627\u060c \u0623\u0643\u064a\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u063a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0997\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Oga"
     ],
     "name:dan_x_preferred":[
         "Oga"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u06af\u0627\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Oga"
@@ -98,11 +110,17 @@
     "name:kor_x_preferred":[
         "\uc624\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Oga"
     ],
     "name:lit_x_preferred":[
         "Oga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7537\u9e7f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0917\u093e"
@@ -112,6 +130,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u06af\u0627\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Oga-chh\u012b"
@@ -139,6 +160,9 @@
     ],
     "name:spa_x_preferred":[
         "Oga"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0433\u0430"
     ],
     "name:swe_x_preferred":[
         "Oga"
@@ -170,11 +194,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u06af\u0627\u060c \u0627\u06a9\u06cc\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u06af\u0627"
+    ],
     "name:vie_x_preferred":[
         "Oga"
     ],
     "name:war_x_preferred":[
         "Oga"
+    ],
+    "name:yue_x_preferred":[
+        "\u7537\u9e7f"
     ],
     "name:zho_x_preferred":[
         "\u7537\u9e7f\u5e02"
@@ -224,7 +254,7 @@
         }
     ],
     "wof:id":890524643,
-    "wof:lastmodified":1561776477,
+    "wof:lastmodified":1563296643,
     "wof:name":"Oga",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

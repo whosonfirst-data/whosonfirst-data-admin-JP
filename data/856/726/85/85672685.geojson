@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u062a\u0648\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u062a\u0648\u0631\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Tottori"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u0430\u0442\u043e\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09a4\u09cd\u09a4\u09cb\u09b0\u09bf \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -51,6 +57,9 @@
     ],
     "name:cdo_x_preferred":[
         "Tottori-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Tottori-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Tottori"
@@ -96,7 +105,8 @@
         "Pr\u00e9fecture de Tottori"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Tottori"
+        "pr\u00e9fecture de Tottori",
+        "Tottori"
     ],
     "name:gle_x_preferred":[
         "Maoracht Tottori"
@@ -109,6 +119,9 @@
     ],
     "name:hak_x_preferred":[
         "Tottori-yen"
+    ],
+    "name:hak_x_variant":[
+        "Ti\u00e2u-tsh\u00ed-yen"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Tottori"
@@ -125,8 +138,14 @@
     "name:hun_x_preferred":[
         "Tottori prefekt\u00fara"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0569\u0569\u0578\u0580\u056b"
+    ],
     "name:ilo_x_preferred":[
         "Prepektura ti Tottori"
+    ],
+    "name:ilo_x_variant":[
+        "Tottori"
     ],
     "name:ind_x_preferred":[
         "Prefektur Tottori"
@@ -136,6 +155,9 @@
     ],
     "name:jav_x_preferred":[
         "Pr\u00e9f\u00e8ktur Tottori"
+    ],
+    "name:jav_x_variant":[
+        "Prefektur Tottori"
     ],
     "name:jpn_x_preferred":[
         "\u9ce5\u53d6\u770c"
@@ -154,11 +176,17 @@
     "name:kor_x_preferred":[
         "\ub3d7\ud1a0\ub9ac \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub3d7\ud1a0\ub9ac\ud604"
+    ],
     "name:lav_x_preferred":[
         "Totori prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Totorio prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ce5\u53d6\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0924\u094b\u0930\u0940"
@@ -211,6 +239,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u0442\u043e\u0440\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0442\u043e\u0440\u0438"
+    ],
     "name:sun_x_preferred":[
         "Tottori Prefecture"
     ],
@@ -235,6 +266,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e17\u0e15\u0e42\u0e15\u0e30\u0e23\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e17\u0e15\u0e42\u0e15\u0e23\u0e34"
+    ],
     "name:tur_x_preferred":[
         "Tottori"
     ],
@@ -256,6 +290,9 @@
     ],
     "name:war_x_preferred":[
         "Tottori"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9e1f\u53d6\u53bf"
     ],
     "name:yue_x_preferred":[
         "\u9ce5\u53d6\u7e23"
@@ -390,7 +427,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776187,
+    "wof:lastmodified":1563291625,
     "wof:name":"Tottori",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

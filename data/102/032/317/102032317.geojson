@@ -24,8 +24,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0627\u0648\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0643\u0627\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0995\u09be\u0989\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "\u014ckawa-shi"
+    ],
+    "name:ces_x_preferred":[
+        "\u00d3kawa"
     ],
     "name:dan_x_preferred":[
         "Okawa"
@@ -63,6 +75,9 @@
     "name:hak_x_preferred":[
         "\u014ckawa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05d0\u05d5\u05d5\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u0915\u093e\u0935\u093e"
     ],
@@ -71,6 +86,9 @@
     ],
     "name:ita_x_preferred":[
         "Okawa"
+    ],
+    "name:ita_x_variant":[
+        "\u014ckawa"
     ],
     "name:jpn_x_preferred":[
         "\u5927\u5ddd\u5e02"
@@ -84,11 +102,17 @@
     "name:kor_x_preferred":[
         "\uc624\uce74\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uce74\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Okava"
     ],
     "name:lit_x_preferred":[
         "Okava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5927\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u094d\u0915\u093e\u0935\u093e"
@@ -98,6 +122,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u06a9\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "\u00d4kawa-chh\u012b"
@@ -159,6 +186,9 @@
     "name:war_x_preferred":[
         "\u014ckawa"
     ],
+    "name:yue_x_preferred":[
+        "\u5927\u5ddd"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u5ddd\u5e02"
     ],
@@ -207,7 +237,7 @@
         }
     ],
     "wof:id":102032317,
-    "wof:lastmodified":1561776103,
+    "wof:lastmodified":1563290268,
     "wof:name":"\u014ckawa",
     "wof:parent_id":890524587,
     "wof:placetype":"locality",

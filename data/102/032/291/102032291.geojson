@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0627\u0648\u0643\u0627\u060c \u0646\u064a\u064a\u063a\u0627\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u063a\u0627\u0648\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0642\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0433\u0430\u043e\u043a\u0430"
     ],
@@ -31,6 +37,12 @@
         "\u041d\u0430\u0433\u0430\u043e\u043a\u0430"
     ],
     "name:cat_x_preferred":[
+        "Nagaoka"
+    ],
+    "name:ceb_x_preferred":[
+        "Nagaoka"
+    ],
+    "name:ces_x_preferred":[
         "Nagaoka"
     ],
     "name:dan_x_preferred":[
@@ -45,16 +57,25 @@
     "name:eng_x_preferred":[
         "Nagaoka"
     ],
+    "name:epo_x_preferred":[
+        "Nagaoka"
+    ],
     "name:eus_x_preferred":[
         "Nagaoka"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nagaoka"
     ],
     "name:fra_x_preferred":[
+        "Nagaoka"
+    ],
+    "name:gle_x_preferred":[
         "Nagaoka"
     ],
     "name:glg_x_preferred":[
@@ -96,11 +117,17 @@
     "name:kor_x_preferred":[
         "\ub098\uac00\uc624\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\uac00\uc624\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Nagaoka"
     ],
     "name:lit_x_preferred":[
         "Nagaoka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9577\u5ca1\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u093e\u0913\u0915\u093e"
@@ -110,6 +137,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0627\u06af\u0627\u0626\u0648\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Nagaoka-chh\u012b"
@@ -174,11 +204,17 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0648\u06a9\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u0627\u06af\u0627\u0648\u06a9\u0627"
+    ],
     "name:vie_x_preferred":[
         "Nagaoka"
     ],
     "name:war_x_preferred":[
         "Nagaoka"
+    ],
+    "name:yue_x_preferred":[
+        "\u9577\u5ca1"
     ],
     "name:zho_x_preferred":[
         "\u9577\u5ca1\u5e02"
@@ -219,7 +255,7 @@
         }
     ],
     "wof:id":102032291,
-    "wof:lastmodified":1561776103,
+    "wof:lastmodified":1563290254,
     "wof:name":"Shimoshinj\u014d-nagaoka",
     "wof:parent_id":890520409,
     "wof:placetype":"locality",

@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0634\u064a\u0643\u0627\u063a\u0627\u060c \u062a\u0648\u062a\u0634\u064a\u063a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0634\u064a\u0643\u0627\u063a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u06cc\u06a9\u0627\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b6\u09bf\u0995\u09be\u0997\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ashikaga"
     ],
     "name:ces_x_preferred":[
         "A\u0161ikaga"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Ashikaga"
@@ -91,11 +103,17 @@
     "name:kor_x_preferred":[
         "\uc544\uc2dc\uce74\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc2dc\uce74\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "A\u0161ikaga"
     ],
     "name:lit_x_preferred":[
         "A\u0161ikaga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8db3\u5229\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0936\u093f\u0915\u0917\u093e"
@@ -105,6 +123,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u0634\u06cc\u06a9\u0627\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Asikaga-chh\u012b"
@@ -175,6 +196,9 @@
     "name:war_x_preferred":[
         "Ashikaga"
     ],
+    "name:yue_x_preferred":[
+        "\u8db3\u5229"
+    ],
     "name:zho_x_preferred":[
         "\u8db3\u5229\u5e02"
     ],
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":1108740323,
-    "wof:lastmodified":1561776366,
+    "wof:lastmodified":1563294494,
     "wof:name":"Ashikaga",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

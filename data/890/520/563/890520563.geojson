@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u0634\u064a\u0632\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0643\u064a\u0646\u0648\u0647\u0627\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06a9\u06cc\u0646\u0648\u0647\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0995\u09bf\u09a8\u09cb\u09b9\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Makinohara Shi"
     ],
     "name:ces_x_preferred":[
         "Makinohara"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06a9\u06cc\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u06a9\u06cc\u0646\u0648\u0647\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Makinohara"
@@ -95,11 +107,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud0a4\ub178\ud558\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ud0a4\ub178\ud558\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Makinohara"
     ],
     "name:lit_x_preferred":[
         "Makinochara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7267\u4e4b\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0945\u0915\u0940\u0928\u0949\u0939\u093e\u0930\u093e"
@@ -109,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u06a9\u06cc\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0627\u06a9\u06cc\u0646\u0648\u0647\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Makinohara-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Makinohara"
     ],
+    "name:yue_x_preferred":[
+        "\u7267\u4e4b\u539f"
+    ],
     "name:zho_x_preferred":[
         "\u7267\u4e4b\u539f\u5e02"
     ],
@@ -211,7 +235,7 @@
         }
     ],
     "wof:id":890520563,
-    "wof:lastmodified":1561776457,
+    "wof:lastmodified":1563296152,
     "wof:name":"Makinohara",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

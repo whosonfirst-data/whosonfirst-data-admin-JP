@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0648\u0634\u064a\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Xirosima"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0425\u0456\u0440\u0430\u0441\u0456\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u0440\u0430\u0441\u0456\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09b0\u09cb\u09b6\u09bf\u09ae\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -57,6 +63,9 @@
     ],
     "name:cdo_x_preferred":[
         "Hiroshima-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Hiroshima-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Hiro\u0161ima"
@@ -98,8 +107,14 @@
     "name:fin_x_preferred":[
         "Hiroshiman Prefektuuri"
     ],
+    "name:fin_x_variant":[
+        "Hiroshiman prefektuuri"
+    ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Hiroshima"
+    ],
+    "name:fra_x_variant":[
+        "Hiroshima"
     ],
     "name:gle_x_preferred":[
         "Maoracht Hiroshima"
@@ -124,6 +139,9 @@
     ],
     "name:hun_x_preferred":[
         "Hirosima prefekt\u00fara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0565\u0580\u0578\u057d\u056b\u0574\u0561"
     ],
     "name:ilo_x_preferred":[
         "Hiroshima"
@@ -159,13 +177,17 @@
         "\ud788\ub85c\uc2dc\ub9c8\ucf04"
     ],
     "name:kor_x_variant":[
-        "\ud788\ub85c\uc2dc\ub9c8 \ud604"
+        "\ud788\ub85c\uc2dc\ub9c8 \ud604",
+        "\ud788\ub85c\uc2dc\ub9c8\ud604"
     ],
     "name:lav_x_preferred":[
         "Hirosimas prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Hirosimos prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5ee3\u5cf6\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u0930\u094b\u0936\u093f\u092e\u093e"
@@ -236,6 +258,9 @@
     "name:swe_x_preferred":[
         "Hiroshima Prefektur"
     ],
+    "name:swe_x_variant":[
+        "Hiroshima prefektur"
+    ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bbf\u0bb0\u0bcb\u0bb7\u0bbf\u0bae\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
@@ -250,6 +275,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2e\u0e34\u0e42\u0e23\u0e30\u0e0a\u0e34\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2e\u0e34\u0e42\u0e23\u0e0a\u0e34\u0e21\u0e30"
     ],
     "name:tur_x_preferred":[
         "Hiro\u015fima"
@@ -410,7 +438,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776187,
+    "wof:lastmodified":1563291626,
     "wof:name":"Hiroshima",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

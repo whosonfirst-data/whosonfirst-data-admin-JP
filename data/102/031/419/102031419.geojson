@@ -17,8 +17,14 @@
     "mps:longitude":138.202515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sagara"
+    ],
     "name:eng_x_preferred":[
         "Sagara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06af\u0627\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Sagara"
@@ -31,6 +37,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u06af\u0631\u0627\u060c \u0634\u0632\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u06af\u0631\u0627"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":102031419,
-    "wof:lastmodified":1561776091,
+    "wof:lastmodified":1563290105,
     "wof:name":"Sagara",
     "wof:parent_id":890520563,
     "wof:placetype":"locality",

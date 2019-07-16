@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0643\u064a \u063a\u064a\u0641\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Seki-shi"
     ],
     "name:ces_x_preferred":[
         "Seki"
@@ -39,6 +45,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u06a9\u06cc\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Seki"
@@ -64,17 +73,26 @@
     "name:jpn_x_preferred":[
         "\u95a2"
     ],
+    "name:jpn_x_variant":[
+        "\u95a2\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0c95\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\uc138\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc138\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Seki"
     ],
     "name:lit_x_preferred":[
         "Sekis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u95dc\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0915\u0940"
@@ -84,6 +102,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u06a9\u06cc\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Seki-chh\u012b"
@@ -151,6 +172,9 @@
     "name:war_x_preferred":[
         "Seki"
     ],
+    "name:yue_x_preferred":[
+        "\u95dc\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u5173\u5e02"
     ],
@@ -192,7 +216,7 @@
         }
     ],
     "wof:id":102031401,
-    "wof:lastmodified":1561776083,
+    "wof:lastmodified":1563290024,
     "wof:name":"Sekimachi",
     "wof:parent_id":1108742127,
     "wof:placetype":"locality",

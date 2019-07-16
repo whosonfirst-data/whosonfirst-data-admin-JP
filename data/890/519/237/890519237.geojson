@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u0648\u0643\u0627\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0628\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ac\u09cb\u0995\u09be\u0989\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Shibukawa-shi"
     ],
     "name:ces_x_preferred":[
         "\u0160ibukawa"
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0628\u0648\u06a9\u0627\u0648\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0628\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Shibukawa"
@@ -72,11 +81,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\ubd80\uce74\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ubd80\uce74\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u0160ibukava"
     ],
     "name:lit_x_preferred":[
         "\u0160ibukava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6f80\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u092c\u0941\u0915\u093e\u0935\u093e"
@@ -86,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u0628\u0648\u06a9\u0627\u0648\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0634\u06cc\u0628\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Sibukawa-chh\u012b"
@@ -147,6 +165,9 @@
     "name:war_x_preferred":[
         "Shibukawa"
     ],
+    "name:yue_x_preferred":[
+        "\u6f80\u5ddd"
+    ],
     "name:zho_x_preferred":[
         "\u6f80\u5ddd\u5e02"
     ],
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":890519237,
-    "wof:lastmodified":1561776449,
+    "wof:lastmodified":1563295995,
     "wof:name":"Shibukawa",
     "wof:parent_id":1108740363,
     "wof:placetype":"locality",

@@ -18,8 +18,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u0647\u0627\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u06a9\u0627\u0647\u0627\u0634\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0995\u09be\u09b9\u09be\u09b8\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u0995\u09be\u09b9\u09be\u09b6\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Takahashi Shi"
+    ],
+    "name:ces_x_preferred":[
+        "Takaha\u0161i"
     ],
     "name:dan_x_preferred":[
         "Takahashi"
@@ -38,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u0647\u0627\u0634\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u0647\u0627\u0634\u06cc"
     ],
     "name:fin_x_preferred":[
         "Takahashi"
@@ -72,11 +87,17 @@
     "name:kor_x_preferred":[
         "\ub2e4\uce74\ud558\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\uce74\ud558\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Taka\u0161i"
     ],
     "name:lit_x_preferred":[
         "Takaha\u0161is"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u6881\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093e\u0939\u093e\u0936\u0940"
@@ -86,6 +107,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u0647\u0627\u0634\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u0647\u0627\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Takahasi-chh\u012b"
@@ -150,6 +174,9 @@
     "name:war_x_preferred":[
         "Takahashi"
     ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u6881"
+    ],
     "name:zho_x_preferred":[
         "\u9ad8\u6881\u5e02"
     ],
@@ -186,7 +213,7 @@
         }
     ],
     "wof:id":890531755,
-    "wof:lastmodified":1561776463,
+    "wof:lastmodified":1563296325,
     "wof:name":"Takahashi",
     "wof:parent_id":890524339,
     "wof:placetype":"locality",

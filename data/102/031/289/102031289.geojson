@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0648\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u064a\u0648\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06cc\u0648\u062a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0451\u0442\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09af\u09bc\u09cb\u099f\u09be"
     ],
@@ -31,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Toyota"
+    ],
+    "name:ceb_x_preferred":[
+        "Toyota-shi"
     ],
     "name:ces_x_preferred":[
         "Tojota"
@@ -59,10 +71,16 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Toyota"
     ],
     "name:fra_x_preferred":[
+        "Toyota"
+    ],
+    "name:frr_x_preferred":[
         "Toyota"
     ],
     "name:gle_x_preferred":[
@@ -107,6 +125,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc694\ud0c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc694\ud0c0\uc2dc"
+    ],
     "name:lat_x_preferred":[
         "Toyota"
     ],
@@ -115,6 +136,9 @@
     ],
     "name:lit_x_preferred":[
         "Tojota"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8c50\u7530\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u092f\u094b\u091f\u093e"
@@ -127,6 +151,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u062a\u0627"
     ],
     "name:nan_x_preferred":[
         "Toyota-chh\u012b"
@@ -215,11 +242,17 @@
     "name:urd_x_preferred":[
         "\u0679\u0648\u06cc\u0648\u0679\u0627\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0679\u0648\u06cc\u0648\u0679\u0627"
+    ],
     "name:vie_x_preferred":[
         "Toyota"
     ],
     "name:war_x_preferred":[
         "Toyota"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c50\u7530\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "Toyota-chh\u012b"
@@ -270,7 +303,7 @@
         }
     ],
     "wof:id":102031289,
-    "wof:lastmodified":1561776081,
+    "wof:lastmodified":1563290006,
     "wof:name":"Toyota",
     "wof:parent_id":890520043,
     "wof:placetype":"locality",

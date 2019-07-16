@@ -19,8 +19,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u0648\u0643\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u06a9\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09be\u0993\u0995\u09be"
+    ],
+    "name:ces_x_preferred":[
+        "Takaoka"
+    ],
+    "name:cym_x_preferred":[
+        "Takaoka"
     ],
     "name:dan_x_preferred":[
         "Takaoka"
@@ -40,6 +49,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u0626\u0648\u06a9\u0627\u060c \u062a\u0648\u06cc\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Takaoka"
     ],
@@ -54,6 +66,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0915\u093e\u0913\u0902\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u056f\u0561\u0578\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Takaoka"
@@ -73,11 +88,17 @@
     "name:kor_x_preferred":[
         "\ub2e4\uce74\uc624\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\uce74\uc624\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Takaoka"
     ],
     "name:lit_x_preferred":[
         "Takaoka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u5ca1\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093e\u0913\u0915\u093e"
@@ -85,8 +106,14 @@
     "name:msa_x_preferred":[
         "Takaoka"
     ],
+    "name:mya_x_preferred":[
+        "\u1010\u1001\u1021\u102d\u102f\u1001\u104a \u1010\u102d\u102f\u101a\u102c\u1019"
+    ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u0626\u0648\u06a9\u0627\u060c \u062a\u0648\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u0626\u0648\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Takaoka-chh\u012b"
@@ -114,6 +141,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0d9a\u0d95\u0d9a\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Takaoka"
     ],
     "name:spa_x_preferred":[
         "Takaoka"
@@ -153,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Takaoka"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u5ca1"
     ],
     "name:zho_x_preferred":[
         "\u9ad8\u5ca1\u5e02"
@@ -282,7 +315,7 @@
         }
     ],
     "wof:id":890519981,
-    "wof:lastmodified":1561776450,
+    "wof:lastmodified":1563296015,
     "wof:name":"Takaoka",
     "wof:parent_id":890519673,
     "wof:placetype":"locality",

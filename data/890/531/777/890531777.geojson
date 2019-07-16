@@ -18,8 +18,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u062a\u0648\u060c \u0643\u0648\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09cb\u09a4\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Muroto-misakicho"
+    ],
+    "name:ces_x_preferred":[
+        "Muroto"
     ],
     "name:dan_x_preferred":[
         "Muroto"
@@ -35,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u0648\u062a\u0648\u060c \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Muroto"
@@ -60,17 +75,26 @@
     "name:jpn_x_preferred":[
         "\u5ba4\u6238\u5cac\u753a"
     ],
+    "name:jpn_x_variant":[
+        "\u5ba4\u6238\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0cb0\u0ccb\u0c9f\u0cca"
     ],
     "name:kor_x_preferred":[
         "\ubb34\ub85c\ud1a0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ub85c\ud1a0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Murota"
     ],
     "name:lit_x_preferred":[
         "Murotas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5ba4\u6236\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0930\u094b\u091f\u094b"
@@ -80,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0631\u0648\u062a\u0648\u060c \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
     ],
     "name:nan_x_preferred":[
         "Muroto-chh\u012b"
@@ -150,6 +177,9 @@
     "name:war_x_preferred":[
         "Muroto"
     ],
+    "name:yue_x_preferred":[
+        "\u5ba4\u6236"
+    ],
     "name:zho_x_preferred":[
         "\u5ba4\u6236\u5e02"
     ],
@@ -182,7 +212,7 @@
         }
     ],
     "wof:id":890531777,
-    "wof:lastmodified":1561776464,
+    "wof:lastmodified":1563296360,
     "wof:name":"Muroto",
     "wof:parent_id":85672717,
     "wof:placetype":"locality",

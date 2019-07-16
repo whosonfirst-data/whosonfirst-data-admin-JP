@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627\u0648\u0627\u0631\u0627\u060c \u062a\u0648\u062a\u0634\u064a\u063a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u062a\u0627\u0648\u0627\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0648\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u099f\u09be\u0993\u09af\u09bc\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "\u014ctawara"
+    ],
+    "name:ces_x_preferred":[
+        "\u00d3tawara"
     ],
     "name:dan_x_preferred":[
         "Otawara"
@@ -58,6 +70,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u062a\u0627\u0648\u0627\u0631\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u062a\u0627\u0648\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "\u014ctawara"
@@ -93,11 +108,17 @@
     "name:kor_x_preferred":[
         "\uc624\ud0c0\uc640\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud0c0\uc640\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Otavara"
     ],
     "name:lit_x_preferred":[
         "Otavara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5927\u7530\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u091f\u093e\u0935\u093e"
@@ -107,6 +128,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u062a\u0627\u0648\u0627\u0631\u0627\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u062a\u0627\u0648\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "\u00d4tawara-chh\u012b"
@@ -180,6 +204,9 @@
     "name:war_x_preferred":[
         "\u014ctawara"
     ],
+    "name:yue_x_preferred":[
+        "\u5927\u7530\u539f"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u7530\u539f\u5e02"
     ],
@@ -230,7 +257,7 @@
         }
     ],
     "wof:id":890524525,
-    "wof:lastmodified":1561776487,
+    "wof:lastmodified":1563296744,
     "wof:name":"Otawara",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

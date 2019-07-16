@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0634\u064a\u0646\u0648\u0645\u0627\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0634\u06cc\u0646\u0648\u0645\u0627\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09b6\u09bf\u09a8\u09cb\u09ae\u09be\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Ishinomaki"
+    ],
+    "name:ces_x_preferred":[
+        "I\u0161inomaki"
     ],
     "name:dan_x_preferred":[
         "Ishinomaki"
@@ -47,6 +56,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u0646\u0648\u0645\u0627\u06a9\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u0646\u0648\u0645\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ishinomaki"
     ],
@@ -64,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0907\u0936\u093f\u0928\u094b\u092e\u093e\u0915\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u056b\u0576\u0578\u0574\u0561\u056f\u056b"
     ],
     "name:ind_x_preferred":[
         "Ishinomaki"
@@ -85,20 +100,32 @@
     "name:kor_x_preferred":[
         "\uc774\uc2dc\ub178\ub9c8\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc2dc\ub178\ub9c8\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "I\u0161inomaki"
     ],
     "name:lit_x_preferred":[
         "I\u0161inomakis"
     ],
+    "name:lzh_x_preferred":[
+        "\u77f3\u5377\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0907\u0936\u093f\u0928\u094b\u092e\u093e\u0915\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Ishinomaki"
     ],
     "name:msa_x_preferred":[
         "Ishinomaki"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u0646\u0648\u0645\u0627\u06a9\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u0646\u0648\u0645\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Isinomaki-chh\u012b"
@@ -172,6 +199,9 @@
     "name:war_x_preferred":[
         "Ishinomaki"
     ],
+    "name:yue_x_preferred":[
+        "\u77f3\u5377"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Isinomaki-chh\u012b"
     ],
@@ -225,7 +255,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776086,
+    "wof:lastmodified":1563290050,
     "wof:name":"Ishinomaki",
     "wof:parent_id":1108739999,
     "wof:placetype":"locality",

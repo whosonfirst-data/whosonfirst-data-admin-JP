@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627\u064a\u0627\u0645\u0627\u060c \u064a\u0627\u0645\u0627\u063a\u0627\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0631\u0627\u064a\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cc\u09b0\u09be\u09af\u09bc\u09be\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Murayama"
     ],
     "name:dan_x_preferred":[
         "Murayama"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Murayama"
@@ -89,11 +101,17 @@
     "name:kor_x_preferred":[
         "\ubb34\ub77c\uc57c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ub77c\uc57c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Murajama"
     ],
     "name:lit_x_preferred":[
         "Murajama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6751\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0930\u093e\u092f\u093e\u092e\u093e"
@@ -103,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0631\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Murayama-chh\u012b"
@@ -123,6 +144,9 @@
         "Murayama"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u044f\u043c\u0430"
+    ],
+    "name:sah_x_preferred":[
         "\u041c\u0443\u0440\u0430\u044f\u043c\u0430"
     ],
     "name:sin_x_preferred":[
@@ -166,6 +190,9 @@
     ],
     "name:war_x_preferred":[
         "Murayama"
+    ],
+    "name:yue_x_preferred":[
+        "\u6751\u5c71"
     ],
     "name:zho_x_preferred":[
         "\u6751\u5c71\u5e02"
@@ -215,7 +242,7 @@
         }
     ],
     "wof:id":890519675,
-    "wof:lastmodified":1561776443,
+    "wof:lastmodified":1563295911,
     "wof:name":"Murayama",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

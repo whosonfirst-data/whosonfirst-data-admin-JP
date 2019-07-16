@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0627\u0646\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0631\u0648\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0631\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Muroran"
     ],
@@ -44,6 +50,15 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09c1\u09b0\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Muroran"
+    ],
+    "name:ceb_x_preferred":[
+        "Muroran-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Muroran"
     ],
     "name:dan_x_preferred":[
         "Muroran"
@@ -67,6 +82,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0631\u0627\u0646\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0631\u0648\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Muroran"
     ],
@@ -81,6 +99,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0930\u0942\u0930\u093e\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0580\u0578\u0580\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Muroran"
@@ -104,11 +125,17 @@
     "name:kor_x_preferred":[
         "\ubb34\ub85c\ub780 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ub85c\ub780\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Murorana"
     ],
     "name:lit_x_preferred":[
         "Muroranas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5ba4\u862d\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0930\u0930\u093e\u0928"
@@ -118,6 +145,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0631\u0627\u0646\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0631\u0648\u0631\u0627\u0646"
     ],
     "name:nan_x_preferred":[
         "Muroran-chh\u012b"
@@ -245,7 +275,7 @@
         }
     ],
     "wof:id":890520779,
-    "wof:lastmodified":1561776456,
+    "wof:lastmodified":1563296143,
     "wof:name":"Muroran",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

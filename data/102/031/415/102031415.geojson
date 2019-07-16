@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004294,
-    "geom:area_square_m":42978609.733197,
+    "geom:area_square_m":42978609.733142,
     "geom:bbox":"139.344995774,35.9378703009,139.455057341,36.0003532602",
     "geom:latitude":35.966415,
     "geom:longitude":139.396093,
@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0648\u062f\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u06a9\u0627\u062f\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Sakado-shi"
+    ],
     "name:deu_x_preferred":[
         "Sakado"
     ],
@@ -32,11 +38,17 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u06a9\u0627\u062f\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u06a9\u0627\u062f\u0648"
+    ],
     "name:fra_x_preferred":[
         "Sakado"
     ],
     "name:glg_x_preferred":[
         "Sakado"
+    ],
+    "name:hun_x_preferred":[
+        "Szakad\u00f3"
     ],
     "name:ita_x_preferred":[
         "Sakado"
@@ -52,8 +64,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\uce74\ub3c4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uce74\ub3c4\uc2dc"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5742\u6236\u5e02"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u06a9\u0627\u062f\u0648\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0627\u06a9\u0627\u062f\u0648"
     ],
     "name:nan_x_preferred":[
         "Sakado-chh\u012b"
@@ -72,6 +93,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043a\u0430\u0434\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Sakado"
+    ],
+    "name:spa_x_preferred":[
+        "Sakado"
+    ],
+    "name:swe_x_preferred":[
+        "Sakado"
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0430\u043a\u0430\u0434\u043e"
@@ -93,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "Sakado"
+    ],
+    "name:yue_x_preferred":[
+        "\u5742\u6236"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sakado-chh\u012b"
@@ -150,7 +183,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637055,
+    "wof:lastmodified":1563290018,
     "wof:name":"Sakado",
     "wof:parent_id":1108740471,
     "wof:placetype":"locality",

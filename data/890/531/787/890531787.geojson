@@ -18,10 +18,19 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u063a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u0997\u09be"
     ],
     "name:cat_x_preferred":[
+        "Koga"
+    ],
+    "name:ceb_x_preferred":[
+        "Koga-shi"
+    ],
+    "name:ces_x_preferred":[
         "Koga"
     ],
     "name:dan_x_preferred":[
@@ -38,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u06af\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Koga"
@@ -72,11 +84,17 @@
     "name:kor_x_preferred":[
         "\uace0\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uace0\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Koga"
     ],
     "name:lit_x_preferred":[
         "Koga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u53e4\u6cb3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0917\u093e"
@@ -86,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u06af\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Koga-chh\u012b"
@@ -150,6 +171,9 @@
     "name:war_x_preferred":[
         "Koga"
     ],
+    "name:yue_x_preferred":[
+        "\u53e4\u6cb3"
+    ],
     "name:zho_x_preferred":[
         "\u53e4\u6cb3\u5e02"
     ],
@@ -182,7 +206,7 @@
         }
     ],
     "wof:id":890531787,
-    "wof:lastmodified":1561776465,
+    "wof:lastmodified":1563296394,
     "wof:name":"Koga",
     "wof:parent_id":85672801,
     "wof:placetype":"locality",

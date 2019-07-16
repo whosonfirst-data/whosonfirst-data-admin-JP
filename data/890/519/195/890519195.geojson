@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0642\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0997\u09be\u0993\u09af\u09bc\u09be"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06af\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06af\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Tagawa"
@@ -75,11 +81,17 @@
     "name:kor_x_preferred":[
         "\ub2e4\uac00\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\uac00\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tagava"
     ],
     "name:lit_x_preferred":[
         "Tagava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7530\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u0945\u0917\u0935\u093e"
@@ -89,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06af\u0627\u0648\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u06af\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Tagawa-chh\u012b"
@@ -156,6 +171,9 @@
     "name:war_x_preferred":[
         "Tagawa"
     ],
+    "name:yue_x_preferred":[
+        "\u7530\u5ddd"
+    ],
     "name:zho_x_preferred":[
         "\u7530\u5ddd\u5e02"
     ],
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":890519195,
-    "wof:lastmodified":1561776442,
+    "wof:lastmodified":1563295903,
     "wof:name":"Tagawa",
     "wof:parent_id":890524345,
     "wof:placetype":"locality",

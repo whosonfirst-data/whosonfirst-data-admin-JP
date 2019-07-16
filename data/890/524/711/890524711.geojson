@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0627\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0648\u0633\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09b8\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Fussa"
+    ],
+    "name:ceb_x_preferred":[
+        "Fussa-shi"
     ],
     "name:ces_x_preferred":[
         "Fussa"
@@ -66,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u0633\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Fussa"
@@ -101,14 +113,23 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cc1\u0cb8\u0ccd\u0cb8"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e3\u10e1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud6d7\uc0ac \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud6d7\uc0ac\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Fusa"
     ],
     "name:lit_x_preferred":[
         "Fusa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u798f\u751f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092b\u0942\u0938"
@@ -118,6 +139,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u0633\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u0633\u0627"
     ],
     "name:nan_x_preferred":[
         "Hussa-chh\u012b"
@@ -239,7 +263,7 @@
         }
     ],
     "wof:id":890524711,
-    "wof:lastmodified":1561776488,
+    "wof:lastmodified":1563296751,
     "wof:name":"Fussa",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

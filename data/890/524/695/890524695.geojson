@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u063a\u064a\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0646\u0627\u063a\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0646\u0627\u0642\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09be\u0997\u09c0"
+    ],
+    "name:ceb_x_preferred":[
+        "Inagi-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Inagi"
     ],
     "name:dan_x_preferred":[
         "Inagi"
@@ -63,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u06af\u06cc\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0646\u0627\u06af\u06cc"
     ],
     "name:fin_x_preferred":[
         "Inagi"
@@ -102,11 +117,17 @@
     "name:kor_x_preferred":[
         "\uc774\ub098\uae30 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub098\uae30\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Inagi"
     ],
     "name:lit_x_preferred":[
         "Inagis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7a3b\u57ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0928\u0917\u0940"
@@ -116,6 +137,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u06af\u06cc\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0646\u0627\u06af\u06cc"
     ],
     "name:nan_x_preferred":[
         "Inagi-chh\u012b"
@@ -237,7 +261,7 @@
         }
     ],
     "wof:id":890524695,
-    "wof:lastmodified":1561776480,
+    "wof:lastmodified":1563296668,
     "wof:name":"Inagi",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

@@ -18,13 +18,25 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0648\u062a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0642\u0627\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09be\u09a4\u09cb"
     ],
     "name:cat_x_preferred":[
         "Nagato"
     ],
+    "name:ceb_x_preferred":[
+        "Nagato"
+    ],
     "name:ces_x_preferred":[
+        "Nagato"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u0442\u043e"
+    ],
+    "name:cym_x_preferred":[
         "Nagato"
     ],
     "name:dan_x_preferred":[
@@ -42,6 +54,9 @@
     "name:fas_x_preferred":[
         "\u0646\u0627\u06af\u0627\u062a\u0648\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u06af\u0627\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Nagato"
     ],
@@ -56,6 +71,9 @@
     ],
     "name:hak_x_preferred":[
         "Chh\u00f2ng-m\u00f9n-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Nagato-s\u1e73"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05d2\u05d0\u05d8\u05d5"
@@ -84,11 +102,17 @@
     "name:kor_x_preferred":[
         "\ub098\uac00\ud1a0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\uac00\ud1a0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Nagato"
     ],
     "name:lit_x_preferred":[
         "Nagatas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9577\u9580\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0917\u093e\u091f\u094b"
@@ -98,6 +122,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u06af\u0627\u062a\u0648\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0627\u06af\u0627\u062a\u0648"
     ],
     "name:nan_x_preferred":[
         "Nagato-chh\u012b"
@@ -159,11 +186,17 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u062c\u0627\u062a\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u06af\u0627\u062a\u0648"
+    ],
     "name:vie_x_preferred":[
         "Nagato"
     ],
     "name:war_x_preferred":[
         "Nagato"
+    ],
+    "name:yue_x_preferred":[
+        "\u9577\u9580"
     ],
     "name:zho_x_preferred":[
         "\u9577\u9580\u5e02"
@@ -204,7 +237,7 @@
         }
     ],
     "wof:id":890522551,
-    "wof:lastmodified":1561776468,
+    "wof:lastmodified":1563296462,
     "wof:name":"Nagato",
     "wof:parent_id":890524659,
     "wof:placetype":"locality",

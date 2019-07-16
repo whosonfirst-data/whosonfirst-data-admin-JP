@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Y\u014dr\u014d"
+    ],
+    "name:ceb_x_preferred":[
+        "Y\u014dr\u014d-ch\u014d"
+    ],
     "name:deu_x_preferred":[
         "Y\u014dr\u014d"
     ],
     "name:eng_x_preferred":[
         "Y\u014dr\u014d"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Y\u014dr\u014d"
@@ -37,11 +46,20 @@
     "name:jpn_x_preferred":[
         "\u4e0e\u8def"
     ],
+    "name:jpn_x_variant":[
+        "\u990a\u8001\u753a"
+    ],
     "name:kor_x_preferred":[
         "\uc694\ub85c \uc815"
     ],
+    "name:kor_x_variant":[
+        "\uc694\ub85c\uc815"
+    ],
     "name:msa_x_preferred":[
         "Y\u014dr\u014d"
+    ],
+    "name:mya_x_preferred":[
+        "\u101a\u1031\u102c\u1038\u101b\u1031\u102c\u1038\u1019\u103c\u102d\u102f\u1037\u104a \u1002\u102d\u1016\u102f"
     ],
     "name:nld_x_preferred":[
         "Y\u014dr\u014d"
@@ -66,6 +84,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0648\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u0648"
     ],
     "name:zho_x_preferred":[
         "\u990a\u8001\u753a"
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":102031233,
-    "wof:lastmodified":1561776086,
+    "wof:lastmodified":1563290047,
     "wof:name":"Yoro",
     "wof:parent_id":1108742135,
     "wof:placetype":"locality",

@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0648\u0627\u0646\u0648\u0645\u0627\u060c \u0645\u064a\u0627\u063a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0648\u0627\u0646\u0648\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cb\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Iwanuma-shi"
     ],
     "name:dan_x_preferred":[
         "Iwanuma"
@@ -35,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Iwanuma"
@@ -63,11 +75,17 @@
     "name:jpn_x_preferred":[
         "\u5ca9\u6cbc"
     ],
+    "name:jpn_x_variant":[
+        "\u5ca9\u6cbc\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c90\u0cb5\u0cbe\u0ca8\u0ccd\u0cae\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc640\ub204\ub9c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc640\ub204\ub9c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Ivanuma"
@@ -75,14 +93,23 @@
     "name:lit_x_preferred":[
         "Ivanuma"
     ],
+    "name:lzh_x_preferred":[
+        "\u5ca9\u6cbc\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0907\u0935\u093e\u0928\u0941\u092e\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Iwanuma"
     ],
     "name:msa_x_preferred":[
         "Iwanuma"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Iwanuma-chh\u012b"
@@ -147,6 +174,9 @@
     "name:war_x_preferred":[
         "Iwanuma"
     ],
+    "name:yue_x_preferred":[
+        "\u5ca9\u6cbc"
+    ],
     "name:zho_x_preferred":[
         "\u5ca9\u6cbc\u5e02"
     ],
@@ -182,7 +212,7 @@
         }
     ],
     "wof:id":890523113,
-    "wof:lastmodified":1561776475,
+    "wof:lastmodified":1563296621,
     "wof:name":"Iwanuma",
     "wof:parent_id":1108740001,
     "wof:placetype":"locality",

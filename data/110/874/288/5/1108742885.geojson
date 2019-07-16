@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0648\u0646\u062c\u064a\u060c \u0643\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u0648\u0646\u062c\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0646\u200c\u0627\u0648\u0646\u062c\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09cb\u099e\u09cd\u099c\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Kan'onji Shi"
     ],
     "name:dan_x_preferred":[
         "Kan'onji"
@@ -90,11 +99,17 @@
     "name:kor_x_preferred":[
         "\uac04\uc628\uc9c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac04\uc628\uc9c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kanond\u017ei"
     ],
     "name:lit_x_preferred":[
         "Kanond\u017eis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u89c0\u97f3\u5bfa\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u094b\u0928\u091c\u0940"
@@ -104,6 +119,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0646 \u0627\u0648\u0646\u062c\u06cc\u060c \u06a9\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0646 \u0627\u0648\u0646\u062c\u06cc"
     ],
     "name:nan_x_preferred":[
         "Kanonzi-chh\u012b"
@@ -165,6 +183,9 @@
     "name:war_x_preferred":[
         "Kan'onji"
     ],
+    "name:yue_x_preferred":[
+        "\u89c0\u97f3\u5bfa\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u89c0\u97f3\u5bfa\u5e02"
     ],
@@ -191,7 +212,7 @@
         }
     ],
     "wof:id":1108742885,
-    "wof:lastmodified":1561776350,
+    "wof:lastmodified":1563294315,
     "wof:name":"Kan-onji",
     "wof:parent_id":85672715,
     "wof:placetype":"county",

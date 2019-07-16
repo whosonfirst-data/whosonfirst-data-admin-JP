@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0627\u064a\u0633\u0648\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u064a\u0648\u0631\u0627\u064a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u09b0\u09be\u09af\u09bc\u09be\u09b8\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Urayasu-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Urajasu"
     ],
     "name:dan_x_preferred":[
         "Urayasu"
@@ -55,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Urayasu"
@@ -86,20 +101,32 @@
     "name:kor_x_preferred":[
         "\uc6b0\ub77c\uc57c\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\ub77c\uc57c\uc2a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Urajasu"
     ],
     "name:lit_x_preferred":[
         "Urajasu"
     ],
+    "name:lzh_x_preferred":[
+        "\u6d66\u5b89\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0909\u0930\u093e\u092f\u0938\u0941"
+    ],
+    "name:mlg_x_preferred":[
+        "Urayasu"
     ],
     "name:msa_x_preferred":[
         "Urayasu"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Urayasu-chh\u012b"
@@ -164,11 +191,17 @@
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u0627\u06cc\u0627\u0633\u0648"
+    ],
     "name:vie_x_preferred":[
         "Urayasu"
     ],
     "name:war_x_preferred":[
         "Urayasu"
+    ],
+    "name:yue_x_preferred":[
+        "\u6d66\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u6d66\u5b89\u5e02"
@@ -209,7 +242,7 @@
         }
     ],
     "wof:id":1108741615,
-    "wof:lastmodified":1561776341,
+    "wof:lastmodified":1563294255,
     "wof:name":"Urayasu",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

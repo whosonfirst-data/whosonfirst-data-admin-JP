@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0633\u0627\u060c \u0643\u0648\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0633\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0633\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09b8\u09be\u0981"
+    ],
+    "name:ceb_x_preferred":[
+        "Tosa-shi"
     ],
     "name:dan_x_preferred":[
         "Tosa"
@@ -54,6 +63,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0633\u0627\u060c \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Tosa"
@@ -85,11 +97,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc0ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc0ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tosa"
     ],
     "name:lit_x_preferred":[
         "Tosa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u571f\u4f50\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u0938\u093e"
@@ -99,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u0633\u0627\u060c \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u0633\u0627"
     ],
     "name:nan_x_preferred":[
         "Tosa-chh\u012b"
@@ -163,6 +184,9 @@
     "name:war_x_preferred":[
         "Tosa"
     ],
+    "name:yue_x_preferred":[
+        "\u571f\u4f50"
+    ],
     "name:zho_x_preferred":[
         "\u571f\u4f50\u5e02"
     ],
@@ -190,7 +214,7 @@
         }
     ],
     "wof:id":1108742969,
-    "wof:lastmodified":1561776367,
+    "wof:lastmodified":1563294502,
     "wof:name":"Tosa",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

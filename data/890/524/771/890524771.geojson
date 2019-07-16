@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0648\u062a\u0634\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u062a\u0648\u062a\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u062a\u0648\u0626\u0648\u0686\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u099f\u09cb\u099a\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Setouchi Shi"
     ],
     "name:dan_x_preferred":[
         "Setouchi"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u062a\u0648\u0626\u0648\u0686\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u062a\u0648\u0626\u0648\u0686\u06cc"
     ],
     "name:fin_x_preferred":[
         "Setouchi"
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uc138\ud1a0\uc6b0\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc138\ud1a0\uc6b0\uce58\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Setu\u010di"
     ],
     "name:lit_x_preferred":[
         "Setu\u010dis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7028\u6236\u5167\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u091f\u094b\u091a\u0940"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u062a\u0648\u0626\u0648\u0686\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u062a\u0648\u0626\u0648\u0686\u06cc"
     ],
     "name:nan_x_preferred":[
         "Setouti-chh\u012b"
@@ -170,6 +191,9 @@
     "name:war_x_preferred":[
         "Setouchi"
     ],
+    "name:yue_x_preferred":[
+        "\u7028\u6236\u5167"
+    ],
     "name:zho_x_preferred":[
         "\u7028\u6236\u5167\u5e02"
     ],
@@ -206,7 +230,7 @@
         }
     ],
     "wof:id":890524771,
-    "wof:lastmodified":1561776482,
+    "wof:lastmodified":1563296676,
     "wof:name":"Setouchi",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

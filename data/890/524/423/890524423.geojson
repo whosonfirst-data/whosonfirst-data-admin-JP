@@ -36,10 +36,25 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0646\u0627\u0646\u060c \u0648\u0627\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u064a\u0646\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u06cc\u0646\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0987\u09a8\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
+        "Kainan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kainan"
+    ],
+    "name:ces_x_preferred":[
         "Kainan"
     ],
     "name:dan_x_preferred":[
@@ -61,6 +76,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u06cc\u0646\u0627\u0646\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u06cc\u0646\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Kainan"
     ],
@@ -73,11 +91,17 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0aa8"
     ],
+    "name:hak_x_preferred":[
+        "Kainan-s\u1e73"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d9\u05e0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u0928\u093e\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0575\u0576\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kainan"
@@ -98,11 +122,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc774\ub09c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc774\ub09c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kainana"
     ],
     "name:lit_x_preferred":[
         "Kainanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6d77\u5357\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0947\u0928\u093e\u0928"
@@ -112,6 +142,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u06cc\u0646\u0627\u0646\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u06cc\u0646\u0627\u0646"
     ],
     "name:nan_x_preferred":[
         "Kainan-chh\u012b"
@@ -182,6 +215,9 @@
     "name:war_x_preferred":[
         "Kainan"
     ],
+    "name:yue_x_preferred":[
+        "\u6d77\u5357\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u6d77\u5357\u5e02"
     ],
@@ -230,7 +266,7 @@
         }
     ],
     "wof:id":890524423,
-    "wof:lastmodified":1561776478,
+    "wof:lastmodified":1563296653,
     "wof:name":"Kainan",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

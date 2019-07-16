@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0628\u0648\u0643\u0648\u060c \u0623\u0643\u064a\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0645\u0628\u0648\u0643\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0626\u0645\u0628\u0648\u06a9\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09cd\u09ae\u09ac\u09c1\u0995\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Semboku-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Senboku"
     ],
     "name:dan_x_preferred":[
         "Senboku"
@@ -58,6 +70,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0645\u0628\u0648\u06a9\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0645\u0628\u0648\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Semboku"
@@ -92,11 +107,17 @@
     "name:kor_x_preferred":[
         "\uc13c\ubcf4\ucfe0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc13c\ubcf4\ucfe0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Semboku"
     ],
     "name:lit_x_preferred":[
         "Semboku"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4ed9\u5317\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u092e\u094d\u092c\u094b\u0915\u0942"
@@ -106,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0645\u0628\u0648\u06a9\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0645\u0628\u0648\u06a9\u0648"
     ],
     "name:nan_x_preferred":[
         "Senboku-chh\u012b"
@@ -158,11 +182,17 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0645\u0628\u0648\u06a9\u0648\u060c \u0627\u06a9\u06cc\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0645\u0628\u0648\u06a9\u0648"
+    ],
     "name:vie_x_preferred":[
         "Semboku"
     ],
     "name:war_x_preferred":[
         "Semboku"
+    ],
+    "name:yue_x_preferred":[
+        "\u4ed9\u5317"
     ],
     "name:zho_x_preferred":[
         "\u4ed9\u5317\u5e02"
@@ -203,7 +233,7 @@
         }
     ],
     "wof:id":1108740057,
-    "wof:lastmodified":1561776368,
+    "wof:lastmodified":1563294514,
     "wof:name":"Senboku",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

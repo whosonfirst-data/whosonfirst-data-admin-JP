@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u064a\u0646\u0648\u0633\u064a\u0643\u064a\u060c \u0625\u064a\u0648\u0627\u062a\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062a\u0634\u064a\u0646\u0648\u0633\u064a\u0643\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u099a\u09bf\u09a8\u09cb\u09cd\u09b8\u09c7\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Ichinoseki"
     ],
     "name:dan_x_preferred":[
         "Ichinoseki"
@@ -54,6 +63,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Ichinoseki"
@@ -85,11 +97,17 @@
     "name:kor_x_preferred":[
         "\uc774\uce58\ub178\uc138\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uce58\ub178\uc138\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "I\u010dinoseki"
     ],
     "name:lit_x_preferred":[
         "I\u010dinosekis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e00\u95dc\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u091a\u093f\u0928\u094b\u0938\u0947\u0915\u0940"
@@ -99,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0633\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Itinoseki-chh\u012b"
@@ -169,6 +190,9 @@
     "name:war_x_preferred":[
         "Ichinoseki"
     ],
+    "name:yue_x_preferred":[
+        "\u4e00\u95dc"
+    ],
     "name:zho_x_preferred":[
         "\u4e00\u5173\u5e02"
     ],
@@ -208,7 +232,7 @@
         }
     ],
     "wof:id":1108739951,
-    "wof:lastmodified":1561776373,
+    "wof:lastmodified":1563294584,
     "wof:name":"Ichinoseki",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0631\u0648\u064a\u0634\u064a\u060c \u0645\u064a\u0627\u063a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0631\u0648\u064a\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0631\u0648\u0627\u06cc\u0634\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b0\u09c1\u0987\u09b8\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Shiroishi"
     ],
     "name:dan_x_preferred":[
         "Shiroishi"
@@ -33,11 +42,17 @@
     "name:eng_x_preferred":[
         "Shiroishi"
     ],
+    "name:epo_x_preferred":[
+        "\u015ciroi\u015di"
+    ],
     "name:est_x_preferred":[
         "Shiroishi"
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0631\u0648\u0627\u06cc\u0634\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0631\u0648\u0627\u06cc\u0634\u06cc"
     ],
     "name:fin_x_preferred":[
         "Shiroishi"
@@ -60,17 +75,26 @@
     "name:jpn_x_preferred":[
         "\u767d\u77f3"
     ],
+    "name:jpn_x_variant":[
+        "\u767d\u77f3\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0cb0\u0ccb\u0cb7\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ub85c\uc774\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ub85c\uc774\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u0160iroi\u0161i"
     ],
     "name:lit_x_preferred":[
         "\u0160iroi\u0161is"
+    ],
+    "name:lzh_x_preferred":[
+        "\u767d\u77f3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u0940\u0930\u0913\u0908\u0936\u0940"
@@ -80,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u0631\u0648\u0627\u06cc\u0634\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0634\u06cc\u0631\u0648\u0627\u06cc\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Siroisi-chh\u012b"
@@ -147,6 +174,9 @@
     "name:war_x_preferred":[
         "Shiroishi"
     ],
+    "name:yue_x_preferred":[
+        "\u767d\u77f3\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u767d\u77f3\u5e02"
     ],
@@ -183,7 +213,7 @@
         }
     ],
     "wof:id":890519729,
-    "wof:lastmodified":1561776450,
+    "wof:lastmodified":1563296014,
     "wof:name":"Shiroishi",
     "wof:parent_id":890520805,
     "wof:placetype":"locality",

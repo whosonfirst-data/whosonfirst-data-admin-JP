@@ -36,14 +36,23 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0648\u063a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0648\u0642\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Hyoqo"
+    ],
+    "name:aze_x_variant":[
+        "Hy\u00f6qo"
     ],
     "name:bak_x_preferred":[
         "\u0425\u0451\u0433\u043e"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u0451\u0433\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u0451\u0433\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09af\u09bc\u09cb\u0997\u09cb \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -56,6 +65,9 @@
     ],
     "name:cdo_x_preferred":[
         "Hy\u014dgo-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Hy\u014dgo-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Hj\u00f3go"
@@ -73,7 +85,8 @@
         "Pr\u00e4fektur Hy\u014dgo"
     ],
     "name:deu_x_variant":[
-        "Hy\u014dgo"
+        "Hy\u014dgo",
+        "Pr\u00e4fektur Hyogo"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b9\u03b3\u03ba\u03cc\u03c1\u03bf"
@@ -108,7 +121,8 @@
         "Pr\u00e9fecture de Hy\u014dgo"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Hy\u014dgo"
+        "pr\u00e9fecture de Hy\u014dgo",
+        "Hy\u014dgo"
     ],
     "name:gle_x_preferred":[
         "Maoracht Hy\u014dgo"
@@ -140,6 +154,9 @@
     "name:ilo_x_preferred":[
         "Prepektura ti Hy\u014dgo"
     ],
+    "name:ilo_x_variant":[
+        "Hy\u014dgo"
+    ],
     "name:ind_x_preferred":[
         "Prefektur Hyogo"
     ],
@@ -151,6 +168,9 @@
     ],
     "name:jav_x_preferred":[
         "Pr\u00e9f\u00e8ktur Hyogo"
+    ],
+    "name:jav_x_variant":[
+        "Prefektur Hyogo"
     ],
     "name:jpn_x_preferred":[
         "\u5175\u5eab\u770c"
@@ -168,6 +188,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud6a8\uace0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud6a8\uace0\ud604"
     ],
     "name:lav_x_preferred":[
         "Hjogo prefekt\u016bra"
@@ -199,8 +222,14 @@
     "name:nov_x_preferred":[
         "Hy\u014dgo Prefekture"
     ],
+    "name:nov_x_variant":[
+        "Hy\u014dgo Prefecture"
+    ],
     "name:pam_x_preferred":[
         "Prepektura ning Hy\u014dgo"
+    ],
+    "name:pam_x_variant":[
+        "Hy\u014dgo Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u06cc\u0648\u06af\u0648"
@@ -210,6 +239,9 @@
     ],
     "name:por_x_preferred":[
         "Hyogo"
+    ],
+    "name:por_x_variant":[
+        "Hy\u014dgo"
     ],
     "name:ron_x_preferred":[
         "Prefectura Hy\u014dgo"
@@ -238,8 +270,14 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0458\u043e\u0433\u043e"
     ],
+    "name:srp_x_variant":[
+        "\u0425\u0458\u043e\u0433\u043e"
+    ],
     "name:sun_x_preferred":[
         "Pr\u00e9f\u00e9ktur Hyogo"
+    ],
+    "name:sun_x_variant":[
+        "Pr\u00e9f\u00e9ktur Hy\u014dgo"
     ],
     "name:swa_x_preferred":[
         "Mkoa wa Hyogo"
@@ -267,6 +305,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u044c\u043e\u0491\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u043e\u0433\u043e"
     ],
     "name:und_x_variant":[
         "\u5175\u5eab\u770c",
@@ -416,7 +457,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776191,
+    "wof:lastmodified":1563291665,
     "wof:name":"Hy\u014dgo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

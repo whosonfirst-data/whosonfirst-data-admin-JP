@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0643\u0648\u0633\u0627\u0646\u060c \u0625\u064a\u0634\u064a\u0643\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0627\u0643\u0648\u0633\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u06a9\u0648\u0633\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0995\u09c1\u09b8\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Hakusan Shi"
     ],
     "name:dan_x_preferred":[
         "Hakusan"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u06a9\u0648\u0633\u0627\u0646\u060c \u0627\u06cc\u0634\u06cc\u06a9\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u06a9\u0648\u0633\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Hakusan"
@@ -98,11 +110,17 @@
     "name:kor_x_preferred":[
         "\ud558\ucfe0\uc0b0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud558\ucfe0\uc0b0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hakusana"
     ],
     "name:lit_x_preferred":[
         "Hakusana"
+    ],
+    "name:lzh_x_preferred":[
+        "\u767d\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0915\u0941\u0938\u0928"
@@ -112,6 +130,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u0627\u06a9\u0648\u0633\u0627\u0646\u060c \u0627\u06cc\u0634\u06cc\u06a9\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u0627\u06a9\u0648\u0633\u0627\u0646"
     ],
     "name:nan_x_preferred":[
         "Hakusan-chh\u012b"
@@ -182,6 +203,9 @@
     "name:war_x_preferred":[
         "Hakusan"
     ],
+    "name:yue_x_preferred":[
+        "\u767d\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u767d\u5c71\u5e02"
     ],
@@ -218,7 +242,7 @@
         }
     ],
     "wof:id":890520403,
-    "wof:lastmodified":1561776459,
+    "wof:lastmodified":1563296190,
     "wof:name":"Hakusan",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

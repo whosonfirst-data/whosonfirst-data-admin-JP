@@ -24,6 +24,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc\u060c \u0642\u0648\u0646\u0645\u0627"
     ],
+    "name:azb_x_variant":[
+        "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Maeba\u015fi"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Maebashi"
+    ],
+    "name:ceb_x_preferred":[
+        "Maebashi Shi"
     ],
     "name:ces_x_preferred":[
         "Maeba\u0161i"
@@ -69,6 +75,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Maebashi"
     ],
@@ -93,6 +102,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093e\u0907\u092c\u093e\u0936\u0940"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0565\u0562\u0561\u057d\u056b"
+    ],
     "name:ind_x_preferred":[
         "Maebashi"
     ],
@@ -115,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc5d0\ubc14\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc5d0\ubc14\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Maeba\u0161i"
     ],
@@ -130,11 +145,17 @@
     "name:mar_x_preferred":[
         "\u092e\u092c\u0936\u0940"
     ],
+    "name:mlg_x_preferred":[
+        "Maebashi"
+    ],
     "name:msa_x_preferred":[
         "Maebashi"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0627\u0626\u0647\u200c\u0628\u0627\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Maebasi-chh\u012b"
@@ -159,6 +180,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u044d\u0431\u0430\u0441\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Maebashi"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dba\u0dd2\u0db6\u0dc2\u0dd2"
@@ -190,8 +214,14 @@
     "name:tgl_x_preferred":[
         "Maebashi"
     ],
+    "name:tgl_x_variant":[
+        "Maebasyi"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e30\u0e40\u0e2d\u0e30\u0e1a\u0e30\u0e0a\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e40\u0e2d\u0e1a\u0e32\u0e0a\u0e34"
     ],
     "name:tum_x_preferred":[
         "Maebashi"
@@ -368,7 +398,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776090,
+    "wof:lastmodified":1563290090,
     "wof:name":"Maebashi-shi",
     "wof:parent_id":1108740359,
     "wof:placetype":"locality",

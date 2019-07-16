@@ -30,6 +30,9 @@
     "name:aze_x_preferred":[
         "Naqano"
     ],
+    "name:bak_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u043d\u043e"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u0433\u0430\u043d\u0430"
     ],
@@ -45,7 +48,13 @@
     "name:cat_x_preferred":[
         "Nagano"
     ],
+    "name:ceb_x_preferred":[
+        "Nagano Shi"
+    ],
     "name:ces_x_preferred":[
+        "Nagano"
+    ],
+    "name:cym_x_preferred":[
         "Nagano"
     ],
     "name:dan_x_preferred":[
@@ -144,6 +153,9 @@
     "name:kor_x_preferred":[
         "\ub098\uac00\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\uac00\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Nagano"
     ],
@@ -237,6 +249,9 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e30\u0e07\u0e30\u0e42\u0e19\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e32\u0e07\u0e32\u0e42\u0e19\u0e30"
+    ],
     "name:tur_x_preferred":[
         "Nagano"
     ],
@@ -246,11 +261,17 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0646\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
     "name:vie_x_preferred":[
         "Nagano"
     ],
     "name:war_x_preferred":[
         "Nagano"
+    ],
+    "name:wuu_x_preferred":[
+        "\u957f\u91ce\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u9577\u91ce\u5e02"
@@ -303,7 +324,7 @@
         }
     ],
     "wof:id":102032003,
-    "wof:lastmodified":1561776102,
+    "wof:lastmodified":1563290251,
     "wof:name":"Nagano",
     "wof:parent_id":1108742113,
     "wof:placetype":"locality",

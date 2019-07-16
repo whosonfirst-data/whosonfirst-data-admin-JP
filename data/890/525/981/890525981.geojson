@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0627\u0645\u0627\u060c \u0645\u064a\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0645\u064a\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0645\u0647\u200c\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09c7\u09af\u09bc\u09be\u09ae\u09be"
     ],
@@ -25,6 +31,9 @@
         "\u041a\u0430\u043c\u0435\u044f\u043c\u0430"
     ],
     "name:cat_x_preferred":[
+        "Kameyama"
+    ],
+    "name:ceb_x_preferred":[
         "Kameyama"
     ],
     "name:dan_x_preferred":[
@@ -60,6 +69,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u092e\u0947\u092f\u093e\u092e\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0575\u0561\u0574\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kameyama"
     ],
@@ -69,11 +81,17 @@
     "name:jpn_x_preferred":[
         "\u4e80\u5c71"
     ],
+    "name:jpn_x_variant":[
+        "\u4e80\u5c71\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cae\u0cc6\u0caf\u0cbe\u0cae\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uac00\uba54\uc57c\ub9c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uba54\uc57c\ub9c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Kamejama"
@@ -81,14 +99,23 @@
     "name:lit_x_preferred":[
         "Kamejama"
     ],
+    "name:lzh_x_preferred":[
+        "\u9f9c\u5c71\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u092e\u0947\u092f\u093e\u092e\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Kameyama"
     ],
     "name:msa_x_preferred":[
         "Kameyama"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0645\u0647 \u06cc\u0627\u0645\u0627\u060c \u0645\u06cc\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0645\u0647 \u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Kameyama-chh\u012b"
@@ -156,6 +183,9 @@
     "name:war_x_preferred":[
         "Kameyama"
     ],
+    "name:yue_x_preferred":[
+        "\u9f9c\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u9f9c\u5c71\u5e02"
     ],
@@ -192,7 +222,7 @@
         }
     ],
     "wof:id":890525981,
-    "wof:lastmodified":1561776467,
+    "wof:lastmodified":1563296459,
     "wof:name":"Kameyama",
     "wof:parent_id":890524847,
     "wof:placetype":"locality",

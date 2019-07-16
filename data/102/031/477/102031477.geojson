@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0634\u064a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0634\u06cc\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09b6\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Nishio"
+    ],
+    "name:ces_x_preferred":[
+        "Ni\u0161io"
     ],
     "name:dan_x_preferred":[
         "Nishio"
@@ -40,6 +49,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0634\u06cc\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0634\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Nishio"
@@ -83,11 +95,17 @@
     "name:kor_x_preferred":[
         "\ub2c8\uc2dc\uc624 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc2dc\uc624\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ni\u0161ijo"
     ],
     "name:lit_x_preferred":[
         "Ni\u0161ijus"
+    ],
+    "name:lzh_x_preferred":[
+        "\u897f\u5c3e\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0936\u093f\u0913"
@@ -97,6 +115,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u0634\u06cc\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc\u0634\u06cc\u0648"
     ],
     "name:nan_x_preferred":[
         "Nisio-chh\u012b"
@@ -124,6 +145,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dc1\u0dd2\u0dba\u0ddd"
+    ],
+    "name:slk_x_preferred":[
+        "Ni\u0161io"
     ],
     "name:spa_x_preferred":[
         "Nishio"
@@ -161,11 +185,17 @@
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0634\u06cc\u0648\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u06cc\u0634\u06cc\u0648"
+    ],
     "name:vie_x_preferred":[
         "Nishio"
     ],
     "name:war_x_preferred":[
         "Nishio"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u5c3e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nisio-chh\u012b"
@@ -217,7 +247,7 @@
         }
     ],
     "wof:id":102031477,
-    "wof:lastmodified":1561776082,
+    "wof:lastmodified":1563290008,
     "wof:name":"Nishio",
     "wof:parent_id":890520407,
     "wof:placetype":"locality",

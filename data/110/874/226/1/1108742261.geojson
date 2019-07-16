@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0648\u0646\u0627\u0645\u0647\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0643\u0648\u0646\u0627\u0645\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0995\u09cb\u09a8\u09be\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Tokoname"
+    ],
+    "name:ces_x_preferred":[
+        "Tokoname"
     ],
     "name:dan_x_preferred":[
         "Tokoname"
@@ -54,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647"
     ],
     "name:fin_x_preferred":[
         "Tokoname"
@@ -91,20 +106,32 @@
     "name:kor_x_preferred":[
         "\ub3c4\ucf54\ub098\uba54 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ucf54\ub098\uba54\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tokoname"
     ],
     "name:lit_x_preferred":[
         "Tokonam\u0117"
     ],
+    "name:lzh_x_preferred":[
+        "\u5e38\u6ed1\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u0915\u094b\u0928\u0947\u092e"
+    ],
+    "name:mlg_x_preferred":[
+        "Tokoname"
     ],
     "name:msa_x_preferred":[
         "Tokoname"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u0647"
     ],
     "name:nan_x_preferred":[
         "Tokoname-chh\u012b"
@@ -172,11 +199,17 @@
     "name:urd_x_preferred":[
         "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u06d2\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u06a9\u0648\u0646\u0627\u0645\u06d2"
+    ],
     "name:vie_x_preferred":[
         "Tokoname"
     ],
     "name:war_x_preferred":[
         "Tokoname"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e38\u6ed1"
     ],
     "name:zho_x_preferred":[
         "\u5e38\u6ed1\u5e02"
@@ -217,7 +250,7 @@
         }
     ],
     "wof:id":1108742261,
-    "wof:lastmodified":1561776350,
+    "wof:lastmodified":1563294308,
     "wof:name":"Tokoname",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

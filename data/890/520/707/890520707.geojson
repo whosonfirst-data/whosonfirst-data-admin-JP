@@ -36,11 +36,26 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0627\u062a\u0633\u0648\u060c \u0634\u064a\u063a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0633\u0627\u062a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0633\u0627\u062a\u0633\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b8\u09be\u09ce\u09b8\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0441\u0430\u0446\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Kusatsu"
+    ],
+    "name:ceb_x_preferred":[
+        "Kusatsu"
+    ],
+    "name:ces_x_preferred":[
+        "Kusacu"
     ],
     "name:dan_x_preferred":[
         "Kusatsu"
@@ -66,6 +81,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0633\u0627\u062a\u0633\u0648\u060c \u0634\u06cc\u06af\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0633\u0627\u062a\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Kusatsu"
@@ -104,11 +122,17 @@
     "name:kor_x_preferred":[
         "\uad6c\uc0ac\uc4f0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uad6c\uc0ac\uc4f0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kusatsu"
     ],
     "name:lit_x_preferred":[
         "Kusatsu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8349\u6d25\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0938\u0941\u0924\u094d\u0938\u0942"
@@ -118,6 +142,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0633\u0627\u062a\u0633\u0648\u060c \u0634\u06cc\u06af\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0633\u0627\u062a\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Kusatu-chh\u012b"
@@ -185,6 +212,9 @@
     "name:war_x_preferred":[
         "Kusatsu"
     ],
+    "name:yue_x_preferred":[
+        "\u8349\u6d25"
+    ],
     "name:zho_x_preferred":[
         "\u8349\u6d25\u5e02"
     ],
@@ -224,7 +254,7 @@
         }
     ],
     "wof:id":890520707,
-    "wof:lastmodified":1561776453,
+    "wof:lastmodified":1563296096,
     "wof:name":"Kusatsu",
     "wof:parent_id":85672789,
     "wof:placetype":"county",

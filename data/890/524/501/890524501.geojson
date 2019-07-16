@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u064a\u0634\u064a\u0645\u0627\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0643\u064a\u0634\u064a\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06a9\u06cc\u0634\u06cc\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0995\u09bf\u09b6\u09bf\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Akishima-shi"
     ],
     "name:ces_x_preferred":[
         "Aki\u0161ima"
@@ -69,6 +78,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u06a9\u06cc\u0634\u06cc\u0645\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u06a9\u06cc\u0634\u06cc\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Akishima"
@@ -107,11 +119,17 @@
     "name:kor_x_preferred":[
         "\uc544\ud0a4\uc2dc\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud0a4\uc2dc\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Aki\u0161ima"
     ],
     "name:lit_x_preferred":[
         "Aki\u0161ima"
+    ],
+    "name:lzh_x_preferred":[
+        "\u662d\u5cf6\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u0940\u0936\u093f\u092e\u093e"
@@ -121,6 +139,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u06a9\u06cc\u0634\u06cc\u0645\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u06a9\u06cc\u0634\u06cc\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Akisima-chh\u012b"
@@ -234,7 +255,7 @@
         }
     ],
     "wof:id":890524501,
-    "wof:lastmodified":1561776483,
+    "wof:lastmodified":1563296687,
     "wof:name":"Akishima",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

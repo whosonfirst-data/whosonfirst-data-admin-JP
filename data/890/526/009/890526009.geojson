@@ -18,11 +18,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0634\u064a\u0643\u0627\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0634\u06cc\u06a9\u0627\u0631\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u0130\u015fikari"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09b6\u09bf\u0995\u09be\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Ishikari-shi"
     ],
     "name:dan_x_preferred":[
         "Ishikari"
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u06a9\u0627\u0631\u06cc\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u06a9\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Ishikari"
@@ -55,6 +64,9 @@
         "\u0907\u0937\u093f\u0915\u093e\u0930\u0940"
     ],
     "name:ido_x_preferred":[
+        "Ishikari"
+    ],
+    "name:ilo_x_preferred":[
         "Ishikari"
     ],
     "name:ind_x_preferred":[
@@ -75,11 +87,17 @@
     "name:kor_x_preferred":[
         "\uc774\uc2dc\uce74\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc2dc\uce74\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "I\u0161ikari"
     ],
     "name:lit_x_preferred":[
         "I\u0161ikaris"
+    ],
+    "name:lzh_x_preferred":[
+        "\u77f3\u72e9\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0936\u093f\u0915\u093e\u0930\u0940"
@@ -89,6 +107,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u06a9\u0627\u0631\u06cc\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u06a9\u0627\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Isikari-chh\u012b"
@@ -119,6 +140,9 @@
     ],
     "name:spa_x_preferred":[
         "Ishikari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0448\u0438\u043a\u0430\u0440\u0438"
     ],
     "name:swe_x_preferred":[
         "Ishikari"
@@ -196,7 +220,7 @@
         }
     ],
     "wof:id":890526009,
-    "wof:lastmodified":1561776441,
+    "wof:lastmodified":1563295853,
     "wof:name":"Ishikari",
     "wof:parent_id":890520153,
     "wof:placetype":"locality",

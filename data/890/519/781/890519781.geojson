@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0634\u064a\u0647\u0627\u0631\u0627\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u062a\u0634\u064a\u0647\u0627\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0686\u06cc\u0647\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u099a\u09bf\u09b9\u09be\u09b0\u09be"
     ],
@@ -70,6 +76,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0647\u0627\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0647\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ichihara"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9b\u0abf\u0ab9\u0abe\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Ichihara-s\u1e73"
     ],
     "name:hin_x_preferred":[
         "\u0907\u091a\u093f\u0939\u093e\u0930\u093e"
@@ -111,11 +123,17 @@
     "name:kor_x_preferred":[
         "\uc774\uce58\ud558\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uce58\ud558\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "I\u010dihara"
     ],
     "name:lit_x_preferred":[
         "I\u010dihara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5e02\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u091b\u093f\u0939\u093e\u0930"
@@ -125,6 +143,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0647\u0627\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0647\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Itihara-chh\u012b"
@@ -192,11 +213,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0686\u06cc\u06c1\u0627\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0686\u06cc\u06c1\u0627\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Ichihara"
     ],
     "name:war_x_preferred":[
         "Ichihara"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e02\u539f"
     ],
     "name:zho_x_preferred":[
         "\u5e02\u539f\u5e02"
@@ -248,7 +275,7 @@
         }
     ],
     "wof:id":890519781,
-    "wof:lastmodified":1561776450,
+    "wof:lastmodified":1563296003,
     "wof:name":"Ichihara",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

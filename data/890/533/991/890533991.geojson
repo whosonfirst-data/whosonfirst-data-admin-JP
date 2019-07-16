@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u064a\u0646\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0632\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0632\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u099c\u09c7\u09a8"
     ],
@@ -25,6 +31,9 @@
         "\u0411\u0443\u0437\u0435\u043d"
     ],
     "name:cat_x_preferred":[
+        "Buzen"
+    ],
+    "name:ceb_x_preferred":[
         "Buzen"
     ],
     "name:dan_x_preferred":[
@@ -41,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0632\u0646\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0632\u0646"
     ],
     "name:fin_x_preferred":[
         "Buzen"
@@ -69,17 +81,26 @@
     "name:jpn_x_preferred":[
         "\u8c4a\u524d"
     ],
+    "name:jpn_x_variant":[
+        "\u8c4a\u524d\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0c9c\u0cc6\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ubd80\uc820 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubd80\uc820\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Budzena"
     ],
     "name:lit_x_preferred":[
         "Budzenas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8c50\u524d\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u091d\u0947\u0928"
@@ -89,6 +110,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0648\u0632\u0646\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0628\u0648\u0632\u0646"
     ],
     "name:nan_x_preferred":[
         "Buzen-chh\u012b"
@@ -150,6 +174,9 @@
     "name:war_x_preferred":[
         "Buzen"
     ],
+    "name:yue_x_preferred":[
+        "\u8c50\u524d\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u8c50\u524d\u5e02"
     ],
@@ -186,7 +213,7 @@
         }
     ],
     "wof:id":890533991,
-    "wof:lastmodified":1561776425,
+    "wof:lastmodified":1563295505,
     "wof:name":"Buzen",
     "wof:parent_id":890520693,
     "wof:placetype":"locality",

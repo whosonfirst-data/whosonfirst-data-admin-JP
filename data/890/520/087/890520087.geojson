@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u064a\u060c \u0647\u064a\u0648\u063a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0633\u0627\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0633\u0627\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u0987"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasai Shi"
     ],
     "name:dan_x_preferred":[
         "Kasai"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0633\u0627\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0633\u0627\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kasai"
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc0ac\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc0ac\uc774\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kasai"
     ],
     "name:lit_x_preferred":[
         "Kasajus"
+    ],
+    "name:lzh_x_preferred":[
+        "\u52a0\u897f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0938\u0948"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0633\u0627\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0633\u0627\u06cc"
     ],
     "name:nan_x_preferred":[
         "Kasai-chh\u012b"
@@ -164,11 +185,17 @@
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0633\u0627\u0626\u06cc\u060c \u06c1\u06cc\u0648\u06af\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u0633\u0627\u0626\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Kasai"
     ],
     "name:war_x_preferred":[
         "Kasai"
+    ],
+    "name:yue_x_preferred":[
+        "\u52a0\u897f"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u897f\u5e02"
@@ -218,7 +245,7 @@
         }
     ],
     "wof:id":890520087,
-    "wof:lastmodified":1561776457,
+    "wof:lastmodified":1563296161,
     "wof:name":"Kasai",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

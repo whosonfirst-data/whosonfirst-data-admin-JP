@@ -36,10 +36,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u062a\u0627\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0634\u064a\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u062a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a4\u09be"
     ],
     "name:cat_x_preferred":[
+        "Chita"
+    ],
+    "name:ceb_x_preferred":[
         "Chita"
     ],
     "name:ces_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u06cc\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Chita"
@@ -100,11 +112,17 @@
     "name:kor_x_preferred":[
         "\uc9c0\ud0c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc9c0\ud0c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u010cita"
     ],
     "name:lit_x_preferred":[
         "\u010cita"
+    ],
+    "name:lzh_x_preferred":[
+        "\u77e5\u591a\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0924\u093e"
@@ -114,6 +132,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0686\u06cc\u062a\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0686\u06cc\u062a\u0627"
     ],
     "name:nan_x_preferred":[
         "Tita-chh\u012b"
@@ -151,6 +172,9 @@
     "name:swe_x_preferred":[
         "Chita"
     ],
+    "name:szl_x_preferred":[
+        "Czita"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe"
     ],
@@ -178,11 +202,17 @@
     "name:urd_x_preferred":[
         "\u0686\u06cc\u062a\u0627\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u06cc\u062a\u0627"
+    ],
     "name:vie_x_preferred":[
         "Chita"
     ],
     "name:war_x_preferred":[
         "Chita"
+    ],
+    "name:yue_x_preferred":[
+        "\u77e5\u591a"
     ],
     "name:zho_x_preferred":[
         "\u77e5\u591a\u5e02"
@@ -232,7 +262,7 @@
         }
     ],
     "wof:id":890523295,
-    "wof:lastmodified":1561776471,
+    "wof:lastmodified":1563296555,
     "wof:name":"Chita",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Fukuyama"
     ],
@@ -35,8 +38,14 @@
     "name:cat_x_preferred":[
         "Fukuyama"
     ],
+    "name:ceb_x_preferred":[
+        "Fukuyama"
+    ],
     "name:ces_x_preferred":[
         "Fukuyama"
+    ],
+    "name:ces_x_variant":[
+        "Fukujama"
     ],
     "name:dan_x_preferred":[
         "Fukuyama"
@@ -58,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Fukuyama"
@@ -82,6 +94,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092b\u0941\u0915\u0941\u092f\u093e\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Fukujama"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0578\u0582\u056f\u0578\u0582\u0575\u0561\u0574\u0561"
@@ -110,11 +125,17 @@
     "name:kor_x_preferred":[
         "\ud6c4\ucfe0\uc57c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\ucfe0\uc57c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Fukujama"
     ],
     "name:lit_x_preferred":[
         "Fukujama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u798f\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0941\u092f\u093e\u092e\u093e"
@@ -124,6 +145,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Hukuyama-chh\u012b"
@@ -164,6 +188,9 @@
     "name:swe_x_preferred":[
         "Fukuyama"
     ],
+    "name:szl_x_preferred":[
+        "Fukuyama"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baf\u0bae\u0bbe"
     ],
@@ -194,11 +221,17 @@
     "name:urd_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627\u060c \u06c1\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0641\u0648\u06a9\u0648\u06cc\u0627\u0645\u0627"
+    ],
     "name:vie_x_preferred":[
         "Fukuyama"
     ],
     "name:war_x_preferred":[
         "Fukuyama"
+    ],
+    "name:yue_x_preferred":[
+        "\u798f\u5c71"
     ],
     "name:zho_min_nan_x_preferred":[
         "Hukuyama-chh\u012b"
@@ -249,7 +282,7 @@
         }
     ],
     "wof:id":102031791,
-    "wof:lastmodified":1561776078,
+    "wof:lastmodified":1563289983,
     "wof:name":"Fukuyama",
     "wof:parent_id":890524463,
     "wof:placetype":"locality",

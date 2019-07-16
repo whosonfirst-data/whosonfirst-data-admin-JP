@@ -36,10 +36,19 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u0648\u0643\u0627\u0648\u0627\u060c \u0648\u0627\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u0646\u0648\u0643\u0627\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0646\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u09cb\u0995\u09be\u0993\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
+        "Kinokawa"
+    ],
+    "name:ceb_x_preferred":[
         "Kinokawa"
     ],
     "name:dan_x_preferred":[
@@ -64,6 +73,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0646\u0648\u06a9\u0627\u0648\u0627\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0646\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kinokawa"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0928\u094b\u0915\u093e\u0935\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0576\u0578\u056f\u0561\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Kinokawa"
@@ -101,11 +116,17 @@
     "name:kor_x_preferred":[
         "\uae30\ub178\uce74\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uae30\ub178\uce74\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kinokava"
     ],
     "name:lit_x_preferred":[
         "Kinokava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d00\u4e4b\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0928\u094b\u0915\u093e\u0935\u093e"
@@ -115,6 +136,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u06cc\u0646\u0648\u06a9\u0627\u0648\u0627\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u06cc\u0646\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Kinokawa-chh\u012b"
@@ -179,6 +203,9 @@
     "name:war_x_preferred":[
         "Kinokawa"
     ],
+    "name:yue_x_preferred":[
+        "\u7d00\u4e4b\u5ddd"
+    ],
     "name:zho_x_preferred":[
         "\u7d00\u4e4b\u5ddd\u5e02"
     ],
@@ -215,7 +242,7 @@
         }
     ],
     "wof:id":890520281,
-    "wof:lastmodified":1561776454,
+    "wof:lastmodified":1563296111,
     "wof:name":"Kinokawa",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

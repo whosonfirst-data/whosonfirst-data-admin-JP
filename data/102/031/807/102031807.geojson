@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u062f\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0648\u062c\u06cc\u200c\u0626\u062f\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09c1\u099c\u09bf\u09af\u09bc\u09c7\u09a1\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Fujieda"
+    ],
+    "name:ces_x_preferred":[
+        "Fud\u017eieda"
     ],
     "name:dan_x_preferred":[
         "Fujieda"
@@ -88,20 +97,32 @@
     "name:kor_x_preferred":[
         "\ud6c4\uc9c0\uc5d0\ub2e4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\uc9c0\uc5d0\ub2e4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Fud\u017eijeda"
     ],
     "name:lit_x_preferred":[
         "Fud\u017eijeda"
     ],
+    "name:lzh_x_preferred":[
+        "\u85e4\u679d\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u092b\u0941\u091c\u0940\u0926\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Fujieda"
     ],
     "name:msa_x_preferred":[
         "Fujieda"
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u062c\u06cc\u200c\u0626\u062f\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u062c\u06cc \u0626\u062f\u0627"
     ],
     "name:nan_x_preferred":[
         "Huzieda-chh\u012b"
@@ -169,6 +190,9 @@
     "name:war_x_preferred":[
         "Fujieda"
     ],
+    "name:yue_x_preferred":[
+        "\u85e4\u679d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Huzieda-chh\u012b"
     ],
@@ -222,7 +246,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776094,
+    "wof:lastmodified":1563290137,
     "wof:name":"Fujieda",
     "wof:parent_id":1108742199,
     "wof:placetype":"locality",

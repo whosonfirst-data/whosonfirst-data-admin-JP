@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u062a\u0634\u064a\u063a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0686\u06cc\u0642\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0442\u044b\u0433\u0456"
     ],
@@ -28,6 +31,9 @@
         "\u099f\u09b8\u09bf\u0997\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Tochigi"
+    ],
+    "name:ceb_x_preferred":[
         "Tochigi"
     ],
     "name:ces_x_preferred":[
@@ -84,11 +90,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\uce58\uae30 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uce58\uae30\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "To\u010digi"
     ],
     "name:lit_x_preferred":[
         "To\u010digis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6ad4\u6728\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u091a\u0940\u0917\u0940"
@@ -153,6 +165,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0442\u0456\u0491\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u0447\u0456\u0491\u0456"
+    ],
     "name:unk_x_variant":[
         "Totigi"
     ],
@@ -164,6 +179,9 @@
     ],
     "name:war_x_preferred":[
         "Tochigi"
+    ],
+    "name:yue_x_preferred":[
+        "\u6803\u6728\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "Totigi-chh\u012b"
@@ -226,7 +244,7 @@
         }
     ],
     "wof:id":102031321,
-    "wof:lastmodified":1561776098,
+    "wof:lastmodified":1563290183,
     "wof:name":"Tochigi",
     "wof:parent_id":890520383,
     "wof:placetype":"locality",

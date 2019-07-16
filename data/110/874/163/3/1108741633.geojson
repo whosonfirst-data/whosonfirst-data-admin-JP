@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0633\u0627\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0633\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0633\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09b8\u09be"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Sosa"
@@ -89,11 +98,17 @@
     "name:kor_x_preferred":[
         "\uc18c\uc0ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc18c\uc0ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sosa"
     ],
     "name:lit_x_preferred":[
         "Sosa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u531d\u7473\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u0938\u093e"
@@ -103,6 +118,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0648\u0633\u0627"
     ],
     "name:nan_x_preferred":[
         "S\u00f4sa-chh\u012b"
@@ -161,11 +179,17 @@
     "name:urd_x_preferred":[
         "\u0633\u0624\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0624\u0633\u0627"
+    ],
     "name:vie_x_preferred":[
         "S\u014dsa"
     ],
     "name:war_x_preferred":[
         "S\u014dsa"
+    ],
+    "name:yue_x_preferred":[
+        "\u531d\u7473"
     ],
     "name:zho_x_preferred":[
         "\u531d\u7473\u5e02"
@@ -206,7 +230,7 @@
         }
     ],
     "wof:id":1108741633,
-    "wof:lastmodified":1561776360,
+    "wof:lastmodified":1563294421,
     "wof:name":"Sosa",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

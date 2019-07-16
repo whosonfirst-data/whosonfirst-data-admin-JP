@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0642\u0627\u0648\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Kaqava"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:cdo_x_preferred":[
         "Kagawa-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Kagawa-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Kagawa"
@@ -102,7 +108,8 @@
         "Pr\u00e9fecture de Kagawa"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Kagawa"
+        "pr\u00e9fecture de Kagawa",
+        "Kagawa"
     ],
     "name:gle_x_preferred":[
         "Maoracht Kagawa"
@@ -131,8 +138,14 @@
     "name:hun_x_preferred":[
         "Kagava prefekt\u00fara"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0563\u0561\u057e\u0561"
+    ],
     "name:ilo_x_preferred":[
         "Prepektura ti Kagawa"
+    ],
+    "name:ilo_x_variant":[
+        "Kagawa"
     ],
     "name:ind_x_preferred":[
         "Prefektur Kagawa"
@@ -155,8 +168,14 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d2\u10d0\u10d5\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1780\u17b6\u17a0\u17d2\u1782\u17b6\u179c\u17c9\u17b6"
+    ],
     "name:kor_x_preferred":[
         "\uac00\uac00\uc640 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uac00\uc640\ud604"
     ],
     "name:lav_x_preferred":[
         "Kagavas prefekt\u016bra"
@@ -187,6 +206,9 @@
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Kagawa"
+    ],
+    "name:pam_x_variant":[
+        "Kagawa Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0627\u06af\u0627\u0648\u0627"
@@ -221,6 +243,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0430\u0433\u0430\u0432\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u0433\u0430\u0432\u0430"
+    ],
     "name:sun_x_preferred":[
         "Kagawa Prefecture"
     ],
@@ -244,6 +269,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e30\u0e07\u0e30\u0e27\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e32\u0e07\u0e32\u0e27\u0e30"
     ],
     "name:tur_x_preferred":[
         "Kagawa"
@@ -400,7 +428,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776194,
+    "wof:lastmodified":1563291686,
     "wof:name":"Kagawa",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

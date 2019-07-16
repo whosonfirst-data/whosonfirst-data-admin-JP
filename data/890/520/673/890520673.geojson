@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0633\u0648\u0643\u0627\u060c \u0646\u064a\u064a\u063a\u0627\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a\u0633\u0648\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u062a\u0633\u0648\u06a9\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u099f\u09b8\u09cb\u0995\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Mitsuke Shi"
     ],
     "name:dan_x_preferred":[
         "Mitsuke"
@@ -35,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u062a\u0633\u0648\u06a9\u0647\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u062a\u0633\u0648\u06a9\u0647"
     ],
     "name:fin_x_preferred":[
         "Mitsuke"
@@ -60,17 +72,26 @@
     "name:jpn_x_preferred":[
         "\u898b\u9644"
     ],
+    "name:jpn_x_variant":[
+        "\u898b\u9644\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0c9f\u0ccd\u0cb8\u0cc1\u0c95\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc4f0\ucf00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc4f0\ucf00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mitsuke"
     ],
     "name:lit_x_preferred":[
         "Mitsuk\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u898b\u9644\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0924\u094d\u0938\u0941\u0915\u0947"
@@ -80,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u062a\u0633\u0648\u06a9\u0647\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u062a\u0633\u0648\u06a9\u0647"
     ],
     "name:nan_x_preferred":[
         "Mituke-chh\u012b"
@@ -141,6 +165,9 @@
     "name:war_x_preferred":[
         "Mitsuke"
     ],
+    "name:yue_x_preferred":[
+        "\u898b\u9644"
+    ],
     "name:zho_x_preferred":[
         "\u898b\u9644\u5e02"
     ],
@@ -175,7 +202,7 @@
         }
     ],
     "wof:id":890520673,
-    "wof:lastmodified":1561776454,
+    "wof:lastmodified":1563296108,
     "wof:name":"Mitsuke",
     "wof:parent_id":1108741835,
     "wof:placetype":"locality",

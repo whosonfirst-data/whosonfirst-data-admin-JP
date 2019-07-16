@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645\u0627\u0632\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0645\u0627\u0632\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0443\u043c\u0430\u0434\u0437\u0443"
     ],
@@ -28,6 +31,12 @@
     ],
     "name:bul_x_preferred":[
         "\u041d\u0443\u043c\u0430\u0434\u0437\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Numazu"
+    ],
+    "name:ces_x_preferred":[
+        "Numazu"
     ],
     "name:dan_x_preferred":[
         "Numazu"
@@ -46,6 +55,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0645\u0627\u0632\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0645\u0627\u0632\u0648"
     ],
     "name:fin_x_preferred":[
         "Numazu"
@@ -97,14 +109,23 @@
     "name:kor_x_preferred":[
         "\ub204\ub9c8\uc988 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub204\ub9c8\uc988\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Numazu"
     ],
     "name:lit_x_preferred":[
         "Numazu"
     ],
+    "name:lzh_x_preferred":[
+        "\u6cbc\u6d25\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0941\u092e\u093e\u091d\u0942"
+    ],
+    "name:mlg_x_preferred":[
+        "Numazu"
     ],
     "name:mon_x_preferred":[
         "\u041d\u04af\u043c\u0430\u0437\u04af"
@@ -114,6 +135,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0648\u0645\u0627\u0632\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0648\u0645\u0627\u0632\u0648"
     ],
     "name:nan_x_preferred":[
         "Numazu-chh\u012b"
@@ -178,11 +202,17 @@
     "name:urd_x_preferred":[
         "\u0646\u0648\u0645\u0627\u0632\u0648\u060c \u0634\u06cc\u0632\u0648\u06a9\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u0648\u0645\u0627\u0632\u0648"
+    ],
     "name:vie_x_preferred":[
         "Numazu"
     ],
     "name:war_x_preferred":[
         "Numazu"
+    ],
+    "name:yue_x_preferred":[
+        "\u6cbc\u6d25"
     ],
     "name:zho_min_nan_x_preferred":[
         "Numazu-chh\u012b"
@@ -238,7 +268,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776080,
+    "wof:lastmodified":1563289996,
     "wof:name":"Numazu",
     "wof:parent_id":1108742187,
     "wof:placetype":"locality",

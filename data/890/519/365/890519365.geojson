@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0643\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0646\u0646\u0627\u06a9\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09be\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Annaka"
     ],
     "name:dan_x_preferred":[
         "Annaka"
@@ -35,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0646\u0627\u06a9\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0646\u0646\u0627\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Annaka"
@@ -69,11 +78,17 @@
     "name:kor_x_preferred":[
         "\uc548\ub098\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc548\ub098\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Anaka"
     ],
     "name:lit_x_preferred":[
         "Anaka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5b89\u4e2d\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u094d\u0928\u0915"
@@ -83,6 +98,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0646\u0646\u0627\u06a9\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u0646\u0646\u0627\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Annaka-chh\u012b"
@@ -144,6 +162,9 @@
     "name:war_x_preferred":[
         "Annaka"
     ],
+    "name:yue_x_preferred":[
+        "\u5b89\u4e2d"
+    ],
     "name:zho_x_preferred":[
         "\u5b89\u4e2d\u5e02"
     ],
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":890519365,
-    "wof:lastmodified":1561776442,
+    "wof:lastmodified":1563295901,
     "wof:name":"Annaka",
     "wof:parent_id":890520385,
     "wof:placetype":"locality",

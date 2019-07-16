@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0633\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasama-shi"
     ],
     "name:cym_x_preferred":[
         "Kasama"
@@ -41,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0633\u0627\u0645\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0633\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Kasama"
@@ -75,11 +84,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc0ac\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc0ac\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kasama"
     ],
     "name:lit_x_preferred":[
         "Kasama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7b20\u9593\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0938\u092e\u093e"
@@ -89,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0633\u0627\u0645\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0633\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Kasama-chh\u012b"
@@ -150,6 +168,9 @@
     "name:war_x_preferred":[
         "Kasama"
     ],
+    "name:yue_x_preferred":[
+        "\u7b20\u9593"
+    ],
     "name:zho_x_preferred":[
         "\u7b20\u9593\u5e02"
     ],
@@ -186,7 +207,7 @@
         }
     ],
     "wof:id":890519407,
-    "wof:lastmodified":1561776445,
+    "wof:lastmodified":1563295935,
     "wof:name":"Kasama",
     "wof:parent_id":890524545,
     "wof:placetype":"locality",

@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0625\u063a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u0997\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Iga-shi"
     ],
     "name:ces_x_preferred":[
         "Iga"
@@ -50,6 +56,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u06af\u0627\u060c \u0645\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Iga"
@@ -92,11 +101,17 @@
     "name:kor_x_preferred":[
         "\uc774\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Iga"
     ],
     "name:lit_x_preferred":[
         "Iga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f0a\u8cc0\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0917\u093e"
@@ -106,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u06af\u0627\u060c \u0645\u06cc\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Iga-chh\u012b"
@@ -176,6 +194,9 @@
     "name:war_x_preferred":[
         "Iga"
     ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u8cc0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Iga-chh\u012b"
     ],
@@ -240,7 +261,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776097,
+    "wof:lastmodified":1563290172,
     "wof:name":"Iga",
     "wof:parent_id":1108742325,
     "wof:placetype":"locality",

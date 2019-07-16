@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0645\u0648\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646\u0645\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u200c\u0645\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09cd\u09ae\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043c\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Sanmu"
     ],
     "name:dan_x_preferred":[
         "Sammu"
@@ -96,11 +105,17 @@
     "name:kor_x_preferred":[
         "\uc0b0\ubb34 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ubb34\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Samu"
     ],
     "name:lit_x_preferred":[
         "Samu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c71\u6b66\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u092e\u0941"
@@ -110,6 +125,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0627\u0646 \u0645\u0648"
     ],
     "name:nan_x_preferred":[
         "Sanmu-chh\u012b"
@@ -171,11 +189,17 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u0645\u0648\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u0645\u0648"
+    ],
     "name:vie_x_preferred":[
         "Sanmu"
     ],
     "name:war_x_preferred":[
         "Sanmu"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c71\u6b66"
     ],
     "name:zho_x_preferred":[
         "\u5c71\u6b66\u5e02"
@@ -213,7 +237,7 @@
         }
     ],
     "wof:id":890519925,
-    "wof:lastmodified":1561776446,
+    "wof:lastmodified":1563295953,
     "wof:name":"Sanmu",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u062a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0648\u062a\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Kyoto"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:cdo_x_preferred":[
         "G\u012dng-d\u016d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ky\u014dto-fu"
     ],
     "name:ces_x_preferred":[
         "Prefektura Kj\u00f3to"
@@ -104,11 +110,15 @@
     "name:fin_x_preferred":[
         "Kioton Prefektuuri"
     ],
+    "name:fin_x_variant":[
+        "Kioton prefektuuri"
+    ],
     "name:fra_x_preferred":[
         "Pr\u00e9fecture de Kyoto"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Kyoto"
+        "pr\u00e9fecture de Kyoto",
+        "Kyoto"
     ],
     "name:gle_x_preferred":[
         "Maoracht Kyoto"
@@ -133,6 +143,9 @@
     ],
     "name:hun_x_preferred":[
         "Kiot\u00f3 prefekt\u00fara"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0578\u057f\u0578"
     ],
     "name:ilo_x_preferred":[
         "Kyoto"
@@ -165,7 +178,8 @@
         "\ucfc4\ud1a0\ud6c4"
     ],
     "name:kor_x_variant":[
-        "\uad50\ud1a0 \ubd80"
+        "\uad50\ud1a0 \ubd80",
+        "\uad50\ud1a0\ubd80"
     ],
     "name:lat_x_preferred":[
         "Kyotum"
@@ -251,6 +265,9 @@
     "name:swe_x_preferred":[
         "Kyoto Prefektur"
     ],
+    "name:swe_x_variant":[
+        "Kyoto prefektur"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0baf\u0bcb\u0ba4\u0bcd\u0ba4\u0bcb \u0ba8\u0b95\u0bb0\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
@@ -266,11 +283,17 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e04\u0e35\u0e22\u0e27\u0e42\u0e15\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e01\u0e35\u0e22\u0e27\u0e42\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Kyoto"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0456\u043e\u0442\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0456\u043e\u0442\u043e"
     ],
     "name:und_x_variant":[
         "\u4eac\u90fd\u5e9c",
@@ -421,7 +444,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776193,
+    "wof:lastmodified":1563291684,
     "wof:name":"Kyoto",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

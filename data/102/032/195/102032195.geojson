@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2746433.887251,
+    "geom:area_square_m":2746433.887249,
     "geom:bbox":"136.683626603,35.4388732818,136.702689261,35.4584963042",
     "geom:latitude":35.449573,
     "geom:longitude":136.693448,
@@ -21,16 +21,49 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u062a\u0633\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u062a\u0648\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09a4\u09cb\u09b8\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Motosu"
+    ],
+    "name:dan_x_preferred":[
+        "Motosu"
+    ],
     "name:deu_x_preferred":[
+        "Motosu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c4\u03cc\u03c3\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
         "Motosu"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u062a\u0648\u0633\u0648\u060c \u06af\u06cc\u0641\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u062a\u0648\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Motosu"
+    ],
     "name:fra_x_preferred":[
         "Motosu"
     ],
     "name:glg_x_preferred":[
+        "Motosu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0a9f\u0acb\u0ab8\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0924\u094b\u0938\u0941"
+    ],
+    "name:ind_x_preferred":[
         "Motosu"
     ],
     "name:ita_x_preferred":[
@@ -42,16 +75,43 @@
     "name:jpn_x_variant":[
         "\u672c\u5de3"
     ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccb\u0c9f\u0ccb\u0cb8\u0cc1"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ud1a0\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubaa8\ud1a0\uc2a4\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Motosu"
+    ],
+    "name:lit_x_preferred":[
+        "Motosu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u672c\u5de2\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u091f\u094b\u0938\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Motosu"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u062a\u0648\u0633\u0648\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u062a\u0648\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Motosu-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Motosu"
+    ],
+    "name:nob_x_preferred":[
         "Motosu"
     ],
     "name:pol_x_preferred":[
@@ -66,8 +126,23 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0442\u043e\u0441\u0443"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0da7\u0ddc\u0dc3\u0dd4"
+    ],
+    "name:spa_x_preferred":[
+        "Motosu"
+    ],
     "name:sun_x_preferred":[
         "Motosu"
+    ],
+    "name:swe_x_preferred":[
+        "Motosu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0b9f\u0bcb\u0b9a\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c24\u0c4b\u0c38\u0c41"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u043e\u0442\u043e\u0441\u0443"
@@ -75,17 +150,26 @@
     "name:tgl_x_preferred":[
         "Motosu"
     ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e21\u0e30\u0e42\u0e15\u0e30\u0e1a\u0e38"
+    ],
     "name:tur_x_preferred":[
         "Motosu"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0442\u043e\u0441\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u062a\u0648\u0633\u0648"
+    ],
     "name:vie_x_preferred":[
         "Motosu"
     ],
     "name:war_x_preferred":[
         "Motosu"
+    ],
+    "name:yue_x_preferred":[
+        "\u672c\u5de2"
     ],
     "name:zho_min_nan_x_preferred":[
         "Motosu-chh\u012b"
@@ -131,7 +215,7 @@
         }
     ],
     "wof:id":102032195,
-    "wof:lastmodified":1527637847,
+    "wof:lastmodified":1563290196,
     "wof:name":"Motosu",
     "wof:parent_id":890524861,
     "wof:placetype":"locality",

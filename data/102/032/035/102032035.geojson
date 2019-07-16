@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0645\u0648\u0631\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0645\u0648\u0631\u0648"
+    ],
     "name:aze_x_preferred":[
         "Nemuro"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09ae\u09c1\u09b0\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Nemuro-shi"
     ],
     "name:dan_x_preferred":[
         "Nemuro"
@@ -48,6 +54,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0645\u0648\u0631\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0645\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Nemuro"
@@ -80,7 +89,7 @@
     "name:jpn_x_variant":[
         "\u306d\u3080\u308d",
         "\u306d\u3080\u308d\u3057",
-        "\u6839\u5ba4"
+        "\u6839\u5ba4\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc6\u0cae\u0cc1\u0cb0\u0cca"
@@ -89,7 +98,8 @@
         "\ub124\ubb34\ub85c"
     ],
     "name:kor_x_variant":[
-        "\ub124\ubb34\ub85c \uc2dc"
+        "\ub124\ubb34\ub85c \uc2dc",
+        "\ub124\ubb34\ub85c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Nemuro"
@@ -100,6 +110,9 @@
     "name:lit_x_variant":[
         "Nemuras"
     ],
+    "name:lzh_x_preferred":[
+        "\u6839\u5ba4\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0947\u092e\u0941\u0930\u094b"
     ],
@@ -108,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0645\u0648\u0631\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0645\u0648\u0631\u0648"
     ],
     "name:nan_x_preferred":[
         "Nemuro-chh\u012b"
@@ -160,6 +176,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e19\u0e30\u0e21\u0e38\u0e42\u0e23\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e19\u0e21\u0e39\u0e42\u0e23\u0e30"
+    ],
     "name:tur_x_preferred":[
         "Nemuro"
     ],
@@ -174,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "Nemuro"
+    ],
+    "name:yue_x_preferred":[
+        "\u6839\u5ba4"
     ],
     "name:zho_x_preferred":[
         "\u6839\u5ba4"
@@ -227,7 +249,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776102,
+    "wof:lastmodified":1563290252,
     "wof:name":"Nemuro",
     "wof:parent_id":1108739521,
     "wof:placetype":"locality",

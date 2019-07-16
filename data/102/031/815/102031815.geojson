@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0632\u0627\u0643\u064a\u060c \u0645\u064a\u0627\u0632\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0627\u0632\u0627\u0643\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Miyazaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Miyazaki Shi"
     ],
     "name:ces_x_preferred":[
         "Mijazaki"
@@ -85,6 +91,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u092f\u093e\u091c\u093e\u0915\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Mijazaki"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u056b\u0561\u0571\u0561\u056f\u056b"
     ],
@@ -97,11 +106,17 @@
     "name:jpn_x_preferred":[
         "\u9577\u5e9c\u5bae\u5d0e\u753a"
     ],
+    "name:jpn_x_variant":[
+        "\u5bae\u5d0e\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0caf\u0cbe\u0c9c\u0cbe\u0c95\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\uc790\ud0a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc57c\uc790\ud0a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Mijadzaki"
@@ -178,6 +193,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e34\u0e22\u0e30\u0e0b\u0e30\u0e01\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e34\u0e22\u0e32\u0e0b\u0e32\u0e01\u0e34"
+    ],
     "name:tur_x_preferred":[
         "Miyazaki"
     ],
@@ -242,7 +260,7 @@
         }
     ],
     "wof:id":102031815,
-    "wof:lastmodified":1561776093,
+    "wof:lastmodified":1563290121,
     "wof:name":"Ch\u014dfu-Miyazakich\u014d",
     "wof:parent_id":1108743259,
     "wof:placetype":"locality",

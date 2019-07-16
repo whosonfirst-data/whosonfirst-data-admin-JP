@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09ac\u09be\u09ae\u09be"
     ],
@@ -50,6 +53,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0645\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0628\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Obama"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aac\u0abe\u0aae\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Obama-s\u1e73"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d1\u05de\u05d4"
@@ -86,11 +95,17 @@
     "name:kor_x_preferred":[
         "\uc624\ubc14\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ubc14\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Obama"
     ],
     "name:lit_x_preferred":[
         "Obama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c0f\u6ff1\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u092c\u093e\u092e\u093e"
@@ -100,6 +115,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0645\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0628\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Obama-chh\u012b"
@@ -124,6 +142,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0431\u0430\u043c\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Obama"
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0db6\u0db8\u0dcf"
@@ -173,6 +194,9 @@
     "name:wuu_x_preferred":[
         "\u5c0f\u6d5c\u5e02"
     ],
+    "name:yue_x_preferred":[
+        "\u5c0f\u6ff1"
+    ],
     "name:zho_x_preferred":[
         "\u5c0f\u6ff1\u5e02"
     ],
@@ -216,7 +240,7 @@
         }
     ],
     "wof:id":102031469,
-    "wof:lastmodified":1561776094,
+    "wof:lastmodified":1563290138,
     "wof:name":"Obama",
     "wof:parent_id":1108741907,
     "wof:placetype":"locality",

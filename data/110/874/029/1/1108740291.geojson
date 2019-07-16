@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0633\u0648\u060c \u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0645\u064a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0645\u06cc\u0633\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09bf\u09b8\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Kamisu-shi"
     ],
     "name:dan_x_preferred":[
         "Kamisu"
@@ -53,6 +62,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0645\u06cc\u0633\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0645\u06cc\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Kamisu"
@@ -87,11 +99,17 @@
     "name:kor_x_preferred":[
         "\uac00\ubbf8\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\ubbf8\uc2a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kamisu"
     ],
     "name:lit_x_preferred":[
         "Kamisu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u795e\u68f2\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u093f\u0938\u0941"
@@ -101,6 +119,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0645\u06cc\u0633\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0645\u06cc\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Kamisu-chh\u012b"
@@ -162,6 +183,9 @@
     "name:war_x_preferred":[
         "Kamisu"
     ],
+    "name:yue_x_preferred":[
+        "\u795e\u68f2"
+    ],
     "name:zho_x_preferred":[
         "\u795e\u6816\u5e02"
     ],
@@ -188,7 +212,7 @@
         }
     ],
     "wof:id":1108740291,
-    "wof:lastmodified":1561776363,
+    "wof:lastmodified":1563294460,
     "wof:name":"Kamisu",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

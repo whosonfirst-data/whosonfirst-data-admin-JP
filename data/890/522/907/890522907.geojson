@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u063a\u0627\u0634\u064a \u064a\u0627\u0645\u0627\u062a\u0648\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u063a\u0627\u0634\u064a \u064a\u0627\u0645\u0627\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0997\u09be\u09b6\u09bf\u09af\u09bc\u09be\u09ae\u09be\u09a4\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0438\u0433\u0430\u0448\u0438\u044f\u043c\u0430\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Higashiyamato"
     ],
     "name:ces_x_preferred":[
         "Higa\u0161ijamato"
@@ -66,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u06cc\u0627\u0645\u0627\u062a\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u06cc\u0627\u0645\u0627\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Higashiyamato"
@@ -104,11 +113,17 @@
     "name:kor_x_preferred":[
         "\ud788\uac00\uc2dc\uc57c\ub9c8\ud1a0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\uac00\uc2dc\uc57c\ub9c8\ud1a0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Higa\u0161ijamata"
     ],
     "name:lit_x_preferred":[
         "Higa\u0161ijamatas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6771\u5927\u548c\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u091f\u0941\u0936\u093f\u0906\u092e\u093e\u091f\u094b"
@@ -118,6 +133,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u06cc\u0627\u0645\u0627\u062a\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u06af\u0627\u0634\u06cc\u200c\u06cc\u0627\u0645\u0627\u062a\u0648"
     ],
     "name:nan_x_preferred":[
         "Higasiyamato-chh\u012b"
@@ -154,6 +172,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc2\u0bb0\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3f\u0c17\u0c3e\u0c37\u0c3f \u0c2f\u0c2e\u0c3e\u0c24\u0c4b"
@@ -241,7 +262,7 @@
         }
     ],
     "wof:id":890522907,
-    "wof:lastmodified":1561776468,
+    "wof:lastmodified":1563296463,
     "wof:name":"Higashiyamato",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

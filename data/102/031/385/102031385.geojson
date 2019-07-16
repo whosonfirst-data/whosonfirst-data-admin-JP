@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0645\u0648\u062f\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0645\u0648\u062f\u0627"
+    ],
     "name:aze_x_preferred":[
         "\u015eimoda"
     ],
@@ -30,6 +33,9 @@
         "\u0428\u0438\u043c\u043e\u0434\u0430"
     ],
     "name:cat_x_preferred":[
+        "Shimoda"
+    ],
+    "name:ceb_x_preferred":[
         "Shimoda"
     ],
     "name:dan_x_preferred":[
@@ -47,8 +53,14 @@
     "name:epo_x_preferred":[
         "\u015cimoda"
     ],
+    "name:epo_x_variant":[
+        "Shimoda"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0645\u0648\u062f\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0645\u0648\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Shimoda"
@@ -83,11 +95,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\ubaa8\ub2e4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ubaa8\ub2e4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u0160imoda"
     ],
     "name:lit_x_preferred":[
         "\u0160imoda"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e0b\u7530\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u092e\u094b\u0921\u093e"
@@ -97,6 +115,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u0645\u0648\u062f\u0627\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0634\u06cc\u0645\u0648\u062f\u0627"
     ],
     "name:nan_x_preferred":[
         "Simoda-chh\u012b"
@@ -161,6 +182,9 @@
     "name:war_x_preferred":[
         "Shimoda"
     ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u7530"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Simoda-chh\u012b"
     ],
@@ -211,7 +235,7 @@
         }
     ],
     "wof:id":102031385,
-    "wof:lastmodified":1561776088,
+    "wof:lastmodified":1563290062,
     "wof:name":"Shimoda",
     "wof:parent_id":890524625,
     "wof:placetype":"locality",

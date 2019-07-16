@@ -18,11 +18,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0648\u06a9\u0627\u0642\u0627\u0648\u0627"
+    ],
     "name:aze_x_preferred":[
         "Fukaqava"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c1\u0995\u09be\u0997\u09be\u0993\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Fukagawa"
     ],
     "name:dan_x_preferred":[
         "Fukagawa"
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u06a9\u0627\u06af\u0627\u0648\u0627\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u06a9\u0627\u06af\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Fukagawa"
@@ -55,6 +64,9 @@
         "\u092b\u093c\u0942\u0915\u093e\u0917\u093e\u0935\u093e"
     ],
     "name:ido_x_preferred":[
+        "Fukagawa"
+    ],
+    "name:ilo_x_preferred":[
         "Fukagawa"
     ],
     "name:ind_x_preferred":[
@@ -75,11 +87,17 @@
     "name:kor_x_preferred":[
         "\ud6c4\uce74\uac00\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\uce74\uac00\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Fukagava"
     ],
     "name:lit_x_preferred":[
         "Fukagava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6df1\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0917\u093e\u0935\u093e"
@@ -89,6 +107,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u06a9\u0627\u06af\u0627\u0648\u0627\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u06a9\u0627\u06af\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Hukagawa-chh\u012b"
@@ -194,7 +215,7 @@
         }
     ],
     "wof:id":890531861,
-    "wof:lastmodified":1561776463,
+    "wof:lastmodified":1563296343,
     "wof:name":"Fukagawa",
     "wof:parent_id":890523937,
     "wof:placetype":"locality",

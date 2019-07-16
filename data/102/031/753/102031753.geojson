@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0643\u064a\u0646\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u06a9\u06cc\u0646\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u0995\u09bf\u09a8\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Hekinan"
+    ],
+    "name:ces_x_preferred":[
+        "Hekinan"
     ],
     "name:dan_x_preferred":[
         "Hekinan"
@@ -40,6 +49,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u06a9\u06cc\u0646\u0627\u0646\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06a9\u06cc\u0646\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Hekinan"
@@ -82,11 +94,17 @@
     "name:kor_x_preferred":[
         "\ud5e4\ud0a4\ub09c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud5e4\ud0a4\ub09c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hekinana"
     ],
     "name:lit_x_preferred":[
         "Hekinanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u78a7\u5357\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u0947\u0915\u0945\u0928\u0928"
@@ -96,6 +114,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06a9\u06cc\u0646\u0627\u0646\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06a9\u06cc\u0646\u0627\u0646"
     ],
     "name:nan_x_preferred":[
         "Hekinan-chh\u012b"
@@ -163,6 +184,9 @@
     "name:war_x_preferred":[
         "Hekinan"
     ],
+    "name:yue_x_preferred":[
+        "\u78a7\u5357"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Hekinan-chh\u012b"
     ],
@@ -217,7 +241,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776078,
+    "wof:lastmodified":1563289981,
     "wof:name":"Hekinan",
     "wof:parent_id":1108742253,
     "wof:placetype":"locality",

@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0625\u0628\u064a\u062a\u0633\u0648\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0628\u064a\u062a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u062a\u0633\u0648"
+    ],
     "name:aze_x_preferred":[
         "Ebetsu"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09ac\u09c7\u09ce\u09b8\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Ebetsu-shi"
     ],
     "name:dan_x_preferred":[
         "Ebetsu"
@@ -64,6 +73,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0628\u062a\u0633\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u062a\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ebetsu"
     ],
@@ -85,6 +97,9 @@
     "name:ido_x_preferred":[
         "Ebetsu"
     ],
+    "name:ilo_x_preferred":[
+        "Ebetsu"
+    ],
     "name:ind_x_preferred":[
         "Ebetsu"
     ],
@@ -104,11 +119,17 @@
     "name:kor_x_preferred":[
         "\uc5d0\ubca0\uc4f0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc5d0\ubca0\uc4f0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ebetsu"
     ],
     "name:lit_x_preferred":[
         "Ebetsu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6c5f\u5225\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u092c\u0947\u0924\u094d\u0938\u0942"
@@ -118,6 +139,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0628\u062a\u0633\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0628\u062a\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Ebetu-chh\u012b"
@@ -242,7 +266,7 @@
         }
     ],
     "wof:id":890520789,
-    "wof:lastmodified":1561776460,
+    "wof:lastmodified":1563296202,
     "wof:name":"Ebetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

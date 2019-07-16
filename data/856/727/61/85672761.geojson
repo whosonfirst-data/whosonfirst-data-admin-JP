@@ -70,11 +70,20 @@
     "name:cat_x_preferred":[
         "Hokkaido"
     ],
+    "name:cat_x_variant":[
+        "Prefectura d'Hokkaid\u014d"
+    ],
     "name:cdo_x_preferred":[
         "B\u00e1e\u0324k-h\u0101i-d\u00f4\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "Hokkaid\u014d"
+    ],
     "name:ces_x_preferred":[
         "Hokkaid\u00f3"
+    ],
+    "name:ces_x_variant":[
+        "prefektura Hokkaid\u00f3"
     ],
     "name:ckb_x_preferred":[
         "\u06be\u06c6\u06a9\u0627\u06cc\u062f\u06c6"
@@ -106,8 +115,14 @@
     "name:epo_x_preferred":[
         "Hokajdo"
     ],
+    "name:epo_x_variant":[
+        "Gubernio Hokajdo"
+    ],
     "name:est_x_preferred":[
         "Hokkaid\u014d"
+    ],
+    "name:est_x_variant":[
+        "Hokkaid\u014d prefektuur"
     ],
     "name:eus_x_preferred":[
         "Hokkaido"
@@ -161,6 +176,9 @@
     "name:hun_x_preferred":[
         "Hokkaid\u00f3"
     ],
+    "name:hun_x_variant":[
+        "Hokkaid\u00f3 prefekt\u00fara"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u056f\u0561\u0575\u0564\u0578"
     ],
@@ -175,6 +193,9 @@
     ],
     "name:ita_x_preferred":[
         "Hokkaid\u014d"
+    ],
+    "name:jav_x_preferred":[
+        "Hokkaido"
     ],
     "name:jpn_x_preferred":[
         "\u5317\u6d77\u9053"
@@ -209,6 +230,9 @@
     ],
     "name:lav_x_preferred":[
         "Hokaido"
+    ],
+    "name:lav_x_variant":[
+        "Hokaido prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Hokaidas"
@@ -256,11 +280,17 @@
     "name:pam_x_preferred":[
         "Hokkaid\u014d"
     ],
+    "name:pam_x_variant":[
+        "Hokkaid\u014d labuad"
+    ],
     "name:pnb_x_preferred":[
         "\u06c1\u0648\u06a9\u06cc\u0688\u0648"
     ],
     "name:pol_x_preferred":[
         "Hokkaido"
+    ],
+    "name:pol_x_variant":[
+        "prefektura Hokkaido"
     ],
     "name:por_x_preferred":[
         "Hokkaido"
@@ -314,6 +344,9 @@
         "Hokkaido Prefektur",
         "Hokkaido"
     ],
+    "name:swe_x_variant":[
+        "Hokkaido prefektur"
+    ],
     "name:szl_x_preferred":[
         "Hokkaido"
     ],
@@ -325,6 +358,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e"
+    ],
+    "name:tgk_x_variant":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430\u0438 \u04b2\u043e\u043a\u043a\u0430\u0439\u0434\u043e"
     ],
     "name:tgl_x_preferred":[
         "Hokkaid\u014d"
@@ -343,6 +379,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e"
     ],
     "name:und_x_variant":[
         "\u5317\u6d77\u9053",
@@ -365,6 +404,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10f0\u10dd\u10d9\u10d0\u10d8\u10d3\u10dd"
+    ],
+    "name:xmf_x_variant":[
+        "\u10f0\u10dd\u10d9\u10d0\u10d8\u10d3\u10dd\u10e8 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05d0\u05e7\u05d9\u05d9\u05d3\u05d0"
@@ -506,7 +548,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776190,
+    "wof:lastmodified":1563291657,
     "wof:name":"Hokkaido",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

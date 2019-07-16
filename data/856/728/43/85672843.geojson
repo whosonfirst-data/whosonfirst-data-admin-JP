@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u063a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0627\u0642\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Miyaqi"
     ],
     "name:bak_x_preferred":[
         "\u041c\u0438\u044f\u0433\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0456\u044f\u0433\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09be\u0997\u09bf \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -54,11 +60,17 @@
     "name:cdo_x_preferred":[
         "Miyagi-g\u00e2ing"
     ],
+    "name:ceb_x_preferred":[
+        "Miyagi-ken"
+    ],
     "name:ces_x_preferred":[
         "Prefektura Mijagi"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:ckb_x_variant":[
+        "\u0645\u06cc\u06cc\u0627\u06af\u06cc"
     ],
     "name:cym_x_preferred":[
         "Miyagi"
@@ -98,7 +110,8 @@
         "Pr\u00e9fecture de Miyagi"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Miyagi"
+        "pr\u00e9fecture de Miyagi",
+        "Miyagi"
     ],
     "name:gan_x_preferred":[
         "\u5bae\u57ce\u7e23"
@@ -136,6 +149,9 @@
     "name:ilo_x_preferred":[
         "Prepektura ti Miyagi"
     ],
+    "name:ilo_x_variant":[
+        "Miyagi"
+    ],
     "name:ind_x_preferred":[
         "Prefektur Miyagi"
     ],
@@ -161,11 +177,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\uae30 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc57c\uae30\ud604"
+    ],
     "name:lav_x_preferred":[
         "Mijagi prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Mijagio prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5bae\u57ce\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u092f\u093e\u0917\u0940"
@@ -193,6 +215,9 @@
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Miyagi"
+    ],
+    "name:pam_x_variant":[
+        "Miyagi Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u06cc\u0627\u06af\u06cc"
@@ -233,6 +258,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0438\u0458\u0430\u0433\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u0458\u0430\u0433\u0438"
+    ],
     "name:sun_x_preferred":[
         "Miyagi Prefecture"
     ],
@@ -256,6 +284,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e34\u0e22\u0e30\u0e07\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e34\u0e22\u0e32\u0e07\u0e34"
     ],
     "name:tur_x_preferred":[
         "Miyagi"
@@ -419,7 +450,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776188,
+    "wof:lastmodified":1563291641,
     "wof:name":"Miyagi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u064a\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0631\u0648\u0627\u06cc\u0634\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09cb\u0987\u09b6\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuroishi"
     ],
     "name:dan_x_preferred":[
         "Kuroishi"
@@ -43,6 +49,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0648\u0627\u06cc\u0634\u06cc\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0631\u0648\u0627\u06cc\u0634\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kuroishi"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0930\u094b\u0907\u0936\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0578\u056b\u057d\u056b"
     ],
     "name:ind_x_preferred":[
         "Kuroishi"
@@ -84,11 +96,17 @@
     "name:kor_x_preferred":[
         "\uad6c\ub85c\uc774\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uad6c\ub85c\uc774\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kuroi\u0161i"
     ],
     "name:lit_x_preferred":[
         "Kuroi\u0161is"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ed1\u77f3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0930\u094b\u0909\u0936\u0940"
@@ -98,6 +116,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0631\u0648\u0627\u06cc\u0634\u06cc\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0631\u0648\u0627\u06cc\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Kuroisi-chh\u012b"
@@ -159,11 +180,17 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0631\u0648\u06cc\u0634\u06cc\u060c \u0627\u0648\u0645\u0648\u0631\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0631\u0648\u06cc\u0634\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Kuroishi"
     ],
     "name:war_x_preferred":[
         "Kuroishi"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ed1\u77f3"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kuroisi-chh\u012b"
@@ -214,7 +241,7 @@
         }
     ],
     "wof:id":102032043,
-    "wof:lastmodified":1561776102,
+    "wof:lastmodified":1563290248,
     "wof:name":"Kuroishi",
     "wof:parent_id":890519963,
     "wof:placetype":"locality",

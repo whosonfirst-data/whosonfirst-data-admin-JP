@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0643\u0648\u0643\u0648\u062a\u0634\u0648\u060c \u0625\u0647\u064a\u0645\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0643\u0648\u0643\u0648\u062a\u0634\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0626\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u0995\u09cb\u0995\u09c1\u099a\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Shikoku-ch\u016b\u014d Shi"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ikoku\u010d\u00fa\u00f3"
     ],
     "name:dan_x_preferred":[
         "Shikokuchuo"
@@ -55,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0626\u0648\u060c \u0627\u0647\u06cc\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Shikokuch\u016b\u014d"
@@ -86,11 +101,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\ucf54\ucfe0\ucd94\uc624 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ucf54\ucfe0\ucd94\uc624\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u0160ikoku\u010du"
     ],
     "name:lit_x_preferred":[
         "\u0160ikoku\u010du"
+    ],
+    "name:lzh_x_preferred":[
+        "\u56db\u570b\u4e2d\u592e\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u0915\u094b\u0915\u0942\u091a\u0942\u0913"
@@ -100,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0626\u0648\u060c \u0627\u0647\u06cc\u0645\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0626\u0648"
     ],
     "name:nan_x_preferred":[
         "Sikokuty\u00fb\u00f4-chh\u012b"
@@ -143,6 +167,9 @@
     "name:tgl_x_preferred":[
         "Syikokutsuo"
     ],
+    "name:tgl_x_variant":[
+        "Shikokuch\u016b\u014d"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e34\u0e42\u0e01\u0e30\u0e01\u0e38\u0e0a\u0e38\u0e42\u0e0a"
     ],
@@ -158,11 +185,17 @@
     "name:urd_x_preferred":[
         "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0624\u060c \u0627\u06c1\u06cc\u0645\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u06cc\u06a9\u0648\u06a9\u0648\u0686\u0648\u0624"
+    ],
     "name:vie_x_preferred":[
         "Shikokuch\u016b\u014d"
     ],
     "name:war_x_preferred":[
         "Shikokuch\u016b\u014d"
+    ],
+    "name:yue_x_preferred":[
+        "\u56db\u570b\u4e2d\u592e"
     ],
     "name:zho_x_preferred":[
         "\u56db\u570b\u4e2d\u592e\u5e02"
@@ -190,7 +223,7 @@
         }
     ],
     "wof:id":1108742915,
-    "wof:lastmodified":1561776367,
+    "wof:lastmodified":1563294504,
     "wof:name":"Shikokuchuo",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

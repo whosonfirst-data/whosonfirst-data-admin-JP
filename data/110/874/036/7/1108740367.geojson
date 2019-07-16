@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0648\u0631\u064a\u060c \u063a\u0648\u0646\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062f\u0648\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u062f\u0648\u0631\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a6\u09cb\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Midori"
+    ],
+    "name:ces_x_preferred":[
+        "Midori"
     ],
     "name:dan_x_preferred":[
         "Midori"
@@ -54,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u062f\u0648\u0631\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u062f\u0648\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Midori"
@@ -82,11 +97,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ub3c4\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub3c4\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Midori"
     ],
     "name:lit_x_preferred":[
         "Midoris"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7da0\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0921\u094b\u0930\u0940"
@@ -96,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u062f\u0648\u0631\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u062f\u0648\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Midori-chh\u012b"
@@ -154,6 +178,9 @@
     "name:war_x_preferred":[
         "Midori"
     ],
+    "name:yue_x_preferred":[
+        "\u7da0\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u7da0\u5e02"
     ],
@@ -180,7 +207,7 @@
         }
     ],
     "wof:id":1108740367,
-    "wof:lastmodified":1561776353,
+    "wof:lastmodified":1563294352,
     "wof:name":"Midori",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

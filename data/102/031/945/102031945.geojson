@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u062a\u0648"
+    ],
     "name:aze_x_preferred":[
         "Mito"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Mito"
+    ],
+    "name:ceb_x_preferred":[
+        "Mito-shi"
     ],
     "name:ces_x_preferred":[
         "Mito"
@@ -66,6 +72,9 @@
     "name:fas_x_preferred":[
         "\u0645\u06cc\u062a\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mito"
     ],
@@ -93,6 +102,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u091f\u094b"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057f\u0578"
+    ],
     "name:ind_x_preferred":[
         "Mito"
     ],
@@ -118,11 +130,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ud1a0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ud1a0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mita"
     ],
     "name:lit_x_preferred":[
         "Mitas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6c34\u6236\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0924\u094b"
@@ -132,6 +150,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u062a\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u062a\u0648"
     ],
     "name:nan_x_preferred":[
         "Mito-chh\u012b"
@@ -208,11 +229,17 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062a\u0648\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u062a\u0648"
+    ],
     "name:vie_x_preferred":[
         "Mito"
     ],
     "name:war_x_preferred":[
         "Mito"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c34\u6236"
     ],
     "name:zho_min_nan_x_preferred":[
         "Mito-chh\u012b"
@@ -362,7 +389,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776097,
+    "wof:lastmodified":1563290176,
     "wof:name":"Mito-shi",
     "wof:parent_id":890524549,
     "wof:placetype":"locality",

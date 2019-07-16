@@ -18,10 +18,19 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0646\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u0631\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a8\u09cd\u09b0\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Tenri"
+    ],
+    "name:ceb_x_preferred":[
+        "Tenri"
+    ],
+    "name:ces_x_preferred":[
         "Tenri"
     ],
     "name:dan_x_preferred":[
@@ -41,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0646\u0631\u06cc\u060c \u0646\u0627\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Tenri"
@@ -78,11 +90,17 @@
     "name:kor_x_preferred":[
         "\ub374\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub374\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tenrisa"
     ],
     "name:lit_x_preferred":[
         "Tenris"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5929\u7406\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u0928\u0947\u0930\u0940"
@@ -92,6 +110,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0646\u0631\u06cc\u060c \u0646\u0627\u0631\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0646\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Tenri-chh\u012b"
@@ -153,6 +174,9 @@
     "name:war_x_preferred":[
         "Tenri"
     ],
+    "name:yue_x_preferred":[
+        "\u5929\u7406"
+    ],
     "name:zho_x_preferred":[
         "\u5929\u7406\u5e02"
     ],
@@ -189,7 +213,7 @@
         }
     ],
     "wof:id":890519825,
-    "wof:lastmodified":1561776448,
+    "wof:lastmodified":1563295984,
     "wof:name":"Tenri",
     "wof:parent_id":890524335,
     "wof:placetype":"locality",

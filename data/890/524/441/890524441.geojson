@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0648\u063a\u0627\u060c \u0645\u064a\u0627\u0632\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0627\u064a\u0648\u063a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0648\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09c1\u0997\u09be"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u0648\u06af\u0627\u060c \u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u0648\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Hy\u016bga"
@@ -99,11 +108,17 @@
     "name:kor_x_preferred":[
         "\ud734\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud734\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hj\u016bga"
     ],
     "name:lit_x_preferred":[
         "Chj\u016bga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65e5\u5411\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u094d\u092f\u0942\u0917\u093e"
@@ -113,6 +128,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u0648\u06af\u0627\u060c \u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u0648\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Hy\u00fbga-chh\u012b"
@@ -177,6 +195,9 @@
     "name:war_x_preferred":[
         "Hy\u016bga"
     ],
+    "name:yue_x_preferred":[
+        "\u65e5\u5411\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u65e5\u5411\u5e02"
     ],
@@ -225,7 +246,7 @@
         }
     ],
     "wof:id":890524441,
-    "wof:lastmodified":1561776478,
+    "wof:lastmodified":1563296649,
     "wof:name":"Hyuga",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

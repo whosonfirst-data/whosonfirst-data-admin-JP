@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627\u060c \u064a\u0627\u0645\u0627\u063a\u0627\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09ac\u09be\u09a8\u09be\u09af\u09be\u0993\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Obanazawa"
     ],
     "name:dan_x_preferred":[
         "Obanazawa"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Obanazawa"
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uc624\ubc14\ub098\uc790\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ubc14\ub098\uc790\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Obanazava"
     ],
     "name:lit_x_preferred":[
         "Obanazava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c3e\u82b1\u6fa4\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u092c\u093e\u0928\u093e\u091d\u093e\u0935\u093e"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0628\u0627\u0646\u0627\u0632\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Obanazawa-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Obanazawa"
     ],
+    "name:yue_x_preferred":[
+        "\u5c3e\u82b1\u6fa4"
+    ],
     "name:zho_x_preferred":[
         "\u5c3e\u82b1\u6fa4\u5e02"
     ],
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":890524223,
-    "wof:lastmodified":1561776484,
+    "wof:lastmodified":1563296710,
     "wof:name":"Obanazawa",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

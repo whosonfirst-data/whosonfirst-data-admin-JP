@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0634\u064a\u063a\u0627\u0643\u0627\u060c \u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0634\u064a\u063a\u0627\u0643\u0627"
+    ],
     "name:bar_x_preferred":[
         "Ishigaki"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:cat_x_preferred":[
         "Ishigaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Ishigaki"
+    ],
+    "name:ces_x_preferred":[
+        "I\u0161igaki"
     ],
     "name:dan_x_preferred":[
         "Ishigaki"
@@ -63,6 +72,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u06af\u0627\u06a9\u06cc\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u06af\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ishigaki"
     ],
@@ -71,6 +83,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab6\u0abf\u0a97\u0ac0\u0a95\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e9\u05d9\u05d2\u05d0\u05e7\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0936\u0940\u0917\u093e\u0915\u0940"
@@ -94,11 +109,17 @@
     "name:kor_x_preferred":[
         "\uc774\uc2dc\uac00\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc2dc\uac00\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "I\u0161igaki"
     ],
     "name:lit_x_preferred":[
         "I\u0161igakis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u77f3\u57a3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0908\u0936\u093f\u0917\u093e\u0915\u0940"
@@ -111,6 +132,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0634\u06cc\u06af\u0627\u06a9\u06cc\u060c \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0634\u06cc\u06af\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Isigaki-chh\u012b"
@@ -135,6 +159,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d89\u0dc2\u0dd2\u0d9c\u0dcf\u0d9a\u0dd2"
+    ],
+    "name:slk_x_preferred":[
+        "I\u0161igaki"
     ],
     "name:spa_x_preferred":[
         "Ishigaki"
@@ -171,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Ishigaki"
+    ],
+    "name:yue_x_preferred":[
+        "\u77f3\u57a3\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u77f3\u57a3\u5e02"
@@ -220,7 +250,7 @@
         }
     ],
     "wof:id":890520999,
-    "wof:lastmodified":1561776453,
+    "wof:lastmodified":1563296095,
     "wof:name":"Ishigaki",
     "wof:parent_id":85672867,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00343,
-    "geom:area_square_m":34431844.606895,
+    "geom:area_square_m":34431844.606877,
     "geom:bbox":"139.303894043,35.70628518,139.378116744,35.7635391093",
     "geom:latitude":35.735264,
     "geom:longitude":139.341411,
@@ -20,8 +20,26 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09c1\u09b8\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Fussa"
+    ],
+    "name:ceb_x_preferred":[
+        "Fussa-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Fussa"
+    ],
+    "name:dan_x_preferred":[
+        "Fussa"
+    ],
     "name:deu_x_preferred":[
         "Fussa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03cd\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fussa-shi"
@@ -38,6 +56,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0648\u0633\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fussa"
     ],
@@ -47,8 +68,17 @@
     "name:glg_x_preferred":[
         "Fussa"
     ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0ab8\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0941\u0938\u094d\u0938\u093e \u0938\u093f\u091f\u0940"
+    ],
     "name:hye_x_preferred":[
         "\u0556\u0578\u0582\u057d\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Fussa"
     ],
     "name:ita_x_preferred":[
         "Fussa"
@@ -61,11 +91,29 @@
         "\u3075\u3063\u3055\u3057",
         "\u798f\u751f"
     ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0cc1\u0cb8\u0ccd\u0cb8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e3\u10e1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud6d7\uc0ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6d7\uc0ac\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Fusa"
+    ],
     "name:lit_x_preferred":[
         "Fusa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u798f\u751f\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0942\u0938"
     ],
     "name:msa_x_preferred":[
         "Fussa"
@@ -73,10 +121,16 @@
     "name:mzn_x_preferred":[
         "\u0641\u0648\u0633\u0627\u060c \u062a\u0648\u06a9\u06cc\u0648"
     ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u0633\u0627"
+    ],
     "name:nan_x_preferred":[
         "Hussa-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Fussa"
+    ],
+    "name:nob_x_preferred":[
         "Fussa"
     ],
     "name:pol_x_preferred":[
@@ -88,11 +142,26 @@
     "name:ron_x_preferred":[
         "Fussa"
     ],
+    "name:rup_x_preferred":[
+        "Fussa"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0443\u0441\u0441\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dd4\u0dc3\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Fussa"
+    ],
+    "name:swe_x_preferred":[
+        "Fussa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c41\u0c38\u0c4d\u0c38\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0441\u0441\u0430"
@@ -111,6 +180,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0441\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0633\u0627"
     ],
     "name:vie_x_preferred":[
         "Fussa"
@@ -180,7 +252,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637056,
+    "wof:lastmodified":1563290026,
     "wof:name":"Fussa",
     "wof:parent_id":890524711,
     "wof:placetype":"locality",

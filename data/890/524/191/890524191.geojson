@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0645\u064a\u0634\u064a\u0645\u0628\u0627\u0631\u0627\u060c \u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0646\u0627\u0645\u064a\u0634\u064a\u0645\u0628\u0627\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0646\u0627\u0645\u06cc\u200c\u0634\u06cc\u0645\u0627\u0628\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u09ae\u09bf\u09b6\u09bf\u09ae\u09be\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Minamishimabara-shi"
     ],
     "name:dan_x_preferred":[
         "Minamishimabara"
@@ -92,11 +101,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ub098\ubbf8\uc2dc\ub9c8\ubc14\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub098\ubbf8\uc2dc\ub9c8\ubc14\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Minami\u0161imabara"
     ],
     "name:lit_x_preferred":[
         "Minami\u0161imabara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5357\u5cf6\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u093e\u092e\u093f\u0936\u093f\u092e\u094d\u092c\u093e\u0930\u093e"
@@ -106,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u0645\u06cc \u0634\u06cc\u0645\u0628\u0627\u0631\u0627\u060c \u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0646\u0627\u0645\u06cc \u0634\u06cc\u0645\u0628\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Minamisimabara-chh\u012b"
@@ -173,6 +191,9 @@
     "name:war_x_preferred":[
         "Minamishimabara"
     ],
+    "name:yue_x_preferred":[
+        "\u5357\u5cf6\u539f"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5cf6\u539f\u5e02"
     ],
@@ -209,7 +230,7 @@
         }
     ],
     "wof:id":890524191,
-    "wof:lastmodified":1561776483,
+    "wof:lastmodified":1563296688,
     "wof:name":"Minamishimabara",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

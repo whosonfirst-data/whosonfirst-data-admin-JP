@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0646\u0648\u064a\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0645\u06cc\u0646\u0648\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09bf\u09a8\u09af\u09bc\u09be\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaminoyama-shi"
     ],
     "name:dan_x_preferred":[
         "Kaminoyama"
@@ -35,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0645\u06cc\u0646\u0648\u06cc\u0627\u0645\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0645\u06cc\u0646\u0648\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Kaminoyama"
@@ -69,11 +78,17 @@
     "name:kor_x_preferred":[
         "\uac00\ubbf8\ub178\uc57c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\ubbf8\ub178\uc57c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kaminojama"
     ],
     "name:lit_x_preferred":[
         "Kaminojama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e0a\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u0947\u0928\u094b\u092f\u093e\u092e\u093e"
@@ -81,8 +96,14 @@
     "name:msa_x_preferred":[
         "Kaminoyama"
     ],
+    "name:mwl_x_preferred":[
+        "Kaminoyama"
+    ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0645\u06cc\u0646\u0648\u06cc\u0627\u0645\u0627\u060c \u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0645\u06cc\u0646\u0648\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Kaminoyama-chh\u012b"
@@ -147,6 +168,9 @@
     "name:war_x_preferred":[
         "Kaminoyama"
     ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u5c71\u5e02"
     ],
@@ -180,7 +204,7 @@
         }
     ],
     "wof:id":890519847,
-    "wof:lastmodified":1561776448,
+    "wof:lastmodified":1563295981,
     "wof:name":"Kaminoyama",
     "wof:parent_id":1108740097,
     "wof:placetype":"locality",

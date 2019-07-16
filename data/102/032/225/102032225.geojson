@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u064a\u0633\u0627\u0643\u064a\u060c \u0623\u0648\u064a\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0646\u064a\u0633\u0627\u0643\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a8\u09bf\u09b8\u09be\u0995\u09bf"
     ],
@@ -81,11 +84,17 @@
     "name:kor_x_preferred":[
         "\uad6c\ub2c8\uc0ac\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uad6c\ub2c8\uc0ac\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kunisaki"
     ],
     "name:lit_x_preferred":[
         "Kunisakis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u570b\u6771\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0923\u0940\u0938\u093e\u0915\u0940"
@@ -95,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0646\u06cc\u200c\u0633\u0627\u06a9\u06cc\u060c \u0627\u0648\u0626\u06cc\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0646\u06cc \u0633\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Kunisaki-chh\u012b"
@@ -159,6 +171,9 @@
     "name:war_x_preferred":[
         "Kunisaki"
     ],
+    "name:yue_x_preferred":[
+        "\u570b\u6771"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Kunisaki-chh\u012b"
     ],
@@ -215,7 +230,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776102,
+    "wof:lastmodified":1563290249,
     "wof:name":"Kunisaki-shi",
     "wof:parent_id":1108743247,
     "wof:placetype":"locality",

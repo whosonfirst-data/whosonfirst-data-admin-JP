@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u0627\u0633\u0647\u060c \u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u064a\u0627\u0633\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06cc\u0627\u0633\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09af\u09bc\u09c7\u099c"
     ],
@@ -43,6 +49,9 @@
         "\u0410\u044f\u0441\u0435"
     ],
     "name:cat_x_preferred":[
+        "Ayase"
+    ],
+    "name:ceb_x_preferred":[
         "Ayase"
     ],
     "name:dan_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u0627\u0633\u0647\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u06cc\u0627\u0633\u0647"
     ],
     "name:fin_x_preferred":[
         "Ayase"
@@ -98,11 +110,17 @@
     "name:kor_x_preferred":[
         "\uc544\uc57c\uc138 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc57c\uc138\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ajase"
     ],
     "name:lit_x_preferred":[
         "Ajas\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7dbe\u7028\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u092f\u093e\u0938"
@@ -112,6 +130,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u06cc\u0627\u0633\u0647\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u06cc\u0627\u0633\u0647"
     ],
     "name:nan_x_preferred":[
         "Ayase-chh\u012b"
@@ -139,6 +160,9 @@
     ],
     "name:spa_x_preferred":[
         "Ayase"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u0430\u0441\u0435"
     ],
     "name:swe_x_preferred":[
         "Ayase"
@@ -175,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Ayase"
+    ],
+    "name:yue_x_preferred":[
+        "\u7dbe\u7028"
     ],
     "name:zho_x_preferred":[
         "\u7dbe\u7028\u5e02"
@@ -224,7 +251,7 @@
         }
     ],
     "wof:id":890524717,
-    "wof:lastmodified":1561776487,
+    "wof:lastmodified":1563296743,
     "wof:name":"Ayase",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

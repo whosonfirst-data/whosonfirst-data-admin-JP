@@ -30,14 +30,26 @@
     "name:ace_x_preferred":[
         "Prefektur Kochi"
     ],
+    "name:afr_x_preferred":[
+        "Kochi Prefektuur"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Ko\u00e7i"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u0442\u0438"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u043e\u0442\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u043e\u0442\u044b"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0447\u0438"
@@ -48,6 +60,9 @@
     "name:cdo_x_preferred":[
         "K\u014dchi-g\u00e2ing"
     ],
+    "name:ceb_x_preferred":[
+        "K\u014dchi-ken"
+    ],
     "name:ces_x_preferred":[
         "Prefektura K\u00f3\u010di"
     ],
@@ -57,6 +72,15 @@
     "name:cym_x_preferred":[
         "K\u014dchi"
     ],
+    "name:dan_x_preferred":[
+        "Kouchi-pr\u00e6fekturet"
+    ],
+    "name:deu_x_preferred":[
+        "Pr\u00e4fektur K\u014dchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Kochi Prefecture"
     ],
@@ -64,10 +88,59 @@
         "Kochi",
         "Kochi-ken",
         "Kouchi Prefecture",
-        "Kouchi-ken"
+        "Kouchi-ken",
+        "K\u014dchi Prefecture"
+    ],
+    "name:epo_x_preferred":[
+        "Gubernio Ko\u0109i"
+    ],
+    "name:est_x_preferred":[
+        "K\u014dchi prefektuur"
+    ],
+    "name:eus_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "K\u014dchin prefektuuri"
     ],
     "name:fra_x_preferred":[
         "Kochi"
+    ],
+    "name:fra_x_variant":[
+        "K\u014dchi"
+    ],
+    "name:gle_x_preferred":[
+        "Maoracht K\u014dchi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0a9a\u0ac0 \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00f4-t\u00ee-yen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u091a\u094d\u091a\u0940 \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f3csi prefekt\u00fara"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057f\u056b"
+    ],
+    "name:ilo_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:ind_x_preferred":[
+        "Prefektur Kochi"
     ],
     "name:jpn_x_preferred":[
         "\u9ad8\u77e5\u770c"
@@ -81,12 +154,120 @@
         "\u30b3\u30a6\u30c1",
         "\u30b3\u30a6\u30c1\u30b1\u30f3"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0c9a\u0cbf \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1781\u17bc\u1788\u17b7"
+    ],
     "name:kor_x_preferred":[
         "\uace0\uce58 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\uce58\ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Ko\u010di prefekt\u016bra"
+    ],
+    "name:lit_x_preferred":[
+        "Ko\u010dio prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u77e5\u7e23"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u091a\u0940"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0447\u0438"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u043e\u0447\u0438-\u043a\u044d\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah K\u014dchi"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00f4ti-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Kochi"
+    ],
+    "name:nob_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:pam_x_preferred":[
+        "K\u014dchi Prefecture"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u06a9\u0648\u0686\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Prefektura K\u014dchi"
+    ],
+    "name:por_x_preferred":[
+        "Kochi"
+    ],
+    "name:ron_x_preferred":[
+        "Prefectura K\u014dchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "K\u014dchi Prefectur"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0da0\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "K\u00f3\u010di"
+    ],
+    "name:sme_x_preferred":[
+        "K\u014dchi prefektuvra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0447\u0438"
+    ],
+    "name:sun_x_preferred":[
+        "Pr\u00e9f\u00e9ktur K\u014dchi"
+    ],
+    "name:swe_x_preferred":[
+        "Kochi prefektur"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4b\u0c1a\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430\u0438 \u041a\u043e\u0442\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e04\u0e08\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u043e\u0447\u0456"
     ],
     "name:und_x_variant":[
         "\u611b\u77e5\u770c",
         "Kochi Ken"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:war_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u77e5\u7e23"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u77e5\u53bf"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -212,7 +393,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1553550432,
+    "wof:lastmodified":1563291674,
     "wof:name":"Kochi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

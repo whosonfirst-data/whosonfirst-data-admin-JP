@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u063a\u0648\u062a\u0634\u064a\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0631\u064a\u063a\u0648\u062a\u0634\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09b0\u09bf\u0997\u09c1\u099a\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0438\u0433\u0443\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Moriguchi"
     ],
     "name:ces_x_preferred":[
         "Morigu\u010di"
@@ -49,6 +55,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u06af\u0648\u0686\u06cc\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0631\u06cc\u06af\u0648\u0686\u06cc"
     ],
     "name:fin_x_preferred":[
         "Moriguchi"
@@ -88,11 +97,17 @@
     "name:kor_x_preferred":[
         "\ubaa8\ub9ac\uad6c\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubaa8\ub9ac\uad6c\uce58\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Morigu\u010di"
     ],
     "name:lit_x_preferred":[
         "Morigu\u010dis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5b88\u53e3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u0940\u0917\u0941\u091a\u0940"
@@ -102,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u06af\u0648\u0686\u06cc\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0631\u06cc\u06af\u0648\u0686\u06cc"
     ],
     "name:nan_x_preferred":[
         "Moriguti-chh\u012b"
@@ -169,6 +187,9 @@
     "name:war_x_preferred":[
         "Moriguchi"
     ],
+    "name:yue_x_preferred":[
+        "\u5b88\u53e3"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Moriguti-chh\u012b"
     ],
@@ -226,7 +247,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776087,
+    "wof:lastmodified":1563290055,
     "wof:name":"Moriguchi",
     "wof:parent_id":1108742455,
     "wof:placetype":"locality",

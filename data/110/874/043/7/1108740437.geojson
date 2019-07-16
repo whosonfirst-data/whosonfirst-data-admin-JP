@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u0627\u0645\u0627\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u064a\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09af\u09bc\u09c7\u09ae\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u044f\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Sayama"
     ],
     "name:dan_x_preferred":[
         "Sayama"
@@ -57,6 +63,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u06cc\u0627\u0645\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Sayama"
@@ -88,11 +97,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\uc57c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc57c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sajama"
     ],
     "name:lit_x_preferred":[
         "Sajama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u72f9\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u092f\u093e\u092e\u093e"
@@ -102,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u06cc\u0627\u0645\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Sayama-chh\u012b"
@@ -169,6 +187,9 @@
     "name:war_x_preferred":[
         "Sayama"
     ],
+    "name:yue_x_preferred":[
+        "\u72f9\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u72f9\u5c71\u5e02"
     ],
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":1108740437,
-    "wof:lastmodified":1561776364,
+    "wof:lastmodified":1563294471,
     "wof:name":"Sayama",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

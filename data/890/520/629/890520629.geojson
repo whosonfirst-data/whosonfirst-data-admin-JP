@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u064a\u0632\u064a\u0646\u060c \u0641\u0648\u0643\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062a\u0634\u064a\u0632\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0686\u06cc\u0632\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u0995\u09bf\u099c\u09c7\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Echizen-shi"
     ],
     "name:dan_x_preferred":[
         "Echizen"
@@ -61,6 +70,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0686\u06cc\u0632\u0646\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0686\u06cc\u0632\u0646"
     ],
     "name:fin_x_preferred":[
         "Echizen"
@@ -96,11 +108,17 @@
     "name:kor_x_preferred":[
         "\uc5d0\uce58\uc820 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc5d0\uce58\uc820\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "E\u010didzena"
     ],
     "name:lit_x_preferred":[
         "E\u010didzenas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8d8a\u524d\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u090f\u091a\u0908\u091d\u0947\u0928"
@@ -108,8 +126,14 @@
     "name:msa_x_preferred":[
         "Echizen"
     ],
+    "name:mya_x_preferred":[
+        "\u1021\u1032\u1001\u103b\u102d\u1007\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037\u104a \u1016\u102f\u1001\u102f\u1021\u102d"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0686\u06cc\u0632\u0646\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0686\u06cc\u0632\u0646"
     ],
     "name:nan_x_preferred":[
         "Etizen-chh\u012b"
@@ -165,11 +189,17 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0632\u06cc\u0646\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0632\u06cc\u0646"
+    ],
     "name:vie_x_preferred":[
         "Echizen"
     ],
     "name:war_x_preferred":[
         "Echizen"
+    ],
+    "name:yue_x_preferred":[
+        "\u8d8a\u524d"
     ],
     "name:zho_x_preferred":[
         "\u8d8a\u524d\u5e02"
@@ -207,7 +237,7 @@
         }
     ],
     "wof:id":890520629,
-    "wof:lastmodified":1561776454,
+    "wof:lastmodified":1563296110,
     "wof:name":"Echizen",
     "wof:parent_id":85672767,
     "wof:placetype":"county",

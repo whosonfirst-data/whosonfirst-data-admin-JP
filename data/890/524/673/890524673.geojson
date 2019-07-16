@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u063a\u0627\u0646\u0647\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0645\u0627\u063a\u0627\u0646\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0642\u0627\u0646\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ae\u09be\u0997\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Komagane"
     ],
     "name:dan_x_preferred":[
         "Komagane"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0645\u0627\u06af\u0627\u0646\u0647\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0645\u0627\u06af\u0627\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "Komagane"
@@ -95,11 +107,17 @@
     "name:kor_x_preferred":[
         "\uace0\ub9c8\uac00\ub124 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uace0\ub9c8\uac00\ub124\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Komagane"
     ],
     "name:lit_x_preferred":[
         "Komaganis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u99d2\u6839\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092e\u0928\u0917\u0928\u0947"
@@ -109,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0645\u0627\u06af\u0627\u0646\u0647\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0645\u0627\u06af\u0627\u0646\u0647"
     ],
     "name:nan_x_preferred":[
         "Komagane-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Komagane"
     ],
+    "name:yue_x_preferred":[
+        "\u99d2\u6839"
+    ],
     "name:zho_x_preferred":[
         "\u99d2\u6839\u5e02"
     ],
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":890524673,
-    "wof:lastmodified":1561776478,
+    "wof:lastmodified":1563296650,
     "wof:name":"Komagane",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

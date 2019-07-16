@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0648\u0634\u064a\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Toku\u015fima"
+    ],
+    "name:aze_x_variant":[
+        "Tokusima"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043a\u0443\u0441\u0456\u043c\u0430"
@@ -35,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Tokushima"
+    ],
+    "name:ceb_x_preferred":[
+        "Tokushima Shi"
     ],
     "name:ces_x_preferred":[
         "Toku\u0161ima"
@@ -90,6 +99,12 @@
     "name:hin_x_preferred":[
         "\u0924\u094b\u0915\u0941\u0936\u093f\u092e\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Tokusima"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u056f\u0578\u0582\u057d\u056b\u0574\u0561"
+    ],
     "name:ind_x_preferred":[
         "Tokushima"
     ],
@@ -112,11 +127,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\ucfe0\uc2dc\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ucfe0\uc2dc\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Toku\u0161ima"
     ],
     "name:lit_x_preferred":[
         "Toku\u0161ima"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5fb7\u5cf6\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0915\u0941\u0936\u093f\u092e\u093e"
@@ -181,6 +202,9 @@
     "name:swe_x_preferred":[
         "Tokushima"
     ],
+    "name:szl_x_preferred":[
+        "Tokushima"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0b95\u0bcd\u0b95\u0bc1\u0bb7\u0bbf\u0bae\u0bbe"
     ],
@@ -195,6 +219,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e17\u0e30\u0e01\u0e38\u0e0a\u0e34\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e17\u0e01\u0e39\u0e0a\u0e34\u0e21\u0e30"
     ],
     "name:tur_x_preferred":[
         "Tokushima"
@@ -213,6 +240,9 @@
     ],
     "name:war_x_preferred":[
         "Tokushima"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fb7\u5cf6\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tokusima-chh\u012b"
@@ -362,7 +392,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776077,
+    "wof:lastmodified":1563289969,
     "wof:name":"Tokushima-shi",
     "wof:parent_id":1108742845,
     "wof:placetype":"locality",
