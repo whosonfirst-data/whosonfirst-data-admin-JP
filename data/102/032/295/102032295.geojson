@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u062f\u0627\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u064a\u062f\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062f\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a1\u09bf\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Iida"
     ],
     "name:dan_x_preferred":[
         "Iida"
@@ -44,6 +53,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u062f\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Iida"
@@ -85,11 +97,17 @@
     "name:kor_x_preferred":[
         "\uc8fc\uc624 \uc790\ub3d9\ucc28\ub3c4"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub2e4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u012ada"
     ],
     "name:lit_x_preferred":[
         "Iida"
+    ],
+    "name:lzh_x_preferred":[
+        "\u98ef\u7530\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0921\u093e"
@@ -99,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u062f\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u062f\u0627"
     ],
     "name:nan_x_preferred":[
         "Iida-chh\u012b"
@@ -114,6 +135,9 @@
     ],
     "name:pol_x_preferred":[
         "Autostrada Ch\u016b\u014d"
+    ],
+    "name:pol_x_variant":[
+        "Iida"
     ],
     "name:por_x_preferred":[
         "Iida"
@@ -151,6 +175,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e0a\u0e39\u0e42\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e14\u0e30"
+    ],
     "name:tur_x_preferred":[
         "Iida"
     ],
@@ -168,6 +195,9 @@
     ],
     "name:war_x_preferred":[
         "Iida"
+    ],
+    "name:yue_x_preferred":[
+        "\u98ef\u7530"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u592e\u81ea\u52d5\u8eca\u9053"
@@ -212,7 +242,7 @@
         }
     ],
     "wof:id":102032295,
-    "wof:lastmodified":1561776100,
+    "wof:lastmodified":1563290214,
     "wof:name":"Iijima-iida",
     "wof:parent_id":890524439,
     "wof:placetype":"locality",

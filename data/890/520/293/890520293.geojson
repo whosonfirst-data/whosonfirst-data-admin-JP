@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0645\u0627\u062a\u0627\u060c \u063a\u0648\u0646\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0645\u0627\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0645\u0627\u062a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09ae\u09be\u099f\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Numata"
+    ],
+    "name:ces_x_preferred":[
+        "Numata"
     ],
     "name:dan_x_preferred":[
         "Numata"
@@ -60,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0645\u0627\u062a\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0645\u0627\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Numata"
@@ -95,11 +110,17 @@
     "name:kor_x_preferred":[
         "\ub204\ub9c8\ud0c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub204\ub9c8\ud0c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Numata"
     ],
     "name:lit_x_preferred":[
         "Numata"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6cbc\u7530\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0941\u092e\u0924\u093e"
@@ -109,6 +130,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0648\u0645\u0627\u062a\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0648\u0645\u0627\u062a\u0627"
     ],
     "name:nan_x_preferred":[
         "Numata-chh\u012b"
@@ -173,6 +197,9 @@
     "name:war_x_preferred":[
         "Numata"
     ],
+    "name:yue_x_preferred":[
+        "\u6cbc\u7530"
+    ],
     "name:zho_x_preferred":[
         "\u6cbc\u7530\u5e02"
     ],
@@ -210,7 +237,7 @@
         }
     ],
     "wof:id":890520293,
-    "wof:lastmodified":1561776455,
+    "wof:lastmodified":1563296122,
     "wof:name":"Numata",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

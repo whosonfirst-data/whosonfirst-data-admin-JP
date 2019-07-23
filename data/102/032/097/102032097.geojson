@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u062a\u0634\u064a-\u0623\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09c1\u09c1\u099a\u09bf\u0989\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsuchiura-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Cu\u010diura"
     ],
     "name:dan_x_preferred":[
         "Tsuchiura"
@@ -88,11 +97,17 @@
     "name:kor_x_preferred":[
         "\uc4f0\uce58\uc6b0\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc4f0\uce58\uc6b0\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tsu\u010diura"
     ],
     "name:lit_x_preferred":[
         "Tsud\u017eijura"
+    ],
+    "name:lzh_x_preferred":[
+        "\u571f\u6d66\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u091a\u0940\u0909\u0930\u093e"
@@ -102,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0648\u0686\u06cc\u200c\u0627\u0648\u0631\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0633\u0648\u0686\u06cc \u0627\u0648\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Tutiura-chh\u012b"
@@ -148,6 +166,9 @@
     "name:tgl_x_preferred":[
         "Tsuchiura"
     ],
+    "name:tgl_x_variant":[
+        "Tsutsiura"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e0a\u0e34\u0e2d\u0e39\u0e23\u0e30"
     ],
@@ -168,6 +189,9 @@
     ],
     "name:war_x_preferred":[
         "Tsuchiura"
+    ],
+    "name:yue_x_preferred":[
+        "\u571f\u6d66"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tutiura-chh\u012b"
@@ -225,7 +249,7 @@
         }
     ],
     "wof:id":102032097,
-    "wof:lastmodified":1561776100,
+    "wof:lastmodified":1563290219,
     "wof:name":"Tsuchiura",
     "wof:parent_id":1108740273,
     "wof:placetype":"locality",

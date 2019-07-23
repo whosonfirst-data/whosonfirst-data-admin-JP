@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u0642\u0627\u0633\u0627\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u0997\u09be\u09b8\u09be\u0995\u09bf"
     ],
@@ -29,6 +32,12 @@
     ],
     "name:cat_x_preferred":[
         "Chigasaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Chigasaki"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cigasaki"
     ],
     "name:dan_x_preferred":[
         "Chigasaki"
@@ -47,6 +56,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Chigasaki"
@@ -90,11 +102,17 @@
     "name:kor_x_preferred":[
         "\uc9c0\uac00\uc0ac\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc9c0\uac00\uc0ac\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u010cigasaki"
     ],
     "name:lit_x_preferred":[
         "\u010cigasakis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8305\u5d0e\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0917\u093e\u0938\u093e\u0915\u0940"
@@ -104,6 +122,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Tigasaki-chh\u012b"
@@ -129,6 +150,9 @@
     "name:sin_x_preferred":[
         "\u0da0\u0dd2\u0d9c\u0dc3\u0dcf\u0d9a\u0dd2"
     ],
+    "name:slk_x_preferred":[
+        "\u010cigasaki"
+    ],
     "name:spa_x_preferred":[
         "Chigasaki"
     ],
@@ -150,6 +174,9 @@
     "name:tgl_x_preferred":[
         "Chigasaki"
     ],
+    "name:tgl_x_variant":[
+        "Tsigasaki"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e34\u0e07\u0e30\u0e0b\u0e30\u0e01\u0e34"
     ],
@@ -165,11 +192,17 @@
     "name:urd_x_preferred":[
         "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u06cc\u06af\u0627\u0633\u0627\u06a9\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Chigasaki"
     ],
     "name:war_x_preferred":[
         "Chigasaki"
+    ],
+    "name:yue_x_preferred":[
+        "\u8305\u5d0e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tigasaki-chh\u012b"
@@ -236,7 +269,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776080,
+    "wof:lastmodified":1563289996,
     "wof:name":"Chigasaki",
     "wof:parent_id":890525047,
     "wof:placetype":"locality",

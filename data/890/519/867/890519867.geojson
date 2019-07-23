@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0648 \u063a\u064a\u0641\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0646\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043d\u043e"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Mino"
     ],
     "name:dan_x_preferred":[
         "Mino"
@@ -36,6 +45,9 @@
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0646\u0648\u060c \u06af\u06cc\u0641\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mino"
     ],
@@ -47,6 +59,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa8\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0940\u0928\u094b"
@@ -60,17 +75,26 @@
     "name:jpn_x_preferred":[
         "\u7f8e\u6fc3"
     ],
+    "name:jpn_x_variant":[
+        "\u7f8e\u6fc3\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0ca8\u0ccb"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mina"
     ],
     "name:lit_x_preferred":[
         "Minas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7f8e\u6fc3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u093f\u0924\u094b"
@@ -80,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0646\u0648\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0646\u0648"
     ],
     "name:nan_x_preferred":[
         "Mino-chh\u012b"
@@ -101,6 +128,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043d\u043e"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0db1\u0ddd"
@@ -147,6 +177,9 @@
     "name:war_x_preferred":[
         "Mino"
     ],
+    "name:yue_x_preferred":[
+        "\u7f8e\u6fc3\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u7f8e\u6fc3\u5e02"
     ],
@@ -183,7 +216,7 @@
         }
     ],
     "wof:id":890519867,
-    "wof:lastmodified":1561776445,
+    "wof:lastmodified":1563295937,
     "wof:name":"Mino",
     "wof:parent_id":890520151,
     "wof:placetype":"locality",

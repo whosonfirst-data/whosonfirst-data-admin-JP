@@ -36,11 +36,23 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0645\u0628\u0627\u0631\u064a\u060c \u0625\u0647\u064a\u0645\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0645\u0628\u0627\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043c\u0430\u0431\u0430\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09ae\u09be\u09ac\u09be\u09b0\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Imabari-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Imabari"
     ],
     "name:dan_x_preferred":[
         "Imabari"
@@ -63,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc\u060c \u0627\u0647\u06cc\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Imabari"
@@ -106,11 +121,17 @@
     "name:kor_x_preferred":[
         "\uc774\ub9c8\ubc14\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub9c8\ubc14\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Imabari"
     ],
     "name:lit_x_preferred":[
         "Imabaris"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4eca\u6cbb\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u092e\u093e\u092c\u0947\u0930\u0940"
@@ -120,6 +141,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc\u060c \u0627\u0647\u06cc\u0645\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0645\u0627\u0628\u0627\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Imabari-chh\u012b"
@@ -184,11 +208,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0645\u0627\u0628\u0627\u0631\u06cc\u060c \u0627\u06c1\u06cc\u0645\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0645\u0627\u0628\u0627\u0631\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Imabari"
     ],
     "name:war_x_preferred":[
         "Imabari"
+    ],
+    "name:yue_x_preferred":[
+        "\u4eca\u6cbb"
     ],
     "name:zho_x_preferred":[
         "\u4eca\u6cbb\u5e02"
@@ -240,7 +270,7 @@
         }
     ],
     "wof:id":890524507,
-    "wof:lastmodified":1561776483,
+    "wof:lastmodified":1563296696,
     "wof:name":"Imabari",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

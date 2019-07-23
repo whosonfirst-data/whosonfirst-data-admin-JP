@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u062f\u0648\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u062f\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u062a\u0633\u0648\u062f\u0648"
+    ],
     "name:aze_x_preferred":[
         "Matsudo"
     ],
@@ -44,6 +50,12 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0446\u0443\u0434\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Matsudo"
+    ],
+    "name:ces_x_preferred":[
+        "Macudo"
     ],
     "name:dan_x_preferred":[
         "Matsudo"
@@ -70,6 +82,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u062f\u0648\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Matsudo"
     ],
@@ -84,6 +99,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0924\u0938\u0941\u0921\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Macudo"
     ],
     "name:ind_x_preferred":[
         "Matsudo"
@@ -104,11 +122,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc4f0\ub3c4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc4f0\ub3c4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Matsudo"
     ],
     "name:lit_x_preferred":[
         "Matsudas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u677e\u6236\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0924\u094d\u0938\u0942\u0921\u094b"
@@ -118,6 +142,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u062f\u0648\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u062f\u0648"
     ],
     "name:nan_x_preferred":[
         "Matudo-chh\u012b"
@@ -188,11 +215,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u062f\u0648\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u062f\u0648"
+    ],
     "name:vie_x_preferred":[
         "Matsudo"
     ],
     "name:war_x_preferred":[
         "Matsudo"
+    ],
+    "name:yue_x_preferred":[
+        "\u677e\u6236"
     ],
     "name:zho_x_preferred":[
         "\u677e\u6236\u5e02"
@@ -244,7 +277,7 @@
         }
     ],
     "wof:id":890523777,
-    "wof:lastmodified":1561776472,
+    "wof:lastmodified":1563296574,
     "wof:name":"Matsudo",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

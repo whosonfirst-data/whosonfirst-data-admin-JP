@@ -36,8 +36,14 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0646\u0645\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Qunma"
+    ],
+    "name:aze_x_variant":[
+        "Qumma"
     ],
     "name:bak_x_preferred":[
         "\u0413\u0443\u043c\u043c\u0430"
@@ -56,6 +62,9 @@
     ],
     "name:cdo_x_preferred":[
         "Gunma-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Gunma-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Gunma"
@@ -102,7 +111,8 @@
         "Pr\u00e9fecture de Gunma"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Gunma"
+        "pr\u00e9fecture de Gunma",
+        "Gunma"
     ],
     "name:gle_x_preferred":[
         "Maoracht Gunma"
@@ -112,6 +122,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a82\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0acd\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Gunma-yen"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Gunma"
@@ -133,6 +146,9 @@
     ],
     "name:ilo_x_preferred":[
         "Prepektura ti Gunma"
+    ],
+    "name:ilo_x_variant":[
+        "Gunma"
     ],
     "name:ind_x_preferred":[
         "Prefektur Gunma"
@@ -161,11 +177,17 @@
     "name:kor_x_preferred":[
         "\uad70\ub9c8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uad70\ub9c8\ud604"
+    ],
     "name:lav_x_preferred":[
         "Gummas prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Gunmos prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7fa4\u99ac\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0917\u0941\u0928\u094d\u092e\u093e"
@@ -190,6 +212,9 @@
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Gunma"
+    ],
+    "name:pam_x_variant":[
+        "Gunma Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06af\u0646\u0645\u0627"
@@ -229,6 +254,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0443\u043d\u043c\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0443\u043d\u043c\u0430"
     ],
     "name:sun_x_preferred":[
         "Pr\u00e9f\u00e9ktur Gunma"
@@ -410,7 +438,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776189,
+    "wof:lastmodified":1563291650,
     "wof:name":"Gunma",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

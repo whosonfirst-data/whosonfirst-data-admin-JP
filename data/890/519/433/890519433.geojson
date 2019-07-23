@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0628\u064a\u062a\u0633\u0648\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0646\u0628\u064a\u062a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0645\u0628\u062a\u0633\u0648"
+    ],
     "name:aze_x_preferred":[
         "Monbetsu"
     ],
@@ -26,6 +32,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u0431\u0435\u0446\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Mombetsu"
     ],
     "name:dan_x_preferred":[
         "Mombetsu"
@@ -41,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0645\u0628\u062a\u0633\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0645\u0628\u062a\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Mombetsu"
@@ -72,11 +84,17 @@
     "name:jpn_x_preferred":[
         "\u7d0b\u5225"
     ],
+    "name:jpn_x_variant":[
+        "\u7d0b\u5225\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0c82\u0cac\u0cc6\u0c9f\u0cc1"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ubca0\uc4f0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaac\ubca0\uc4f0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Monbetsu"
@@ -87,6 +105,9 @@
     "name:lmo_x_preferred":[
         "Monbetsu"
     ],
+    "name:lzh_x_preferred":[
+        "\u7d0b\u5225\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u092e\u094d\u092c\u0941\u0924\u094d\u0938\u0941"
     ],
@@ -95,6 +116,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0645\u0628\u062a\u0633\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0645\u0628\u062a\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Monbetu-chh\u012b"
@@ -168,6 +192,9 @@
     "name:war_x_preferred":[
         "Monbetsu"
     ],
+    "name:yue_x_preferred":[
+        "\u7d0b\u5225"
+    ],
     "name:zho_x_preferred":[
         "\u7d0b\u5225\u5e02"
     ],
@@ -201,7 +228,7 @@
         }
     ],
     "wof:id":890519433,
-    "wof:lastmodified":1561776449,
+    "wof:lastmodified":1563295992,
     "wof:name":"Mombetsu",
     "wof:parent_id":890520155,
     "wof:placetype":"locality",

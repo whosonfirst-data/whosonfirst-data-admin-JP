@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0645\u0627\u0633\u0627\u0643\u0627\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0645\u0627\u0633\u0627\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0645\u0627\u0633\u0627\u06a9\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09ae\u09be\u09b8\u09be\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Mimasaka-shi"
     ],
     "name:ces_x_preferred":[
         "Mimasaka"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0645\u0627\u0633\u0627\u06a9\u0627\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0645\u0627\u0633\u0627\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Mimasaka"
@@ -88,11 +100,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ub9c8\uc0ac\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub9c8\uc0ac\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mimasaka"
     ],
     "name:lit_x_preferred":[
         "Mimasaka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7f8e\u4f5c\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u092e\u093e\u0938\u093e\u0915\u093e"
@@ -102,6 +120,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0645\u0627\u0633\u0627\u06a9\u0627\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0645\u0627\u0633\u0627\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Mimasaka-chh\u012b"
@@ -163,6 +184,9 @@
     "name:war_x_preferred":[
         "Mimasaka"
     ],
+    "name:yue_x_preferred":[
+        "\u7f8e\u4f5c"
+    ],
     "name:zho_x_preferred":[
         "\u7f8e\u4f5c\u5e02"
     ],
@@ -189,7 +213,7 @@
         }
     ],
     "wof:id":1108742757,
-    "wof:lastmodified":1561776351,
+    "wof:lastmodified":1563294326,
     "wof:name":"Mimasaka",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

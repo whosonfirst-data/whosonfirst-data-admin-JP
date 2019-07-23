@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0646\u062a\u0633\u0648\u062c\u064a\u060c \u0643\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0632\u064a\u0646\u062a\u0633\u0648\u062c\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0646\u062a\u0633\u0648\u062c\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09a8\u09ce\u09b8\u09c1"
     ],
     "name:cat_x_preferred":[
         "Zents\u016bji"
+    ],
+    "name:ceb_x_preferred":[
+        "Zents\u016bji Shi"
     ],
     "name:ces_x_preferred":[
         "Zenc\u00fad\u017ei"
@@ -64,6 +73,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u0646\u062a\u0633\u0648\u062c\u06cc\u060c \u06a9\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0646\u062a\u0633\u0648\u062c\u06cc"
     ],
     "name:fin_x_preferred":[
         "Zents\u016bji"
@@ -99,11 +111,17 @@
     "name:kor_x_preferred":[
         "\uc820\uc4f0\uc9c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc820\uc4f0\uc9c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Zenc\u016bd\u017ei"
     ],
     "name:lit_x_preferred":[
         "Zenc\u016bd\u017eis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5584\u901a\u5bfa\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091d\u0947\u0928\u094d\u091f\u0938\u0941\u091c\u0940"
@@ -113,6 +131,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0632\u0646\u062a\u0633\u0648\u062c\u06cc\u060c \u06a9\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0632\u0646\u062a\u0633\u0648\u062c\u06cc"
     ],
     "name:nan_x_preferred":[
         "Zentuzi-chh\u012b"
@@ -183,6 +204,9 @@
     "name:war_x_preferred":[
         "Zents\u016bji"
     ],
+    "name:yue_x_preferred":[
+        "\u5584\u901a\u5bfa"
+    ],
     "name:zho_x_preferred":[
         "\u5584\u901a\u5bfa\u5e02"
     ],
@@ -231,7 +255,7 @@
         }
     ],
     "wof:id":890524573,
-    "wof:lastmodified":1561776483,
+    "wof:lastmodified":1563296685,
     "wof:name":"Zentsuji",
     "wof:parent_id":85672715,
     "wof:placetype":"county",

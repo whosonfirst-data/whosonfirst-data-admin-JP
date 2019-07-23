@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0648\u0631\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09cb\u09b0\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Komoro"
     ],
     "name:dan_x_preferred":[
         "Komoro"
@@ -35,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0645\u0648\u0631\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0645\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Komoro"
@@ -72,11 +81,17 @@
     "name:kor_x_preferred":[
         "\uace0\ubaa8\ub85c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uace0\ubaa8\ub85c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Komoro"
     ],
     "name:lit_x_preferred":[
         "Komoras"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c0f\u8af8\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092e\u094b\u0930\u094b"
@@ -86,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0645\u0648\u0631\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0645\u0648\u0631\u0648"
     ],
     "name:nan_x_preferred":[
         "Komoro-chh\u012b"
@@ -147,6 +165,9 @@
     "name:war_x_preferred":[
         "Komoro"
     ],
+    "name:yue_x_preferred":[
+        "\u5c0f\u8af8"
+    ],
     "name:zho_x_preferred":[
         "\u5c0f\u8af8\u5e02"
     ],
@@ -182,7 +203,7 @@
         }
     ],
     "wof:id":890531785,
-    "wof:lastmodified":1561776464,
+    "wof:lastmodified":1563296355,
     "wof:name":"Komoro",
     "wof:parent_id":890524669,
     "wof:placetype":"locality",

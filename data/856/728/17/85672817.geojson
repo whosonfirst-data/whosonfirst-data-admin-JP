@@ -31,6 +31,9 @@
     "name:ace_x_preferred":[
         "Toky\u00f4"
     ],
+    "name:ace_x_variant":[
+        "Tokyo"
+    ],
     "name:ady_x_preferred":[
         "\u0422\u043e\u043a\u0438\u043e"
     ],
@@ -55,8 +58,14 @@
     "name:arz_x_preferred":[
         "\u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:asm_x_preferred":[
+        "\u099f\u0995\u09bf\u0985'"
+    ],
     "name:ast_x_preferred":[
         "Tokyo"
+    ],
+    "name:ast_x_variant":[
+        "Tokiu"
     ],
     "name:aym_x_preferred":[
         "Tokyo"
@@ -76,6 +85,9 @@
     "name:bar_x_preferred":[
         "Pr\u00e4fektur Tokio"
     ],
+    "name:bar_x_variant":[
+        "Tokio"
+    ],
     "name:bcl_x_preferred":[
         "Tokyo"
     ],
@@ -83,10 +95,17 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u043e\u043a\u0456\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0422\u043e\u043a\u0456\u0451"
+        "\u0422\u043e\u043a\u0456\u0451",
+        "\u0422\u043e\u043a\u0456\u0430"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09cb\u0995\u09bf\u0993"
+    ],
+    "name:bho_x_preferred":[
+        "\u091f\u094b\u0915\u093f\u092f\u094b"
+    ],
+    "name:bis_x_preferred":[
+        "Tokyo"
     ],
     "name:bjn_x_preferred":[
         "Tokyo"
@@ -106,6 +125,9 @@
     "name:bxr_x_preferred":[
         "\u0422\u043e\u043a\u0451\u043e"
     ],
+    "name:bxr_x_variant":[
+        "\u0422\u043e\u043e\u043a\u0451\u043e"
+    ],
     "name:cat_x_preferred":[
         "T\u00f2quio"
     ],
@@ -117,6 +139,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Tokio"
+    ],
+    "name:ces_x_variant":[
+        "prefektura Tokio"
     ],
     "name:cha_x_preferred":[
         "Tokyo"
@@ -137,6 +162,9 @@
         "\u062a\u06c6\u06a9\u06cc\u06c6"
     ],
     "name:cor_x_preferred":[
+        "Tokyo"
+    ],
+    "name:cos_x_preferred":[
         "Tokyo"
     ],
     "name:cre_x_preferred":[
@@ -163,6 +191,12 @@
     "name:dsb_x_preferred":[
         "Tokio"
     ],
+    "name:dty_x_preferred":[
+        "\u091f\u094b\u0915\u093f\u092f\u094b"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f4a\u0f7c\u0f0b\u0f40\u0f72\u0f0b\u0f61"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03cc\u03ba\u03b9\u03bf"
     ],
@@ -170,7 +204,6 @@
         "Tokyo"
     ],
     "name:eng_x_variant":[
-        "Tokyo",
         "Tokyo-to",
         "Toukyou Prefecture",
         "Toukyou-to",
@@ -228,10 +261,22 @@
     "name:grn_x_preferred":[
         "T\u00f3kio"
     ],
+    "name:grn_x_variant":[
+        "Tokio"
+    ],
+    "name:gsw_x_preferred":[
+        "Tokio"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acb\u0a95\u0acd\u0aaf\u0acb"
+    ],
     "name:hak_x_preferred":[
         "T\u00fbng-k\u00een"
     ],
     "name:hat_x_preferred":[
+        "Tokyo"
+    ],
+    "name:hau_x_preferred":[
         "Tokyo"
     ],
     "name:hbs_x_preferred":[
@@ -276,6 +321,9 @@
     "name:ind_x_preferred":[
         "Tokyo"
     ],
+    "name:inh_x_preferred":[
+        "\u0422\u043e\u043a\u0438\u043e"
+    ],
     "name:ipk_x_preferred":[
         "Tokyo"
     ],
@@ -293,6 +341,9 @@
     ],
     "name:jbo_x_preferred":[
         "tokios"
+    ],
+    "name:jbo_x_variant":[
+        "tokios."
     ],
     "name:jpn_x_preferred":[
         "\u6771\u4eac\u90fd"
@@ -321,8 +372,14 @@
     "name:kaz_x_preferred":[
         "\u0422\u043e\u043a\u0438\u043e"
     ],
+    "name:kbp_x_preferred":[
+        "Tokiyo"
+    ],
     "name:khm_x_preferred":[
         "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u178f\u17bc\u1781\u17d2\u1799\u17bc"
+    ],
+    "name:khm_x_variant":[
+        "\u178f\u17bc\u1780\u17d2\u1799\u17bc"
     ],
     "name:kik_x_preferred":[
         "Tokyo"
@@ -336,6 +393,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\ucfc4",
         "\ub3c4\ucfc4 \ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c4\ucfc4\ub3c4"
     ],
     "name:kur_x_preferred":[
         "Tokyo"
@@ -375,6 +435,18 @@
     ],
     "name:ltz_x_preferred":[
         "Prefektur Tokio"
+    ],
+    "name:ltz_x_variant":[
+        "Tokio"
+    ],
+    "name:lug_x_preferred":[
+        "Tokyo"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6771\u4eac\u90fd"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u094b\u0915\u094d\u092f\u094b"
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d4b\u0d15\u0d4d\u0d15\u0d3f\u0d2f\u0d4b"
@@ -424,6 +496,12 @@
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06a9\u064a\u0648"
     ],
+    "name:nah_x_preferred":[
+        "T\u014dqui\u014d"
+    ],
+    "name:nan_x_preferred":[
+        "Tang-kia\u207f-to\u0358"
+    ],
     "name:nap_x_preferred":[
         "Tokyo"
     ],
@@ -448,6 +526,9 @@
     "name:nno_x_preferred":[
         "Tokyo"
     ],
+    "name:nob_x_preferred":[
+        "Tokyo"
+    ],
     "name:nor_x_preferred":[
         "Tokyo Prefektur",
         "Tokyo"
@@ -461,6 +542,9 @@
     "name:oci_x_preferred":[
         "T\u00f2quio"
     ],
+    "name:olo_x_preferred":[
+        "Tokio"
+    ],
     "name:ori_x_preferred":[
         "\u0b1f\u0b4b\u0b15\u0b3f\u0b13"
     ],
@@ -472,6 +556,9 @@
     ],
     "name:pap_x_preferred":[
         "Tokyo"
+    ],
+    "name:pap_x_variant":[
+        "Tokio"
     ],
     "name:pfl_x_preferred":[
         "Togjo"
@@ -509,8 +596,14 @@
     "name:ron_x_preferred":[
         "T\u014dky\u014d"
     ],
+    "name:ron_x_variant":[
+        "Tokio"
+    ],
     "name:rue_x_preferred":[
         "\u0422\u043e\u043a\u0456\u043e"
+    ],
+    "name:rup_x_preferred":[
+        "Tokyo"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043a\u0438\u043e"
@@ -521,11 +614,17 @@
     "name:san_x_preferred":[
         "\u091f\u094b\u0915\u094d\u092f\u094b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c74\u1c5a\u1c60\u1c6d\u1c5a"
+    ],
     "name:scn_x_preferred":[
         "Tochiu"
     ],
     "name:sco_x_preferred":[
         "Tokyo"
+    ],
+    "name:sgs_x_preferred":[
+        "Tok\u0117j\u0117s"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd"
@@ -581,6 +680,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u043a\u0438\u043e"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c9f\u0ccb\u0c95\u0cbf\u0caf\u0ccb"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c15\u0c4d\u0c2f\u0c4b"
@@ -643,6 +745,9 @@
     "name:vol_x_preferred":[
         "Tokyo"
     ],
+    "name:vro_x_preferred":[
+        "Tokio"
+    ],
     "name:war_x_preferred":[
         "Tokyo"
     ],
@@ -661,6 +766,9 @@
     "name:yor_x_preferred":[
         "Tokyo"
     ],
+    "name:yue_x_preferred":[
+        "\u6771\u4eac\u90fd"
+    ],
     "name:zha_x_preferred":[
         "Dunghgingh"
     ],
@@ -671,7 +779,6 @@
         "\u6771\u4eac\u90fd"
     ],
     "name:zho_x_variant":[
-        "\u6771\u4eac\u90fd",
         "\u4e1c\u4eac"
     ],
     "name:zho_yue_x_preferred":[
@@ -809,7 +916,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1553550403,
+    "wof:lastmodified":1563291638,
     "wof:name":"Tokyo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

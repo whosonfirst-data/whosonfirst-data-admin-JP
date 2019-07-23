@@ -36,11 +36,23 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0632\u0648\u060c \u0643\u064a\u0648\u062a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0627\u0632\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0627\u0632\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09be\u099c\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u044f\u0437\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Miyazu"
+    ],
+    "name:ces_x_preferred":[
+        "Mijazu"
     ],
     "name:dan_x_preferred":[
         "Miyazu"
@@ -63,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0627\u0632\u0648\u060c \u06a9\u06cc\u0648\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0627\u0632\u0648"
     ],
     "name:fin_x_preferred":[
         "Miyazu"
@@ -98,20 +113,32 @@
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\uc988 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc57c\uc988\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mijadzu"
     ],
     "name:lit_x_preferred":[
         "Mijadzu"
     ],
+    "name:lzh_x_preferred":[
+        "\u5bae\u6d25\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0940\u091c\u090a"
+    ],
+    "name:mlg_x_preferred":[
+        "Miyazu"
     ],
     "name:msa_x_preferred":[
         "Miyazu"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0627\u0632\u0648\u060c \u06a9\u06cc\u0648\u062a\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0627\u0632\u0648"
     ],
     "name:nan_x_preferred":[
         "Miyazu-chh\u012b"
@@ -176,6 +203,9 @@
     "name:war_x_preferred":[
         "Miyazu"
     ],
+    "name:yue_x_preferred":[
+        "\u5bae\u6d25"
+    ],
     "name:zho_x_preferred":[
         "\u5bae\u6d25\u5e02"
     ],
@@ -224,7 +254,7 @@
         }
     ],
     "wof:id":890520551,
-    "wof:lastmodified":1561776452,
+    "wof:lastmodified":1563296082,
     "wof:name":"Miyazu",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u062a\u064a\u0628\u0627\u064a\u0627\u0634\u064a\u060c \u063a\u0648\u0646\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u062a\u064a\u0628\u0627\u064a\u0627\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u062a\u0647\u200c\u0628\u0627\u06cc\u0627\u0634\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a4\u09c7\u09ac\u09be\u09af\u09bc\u09be\u09b6\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Tatebayashi"
     ],
     "name:dan_x_preferred":[
         "Tatebayashi"
@@ -70,6 +79,9 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0aa4\u0ac7\u0aac\u0abe\u0aaf\u0abe\u0ab6\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05b7\u05d8\u05b6\u05d1\u05d9\u05d0\u05e9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0924\u0947\u092c\u092f\u093e\u0936\u0940"
     ],
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\ub2e4\ud14c\ubc14\uc57c\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\ud14c\ubc14\uc57c\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tatebaja\u0161i"
     ],
     "name:lit_x_preferred":[
         "Tatebaja\u0161is"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9928\u6797\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u091f\u0947\u092c\u093e\u092f\u0936\u0940"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u062a\u0647 \u0628\u0627\u06cc\u0627\u0634\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u062a\u0647 \u0628\u0627\u06cc\u0627\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Tatebayasi-chh\u012b"
@@ -170,6 +191,9 @@
     "name:war_x_preferred":[
         "Tatebayashi"
     ],
+    "name:yue_x_preferred":[
+        "\u9928\u6797"
+    ],
     "name:zho_x_preferred":[
         "\u9928\u6797\u5e02"
     ],
@@ -220,7 +244,7 @@
         }
     ],
     "wof:id":890520387,
-    "wof:lastmodified":1561776460,
+    "wof:lastmodified":1563296199,
     "wof:name":"Tatebayashi",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

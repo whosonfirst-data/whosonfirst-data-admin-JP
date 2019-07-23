@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0627\u0633\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0622\u0633\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b8\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Owase"
     ],
     "name:dan_x_preferred":[
         "Owase"
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0622\u0633\u0647\u060c \u0645\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0622\u0633\u0647"
     ],
     "name:fin_x_preferred":[
         "Owase"
@@ -72,11 +81,17 @@
     "name:kor_x_preferred":[
         "\uc624\uc640\uc138 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uc640\uc138\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ovase"
     ],
     "name:lit_x_preferred":[
         "Ovasis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c3e\u9df2\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0935\u0947\u0938"
@@ -86,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0622\u0633\u0647\u060c \u0645\u06cc\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0622\u0633\u0647"
     ],
     "name:nan_x_preferred":[
         "Owase-chh\u012b"
@@ -159,6 +177,9 @@
     "name:war_x_preferred":[
         "Owase"
     ],
+    "name:yue_x_preferred":[
+        "\u5c3e\u9df2"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Owase-chh\u012b"
     ],
@@ -220,7 +241,7 @@
         }
     ],
     "wof:id":102031433,
-    "wof:lastmodified":1561776095,
+    "wof:lastmodified":1563290147,
     "wof:name":"Owase",
     "wof:parent_id":890520751,
     "wof:placetype":"locality",

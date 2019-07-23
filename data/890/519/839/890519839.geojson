@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u06a9\u0648\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0981\u0995\u09c1\u09b0\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Sakura"
+    ],
+    "name:ceb_x_preferred":[
+        "Sakura"
     ],
     "name:dan_x_preferred":[
         "Sakura"
@@ -35,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u06a9\u0648\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Sakura"
@@ -69,11 +81,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\ucfe0\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\ucfe0\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sakura"
     ],
     "name:lit_x_preferred":[
         "Sakura"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f50\u5009\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0915\u0941\u0930\u093e"
@@ -83,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u06a9\u0648\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Sakura-chh\u012b"
@@ -141,11 +162,17 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u06a9\u0648\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u06a9\u0648\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Sakura"
     ],
     "name:war_x_preferred":[
         "Sakura"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f50\u5009"
     ],
     "name:zho_x_preferred":[
         "\u4f50\u5009\u5e02"
@@ -180,7 +207,7 @@
         }
     ],
     "wof:id":890519839,
-    "wof:lastmodified":1561776449,
+    "wof:lastmodified":1563295995,
     "wof:name":"Sakura",
     "wof:parent_id":890520809,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u062c\u0648\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nagoya"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0642\u0648\u06cc\u0627"
+    ],
     "name:aze_x_preferred":[
         "Naqoya"
     ],
@@ -48,11 +57,17 @@
     "name:bos_x_preferred":[
         "Nagoya"
     ],
+    "name:bre_x_preferred":[
+        "Nagoya"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0433\u043e\u044f"
     ],
     "name:cat_x_preferred":[
         "Nagoya"
+    ],
+    "name:ceb_x_preferred":[
+        "Nagoya-shi"
     ],
     "name:ces_x_preferred":[
         "Nagoja"
@@ -97,6 +112,9 @@
     "name:epo_x_preferred":[
         "Nagojo"
     ],
+    "name:epo_x_variant":[
+        "Nagoja Urbo"
+    ],
     "name:est_x_preferred":[
         "Nagoya"
     ],
@@ -112,10 +130,16 @@
     "name:fas_x_preferred":[
         "\u0646\u0627\u06af\u0648\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u06af\u0648\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nagoya"
     ],
     "name:fra_x_preferred":[
+        "Nagoya"
+    ],
+    "name:frr_x_preferred":[
         "Nagoya"
     ],
     "name:gle_x_preferred":[
@@ -132,6 +156,9 @@
     ],
     "name:hak_x_preferred":[
         "Mi\u00e0ng-k\u00fa-vuk-s\u1e73"
+    ],
+    "name:hau_x_preferred":[
+        "Nagoya"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d2\u05d5\u05d9\u05d4"
@@ -161,6 +188,9 @@
         "Nagoya"
     ],
     "name:ipk_x_preferred":[
+        "Nagoya"
+    ],
+    "name:isl_x_preferred":[
         "Nagoya"
     ],
     "name:ita_x_preferred":[
@@ -205,14 +235,29 @@
     "name:kor_x_variant":[
         "\ub098\uace0\uc57c \uc2dc"
     ],
+    "name:lad_x_preferred":[
+        "Nagoya"
+    ],
     "name:lat_x_preferred":[
         "Nagoia"
+    ],
+    "name:lat_x_variant":[
+        "Nagoya"
     ],
     "name:lav_x_preferred":[
         "Nagoja"
     ],
     "name:lit_x_preferred":[
         "Nagoja"
+    ],
+    "name:ltz_x_preferred":[
+        "Nagoya"
+    ],
+    "name:lug_x_preferred":[
+        "Nagoya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u540d\u53e4\u5c4b\u5e02"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d17\u0d4b\u0d2f"
@@ -226,6 +271,9 @@
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0458\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Nagoya"
+    ],
     "name:mon_x_preferred":[
         "\u041d\u0430\u0433\u043e\u044f"
     ],
@@ -235,8 +283,14 @@
     "name:msa_x_preferred":[
         "Nagoya"
     ],
+    "name:mya_x_preferred":[
+        "\u1014\u102c\u1002\u102d\u102f\u101a\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u06af\u0648\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0627\u06af\u0648\u06cc\u0627"
     ],
     "name:nah_x_preferred":[
         "Nagoya"
@@ -261,6 +315,9 @@
     ],
     "name:oci_x_preferred":[
         "Nagoya"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b28\u0b3e\u0b17\u0b4b\u0b5f\u0b3e"
     ],
     "name:pam_x_preferred":[
         "Nagoya"
@@ -343,6 +400,9 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e30\u0e42\u0e07\u0e30\u0e22\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e32\u0e42\u0e07\u0e22\u0e30"
+    ],
     "name:tsn_x_preferred":[
         "Nagoya"
     ],
@@ -384,6 +444,9 @@
     ],
     "name:wol_x_preferred":[
         "Nagoya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u540d\u53e4\u5c4b\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u540d\u53e4\u5c4b"
@@ -534,7 +597,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776084,
+    "wof:lastmodified":1563290036,
     "wof:megacity":1,
     "wof:name":"Nagoya-shi",
     "wof:parent_id":1108742239,

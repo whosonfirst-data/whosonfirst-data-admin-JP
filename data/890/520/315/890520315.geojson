@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0634\u064a\u060c \u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0632\u0648\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0634\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u0443\u0441\u0456"
     ],
@@ -48,8 +54,14 @@
     "name:cat_x_preferred":[
         "Zushi"
     ],
+    "name:ceb_x_preferred":[
+        "Zushi"
+    ],
     "name:ces_x_preferred":[
         "Zushi"
+    ],
+    "name:ces_x_variant":[
+        "Zu\u0161i"
     ],
     "name:dan_x_preferred":[
         "Zushi"
@@ -69,6 +81,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u0648\u0634\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0648\u0634\u06cc"
     ],
     "name:fin_x_preferred":[
         "Zushi"
@@ -111,11 +126,17 @@
     "name:kor_x_preferred":[
         "\uc988\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc988\uc2dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Zu\u0161i"
     ],
     "name:lit_x_preferred":[
         "Zu\u0161is"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9017\u5b50\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091d\u0942\u0939\u0940"
@@ -125,6 +146,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0632\u0648\u0634\u06cc\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0632\u0648\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Zusi-chh\u012b"
@@ -165,7 +189,13 @@
     "name:spa_x_preferred":[
         "Zushi"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0443\u0448\u0438"
+    ],
     "name:swe_x_preferred":[
+        "Zushi"
+    ],
+    "name:szl_x_preferred":[
         "Zushi"
     ],
     "name:tam_x_preferred":[
@@ -203,6 +233,9 @@
     ],
     "name:war_x_preferred":[
         "Zushi"
+    ],
+    "name:yue_x_preferred":[
+        "\u9017\u5b50"
     ],
     "name:zho_x_preferred":[
         "\u9017\u5b50\u5e02"
@@ -252,7 +285,7 @@
         }
     ],
     "wof:id":890520315,
-    "wof:lastmodified":1561776456,
+    "wof:lastmodified":1563296136,
     "wof:name":"Zushi",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

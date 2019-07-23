@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u062a\u0627\u0645\u0627\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u064a\u062a\u0627\u0645\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Saytama"
+    ],
+    "name:aze_x_variant":[
+        "Saitama"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0439\u0442\u0430\u043c\u0430"
@@ -37,11 +46,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0987\u09a4\u09be\u09ae\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Saitama"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0439\u0442\u0430\u043c\u0430"
     ],
     "name:cat_x_preferred":[
         "Saitama"
+    ],
+    "name:ceb_x_preferred":[
+        "Saitama-shi"
     ],
     "name:ces_x_preferred":[
         "Saitama"
@@ -109,6 +124,9 @@
     "name:hun_x_preferred":[
         "Szaitama"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0575\u057f\u0561\u0574\u0561"
+    ],
     "name:ind_x_preferred":[
         "Saitama"
     ],
@@ -128,8 +146,14 @@
     "name:kik_x_preferred":[
         "Saitama"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0439\u0442\u0430\u043c\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc774\ud0c0\ub9c8"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc774\ud0c0\ub9c8\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Saitama"
@@ -140,11 +164,17 @@
     "name:lit_x_preferred":[
         "Saitama"
     ],
+    "name:lzh_x_preferred":[
+        "\u57fc\u7389\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u0948\u0924\u093e\u092e\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0458\u0442\u0430\u043c\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u0439\u0442\u0430\u043c\u0430"
     ],
     "name:mri_x_preferred":[
         "Saitama"
@@ -218,6 +248,9 @@
     "name:swe_x_preferred":[
         "Saitama"
     ],
+    "name:szl_x_preferred":[
+        "Saitama"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0baf\u0bcd\u0b9f\u0bbe\u0bae\u0bbe"
     ],
@@ -235,6 +268,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e0b\u0e15\u0e30\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e0b\u0e15\u0e32\u0e21\u0e30"
     ],
     "name:tum_x_preferred":[
         "Saitama"
@@ -312,7 +348,7 @@
         }
     ],
     "wof:id":102032221,
-    "wof:lastmodified":1561776099,
+    "wof:lastmodified":1563290206,
     "wof:name":"Saitama",
     "wof:parent_id":1108740421,
     "wof:placetype":"locality",

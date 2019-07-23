@@ -24,14 +24,26 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627\u0643\u064a\u0648\u0634\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u06a9\u06cc\u0648\u0634\u0648"
+    ],
     "name:aze_x_preferred":[
         "Kitakyu\u015fu"
     ],
     "name:aze_x_variant":[
         "Kitaky\u00fc\u015f\u00fc"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u0438\u0442\u0430\u043a\u044e\u0441\u044e"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0442\u0430\u043a\u044e\u0441\u044e"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a4\u09be\u0995\u09bf\u09af\u09bc\u09c1\u09b6\u09c1"
+    ],
+    "name:bre_x_preferred":[
+        "Kitakyushu"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0442\u0430\u043a\u044e\u0448\u0443"
@@ -41,6 +53,9 @@
     ],
     "name:cat_x_variant":[
         "Kitakyushu"
+    ],
+    "name:ceb_x_preferred":[
+        "Kitaky\u016bsh\u016b"
     ],
     "name:ces_x_preferred":[
         "Kitakj\u00fa\u0161\u00fa"
@@ -81,6 +96,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u062a\u0627\u06a9\u06cc\u0648\u0634\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u062a\u0627\u06a9\u06cc\u0648\u0634\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kitaky\u016bsh\u016b"
     ],
@@ -92,6 +110,9 @@
     ],
     "name:glg_x_preferred":[
         "Kitakyushu"
+    ],
+    "name:glg_x_variant":[
+        "Kitaky\u016bsh\u016b"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac0\u0a9f\u0abe\u0a95\u0acd\u0aaf\u0ac1\u0ab6\u0ac1"
@@ -107,6 +128,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u0940\u091f\u093e\u0915\u094d\u092f\u0942\u0936\u0942"
+    ],
+    "name:hrv_x_preferred":[
+        "Kitakju\u0161u"
     ],
     "name:hun_x_preferred":[
         "Kitakj\u00fas\u00fa"
@@ -144,12 +168,18 @@
     "name:kik_x_preferred":[
         "Kitakyushu"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0442\u0430\u043a\u044e\u0448\u044e"
+    ],
     "name:kor_x_preferred":[
         "\uae30\ud0c0\ud050\uc288\uc2dc",
         "\uae30\ud0c0\ud050\uc288 \uc2dc"
     ],
     "name:lav_x_preferred":[
         "Kitakju\u0161u"
+    ],
+    "name:lav_x_variant":[
+        "Kitakjusju"
     ],
     "name:lit_x_preferred":[
         "Kitaki\u016b\u0161i\u016b"
@@ -160,6 +190,9 @@
     "name:mar_x_preferred":[
         "\u0915\u0940\u091f\u0915\u092f\u0941\u0936\u0941"
     ],
+    "name:mlg_x_preferred":[
+        "Kitakyushu"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0438\u0442\u0430\u043a\u044e\u0448\u044e"
     ],
@@ -168,6 +201,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u06cc\u062a\u0627\u06a9\u06cc\u0648\u0634\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u06cc\u062a\u0627\u06a9\u06cc\u0648\u0634\u0648"
     ],
     "name:nan_x_preferred":[
         "Pak-ki\u00fa-chiu-chh\u012b"
@@ -245,6 +281,9 @@
     ],
     "name:tgl_x_preferred":[
         "Kitakyushu"
+    ],
+    "name:tgl_x_variant":[
+        "Kitaky\u016bsh\u016b"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e34\u0e15\u0e30\u0e01\u0e35\u0e27\u0e0a\u0e39"
@@ -432,7 +471,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776093,
+    "wof:lastmodified":1563290129,
     "wof:name":"Kitaky\u016bsh\u016b",
     "wof:parent_id":890523793,
     "wof:placetype":"locality",

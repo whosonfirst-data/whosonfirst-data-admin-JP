@@ -36,11 +36,17 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u0641\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0641\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Qifu"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0456\u0444\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0456\u0444\u0443"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09ab\u09c1 \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -53,6 +59,9 @@
     ],
     "name:cdo_x_preferred":[
         "Gifu-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Gifu-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Gifu"
@@ -101,7 +110,8 @@
         "Pr\u00e9fecture de Gifu"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Gifu"
+        "pr\u00e9fecture de Gifu",
+        "Gifu"
     ],
     "name:gle_x_preferred":[
         "Maoracht Gifu"
@@ -111,6 +121,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac0\u0aab\u0ac1 \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Gifu-yen"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Gifu"
@@ -130,6 +143,9 @@
     "name:ilo_x_preferred":[
         "Prepektura ti Gifu"
     ],
+    "name:ilo_x_variant":[
+        "Gifu"
+    ],
     "name:ind_x_preferred":[
         "Prefektur Gifu"
     ],
@@ -138,6 +154,9 @@
     ],
     "name:jav_x_preferred":[
         "Pr\u00e9f\u00e8ktur Gifu"
+    ],
+    "name:jav_x_variant":[
+        "Prefektur Gifu"
     ],
     "name:jpn_x_preferred":[
         "\u5c90\u961c\u770c"
@@ -157,13 +176,17 @@
         "\uae30\ud6c4\ucf04"
     ],
     "name:kor_x_variant":[
-        "\uae30\ud6c4 \ud604"
+        "\uae30\ud6c4 \ud604",
+        "\uae30\ud6c4\ud604"
     ],
     "name:lav_x_preferred":[
         "Gifu prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Gifu prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c90\u961c\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0917\u093f\u092b\u0942"
@@ -189,8 +212,14 @@
     "name:nov_x_preferred":[
         "Gifu Prefekture"
     ],
+    "name:nov_x_variant":[
+        "Gifu Prefecture"
+    ],
     "name:pam_x_preferred":[
         "Prepektura ning Gifu"
+    ],
+    "name:pam_x_variant":[
+        "Gifu Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06af\u06cc\u0641\u0648"
@@ -224,6 +253,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0438\u0444\u0443"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0438\u0444\u0443"
     ],
     "name:sun_x_preferred":[
         "Pr\u00e9f\u00e9ktur Gifu"
@@ -406,7 +438,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776190,
+    "wof:lastmodified":1563291663,
     "wof:name":"Gifu",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

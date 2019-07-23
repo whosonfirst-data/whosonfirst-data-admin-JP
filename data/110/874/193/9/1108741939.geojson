@@ -33,11 +33,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u0648 \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0634\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b8\u09cb"
     ],
     "name:cat_x_preferred":[
         "K\u014dsh\u016b"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u014dsh\u016b-shi"
+    ],
+    "name:ces_x_preferred":[
+        "K\u00f3\u0161\u00fa"
     ],
     "name:dan_x_preferred":[
         "Koshu"
@@ -62,6 +71,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0634\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0634\u0648"
     ],
     "name:fin_x_preferred":[
         "K\u014dshu"
@@ -96,11 +108,17 @@
     "name:kor_x_preferred":[
         "\uace0\uc288 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uace0\uc288\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ko\u0161u"
     ],
     "name:lit_x_preferred":[
         "Ko\u0161u"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7532\u5dde\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0936\u0941"
@@ -110,6 +128,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0634\u0648\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0648\u0634\u0648"
     ],
     "name:nan_x_preferred":[
         "K\u00f4sy\u00fb-chh\u012b"
@@ -171,6 +192,9 @@
     "name:war_x_preferred":[
         "K\u014dsh\u016b"
     ],
+    "name:yue_x_preferred":[
+        "\u7532\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u7532\u5dde\u5e02"
     ],
@@ -197,7 +221,7 @@
         }
     ],
     "wof:id":1108741939,
-    "wof:lastmodified":1561776344,
+    "wof:lastmodified":1563294270,
     "wof:name":"Koshu",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0631\u0648\u063a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0648\u0631\u0648\u0642\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b0\u09cb\u0997\u09be"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0633\u0648\u0631\u0648\u06af\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0633\u0648\u0631\u0648\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Tsuruga"
@@ -85,11 +91,17 @@
     "name:kor_x_preferred":[
         "\uc4f0\ub8e8\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc4f0\ub8e8\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Curuga"
     ],
     "name:lit_x_preferred":[
         "Curuga"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6566\u8cc0\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u0930\u0941\u0917\u093e"
@@ -99,6 +111,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0648\u0631\u0648\u06af\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0633\u0648\u0631\u0648\u06af\u0627"
     ],
     "name:nan_x_preferred":[
         "Turuga-chh\u012b"
@@ -166,6 +181,9 @@
     "name:war_x_preferred":[
         "Tsuruga"
     ],
+    "name:yue_x_preferred":[
+        "\u6566\u8cc0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Turuga-chh\u012b"
     ],
@@ -218,7 +236,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776093,
+    "wof:lastmodified":1563290127,
     "wof:name":"Tsuruga",
     "wof:parent_id":1108741903,
     "wof:placetype":"locality",

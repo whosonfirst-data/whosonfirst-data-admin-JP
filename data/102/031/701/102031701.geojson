@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062a\u0627\u0645\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062a\u0627\u0645\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u0130tami"
     ],
@@ -27,6 +30,12 @@
         "\u0987\u099f\u09be\u09ae\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Itami"
+    ],
+    "name:ceb_x_preferred":[
+        "Itami"
+    ],
+    "name:ces_x_preferred":[
         "Itami"
     ],
     "name:dan_x_preferred":[
@@ -50,6 +59,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u062a\u0627\u0645\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u062a\u0627\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Itami"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a9f\u0abe\u0aae\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d0\u05de\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0907\u091f\u093e\u092e\u0940"
@@ -85,11 +100,17 @@
     "name:kor_x_preferred":[
         "\uc774\ud0c0\ubbf8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ud0c0\ubbf8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Itami"
     ],
     "name:lit_x_preferred":[
         "Itamis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f0a\u4e39\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u091f\u093e\u092e\u0940"
@@ -99,6 +120,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u062a\u0627\u0645\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u062a\u0627\u0645\u06cc"
     ],
     "name:nan_x_preferred":[
         "Itami-chh\u012b"
@@ -169,6 +193,9 @@
     "name:war_x_preferred":[
         "Itami"
     ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u4e39"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u4e39\u5e02"
     ],
@@ -223,7 +250,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776077,
+    "wof:lastmodified":1563289974,
     "wof:name":"Itami",
     "wof:parent_id":1108742511,
     "wof:placetype":"locality",

@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0627\u060c \u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u06a9\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0995\u09be"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u06a9\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Naka"
@@ -85,11 +94,17 @@
     "name:kor_x_preferred":[
         "\ub098\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Naka"
     ],
     "name:lit_x_preferred":[
         "Naka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u90a3\u73c2\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0915\u093e"
@@ -99,6 +114,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u06a9\u0627\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0627\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Naka-chh\u012b"
@@ -160,6 +178,9 @@
     "name:war_x_preferred":[
         "Naka"
     ],
+    "name:yue_x_preferred":[
+        "\u90a3\u73c2"
+    ],
     "name:zho_x_preferred":[
         "\u90a3\u73c2\u5e02"
     ],
@@ -187,7 +208,7 @@
         }
     ],
     "wof:id":1108740281,
-    "wof:lastmodified":1561776365,
+    "wof:lastmodified":1563294478,
     "wof:name":"Naka",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

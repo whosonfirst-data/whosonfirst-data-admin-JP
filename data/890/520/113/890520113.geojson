@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0632\u0627\u0643\u064a\u060c \u0633\u0627\u063a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0646\u0632\u0627\u0643\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Kanzaki"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u099e\u09cd\u099c\u09be\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanzakimachi-kanzaki"
     ],
     "name:dan_x_preferred":[
         "Kanzaki"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u0632\u0627\u06a9\u06cc\u060c \u0633\u0627\u06af\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0646\u0632\u0627\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kanzaki"
@@ -92,20 +104,32 @@
     "name:kor_x_preferred":[
         "\uac04\uc790\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac04\uc790\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kanzaki"
     ],
     "name:lit_x_preferred":[
         "Kanzakis"
     ],
+    "name:lzh_x_preferred":[
+        "\u795e\u57fc\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0902\u091d\u093e\u0915\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Kanzakimachi-kanzaki"
     ],
     "name:msa_x_preferred":[
         "Kanzaki"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0646\u0632\u0627\u06a9\u06cc\u060c \u0633\u0627\u06af\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u0646\u0632\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Kanzaki-chh\u012b"
@@ -167,6 +191,9 @@
     "name:war_x_preferred":[
         "Kanzaki"
     ],
+    "name:yue_x_preferred":[
+        "\u795e\u57fc"
+    ],
     "name:zho_x_preferred":[
         "\u795e\u57fc\u5e02"
     ],
@@ -215,7 +242,7 @@
         }
     ],
     "wof:id":890520113,
-    "wof:lastmodified":1561776460,
+    "wof:lastmodified":1563296204,
     "wof:name":"Kanzaki",
     "wof:parent_id":85672695,
     "wof:placetype":"county",

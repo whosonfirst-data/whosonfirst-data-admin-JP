@@ -36,17 +36,32 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u0627\u064a\u0627\u0645\u0627\u060c \u0647\u064a\u0648\u063a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0633\u0627\u064a\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0633\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b8\u09be\u09af\u09bc\u09be\u09ae\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0441\u0430\u044f\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Sasayama"
+    ],
+    "name:ces_x_preferred":[
+        "Sasajama"
+    ],
     "name:dan_x_preferred":[
         "Sasayama"
     ],
     "name:deu_x_preferred":[
         "Sasayama"
+    ],
+    "name:deu_x_variant":[
+        "Tambasasayama"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c3\u03b1\u03b3\u03b9\u03ac\u03bc\u03b1"
@@ -56,10 +71,14 @@
     ],
     "name:eng_x_variant":[
         "Sakiyamatyoo",
-        "Sasayama Shi"
+        "Sasayama Shi",
+        "Tamba-Sasayama"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0633\u0627\u06cc\u0627\u0645\u0627\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0633\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Sasayama"
@@ -87,7 +106,8 @@
     ],
     "name:jpn_x_variant":[
         "\u3055\u3055\u3084\u307e\u3057",
-        "\u7be0\u5c71"
+        "\u7be0\u5c71",
+        "\u4e39\u6ce2\u7be0\u5c71\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb8\u0cbe\u0caf\u0cbe\u0cae"
@@ -95,11 +115,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\uc0ac\uc57c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e8\ubc14\uc0ac\uc0ac\uc57c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sasajama"
     ],
     "name:lit_x_preferred":[
         "Sasajama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7be0\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0938\u093e\u092f\u092e\u093e"
@@ -110,11 +136,17 @@
     "name:mzn_x_preferred":[
         "\u0633\u0627\u0633\u0627\u06cc\u0627\u0645\u0627\u060c \u0647\u06cc\u0648\u06af\u0648"
     ],
+    "name:mzn_x_variant":[
+        "\u0633\u0627\u0633\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:nan_x_preferred":[
         "Sasayama-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Sasayama"
+    ],
+    "name:nld_x_variant":[
+        "Tamba-Sasayama"
     ],
     "name:nob_x_preferred":[
         "Sasayama"
@@ -130,6 +162,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0441\u0430\u044f\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043c\u0431\u0430-\u0421\u0430\u0441\u0430\u044f\u043c\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dc3\u0dba\u0db8\u0dcf"
@@ -173,8 +208,14 @@
     "name:war_x_preferred":[
         "Sasayama"
     ],
+    "name:yue_x_preferred":[
+        "\u7be0\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u7be0\u5c71\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u4e39\u6ce2\u7be0\u5c71\u5e02"
     ],
     "qs:name":"Sasayama-shi",
     "qs:photos_9r":0,
@@ -221,7 +262,7 @@
         }
     ],
     "wof:id":890524743,
-    "wof:lastmodified":1561776486,
+    "wof:lastmodified":1563296736,
     "wof:name":"Sasayama",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

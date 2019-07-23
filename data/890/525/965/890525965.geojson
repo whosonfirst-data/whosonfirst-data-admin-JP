@@ -18,11 +18,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u062a\u0633\u0648\u0646\u0648\u060c \u0647\u064a\u0648\u063a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u062a\u0633\u0648\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u062a\u0633\u0648\u0646\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ce\u09b8\u09c1\u09a8\u09cb"
     ],
     "name:cat_x_preferred":[
         "Tatsuno"
+    ],
+    "name:ceb_x_preferred":[
+        "Tatsuno-shi"
     ],
     "name:dan_x_preferred":[
         "Tatsuno"
@@ -41,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u062a\u0633\u0648\u0646\u0648\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u062a\u0633\u0648\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Tatsuno"
@@ -66,17 +78,26 @@
     "name:jpn_x_preferred":[
         "\u9f8d\u91ce\u753a\u5bcc\u6c38"
     ],
+    "name:jpn_x_variant":[
+        "\u305f\u3064\u306e\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0c9f\u0ccd\u0cb8\u0cc1\u0ca8\u0ccb"
     ],
     "name:kor_x_preferred":[
         "\ub2e4\uc4f0\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\uc4f0\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tatsuno"
     ],
     "name:lit_x_preferred":[
         "Tatsuno"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9f8d\u91ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0924\u094d\u0938\u0941\u0928\u094b"
@@ -86,6 +107,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u062a\u0633\u0648\u0646\u0648\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u062a\u0633\u0648\u0646\u0648"
     ],
     "name:nan_x_preferred":[
         "Tatuno-chh\u012b"
@@ -150,6 +174,9 @@
     "name:war_x_preferred":[
         "Tatsuno"
     ],
+    "name:yue_x_preferred":[
+        "\u9f8d\u91ce"
+    ],
     "name:zho_x_preferred":[
         "\u9f8d\u91ce\u5e02"
     ],
@@ -184,7 +211,7 @@
         }
     ],
     "wof:id":890525965,
-    "wof:lastmodified":1561776466,
+    "wof:lastmodified":1563296401,
     "wof:name":"Tatsuno",
     "wof:parent_id":1108742527,
     "wof:placetype":"locality",

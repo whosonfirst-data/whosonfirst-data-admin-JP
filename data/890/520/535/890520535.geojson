@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0627\u0643\u0648\u062a\u0634\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0633\u0627\u0643\u0648\u062a\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0633\u0627\u06a9\u0648\u0686\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09be\u0995\u09cb\u099a\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Asakuchi Shi"
     ],
     "name:dan_x_preferred":[
         "Asakuchi"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0633\u0627\u06a9\u0648\u0686\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0633\u0627\u06a9\u0648\u0686\u06cc"
     ],
     "name:fin_x_preferred":[
         "Asakuchi"
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uc544\uc0ac\ucfe0\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc0ac\ucfe0\uce58\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Asaku\u010di"
     ],
     "name:lit_x_preferred":[
         "Asaku\u010dis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6dfa\u53e3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0938\u093e\u0915\u091a\u0940"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0633\u0627\u06a9\u0648\u0686\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u0633\u0627\u06a9\u0648\u0686\u06cc"
     ],
     "name:nan_x_preferred":[
         "Asakuti-chh\u012b"
@@ -167,6 +188,9 @@
     "name:war_x_preferred":[
         "Asakuchi"
     ],
+    "name:yue_x_preferred":[
+        "\u6dfa\u53e3"
+    ],
     "name:zho_x_preferred":[
         "\u6dfa\u53e3\u5e02"
     ],
@@ -217,7 +241,7 @@
         }
     ],
     "wof:id":890520535,
-    "wof:lastmodified":1561776453,
+    "wof:lastmodified":1563296096,
     "wof:name":"Asakuchi",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

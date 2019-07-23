@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0645\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0645\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u200c\u0627\u06cc\u0645\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09ae\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u043c\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Niimi"
     ],
     "name:dan_x_preferred":[
         "Niimi"
@@ -95,20 +104,32 @@
     "name:kor_x_preferred":[
         "\ub2c8\ubbf8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ubbf8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "N\u012bmi"
     ],
     "name:lit_x_preferred":[
         "Nimis"
     ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u898b\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0907\u092e\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Niimi"
     ],
     "name:msa_x_preferred":[
         "Niimi"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc \u0627\u06cc\u0645\u06cc\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc \u0627\u06cc\u0645\u06cc"
     ],
     "name:nan_x_preferred":[
         "Niimi-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Niimi"
     ],
+    "name:yue_x_preferred":[
+        "\u65b0\u898b"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u898b\u5e02"
     ],
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":890524759,
-    "wof:lastmodified":1561776484,
+    "wof:lastmodified":1563296702,
     "wof:name":"Niimi",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

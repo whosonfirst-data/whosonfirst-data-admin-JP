@@ -18,11 +18,17 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0646\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0646\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09a8\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0438\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Hino-shi"
     ],
     "name:ces_x_preferred":[
         "Hino"
@@ -47,6 +53,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u0646\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Hino"
@@ -84,11 +93,17 @@
     "name:kor_x_preferred":[
         "\ud788\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hino"
     ],
     "name:lit_x_preferred":[
         "Hinas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65e5\u91ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u0928\u094b"
@@ -98,6 +113,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u0646\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u0646\u0648"
     ],
     "name:nan_x_preferred":[
         "Hino-chh\u012b"
@@ -203,7 +221,7 @@
         }
     ],
     "wof:id":890519885,
-    "wof:lastmodified":1561776448,
+    "wof:lastmodified":1563295981,
     "wof:name":"Hino",
     "wof:parent_id":890522681,
     "wof:placetype":"locality",

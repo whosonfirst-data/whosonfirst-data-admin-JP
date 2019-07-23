@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0634\u064a\u0646\u0648\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0633\u0627\u0634\u064a\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0633\u0627\u0634\u06cc\u0646\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b6\u09be\u09b6\u09bf\u09a8\u09cb"
     ],
@@ -43,6 +49,9 @@
         "\u041c\u0443\u0441\u0430\u0448\u0438\u043d\u043e"
     ],
     "name:cat_x_preferred":[
+        "Musashino"
+    ],
+    "name:ceb_x_preferred":[
         "Musashino"
     ],
     "name:ces_x_preferred":[
@@ -73,6 +82,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0634\u06cc\u0646\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0633\u0627\u0634\u06cc\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Musashino"
@@ -116,11 +128,17 @@
     "name:kor_x_preferred":[
         "\ubb34\uc0ac\uc2dc\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\uc0ac\uc2dc\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Musa\u0161ino"
     ],
     "name:lit_x_preferred":[
         "Musa\u0161inas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6b66\u85cf\u91ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0938\u093e\u0936\u093f\u0928\u094b"
@@ -130,6 +148,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0634\u06cc\u0646\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0633\u0627\u0634\u06cc\u0646\u0648"
     ],
     "name:nan_x_preferred":[
         "Musasino-chh\u012b"
@@ -251,7 +272,7 @@
         }
     ],
     "wof:id":890523767,
-    "wof:lastmodified":1561776472,
+    "wof:lastmodified":1563296579,
     "wof:name":"Musashino",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

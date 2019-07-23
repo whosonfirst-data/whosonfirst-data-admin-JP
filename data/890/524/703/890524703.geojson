@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0647\u06cc\u063a\u0627\u0634\u06cc\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u06cc\u063a\u0627\u0634\u06cc\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0642\u0627\u0634\u06cc\u200c\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0997\u09be\u09b8\u09bf\u09b9\u09bf\u09b0\u09cb\u09b8\u09bf\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Higashihiroshima Shi"
     ],
     "name:dan_x_preferred":[
         "Higashihiroshima"
@@ -95,11 +104,17 @@
     "name:kor_x_preferred":[
         "\ud788\uac00\uc2dc\ud788\ub85c\uc2dc\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\uac00\uc2dc\ud788\ub85c\uc2dc\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Higa\u0161ihiro\u0161ima"
     ],
     "name:lit_x_preferred":[
         "Chiga\u0161ichiro\u0161ima"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6771\u5ee3\u5cf6\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u0917\u094d\u0936\u093f\u0939\u093f\u0930\u094b\u0936\u093f\u092e\u093e"
@@ -109,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u06af\u0627\u0634\u06cc \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u06af\u0627\u0634\u06cc \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Higasihirosima-chh\u012b"
@@ -179,6 +197,9 @@
     "name:war_x_preferred":[
         "Higashihiroshima"
     ],
+    "name:yue_x_preferred":[
+        "\u6771\u5ee3\u5cf6"
+    ],
     "name:zho_x_preferred":[
         "\u6771\u5ee3\u5cf6\u5e02"
     ],
@@ -229,7 +250,7 @@
         }
     ],
     "wof:id":890524703,
-    "wof:lastmodified":1561776484,
+    "wof:lastmodified":1563296697,
     "wof:name":"Higashihiroshima",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

@@ -23,8 +23,17 @@
     "name:ara_x_variant":[
         "\u0645\u0648\u0628\u0627\u0631\u0627\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0628\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Mobara"
+    ],
+    "name:ces_x_preferred":[
+        "Mobara"
     ],
     "name:dan_x_preferred":[
         "Mobara"
@@ -46,6 +55,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0628\u0627\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0628\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Mobara"
@@ -83,11 +95,17 @@
     "name:kor_x_preferred":[
         "\ubaa8\ubc14\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubaa8\ubc14\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mobara"
     ],
     "name:lit_x_preferred":[
         "Mobara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8302\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u092c\u093e\u0930\u093e"
@@ -97,6 +115,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0628\u0627\u0631\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0628\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Mobara-chh\u012b"
@@ -161,11 +182,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0627\u0628\u0627\u060c \u0686\u06cc\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u0627\u0628\u0627"
+    ],
     "name:vie_x_preferred":[
         "Mobara"
     ],
     "name:war_x_preferred":[
         "Mobara"
+    ],
+    "name:yue_x_preferred":[
+        "\u8302\u539f"
     ],
     "name:zho_min_nan_x_preferred":[
         "Mobara-chh\u012b"
@@ -223,7 +250,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776087,
+    "wof:lastmodified":1563290055,
     "wof:name":"Mobara",
     "wof:parent_id":1108741595,
     "wof:placetype":"locality",

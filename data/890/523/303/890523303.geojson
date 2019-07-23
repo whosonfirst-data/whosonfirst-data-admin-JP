@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0646\u0627\u060c \u063a\u064a\u0641\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0646\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0627"
+    ],
     "name:aze_x_preferred":[
         "Ena"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ena"
     ],
     "name:dan_x_preferred":[
         "Ena"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u0627\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Ena"
@@ -95,11 +107,17 @@
     "name:kor_x_preferred":[
         "\uc5d0\ub098 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc5d0\ub098\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ena"
     ],
     "name:lit_x_preferred":[
         "Ena"
+    ],
+    "name:lzh_x_preferred":[
+        "\u60e0\u90a3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u090f\u0928\u093e"
@@ -109,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0646\u0627\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0646\u0627"
     ],
     "name:nan_x_preferred":[
         "Ena-chh\u012b"
@@ -176,6 +197,9 @@
     "name:war_x_preferred":[
         "Ena"
     ],
+    "name:yue_x_preferred":[
+        "\u60e0\u90a3"
+    ],
     "name:zho_x_preferred":[
         "\u60e0\u90a3\u5e02"
     ],
@@ -224,7 +248,7 @@
         }
     ],
     "wof:id":890523303,
-    "wof:lastmodified":1561776472,
+    "wof:lastmodified":1563296580,
     "wof:name":"Ena",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

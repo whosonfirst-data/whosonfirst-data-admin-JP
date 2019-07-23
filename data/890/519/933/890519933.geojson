@@ -36,11 +36,23 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0627\u0647\u0627\u064a\u0627\u060c \u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0633\u0627\u0647\u0627\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0627\u0647\u0627\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a4\u09cb\u09b6\u09bf\u09ae\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0430\u0445\u0430\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Isahaya"
+    ],
+    "name:ces_x_preferred":[
+        "Isahaja"
     ],
     "name:dan_x_preferred":[
         "Isahaya"
@@ -60,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0633\u0627\u0647\u0627\u06cc\u0627\u060c \u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0633\u0627\u0647\u0627\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Isahaya"
@@ -96,11 +111,17 @@
     "name:kor_x_preferred":[
         "\uc774\uc0ac\ud558\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc0ac\ud558\uc57c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Isahaja"
     ],
     "name:lit_x_preferred":[
         "Isachaja"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8aeb\u65e9\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u0939\u093e\u092f"
@@ -110,6 +131,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0633\u0627\u0647\u0627\u06cc\u0627\u060c \u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0633\u0627\u0647\u0627\u06cc\u0627"
     ],
     "name:nan_x_preferred":[
         "Isahaya-chh\u012b"
@@ -177,6 +201,9 @@
     "name:war_x_preferred":[
         "Isahaya"
     ],
+    "name:yue_x_preferred":[
+        "\u8aeb\u65e9"
+    ],
     "name:zho_x_preferred":[
         "\u8aeb\u65e9\u5e02"
     ],
@@ -225,7 +252,7 @@
         }
     ],
     "wof:id":890519933,
-    "wof:lastmodified":1561776448,
+    "wof:lastmodified":1563295973,
     "wof:name":"Isahaya",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

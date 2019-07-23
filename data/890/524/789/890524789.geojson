@@ -36,8 +36,23 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0648\u062a\u0633\u0648\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0648\u0643\u0648\u062a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Fukutsu"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u0995\u09c1\u099f\u09b8\u09cb"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09c1\u0995\u09c1\u09ce\u09b8\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Fukutsu Shi"
     ],
     "name:dan_x_preferred":[
         "Fukutsu"
@@ -57,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Fukutsu"
@@ -95,11 +113,17 @@
     "name:kor_x_preferred":[
         "\ud6c4\ucfe0\uc4f0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\ucfe0\uc4f0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Fukutsu"
     ],
     "name:lit_x_preferred":[
         "Fukutsu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u798f\u6d25\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092b\u0941\u0915\u0941\u0924\u094d\u0938\u0941"
@@ -109,6 +133,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0641\u0648\u06a9\u0648\u062a\u0633\u0648"
     ],
     "name:nan_x_preferred":[
         "Hukutu-chh\u012b"
@@ -179,6 +206,9 @@
     "name:war_x_preferred":[
         "Fukutsu"
     ],
+    "name:yue_x_preferred":[
+        "\u798f\u6d25"
+    ],
     "name:zho_x_preferred":[
         "\u798f\u6d25\u5e02"
     ],
@@ -215,7 +245,7 @@
         }
     ],
     "wof:id":890524789,
-    "wof:lastmodified":1561776487,
+    "wof:lastmodified":1563296747,
     "wof:name":"Fukutsu",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

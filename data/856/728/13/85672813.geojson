@@ -36,8 +36,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u062a\u0634\u064a\u063a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0686\u06cc\u0642\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "To\u00e7iqi"
+    ],
+    "name:aze_x_variant":[
+        "Totiqi"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u0430\u0442\u044b\u0433\u0456"
@@ -53,6 +59,9 @@
     ],
     "name:cdo_x_preferred":[
         "Tochigi-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Tochigi-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura To\u010digi"
@@ -98,7 +107,8 @@
         "Pr\u00e9fecture de Tochigi"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Tochigi"
+        "pr\u00e9fecture de Tochigi",
+        "Tochigi"
     ],
     "name:gle_x_preferred":[
         "Maoracht Tochigi"
@@ -109,11 +119,17 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a9a\u0ac0\u0a97\u0ac0 \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
     ],
+    "name:hak_x_preferred":[
+        "Tochigi-yen"
+    ],
     "name:hbs_x_preferred":[
         "Prefektura Tochigi"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e6\u05d9\u05d2\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05d5\u05e6'\u05d9\u05d2\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0924\u094b\u0936\u0940\u0917\u0940 \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
@@ -126,6 +142,9 @@
     ],
     "name:ilo_x_preferred":[
         "Prepektura ti Tochigi"
+    ],
+    "name:ilo_x_variant":[
+        "Tochigi"
     ],
     "name:ind_x_preferred":[
         "Prefektur Tochigi"
@@ -150,11 +169,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\uce58\uae30 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uce58\uae30\ud604"
+    ],
     "name:lav_x_preferred":[
         "To\u010digi prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "To\u010digio prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6ad4\u6728\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u091a\u093f\u0917\u0940"
@@ -216,6 +241,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u0447\u0438\u0433\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0447\u0438\u0433\u0438"
+    ],
     "name:sun_x_preferred":[
         "Tochigi Prefecture"
     ],
@@ -240,6 +268,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e17\u0e30\u0e0a\u0e34\u0e07\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e17\u0e08\u0e34\u0e07\u0e34"
+    ],
     "name:tur_x_preferred":[
         "Tochigi"
     ],
@@ -248,6 +279,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u0442\u0456\u0491\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u0447\u0456\u0491\u0456"
     ],
     "name:und_x_variant":[
         "\u6803\u6728\u770c",
@@ -394,7 +428,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776189,
+    "wof:lastmodified":1563291653,
     "wof:name":"Tochigi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

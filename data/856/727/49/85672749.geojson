@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0627\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0647 \u0646\u0627\u062c\u0627\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0642\u0627\u0646\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Naqano"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041d\u0430\u0433\u0430\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09be\u09a8\u09cb \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -50,6 +59,9 @@
     ],
     "name:cdo_x_preferred":[
         "Nagano-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Nagano-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Nagano"
@@ -98,7 +110,8 @@
         "Pr\u00e9fecture de Nagano"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture de Nagano"
+        "pr\u00e9fecture de Nagano",
+        "Nagano"
     ],
     "name:gle_x_preferred":[
         "Maoracht Nagano"
@@ -108,6 +121,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Nagano-yen"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Nagano"
@@ -124,8 +140,14 @@
     "name:hun_x_preferred":[
         "Nagano prefekt\u00fara"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u0561\u0576\u0578"
+    ],
     "name:ilo_x_preferred":[
         "Prepektura ti Nagano"
+    ],
+    "name:ilo_x_variant":[
+        "Nagano"
     ],
     "name:ind_x_preferred":[
         "Prefektur Nagano"
@@ -158,7 +180,8 @@
         "\ub098\uac00\ub178\ucf04"
     ],
     "name:kor_x_variant":[
-        "\ub098\uac00\ub178 \ud604"
+        "\ub098\uac00\ub178 \ud604",
+        "\ub098\uac00\ub178\ud604"
     ],
     "name:lat_x_preferred":[
         "Naganum"
@@ -196,8 +219,14 @@
     "name:nov_x_preferred":[
         "Nagano Prefekture"
     ],
+    "name:nov_x_variant":[
+        "Nagano Prefecture"
+    ],
     "name:pam_x_preferred":[
         "Prepektura ning Nagano"
+    ],
+    "name:pam_x_variant":[
+        "Nagano Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0646\u0627\u06af\u0627\u0646\u0648"
@@ -235,6 +264,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041d\u0430\u0433\u0430\u043d\u043e"
     ],
+    "name:srp_x_variant":[
+        "\u041d\u0430\u0433\u0430\u043d\u043e"
+    ],
     "name:sun_x_preferred":[
         "Nagano Prefecture"
     ],
@@ -261,6 +293,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e30\u0e07\u0e30\u0e42\u0e19\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e32\u0e07\u0e32\u0e42\u0e19\u0e30"
     ],
     "name:tur_x_preferred":[
         "Nagano"
@@ -421,7 +456,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776194,
+    "wof:lastmodified":1563291689,
     "wof:name":"Nagano",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

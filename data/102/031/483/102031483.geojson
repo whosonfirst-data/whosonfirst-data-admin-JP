@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648"
+    ],
     "name:aze_x_preferred":[
         "Nikko"
     ],
@@ -27,6 +30,9 @@
         "\u09a8\u09bf\u0995\u09cd\u0995\u09cb"
     ],
     "name:cat_x_preferred":[
+        "Nikk\u014d"
+    ],
+    "name:ceb_x_preferred":[
         "Nikk\u014d"
     ],
     "name:ces_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u06a9\u0648\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Nikk\u014d"
@@ -115,14 +124,23 @@
     "name:lit_x_preferred":[
         "Niko"
     ],
+    "name:lzh_x_preferred":[
+        "\u65e5\u5149\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0915\u0915\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Nikk\u014d"
     ],
     "name:msa_x_preferred":[
         "Nikko"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u06a9\u0648\u060c \u062a\u0648\u0686\u06cc\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc\u06a9\u0648"
     ],
     "name:nan_x_preferred":[
         "Nikk\u00f4-chh\u012b"
@@ -136,8 +154,14 @@
     "name:pol_x_preferred":[
         "Nikko"
     ],
+    "name:pol_x_variant":[
+        "Nikk\u014d"
+    ],
     "name:por_x_preferred":[
         "Nikko"
+    ],
+    "name:por_x_variant":[
+        "Nikk\u014d"
     ],
     "name:ron_x_preferred":[
         "Nikk\u014d"
@@ -159,6 +183,9 @@
     ],
     "name:swe_x_preferred":[
         "Nikko"
+    ],
+    "name:swe_x_variant":[
+        "Nikk\u014d"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bcb"
@@ -243,7 +270,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776082,
+    "wof:lastmodified":1563290011,
     "wof:name":"Nikk\u014d",
     "wof:parent_id":1108740327,
     "wof:placetype":"locality",

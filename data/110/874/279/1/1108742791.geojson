@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u0648\u0645\u06cc\u062c\u064a\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0646\u0648\u0645\u06cc\u062c\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0646\u0648\u0645\u06cc\u0686\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09a8\u09cb\u09ae\u09bf\u099a\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Onomichi-shi"
     ],
     "name:ces_x_preferred":[
         "Onomi\u010di"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0646\u0648\u0645\u06cc\u0686\u06cc\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0646\u0648\u0645\u06cc\u0686\u06cc"
     ],
     "name:fin_x_preferred":[
         "Onomichi"
@@ -91,11 +103,17 @@
     "name:kor_x_preferred":[
         "\uc624\ub178\ubbf8\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ub178\ubbf8\uce58\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Onomi\u010di"
     ],
     "name:lit_x_preferred":[
         "Onomi\u010dis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c3e\u9053\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0928\u094b\u092e\u093f\u091a\u0940"
@@ -105,6 +123,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0646\u0648\u0645\u06cc\u0686\u06cc\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0646\u0648\u0645\u06cc\u0686\u06cc"
     ],
     "name:nan_x_preferred":[
         "Onomiti-chh\u012b"
@@ -175,6 +196,9 @@
     "name:war_x_preferred":[
         "Onomichi"
     ],
+    "name:yue_x_preferred":[
+        "\u5c3e\u9053"
+    ],
     "name:zho_x_preferred":[
         "\u5c3e\u9053\u5e02"
     ],
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":1108742791,
-    "wof:lastmodified":1561776362,
+    "wof:lastmodified":1563294443,
     "wof:name":"Onomichi",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

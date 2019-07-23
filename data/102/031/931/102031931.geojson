@@ -19,8 +19,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u062a\u0648\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u062a\u0648\u0631\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u099f\u09cb\u09b0\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Natori"
+    ],
+    "name:ceb_x_preferred":[
+        "Natori Shi"
     ],
     "name:dan_x_preferred":[
         "Natori"
@@ -36,6 +45,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062a\u0648\u0631\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062a\u0648\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Natori"
@@ -70,11 +82,17 @@
     "name:kor_x_preferred":[
         "\ub098\ud1a0\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\ud1a0\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Natori"
     ],
     "name:lit_x_preferred":[
         "Natoris"
+    ],
+    "name:lzh_x_preferred":[
+        "\u540d\u53d6\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0924\u094b\u0930\u0940"
@@ -84,6 +102,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u062a\u0648\u0631\u06cc\u060c \u0645\u06cc\u0627\u06af\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u0627\u062a\u0648\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Natori-chh\u012b"
@@ -151,6 +172,9 @@
     "name:war_x_preferred":[
         "Natori"
     ],
+    "name:yue_x_preferred":[
+        "\u540d\u53d6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Natori-chh\u012b"
     ],
@@ -202,7 +226,7 @@
         }
     ],
     "wof:id":102031931,
-    "wof:lastmodified":1561776076,
+    "wof:lastmodified":1563289968,
     "wof:name":"Natori-shi",
     "wof:parent_id":890524923,
     "wof:placetype":"locality",

@@ -33,11 +33,20 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0634\u064a \u0637\u0648\u0643\u064a\u0648\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0634\u064a \u0637\u0648\u0643\u064a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0634\u06cc\u200c\u062a\u0648\u06a9\u06cc\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09b6\u09bf\u099f\u0995\u09bf\u09af\u09bc"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u0448\u0438\u0442\u043e\u043a\u0438\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Nishit\u014dky\u014d-shi"
     ],
     "name:ces_x_preferred":[
         "Ni\u0161it\u00f3kj\u00f3"
@@ -64,6 +73,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0634\u06cc\u200c\u062a\u0648\u06a9\u06cc\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0634\u06cc\u200c\u062a\u0648\u06a9\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Nishit\u014dky\u014d"
@@ -101,11 +113,17 @@
     "name:kor_x_preferred":[
         "\ub2c8\uc2dc\ud1a0\ucfc4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc2dc\ud1a0\ucfc4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ni\u0161itokija"
     ],
     "name:lit_x_preferred":[
         "Ni\u0161itokijas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u897f\u6771\u4eac\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0936\u0940\u091f\u094b\u0915\u0940\u0915\u094b"
@@ -115,6 +133,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u0634\u06cc\u200c\u062a\u0648\u06a9\u06cc\u0648\u060c \u062a\u0648\u06a9\u06cc\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc\u0634\u06cc\u200c\u062a\u0648\u06a9\u06cc\u0648"
     ],
     "name:nan_x_preferred":[
         "Nisit\u00f4ky\u00f4-chh\u012b"
@@ -217,7 +238,7 @@
         }
     ],
     "wof:id":1108741753,
-    "wof:lastmodified":1561776357,
+    "wof:lastmodified":1563294397,
     "wof:name":"Nishitokyo",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

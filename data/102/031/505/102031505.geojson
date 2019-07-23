@@ -21,6 +21,9 @@
     "name:afr_x_preferred":[
         "Nagasaki"
     ],
+    "name:amh_x_preferred":[
+        "\u1293\u130b\u1233\u12aa"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
@@ -30,6 +33,15 @@
     ],
     "name:arg_x_preferred":[
         "Nagasaki"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u062c\u0627\u0633\u0627\u0643\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Nagasaki"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u06a9\u0627\u0632\u0627\u06a9\u06cc"
     ],
     "name:aze_x_preferred":[
         "Naqasaki"
@@ -54,6 +66,9 @@
     ],
     "name:cat_x_preferred":[
         "Nagasaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Nagasaki-shi"
     ],
     "name:ces_x_preferred":[
         "Nagasaki"
@@ -188,6 +203,9 @@
     "name:kor_x_preferred":[
         "\ub098\uac00\uc0ac\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\uac00\uc0ac\ud0a4\uc2dc"
+    ],
     "name:kur_x_preferred":[
         "Nagasaki"
     ],
@@ -200,6 +218,9 @@
     "name:lit_x_preferred":[
         "Nagasakis"
     ],
+    "name:lzh_x_preferred":[
+        "\u9577\u5d0e\u5e02"
+    ],
     "name:mal_x_preferred":[
         "\u0d28\u0d3e\u0d17\u0d38\u0d3e\u0d15\u0d4d\u0d15\u0d3f"
     ],
@@ -209,14 +230,23 @@
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438"
     ],
+    "name:mlg_x_preferred":[
+        "Nagasaki"
+    ],
     "name:msa_x_preferred":[
         "Nagasaki"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u102c\u1002\u102b\u1006\u102c\u1000\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0632\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Nagasaki-chh\u012b"
+    ],
+    "name:nds_x_preferred":[
+        "Nagasaki"
     ],
     "name:nld_x_preferred":[
         "Nagasaki"
@@ -233,6 +263,9 @@
     "name:oci_x_preferred":[
         "Nagasaki"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a28\u0a3e\u0a17\u0a3e\u0a38\u0a3e\u0a15\u0a40"
     ],
@@ -242,11 +275,17 @@
     "name:pnb_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0633\u0627\u06a9\u06cc"
     ],
+    "name:pnt_x_preferred":[
+        "\u039d\u03b1\u03b3\u03ba\u03b1\u03c3\u03ac\u03ba\u03b9"
+    ],
     "name:pol_x_preferred":[
         "Nagasaki"
     ],
     "name:por_x_preferred":[
         "Nangasaque"
+    ],
+    "name:por_x_variant":[
+        "Nagasaki"
     ],
     "name:que_x_preferred":[
         "Nagasaki"
@@ -258,6 +297,9 @@
         "Nagasaki"
     ],
     "name:rus_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438"
+    ],
+    "name:sah_x_preferred":[
         "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438"
     ],
     "name:scn_x_preferred":[
@@ -290,6 +332,9 @@
     "name:swe_x_preferred":[
         "Nagasaki"
     ],
+    "name:szl_x_preferred":[
+        "Nagasaki"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0b95\u0b9a\u0bbe\u0b95\u0bbf"
     ],
@@ -307,6 +352,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e30\u0e07\u0e30\u0e0b\u0e30\u0e01\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e32\u0e07\u0e32\u0e0b\u0e32\u0e01\u0e34"
     ],
     "name:tum_x_preferred":[
         "Nagasaki"
@@ -489,7 +537,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776078,
+    "wof:lastmodified":1563289977,
     "wof:megacity":0,
     "wof:name":"Nagasaki-shi",
     "wof:parent_id":1108743131,

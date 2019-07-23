@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0642\u0648\u0634\u06cc\u0645\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Kaqo\u015fima"
     ],
@@ -49,6 +52,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u0997\u09cb\u09b6\u09bf\u09ae\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:bjn_x_preferred":[
+        "Prefektur Kagoshima"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0433\u043e\u0448\u0438\u043c\u0430"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:cdo_x_preferred":[
         "Kagoshima-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Kagoshima-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Kago\u0161ima"
@@ -100,6 +109,9 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Kagoshima"
+    ],
+    "name:fra_x_variant":[
+        "Kagoshima"
     ],
     "name:gle_x_preferred":[
         "Maoracht Kagoshima"
@@ -161,11 +173,17 @@
     "name:kor_x_preferred":[
         "\uac00\uace0\uc2dc\ub9c8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uace0\uc2dc\ub9c8\ud604"
+    ],
     "name:lav_x_preferred":[
         "Kagosimas prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Kago\u0161imos prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9e7f\u5152\u5cf6\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0917\u094b\u0936\u093f\u092e\u093e"
@@ -253,6 +271,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e30\u0e42\u0e07\u0e30\u0e0a\u0e34\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e32\u0e42\u0e07\u0e0a\u0e34\u0e21\u0e30"
     ],
     "name:tur_x_preferred":[
         "Kago\u015fima ili"
@@ -411,7 +432,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776187,
+    "wof:lastmodified":1563291628,
     "wof:name":"Kagoshima",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

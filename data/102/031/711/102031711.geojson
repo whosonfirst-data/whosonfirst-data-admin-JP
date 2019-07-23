@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0646\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09be\u0997\u09c0"
+    ],
+    "name:ceb_x_preferred":[
+        "Ina"
     ],
     "name:dan_x_preferred":[
         "Ina"
@@ -40,6 +46,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Ina"
@@ -79,11 +88,17 @@
     "name:kor_x_preferred":[
         "\uc774\ub098 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub098\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ina"
     ],
     "name:lit_x_preferred":[
         "Ina"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f0a\u90a3\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0928\u093e"
@@ -93,6 +108,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0646\u0627"
     ],
     "name:nan_x_preferred":[
         "Ina-chh\u012b"
@@ -154,6 +172,9 @@
     "name:war_x_preferred":[
         "Ina"
     ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u90a3"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Ina-chh\u012b"
     ],
@@ -208,7 +229,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776098,
+    "wof:lastmodified":1563290187,
     "wof:name":"Ina",
     "wof:parent_id":1108741983,
     "wof:placetype":"locality",

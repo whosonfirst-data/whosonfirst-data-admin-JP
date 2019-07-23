@@ -21,10 +21,16 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u0995\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Miki"
+    ],
+    "name:ceb_x_preferred":[
         "Miki"
     ],
     "name:dan_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u06a9\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Miki"
@@ -78,11 +87,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Miki"
     ],
     "name:lit_x_preferred":[
         "Mikis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e09\u6728\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0915\u0940"
@@ -92,6 +107,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u06a9\u06cc\u060c \u0647\u06cc\u0648\u06af\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Miki-chh\u012b"
@@ -156,6 +174,9 @@
     "name:war_x_preferred":[
         "Miki"
     ],
+    "name:yue_x_preferred":[
+        "\u4e09\u6728"
+    ],
     "name:zho_x_preferred":[
         "\u4e09\u6728\u5e02"
     ],
@@ -214,7 +235,7 @@
         }
     ],
     "wof:id":102031545,
-    "wof:lastmodified":1561776089,
+    "wof:lastmodified":1563290071,
     "wof:name":"Miki",
     "wof:parent_id":890520179,
     "wof:placetype":"locality",

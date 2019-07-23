@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0643\u0627\u0631\u064a\u060c \u064a\u0627\u0645\u0627\u063a\u0648\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u0643\u0627\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u06a9\u0627\u0631\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0995\u09be\u09b0\u09bf"
     ],
@@ -40,6 +46,12 @@
         "\u0425\u0438\u043a\u0430\u0440\u0438"
     ],
     "name:cat_x_preferred":[
+        "Hikari"
+    ],
+    "name:ceb_x_preferred":[
+        "Hikari"
+    ],
+    "name:ces_x_preferred":[
         "Hikari"
     ],
     "name:dan_x_preferred":[
@@ -64,6 +76,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u06a9\u0627\u0631\u06cc\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u06a9\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Hikari"
@@ -98,20 +113,32 @@
     "name:kor_x_preferred":[
         "\ud788\uce74\ub9ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\uce74\ub9ac\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hikari"
     ],
     "name:lit_x_preferred":[
         "Hikaris"
     ],
+    "name:lzh_x_preferred":[
+        "\u5149\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u0915\u093e\u0930\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Hikari"
     ],
     "name:msa_x_preferred":[
         "Hikari"
     ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u06a9\u0627\u0631\u06cc\u060c \u06cc\u0627\u0645\u0627\u06af\u0648\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u06a9\u0627\u0631\u06cc"
     ],
     "name:nan_x_preferred":[
         "Hikari-chh\u012b"
@@ -176,6 +203,9 @@
     "name:war_x_preferred":[
         "Hikari"
     ],
+    "name:yue_x_preferred":[
+        "\u5149\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u5149\u5e02"
     ],
@@ -203,7 +233,7 @@
         }
     ],
     "wof:id":1108742837,
-    "wof:lastmodified":1561776361,
+    "wof:lastmodified":1563294436,
     "wof:name":"Tabuse",
     "wof:parent_id":85672689,
     "wof:placetype":"county",

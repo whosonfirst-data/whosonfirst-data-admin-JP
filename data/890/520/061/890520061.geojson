@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0633\u0648\u0646\u0648\u060c \u0634\u064a\u0632\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0633\u0648\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0633\u0648\u0646\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b8\u09cb\u09a8\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u0441\u043e\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Susono"
     ],
     "name:dan_x_preferred":[
         "Susono"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0633\u0648\u0646\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0633\u0648\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Susono"
@@ -95,11 +107,17 @@
     "name:kor_x_preferred":[
         "\uc2a4\uc18c\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\uc18c\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Suzona"
     ],
     "name:lit_x_preferred":[
         "Suzonas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u88fe\u91ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u091d\u094b\u0928\u094b"
@@ -109,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0633\u0648\u0646\u0648\u060c \u0634\u06cc\u0632\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0648\u0633\u0648\u0646\u0648"
     ],
     "name:nan_x_preferred":[
         "Susono-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Susono"
     ],
+    "name:yue_x_preferred":[
+        "\u88fe\u91ce"
+    ],
     "name:zho_x_preferred":[
         "\u88fe\u91ce\u5e02"
     ],
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":890520061,
-    "wof:lastmodified":1561776458,
+    "wof:lastmodified":1563296180,
     "wof:name":"Susono",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

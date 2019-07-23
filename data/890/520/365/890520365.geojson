@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u0633\u0648\u0631\u0627\u063a\u064a\u060c \u0646\u0627\u0631\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u062a\u0633\u0648\u0631\u0627\u063a\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u062a\u0633\u0648\u0631\u0627\u0642\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u099f\u09b8\u09c1\u09b0\u09be\u0997\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Katsuragi"
+    ],
+    "name:ces_x_preferred":[
+        "Kacuragi"
     ],
     "name:dan_x_preferred":[
         "Katsuragi"
@@ -61,6 +73,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u062a\u0633\u0648\u0631\u0627\u06af\u06cc\u060c \u0646\u0627\u0631\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u062a\u0633\u0648\u0631\u0627\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Katsuragi"
     ],
@@ -75,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0924\u094d\u0938\u0941\u0930\u093e\u0917\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0581\u0578\u0582\u0580\u0561\u0563\u056b"
     ],
     "name:ind_x_preferred":[
         "Katsuragi"
@@ -95,11 +113,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc4f0\ub77c\uae30 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc4f0\ub77c\uae30\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Katsuragi"
     ],
     "name:lit_x_preferred":[
         "Katsuragis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u845b\u57ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0938\u094d\u0924\u0941\u0941\u0930\u0917\u0940"
@@ -109,6 +133,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u062a\u0633\u0648\u0631\u0627\u06af\u06cc\u060c \u0646\u0627\u0631\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u062a\u0633\u0648\u0631\u0627\u06af\u06cc"
     ],
     "name:nan_x_preferred":[
         "Katuragi-chh\u012b"
@@ -173,6 +200,9 @@
     "name:war_x_preferred":[
         "Katsuragi"
     ],
+    "name:yue_x_preferred":[
+        "\u845b\u57ce"
+    ],
     "name:zho_x_preferred":[
         "\u845b\u57ce\u5e02"
     ],
@@ -209,7 +239,7 @@
         }
     ],
     "wof:id":890520365,
-    "wof:lastmodified":1561776452,
+    "wof:lastmodified":1563296086,
     "wof:name":"Katsuragi",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

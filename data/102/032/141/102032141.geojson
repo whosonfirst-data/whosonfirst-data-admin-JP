@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0645\u064a\u0633\u0648\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0646\u0627\u0645\u06cc\u200c\u0633\u0648\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u09ae\u09bf\u09b8\u09cb\u0981\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Minami-S\u014dma"
     ],
     "name:dan_x_preferred":[
         "Minamis\u014dma"
@@ -79,11 +85,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\ub098\ubbf8\uc18c\ub9c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub098\ubbf8\uc18c\ub9c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Minamisoma"
     ],
     "name:lit_x_preferred":[
         "Minamisoma"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5357\u76f8\u99ac\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u092e\u093f\u0938\u094b\u092e\u093e"
@@ -93,6 +105,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u0645\u06cc \u0633\u0648\u0645\u0627\u060c \u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0646\u0627\u0645\u06cc \u0633\u0648\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Minamis\u00f4ma-chh\u012b"
@@ -157,6 +172,9 @@
     "name:war_x_preferred":[
         "Minamis\u014dma"
     ],
+    "name:yue_x_preferred":[
+        "\u5357\u76f8\u99ac"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u76f8\u99ac\u5e02"
     ],
@@ -211,7 +229,7 @@
         }
     ],
     "wof:id":102032141,
-    "wof:lastmodified":1561776103,
+    "wof:lastmodified":1563290267,
     "wof:name":"Minami-S\u014dma",
     "wof:parent_id":1108741211,
     "wof:placetype":"locality",

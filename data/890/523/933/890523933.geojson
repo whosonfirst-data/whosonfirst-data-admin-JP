@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0634\u0648\u063a\u0627\u0648\u0627\u0631\u0627\u060c \u0622\u0648\u0645\u0648\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0648\u0634\u0648\u063a\u0627\u0648\u0627\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0634\u0648\u0642\u0627\u0648\u0627\u0631\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0441\u0451\u0433\u0430\u0432\u0430\u0440\u0430"
     ],
@@ -44,6 +50,12 @@
     ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0448\u043e\u0433\u0430\u0432\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Goshogawara"
+    ],
+    "name:ces_x_preferred":[
+        "Go\u0161ogawara"
     ],
     "name:dan_x_preferred":[
         "Goshogawara"
@@ -66,6 +78,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Goshogawara"
@@ -108,11 +123,17 @@
     "name:kor_x_preferred":[
         "\uace0\uc1fc\uac00\uc640\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uace0\uc1fc\uac00\uc640\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Go\u0161ovara"
     ],
     "name:lit_x_preferred":[
         "Go\u0161ogavara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e94\u6240\u5ddd\u539f\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094b\u0936\u0949\u0917\u0935\u093e\u0930\u093e"
@@ -122,6 +143,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Gosyogawara-chh\u012b"
@@ -186,11 +210,17 @@
     "name:urd_x_preferred":[
         "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627\u060c \u0627\u0648\u0645\u0648\u0631\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u0634\u0648\u06af\u0627\u0648\u0627\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Goshogawara"
     ],
     "name:war_x_preferred":[
         "Goshogawara"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e94\u6240\u5ddd\u539f"
     ],
     "name:zho_x_preferred":[
         "\u4e94\u6240\u5ddd\u539f\u5e02"
@@ -242,7 +272,7 @@
         }
     ],
     "wof:id":890523933,
-    "wof:lastmodified":1561776473,
+    "wof:lastmodified":1563296589,
     "wof:name":"Goshogawara",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

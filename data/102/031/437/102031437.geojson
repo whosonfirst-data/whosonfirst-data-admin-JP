@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u099f\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "\u014cta-shi"
     ],
     "name:ces_x_preferred":[
         "\u00d3ta"
@@ -46,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u062a\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "\u014cta"
@@ -89,20 +98,32 @@
     "name:kor_x_preferred":[
         "\uc624\ud0c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud0c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ota"
     ],
     "name:lit_x_preferred":[
         "Ota"
     ],
+    "name:lzh_x_preferred":[
+        "\u592a\u7530\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0913\u0924\u093e"
+    ],
+    "name:mon_x_preferred":[
+        "\u0426\u04af\u043a\u04af\u0431\u0430"
     ],
     "name:msa_x_preferred":[
         "Ota"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u062a\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u062a\u0627"
     ],
     "name:nan_x_preferred":[
         "\u00d4ta-chh\u012b"
@@ -164,11 +185,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u062a\u0627\u060c \u06af\u0648\u0646\u0645\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u062a\u0627"
+    ],
     "name:vie_x_preferred":[
         "\u014cta"
     ],
     "name:war_x_preferred":[
         "\u014cta"
+    ],
+    "name:yue_x_preferred":[
+        "\u592a\u7530"
     ],
     "name:zho_x_preferred":[
         "\u592a\u7530\u5e02"
@@ -212,7 +239,7 @@
         }
     ],
     "wof:id":102031437,
-    "wof:lastmodified":1561776084,
+    "wof:lastmodified":1563290029,
     "wof:name":"\u014cta",
     "wof:parent_id":890524369,
     "wof:placetype":"locality",

@@ -36,11 +36,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u064a\u0648\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0634\u064a\u0631\u064a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b0\u09c2"
     ],
     "name:cat_x_preferred":[
         "Chiry\u016b"
+    ],
+    "name:ceb_x_preferred":[
+        "Chiryu"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cirj\u00fa"
     ],
     "name:dan_x_preferred":[
         "Chiryu"
@@ -61,6 +73,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0631\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u06cc\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Chiry\u016b"
@@ -102,20 +117,32 @@
     "name:kor_x_preferred":[
         "\uc9c0\ub958 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc9c0\ub958\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u010ciri\u016b"
     ],
     "name:lit_x_preferred":[
         "\u010ciri\u016b"
     ],
+    "name:lzh_x_preferred":[
+        "\u77e5\u7acb\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0930\u093f\u0909"
+    ],
+    "name:mlg_x_preferred":[
+        "Chiry\u016b"
     ],
     "name:msa_x_preferred":[
         "Chiryu"
     ],
     "name:mzn_x_preferred":[
         "\u0686\u06cc\u0631\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0686\u06cc\u0631\u0648"
     ],
     "name:nan_x_preferred":[
         "Tiry\u016b-chh\u012b"
@@ -143,6 +170,9 @@
     ],
     "name:spa_x_preferred":[
         "Chiry\u016b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0440\u0458\u0443"
     ],
     "name:swe_x_preferred":[
         "Chiryu"
@@ -177,11 +207,17 @@
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0631\u06cc\u0648\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u06cc\u0631\u06cc\u0648"
+    ],
     "name:vie_x_preferred":[
         "Chiry\u016b"
     ],
     "name:war_x_preferred":[
         "Chiry\u016b"
+    ],
+    "name:yue_x_preferred":[
+        "\u77e5\u7acb"
     ],
     "name:zho_x_preferred":[
         "\u77e5\u7acb\u5e02"
@@ -233,7 +269,7 @@
         }
     ],
     "wof:id":890523299,
-    "wof:lastmodified":1561776474,
+    "wof:lastmodified":1563296612,
     "wof:name":"Chiryu",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

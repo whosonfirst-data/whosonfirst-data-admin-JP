@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627\u0646\u0627\u063a\u0648\u064a\u0627\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u062a\u0627\u0646\u0627\u063a\u0648\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u0646\u0627\u0642\u0648\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a4\u09be\u09a8\u09be\u0997\u09cb\u09af\u09bc\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0442\u0430\u043d\u0430\u0433\u043e\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Kitanagoya"
     ],
     "name:dan_x_preferred":[
         "Kitanagoya"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u062a\u0627\u0646\u0627\u06af\u0648\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u062a\u0627\u0646\u0627\u06af\u0648\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Kitanagoya"
@@ -98,11 +110,17 @@
     "name:kor_x_preferred":[
         "\uae30\ud0c0\ub098\uace0\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uae30\ud0c0\ub098\uace0\uc57c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kitanagoja"
     ],
     "name:lit_x_preferred":[
         "Kitanagoja"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5317\u540d\u53e4\u5c4b\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0940\u0924\u093e\u0917\u094b\u092f\u093e"
@@ -112,6 +130,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u06cc\u062a\u0627\u0646\u0627\u06af\u0648\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u06cc\u062a\u0627\u0646\u0627\u06af\u0648\u06cc\u0627"
     ],
     "name:nan_x_preferred":[
         "Kitanagoya-chh\u012b"
@@ -176,6 +197,9 @@
     "name:war_x_preferred":[
         "Kitanagoya"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u540d\u53e4\u5c4b"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u540d\u53e4\u5c4b\u5e02"
     ],
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":890520351,
-    "wof:lastmodified":1561776457,
+    "wof:lastmodified":1563296152,
     "wof:name":"Kitanagoya",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

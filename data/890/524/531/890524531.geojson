@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0643\u0648\u060c \u0625\u064a\u0648\u0627\u062a\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u064a\u0643\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0627\u06a9\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09cb\u0995\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Miyako"
     ],
     "name:dan_x_preferred":[
         "Miyako"
@@ -61,6 +70,9 @@
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0627\u06a9\u0648\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0627\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Miyako"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u092f\u093e\u0915\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0575\u0561\u056f\u0578"
     ],
     "name:ind_x_preferred":[
         "Miyako"
@@ -92,11 +107,17 @@
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\ucf54 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc57c\ucf54\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Mijaka"
     ],
     "name:lit_x_preferred":[
         "Mijakas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5bae\u53e4\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u092f\u093e\u0915\u094b"
@@ -106,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0627\u06a9\u0648\u060c \u0627\u06cc\u0648\u0627\u062a\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0627\u06a9\u0648"
     ],
     "name:nan_x_preferred":[
         "Miyako-chh\u012b"
@@ -173,6 +197,9 @@
     "name:war_x_preferred":[
         "Miyako"
     ],
+    "name:yue_x_preferred":[
+        "\u5bae\u53e4"
+    ],
     "name:zho_x_preferred":[
         "\u5bae\u53e4\u5e02"
     ],
@@ -210,7 +237,7 @@
         }
     ],
     "wof:id":890524531,
-    "wof:lastmodified":1561776484,
+    "wof:lastmodified":1563296696,
     "wof:name":"Miyako",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

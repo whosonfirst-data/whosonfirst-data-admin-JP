@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09ce\u09b8\u09c1\u09ae\u09cb\u09a4\u09cb"
     ],
@@ -28,6 +31,9 @@
         "\u041c\u0430\u0446\u0443\u043c\u043e\u0442\u043e"
     ],
     "name:cat_x_preferred":[
+        "Matsumoto"
+    ],
+    "name:ceb_x_preferred":[
         "Matsumoto"
     ],
     "name:ces_x_preferred":[
@@ -62,6 +68,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Matsumoto"
@@ -110,11 +119,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc4f0\ubaa8\ud1a0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc4f0\ubaa8\ud1a0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Matsumoto"
     ],
     "name:lit_x_preferred":[
         "Matsumotas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u677e\u672c\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0924\u094d\u0938\u0941\u092e\u094b\u091f\u094b"
@@ -124,6 +139,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648"
     ],
     "name:nan_x_preferred":[
         "Matumoto-chh\u012b"
@@ -197,11 +215,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u062a\u0633\u0648\u0645\u0648\u062a\u0648"
+    ],
     "name:vie_x_preferred":[
         "Matsumoto"
     ],
     "name:war_x_preferred":[
         "Matsumoto"
+    ],
+    "name:yue_x_preferred":[
+        "\u677e\u672c"
     ],
     "name:zho_min_nan_x_preferred":[
         "Matumoto-chh\u012b"
@@ -351,7 +375,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776096,
+    "wof:lastmodified":1563290163,
     "wof:name":"Matsumoto",
     "wof:parent_id":1108741975,
     "wof:placetype":"locality",

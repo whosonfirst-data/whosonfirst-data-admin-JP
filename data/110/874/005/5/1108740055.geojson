@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0627\u0647\u0648\u060c \u0623\u0643\u064a\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0643\u0627\u0647\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u0627\u0647\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0995\u09be\u09b9\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Nikaho-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Nikaho"
     ],
     "name:dan_x_preferred":[
         "Nikaho"
@@ -54,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0647\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u06a9\u0627\u0647\u0648"
     ],
     "name:fin_x_preferred":[
         "Nikaho"
@@ -88,11 +103,17 @@
     "name:kor_x_preferred":[
         "\ub2c8\uce74\ud638 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\uce74\ud638\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Nikao"
     ],
     "name:lit_x_preferred":[
         "Nikachas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4ec1\u8cc0\u4fdd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0915\u094b\u0939\u094b"
@@ -102,6 +123,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0647\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc\u06a9\u0627\u0647\u0648"
     ],
     "name:nan_x_preferred":[
         "Nikaho-chh\u012b"
@@ -157,11 +181,17 @@
     "name:urd_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u06c1\u0648\u060c \u0627\u06a9\u06cc\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u06cc\u06a9\u0627\u06c1\u0648"
+    ],
     "name:vie_x_preferred":[
         "Nikaho"
     ],
     "name:war_x_preferred":[
         "Nikaho"
+    ],
+    "name:yue_x_preferred":[
+        "\u4ec1\u8cc0\u4fdd"
     ],
     "name:zho_x_preferred":[
         "\u4ec1\u8cc0\u4fdd\u5e02"
@@ -189,7 +219,7 @@
         }
     ],
     "wof:id":1108740055,
-    "wof:lastmodified":1561776368,
+    "wof:lastmodified":1563294515,
     "wof:name":"Nikaho",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

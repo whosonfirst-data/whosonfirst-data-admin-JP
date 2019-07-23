@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0995\u09be\u0987\u09af\u09bc\u09be\u09b0\u09cd\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Takayama"
+    ],
+    "name:ces_x_preferred":[
+        "Takajama"
     ],
     "name:cym_x_preferred":[
         "Takayama"
@@ -44,6 +53,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627\u060c \u06af\u06cc\u0641\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Takayama"
     ],
@@ -64,6 +76,9 @@
     ],
     "name:hun_x_preferred":[
         "Takajama"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u056f\u0561\u0575\u0561\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Takayama"
@@ -86,13 +101,17 @@
         "\uace0\uc0b0"
     ],
     "name:kor_x_variant":[
-        "\ub2e4\uce74\uc57c\ub9c8 \uc2dc"
+        "\ub2e4\uce74\uc57c\ub9c8 \uc2dc",
+        "\ub2e4\uce74\uc57c\ub9c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Takajama"
     ],
     "name:lit_x_preferred":[
         "Takajama"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093e\u092f\u092e\u093e"
@@ -102,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Takayama-chh\u012b"
@@ -166,6 +188,9 @@
     "name:war_x_preferred":[
         "Takayama"
     ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u9ad8\u5c71\u5e02"
     ],
@@ -211,7 +236,7 @@
         }
     ],
     "wof:id":102031345,
-    "wof:lastmodified":1561776097,
+    "wof:lastmodified":1563290172,
     "wof:name":"Takayama",
     "wof:parent_id":890524607,
     "wof:placetype":"locality",

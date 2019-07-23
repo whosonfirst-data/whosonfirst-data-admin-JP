@@ -18,10 +18,16 @@
     "name:ara_x_preferred":[
         "\u0625\u0648\u0627\u0643\u0648\u0631\u0627\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0648\u0627\u0643\u0648\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0995\u09cb\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
+        "Iwakura"
+    ],
+    "name:ceb_x_preferred":[
         "Iwakura"
     ],
     "name:dan_x_preferred":[
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Iwakura"
@@ -63,17 +72,26 @@
     "name:jpn_x_preferred":[
         "\u5ca9\u5009"
     ],
+    "name:jpn_x_variant":[
+        "\u5ca9\u5009\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb5\u0cbe\u0c95\u0cc1\u0cb0\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc640\ucfe0\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc640\ucfe0\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ivakura"
     ],
     "name:lit_x_preferred":[
         "Ivakura"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5ca9\u5009\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0935\u093e\u0915\u0941\u0930\u093e"
@@ -83,6 +101,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Iwakura-chh\u012b"
@@ -138,11 +159,17 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0648\u0627\u06a9\u0648\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Iwakura"
     ],
     "name:war_x_preferred":[
         "Iwakura"
+    ],
+    "name:yue_x_preferred":[
+        "\u5ca9\u5009"
     ],
     "name:zho_x_preferred":[
         "\u5ca9\u5009\u5e02"
@@ -180,7 +207,7 @@
         }
     ],
     "wof:id":890523289,
-    "wof:lastmodified":1561776471,
+    "wof:lastmodified":1563296546,
     "wof:name":"Iwakura",
     "wof:parent_id":890520349,
     "wof:placetype":"locality",

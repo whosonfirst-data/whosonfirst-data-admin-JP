@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u064a\u063a\u0627\u0648\u0627\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0643\u064a\u063a\u0627\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u06a9\u0647\u0642\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0995\u09c7\u0997\u09be\u0993\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Okegawa-shi"
     ],
     "name:dan_x_preferred":[
         "Okegawa"
@@ -85,11 +94,17 @@
     "name:kor_x_preferred":[
         "\uc624\ucf00\uac00\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ucf00\uac00\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Okegava"
     ],
     "name:lit_x_preferred":[
         "Okegava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6876\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0915\u0947\u0917\u093e\u0935\u093e"
@@ -99,6 +114,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u06a9\u0647 \u06af\u0627\u0648\u0627\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u06a9\u0647 \u06af\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Okegawa-chh\u012b"
@@ -163,6 +181,9 @@
     "name:war_x_preferred":[
         "Okegawa"
     ],
+    "name:yue_x_preferred":[
+        "\u6876\u5ddd"
+    ],
     "name:zho_x_preferred":[
         "\u6876\u5ddd\u5e02"
     ],
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":1108740463,
-    "wof:lastmodified":1561776349,
+    "wof:lastmodified":1563294296,
     "wof:name":"Okegawa",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

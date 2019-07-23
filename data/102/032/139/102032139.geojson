@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u062c\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0646\u0648\u062c\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09a8\u09c1\u099c\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "\u014cnoj\u014d"
     ],
     "name:ces_x_preferred":[
         "\u00d3nod\u017e\u00f3"
@@ -48,6 +54,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0646\u0648\u062c\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0646\u0648\u062c\u0648"
     ],
     "name:fin_x_preferred":[
         "\u014cnoj\u014d"
@@ -90,11 +99,17 @@
     "name:kor_x_preferred":[
         "\uc624\ub178\uc870 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ub178\uc870\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Onod\u017ea"
     ],
     "name:lit_x_preferred":[
         "Onod\u017ea"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5927\u91ce\u57ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0902\u091c\u094b"
@@ -104,6 +119,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0646\u0648\u062c\u0648\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0646\u0648\u062c\u0648"
     ],
     "name:nan_x_preferred":[
         "\u00d4nozy\u00f4-chh\u012b"
@@ -168,6 +186,9 @@
     "name:war_x_preferred":[
         "\u014cnoj\u014d"
     ],
+    "name:yue_x_preferred":[
+        "\u5927\u91ce\u57ce"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u91ce\u57ce\u5e02"
     ],
@@ -222,7 +243,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776101,
+    "wof:lastmodified":1563290235,
     "wof:name":"\u014cnoj\u014d",
     "wof:parent_id":890520731,
     "wof:placetype":"locality",

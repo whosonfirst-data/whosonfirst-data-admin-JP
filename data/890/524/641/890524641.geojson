@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062c\u064a\u0627\u060c \u0646\u064a\u064a\u063a\u0627\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u062c\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062c\u06cc\u200c\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u099c\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ojiya-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Od\u017eija"
     ],
     "name:dan_x_preferred":[
         "Ojiya"
@@ -88,11 +100,17 @@
     "name:kor_x_preferred":[
         "\uc624\uc9c0\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uc9c0\uc57c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Od\u017eija"
     ],
     "name:lit_x_preferred":[
         "Od\u017eija"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c0f\u5343\u8c37\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0913\u091c\u0940\u092f\u0947"
@@ -102,6 +120,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u062c\u06cc \u06cc\u0627\u060c \u0646\u06cc\u06af\u0627\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u062c\u06cc \u06cc\u0627"
     ],
     "name:nan_x_preferred":[
         "Oziya-chh\u012b"
@@ -126,6 +147,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0da2\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Od\u017eija"
     ],
     "name:spa_x_preferred":[
         "Ojiya"
@@ -162,6 +186,9 @@
     ],
     "name:war_x_preferred":[
         "Ojiya"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c0f\u5343\u8c37"
     ],
     "name:zho_x_preferred":[
         "\u5c0f\u5343\u8c37\u5e02"
@@ -210,7 +237,7 @@
         }
     ],
     "wof:id":890524641,
-    "wof:lastmodified":1561776485,
+    "wof:lastmodified":1563296718,
     "wof:name":"Ojiya",
     "wof:parent_id":85672849,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":14052601.647026,
+    "geom:area_square_m":14052601.647028,
     "geom:bbox":"139.419220481,35.4292819632,139.454984687,35.4824741623",
     "geom:latitude":35.452614,
     "geom:longitude":139.437828,
@@ -21,19 +21,55 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u0627\u0633\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u06cc\u0627\u0633\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09af\u09bc\u09c7\u099c"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u044f\u0441\u0435"
+    ],
     "name:cat_x_preferred":[
+        "Ayase"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayase"
+    ],
+    "name:dan_x_preferred":[
         "Ayase"
     ],
     "name:deu_x_preferred":[
         "Ayase"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b9\u03ac\u03c3\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Ayase"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u0627\u0633\u0647\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u06cc\u0627\u0633\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Ayase"
     ],
     "name:fra_x_preferred":[
         "Ayase"
     ],
     "name:glg_x_preferred":[
+        "Ayase"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0aaf\u0abe\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u092f\u093e\u0938\u0947"
+    ],
+    "name:ind_x_preferred":[
         "Ayase"
     ],
     "name:ita_x_preferred":[
@@ -45,13 +81,43 @@
     "name:jpn_x_variant":[
         "\u7dbe\u702c"
     ],
+    "name:kan_x_preferred":[
+        "\u0caf\u0ccd\u0caf\u0cbe\u0cb8\u0cc6"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc57c\uc138 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc57c\uc138\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ajase"
+    ],
+    "name:lit_x_preferred":[
+        "Ajas\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7dbe\u7028\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0906\u092f\u092f\u093e\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Ayase"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u06cc\u0627\u0633\u0647\u060c \u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
     ],
+    "name:mzn_x_variant":[
+        "\u0622\u06cc\u0627\u0633\u0647"
+    ],
+    "name:nan_x_preferred":[
+        "Ayase-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Ayase"
+    ],
+    "name:nob_x_preferred":[
         "Ayase"
     ],
     "name:pol_x_preferred":[
@@ -66,8 +132,23 @@
     "name:rus_x_preferred":[
         "\u0410\u044f\u0441\u0435"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dc3\u0dda"
+    ],
     "name:spa_x_preferred":[
         "Ayase"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u0430\u0441\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ayase"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0baf\u0b9a\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2f\u0c3e\u0c38\u0c46"
     ],
     "name:tgk_x_preferred":[
         "\u0410\u044f\u0441\u0435"
@@ -84,11 +165,17 @@
     "name:ukr_x_preferred":[
         "\u0410\u044f\u0441\u0435"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0627\u0633\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Ayase"
     ],
     "name:war_x_preferred":[
         "Ayase"
+    ],
+    "name:yue_x_preferred":[
+        "\u7dbe\u7028"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ayase-chh\u012b"
@@ -134,7 +221,7 @@
         }
     ],
     "wof:id":102032117,
-    "wof:lastmodified":1527637849,
+    "wof:lastmodified":1563290228,
     "wof:name":"Ayase",
     "wof:parent_id":890524717,
     "wof:placetype":"locality",

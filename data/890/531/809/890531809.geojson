@@ -18,11 +18,23 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0645\u0627\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u064a\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u06cc\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09cd\u09af\u09be\u09ae\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0418\u044f\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Iiyama"
+    ],
+    "name:ces_x_preferred":[
+        "Iijama"
     ],
     "name:dan_x_preferred":[
         "Iiyama"
@@ -38,6 +50,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u06cc\u0627\u0645\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u06cc\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Iiyama"
@@ -66,11 +81,17 @@
     "name:jpn_x_preferred":[
         "\u98ef\u5c71"
     ],
+    "name:jpn_x_variant":[
+        "\u98ef\u5c71\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c90\u0caf\u0cbe\u0cae\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc57c\ub9c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc57c\ub9c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Iljama"
@@ -78,14 +99,23 @@
     "name:lit_x_preferred":[
         "Ijid\u017eama"
     ],
+    "name:lzh_x_preferred":[
+        "\u98ef\u5c71\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0907\u092f\u093e\u092e\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Iiyama"
     ],
     "name:msa_x_preferred":[
         "Iiyama"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u06cc\u0627\u0645\u0627\u060c \u0646\u0627\u06af\u0627\u0646\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u06cc\u0627\u0645\u0627"
     ],
     "name:nan_x_preferred":[
         "Iiyama-chh\u012b"
@@ -113,6 +143,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0dba\u0db8\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Iijama"
     ],
     "name:spa_x_preferred":[
         "Iiyama"
@@ -153,6 +186,9 @@
     "name:war_x_preferred":[
         "Iiyama"
     ],
+    "name:yue_x_preferred":[
+        "\u98ef\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u98ef\u5c71\u5e02"
     ],
@@ -189,7 +225,7 @@
         }
     ],
     "wof:id":890531809,
-    "wof:lastmodified":1561776465,
+    "wof:lastmodified":1563296382,
     "wof:name":"Iiyama",
     "wof:parent_id":890523293,
     "wof:placetype":"locality",

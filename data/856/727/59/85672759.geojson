@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0627\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06cc\u0627\u0645\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Toyama"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u0430\u044f\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09af\u09bc\u09cd\u09af\u09be\u09ae\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -51,6 +57,9 @@
     ],
     "name:cdo_x_preferred":[
         "Toyama-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Toyama-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Tojama"
@@ -92,8 +101,14 @@
     "name:fin_x_preferred":[
         "Toyaman Prefektuuri"
     ],
+    "name:fin_x_variant":[
+        "Toyaman prefektuuri"
+    ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Toyama"
+    ],
+    "name:fra_x_variant":[
+        "Toyama"
     ],
     "name:gle_x_preferred":[
         "Maoracht Toyama"
@@ -103,6 +118,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0aaf\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Toyama-yen"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05d9\u05d0\u05de\u05d4"
@@ -147,13 +165,17 @@
         "\ud1a0\uc57c\ub9c8\ucf04"
     ],
     "name:kor_x_variant":[
-        "\ub3c4\uc57c\ub9c8 \ud604"
+        "\ub3c4\uc57c\ub9c8 \ud604",
+        "\ub3c4\uc57c\ub9c8\ud604"
     ],
     "name:lav_x_preferred":[
         "Tojamas prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Tojamos prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5bcc\u5c71\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u092f\u093e\u092e\u093e"
@@ -221,6 +243,9 @@
     "name:swe_x_preferred":[
         "Toyama Prefektur"
     ],
+    "name:swe_x_variant":[
+        "Toyama prefektur"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bcb\u0baf\u0bae\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
@@ -235,6 +260,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e17\u0e30\u0e22\u0e30\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e17\u0e22\u0e32\u0e21\u0e30"
     ],
     "name:tur_x_preferred":[
         "Toyama"
@@ -390,7 +418,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776190,
+    "wof:lastmodified":1563291660,
     "wof:name":"Toyama",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

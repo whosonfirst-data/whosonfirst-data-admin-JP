@@ -23,14 +23,26 @@
     "name:ara_x_variant":[
         "\u062a\u0648\u064a\u0648\u0643\u0627\u0648\u0627\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09af\u09bc\u09cb \u0995\u09be\u0993\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Toyokawa"
+    ],
+    "name:ces_x_preferred":[
+        "Tojokawa"
     ],
     "name:dan_x_preferred":[
         "Toyokawa"
     ],
     "name:deu_x_preferred":[
         "Toyokawa"
+    ],
+    "name:dty_x_preferred":[
+        "\u091f\u094b\u092f\u094b\u0915\u093e\u0935\u093e"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03b3\u03b9\u03bf\u03ba\u03ac\u03b2\u03b1"
@@ -43,6 +55,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Toyokawa"
@@ -85,11 +100,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc694\uce74\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc694\uce74\uc640\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tojokava"
     ],
     "name:lit_x_preferred":[
         "Tojokava"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8c50\u5ddd\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u092f\u094b\u0915\u0935\u093e"
@@ -100,8 +121,14 @@
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627\u060c \u0622\u06cc\u0686\u06cc"
     ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:nan_x_preferred":[
         "Toyokawa-chh\u012b"
+    ],
+    "name:nep_x_preferred":[
+        "\u091f\u094b\u092f\u094b\u0915\u093e\u0935\u093e"
     ],
     "name:nld_x_preferred":[
         "Toyokawa"
@@ -160,11 +187,17 @@
     "name:urd_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u06a9\u0627\u0648\u0627"
+    ],
     "name:vie_x_preferred":[
         "Toyokawa"
     ],
     "name:war_x_preferred":[
         "Toyokawa"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c50\u5ddd"
     ],
     "name:zho_min_nan_x_preferred":[
         "Toyokawa-chh\u012b"
@@ -223,7 +256,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776095,
+    "wof:lastmodified":1563290146,
     "wof:name":"Toyokawa",
     "wof:parent_id":1108742251,
     "wof:placetype":"locality",

@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u063a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0642\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Saqa"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0421\u0430\u0433\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0997\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -51,6 +57,9 @@
     ],
     "name:cdo_x_preferred":[
         "Saga-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Saga-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Saga"
@@ -94,6 +103,9 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Saga"
+    ],
+    "name:fra_x_variant":[
+        "Saga"
     ],
     "name:gle_x_preferred":[
         "Maoracht Saga"
@@ -143,11 +155,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\uac00 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uac00\ud604"
+    ],
     "name:lav_x_preferred":[
         "Sagas prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Sagos prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f50\u8cc0\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0917\u093e"
@@ -181,6 +199,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0433\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u0430\u0433\u0430 \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430\u0442\u0430"
     ],
     "name:sco_x_preferred":[
         "Saga Prefectur"
@@ -226,6 +247,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e30\u0e07\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e07\u0e30"
     ],
     "name:tur_x_preferred":[
         "Saga"
@@ -383,7 +407,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776185,
+    "wof:lastmodified":1563291617,
     "wof:name":"Saga",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

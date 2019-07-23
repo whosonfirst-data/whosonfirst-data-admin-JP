@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010644,
-    "geom:area_square_m":109691340.899935,
+    "geom:area_square_m":109691340.900034,
     "geom:bbox":"133.46762461,33.4728370987,133.631988924,33.5916079473",
     "geom:latitude":33.546927,
     "geom:longitude":133.549449,
@@ -21,17 +21,35 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Ko\u00e7i"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0442\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u099a\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0447\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "K\u014dchi Shi"
+    ],
     "name:ces_x_preferred":[
         "K\u00f3\u010di"
     ],
+    "name:dan_x_preferred":[
+        "Kochi"
+    ],
     "name:deu_x_preferred":[
         "K\u014dchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bf\u03c5\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kochi-shi"
@@ -39,7 +57,8 @@
     "name:eng_x_variant":[
         "Kochi",
         "Kouchi",
-        "Kouchi-shi"
+        "Kouchi-shi",
+        "K\u014dchi"
     ],
     "name:epo_x_preferred":[
         "Ko\u0109i"
@@ -53,8 +72,41 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0686\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "K\u014dchi"
+    ],
     "name:fra_x_preferred":[
         "Kochi"
+    ],
+    "name:fra_x_variant":[
+        "K\u014dchi"
+    ],
+    "name:gle_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0a9a\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00f4-t\u00ee-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u091a\u094d\u091a\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f3csi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0578\u0579\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:ita_x_preferred":[
+        "K\u014dchi"
     ],
     "name:jpn_x_preferred":[
         "\u9ad8\u77e5\u5e02"
@@ -68,14 +120,116 @@
         "\u30b3\u30a6\u30c1",
         "\u30b3\u30a6\u30c1\u30b7"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0c9a\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\uce58\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ko\u010di"
+    ],
+    "name:lit_x_preferred":[
+        "Ko\u010dis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u77e5\u5e02"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4a\u0d1a\u0d4d\u0d1a\u0d3f"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u091a\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Kochi"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00f4ti-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Kochi"
+    ],
+    "name:nob_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:pol_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:por_x_preferred":[
+        "Kochi"
+    ],
+    "name:ron_x_preferred":[
+        "Kochi"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u0438\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0442\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddd\u0da0\u0dd2"
+    ],
+    "name:slk_x_preferred":[
+        "K\u00f3\u010di"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u010di"
     ],
     "name:spa_x_preferred":[
         "K\u014dchi"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0447\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Kochi"
+    ],
+    "name:swe_x_preferred":[
+        "Kochi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4a\u0c1a\u0c4d\u0c1a\u0c3f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u043e\u0447\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e08\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0442\u0456"
+    ],
     "name:unk_x_variant":[
         "K\u00f4ti"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Koti"
+    ],
+    "name:vie_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:war_x_preferred":[
+        "K\u014dchi"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u77e5\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u77e5\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Japan",
@@ -219,7 +373,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637055,
+    "wof:lastmodified":1563290021,
     "wof:name":"K\u014dchi-shi",
     "wof:parent_id":1108742939,
     "wof:placetype":"locality",

@@ -18,11 +18,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0648\u062f\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u062f\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09c1\u09a6\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0443\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Masuda"
+    ],
+    "name:ces_x_preferred":[
+        "Masuda"
     ],
     "name:dan_x_preferred":[
         "Masuda"
@@ -38,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u0648\u062f\u0627\u060c \u0634\u06cc\u0645\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0633\u0648\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Masuda"
@@ -78,11 +90,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc2a4\ub2e4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc2a4\ub2e4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Masuda"
     ],
     "name:lit_x_preferred":[
         "Masuda"
+    ],
+    "name:lzh_x_preferred":[
+        "\u76ca\u7530\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0938\u0941\u0926\u093e"
@@ -95,6 +113,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u0633\u0648\u062f\u0627\u060c \u0634\u06cc\u0645\u0627\u0646\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0627\u0633\u0648\u062f\u0627"
     ],
     "name:nan_x_preferred":[
         "Masuda-chh\u012b"
@@ -159,6 +180,9 @@
     "name:war_x_preferred":[
         "Masuda"
     ],
+    "name:yue_x_preferred":[
+        "\u76ca\u7530"
+    ],
     "name:zho_x_preferred":[
         "\u76ca\u7530\u5e02"
     ],
@@ -193,7 +217,7 @@
         }
     ],
     "wof:id":890531783,
-    "wof:lastmodified":1561776464,
+    "wof:lastmodified":1563296359,
     "wof:name":"Masuda",
     "wof:parent_id":890520703,
     "wof:placetype":"locality",

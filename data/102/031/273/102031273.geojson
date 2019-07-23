@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":3121629.789398,
+    "geom:area_square_m":3121629.789402,
     "geom:bbox":"139.070384906,35.6081049016,139.092456986,35.6261278021",
     "geom:latitude":35.617116,
     "geom:longitude":139.081421,
@@ -21,14 +21,38 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u0646\u0648\u0647\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09af\u09bc\u09c7\u09a8\u09cb\u09b9\u09be\u09b0\u09be"
+    ],
     "name:cat_x_preferred":[
+        "Uenohara"
+    ],
+    "name:ceb_x_preferred":[
+        "Uenohara-shi"
+    ],
+    "name:dan_x_preferred":[
         "Uenohara"
     ],
     "name:deu_x_preferred":[
         "Uenohara"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03bd\u03bf\u03c7\u03ac\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Uenohara"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Uenohara"
     ],
     "name:fra_x_preferred":[
         "Uenohara"
@@ -36,8 +60,17 @@
     "name:glg_x_preferred":[
         "Uenohara"
     ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0a8f\u0aa8\u0acb\u0ab9\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0928\u094b\u0939\u093e\u0930\u093e"
+    ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0565\u0576\u0578\u0570\u0561\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Uenohara"
     ],
     "name:ita_x_preferred":[
         "Uenohara"
@@ -48,11 +81,35 @@
     "name:jpn_x_variant":[
         "\u4e0a\u91ce\u539f"
     ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca8\u0cca\u0cb9\u0cca\u0cb0\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc5d0\ub178\ud558\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc5d0\ub178\ud558\ub77c\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Venohara"
+    ],
+    "name:lit_x_preferred":[
+        "Venochara"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e0a\u91ce\u539f\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0928\u0940\u0939\u093e\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Uenohara"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u06cc\u0627\u0645\u0627\u0646\u0627\u0634\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u0626\u0646\u0648\u0647\u0627\u0631\u0627"
     ],
     "name:nan_x_preferred":[
         "Uenohara-chh\u012b"
@@ -60,17 +117,38 @@
     "name:nld_x_preferred":[
         "Uenohara"
     ],
+    "name:nob_x_preferred":[
+        "Uenohara"
+    ],
     "name:pol_x_preferred":[
+        "Uenohara"
+    ],
+    "name:por_x_preferred":[
         "Uenohara"
     ],
     "name:ron_x_preferred":[
         "Uenohara"
     ],
+    "name:rup_x_preferred":[
+        "Uenohara"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u044d\u043d\u043e\u0445\u0430\u0440\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0d91\u0db1\u0dca\u0dc4\u0ddd\u0dbb\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Uenohara"
+    ],
     "name:swe_x_preferred":[
         "Uenohara"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bc2\u0ba9\u0bcb\u0bb9\u0bbe\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c28\u0c4b\u0c39\u0c30"
     ],
     "name:tgk_x_preferred":[
         "\u0423\u0435\u043d\u043e\u04b3\u0430\u0440\u0430"
@@ -87,11 +165,17 @@
     "name:ukr_x_preferred":[
         "\u0423\u0435\u043d\u043e\u0445\u0430\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u0648\u062d\u0627\u0631\u0627"
+    ],
     "name:vie_x_preferred":[
         "Uenohara"
     ],
     "name:war_x_preferred":[
         "Uenohara"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u91ce\u539f"
     ],
     "name:zho_min_nan_x_preferred":[
         "Uenohara-chh\u012b"
@@ -152,7 +236,7 @@
         }
     ],
     "wof:id":102031273,
-    "wof:lastmodified":1527637054,
+    "wof:lastmodified":1563290000,
     "wof:name":"Uenohara",
     "wof:parent_id":1108741937,
     "wof:placetype":"locality",

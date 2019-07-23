@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0632\u0648\u0643\u0627\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u064a\u0632\u0648\u0643\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0987\u099c\u09c1\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaizuka Shi"
+    ],
+    "name:ces_x_preferred":[
+        "Kaizuka"
     ],
     "name:dan_x_preferred":[
         "Kaizuka"
@@ -41,6 +50,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u06cc\u0632\u0648\u06a9\u0627\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u06cc\u0632\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kaizuka"
     ],
@@ -56,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u0915\u0948\u091c\u093c\u0941\u0915\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0575\u0571\u0578\u0582\u056f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kaizuka"
     ],
@@ -69,7 +84,7 @@
     "name:jpn_x_variant":[
         "\u304b\u3044\u3065\u304b",
         "\u304b\u3044\u3065\u304b\u3057",
-        "\u8c9d\u585a"
+        "\u8c9d\u585a\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc8\u0c9c\u0cc1\u0c95\u0cbe"
@@ -77,11 +92,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc774\uc988\uce74 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc774\uc988\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kaizuka"
     ],
     "name:lit_x_preferred":[
         "Kaizuka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8c9d\u585a\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0948\u091d\u0941\u0915\u093e"
@@ -91,6 +112,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u06cc\u0632\u0648\u06a9\u0627\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06a9\u0627\u06cc\u0632\u0648\u06a9\u0627"
     ],
     "name:nan_x_preferred":[
         "Kaizuka-chh\u012b"
@@ -155,6 +179,9 @@
     "name:war_x_preferred":[
         "Kaizuka"
     ],
+    "name:yue_x_preferred":[
+        "\u8c9d\u585a"
+    ],
     "name:zho_x_preferred":[
         "\u8c9d\u585a\u5e02"
     ],
@@ -205,7 +232,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1561776083,
+    "wof:lastmodified":1563290015,
     "wof:name":"Kaizuka",
     "wof:parent_id":1108742453,
     "wof:placetype":"locality",

@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u0634\u064a\u0631\u0648\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0646\u0634\u064a\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09a8\u09b6\u09bf\u09b0\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Shinshiro"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160in\u0161iro"
     ],
     "name:dan_x_preferred":[
         "Shinshiro"
@@ -35,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0646\u0634\u06cc\u0631\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0646\u0634\u06cc\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Shinshiro"
@@ -72,11 +84,17 @@
     "name:kor_x_preferred":[
         "\uc2e0\uc2dc\ub85c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2e0\uc2dc\ub85c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u0160in\u0161iro"
     ],
     "name:lit_x_preferred":[
         "\u0160in\u0161iras"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u57ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u0928\u094d\u0936\u093f\u0930\u094b"
@@ -86,6 +104,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u0646\u0634\u06cc\u0631\u0648\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0634\u06cc\u0646\u0634\u06cc\u0631\u0648"
     ],
     "name:nan_x_preferred":[
         "Sinsiro-chh\u012b"
@@ -141,11 +162,17 @@
     "name:urd_x_preferred":[
         "\u0634\u0646\u0634\u06cc\u0631\u0648\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u0646\u0634\u06cc\u0631\u0648"
+    ],
     "name:vie_x_preferred":[
         "Shinshiro"
     ],
     "name:war_x_preferred":[
         "Shinshiro"
+    ],
+    "name:yue_x_preferred":[
+        "\u65b0\u57ce\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u57ce\u5e02"
@@ -181,7 +208,7 @@
         }
     ],
     "wof:id":890523017,
-    "wof:lastmodified":1561776473,
+    "wof:lastmodified":1563296599,
     "wof:name":"Shinshiro",
     "wof:parent_id":890519677,
     "wof:placetype":"locality",

@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u0989\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Y\u016bki-shi"
+    ],
+    "name:ces_x_preferred":[
+        "J\u00faki"
     ],
     "name:dan_x_preferred":[
         "Yuki"
@@ -41,8 +50,14 @@
     "name:fas_x_preferred":[
         "\u06cc\u0648\u06a9\u06cc\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06cc\u0648\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Yuki"
+    ],
+    "name:fin_x_variant":[
+        "Y\u016bki"
     ],
     "name:fra_x_preferred":[
         "Y\u016bki"
@@ -65,6 +80,9 @@
     "name:ita_x_preferred":[
         "Yuki"
     ],
+    "name:ita_x_variant":[
+        "Y\u016bki"
+    ],
     "name:jpn_x_preferred":[
         "YUKI"
     ],
@@ -79,13 +97,17 @@
         "\uc720\ud0a4"
     ],
     "name:kor_x_variant":[
-        "\uc720\ud0a4 \uc2dc"
+        "\uc720\ud0a4 \uc2dc",
+        "\uc720\ud0a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "J\u016bki"
     ],
     "name:lit_x_preferred":[
         "Jukis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d50\u57ce\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092f\u094b\u0915\u093f"
@@ -95,6 +117,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06cc\u0648\u06a9\u06cc\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u06cc\u0648\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Yuki-chh\u012b"
@@ -107,6 +132,9 @@
     ],
     "name:pol_x_preferred":[
         "Yuki"
+    ],
+    "name:pol_x_variant":[
+        "Y\u016bki"
     ],
     "name:por_x_preferred":[
         "Yuki"
@@ -122,6 +150,9 @@
     ],
     "name:spa_x_preferred":[
         "Yuki"
+    ],
+    "name:spa_x_variant":[
+        "Y\u016bki"
     ],
     "name:swe_x_preferred":[
         "Y\u016bki"
@@ -150,11 +181,17 @@
     "name:urd_x_preferred":[
         "\u06cc\u06a9\u06cc\u060c \u0627\u0628\u0627\u0631\u0627\u06a9\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u06cc\u06a9\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Y\u016bki"
     ],
     "name:war_x_preferred":[
         "Y\u016bki"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d50\u57ce"
     ],
     "name:zho_x_preferred":[
         "Yuki"
@@ -205,7 +242,7 @@
         }
     ],
     "wof:id":102031225,
-    "wof:lastmodified":1561776093,
+    "wof:lastmodified":1563290130,
     "wof:name":"Y\u016bki",
     "wof:parent_id":890522707,
     "wof:placetype":"locality",

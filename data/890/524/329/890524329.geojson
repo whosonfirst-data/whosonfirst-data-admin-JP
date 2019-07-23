@@ -36,11 +36,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0648 \u0623\u0643\u0647\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u064a\u0648 \u0623\u0643\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0451\u0430\u043a\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09af\u09bc\u09cb\u0995\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u0439\u043e\u0430\u043a\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Toyoake"
     ],
     "name:dan_x_preferred":[
         "Toyoake"
@@ -60,6 +69,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u0622\u06a9\u0647\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u0622\u06a9\u0647"
     ],
     "name:fin_x_preferred":[
         "Toyoake"
@@ -95,11 +107,17 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc694\uc544\ucf00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc694\uc544\ucf00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tojoake"
     ],
     "name:lit_x_preferred":[
         "Tojoak\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8c50\u660e\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u092f\u094b\u090f\u0915"
@@ -109,6 +127,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06cc\u0648\u0622\u06a9\u0647\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u06cc\u0648\u0622\u06a9\u0647"
     ],
     "name:nan_x_preferred":[
         "Toyoake-chh\u012b"
@@ -167,11 +188,17 @@
     "name:urd_x_preferred":[
         "\u062a\u0648\u06c1\u0648\u0622\u06a9\u06d2\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u06c1\u0648\u0622\u06a9\u06d2"
+    ],
     "name:vie_x_preferred":[
         "Toyoake"
     ],
     "name:war_x_preferred":[
         "Toyoake"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c50\u660e"
     ],
     "name:zho_x_preferred":[
         "\u8c50\u660e\u5e02"
@@ -223,7 +250,7 @@
         }
     ],
     "wof:id":890524329,
-    "wof:lastmodified":1561776487,
+    "wof:lastmodified":1563296740,
     "wof:name":"Toyoake",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

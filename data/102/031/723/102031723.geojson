@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014536,
-    "geom:area_square_m":146703125.656967,
+    "geom:area_square_m":146703125.657011,
     "geom:bbox":"136.719352138,35.2231467387,136.884162534,35.3775417369",
     "geom:latitude":35.296885,
     "geom:longitude":136.795013,
@@ -21,14 +21,32 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0634\u064a\u0646\u0648\u0645\u064a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627"
+    ],
     "name:aze_x_preferred":[
         "\u0130tinomiya"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u099a\u09bf\u09a8\u09cb\u09ae\u09bf\u09af\u09bc\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0447\u0438\u043d\u043e\u043c\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Ichinomiya"
+    ],
+    "name:ces_x_preferred":[
+        "I\u010dinomija"
+    ],
+    "name:dan_x_preferred":[
+        "Ichinomiya"
+    ],
     "name:deu_x_preferred":[
         "Ichinomiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03c3\u03b9\u03bd\u03bf\u03bc\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ichinomiya-shi"
@@ -42,6 +60,12 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Ichinomiya"
+    ],
     "name:fra_x_preferred":[
         "Ichinomiya"
     ],
@@ -51,8 +75,20 @@
     "name:glg_x_preferred":[
         "Ichinomiya"
     ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0a9a\u0abf\u0aa8\u0acb\u0aae\u0abf\u0aaf\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Ichinomija"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u091a\u093f\u0928\u094b\u092e\u093f\u092f\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057f\u056b\u0576\u0578\u0574\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Ichinomiya"
     ],
     "name:ita_x_preferred":[
         "Ichinomiya"
@@ -65,6 +101,9 @@
         "\u3044\u3061\u306e\u307f\u3084\u3057",
         "\u4e00\u5bae"
     ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0c9a\u0cbf\u0ca8\u0ccb\u0cae\u0cbf\u0caf"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10e2\u10d8\u10dc\u10dd\u10db\u10d8\u10d0"
     ],
@@ -74,13 +113,37 @@
     "name:kor_x_preferred":[
         "\uc774\uce58\ub178\ubbf8\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uce58\ub178\ubbf8\uc57c\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "I\u010dinomija"
+    ],
+    "name:lit_x_preferred":[
+        "I\u010dinomija"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e00\u5bae\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0907\u091a\u093f\u0928\u094b\u092e\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Ichinomiya"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627\u060c \u0622\u06cc\u0686\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627"
     ],
     "name:nan_x_preferred":[
         "Itinomiya-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Ichinomiya"
+    ],
+    "name:nob_x_preferred":[
         "Ichinomiya"
     ],
     "name:pol_x_preferred":[
@@ -95,6 +158,9 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u0438\u043d\u043e\u043c\u0438\u044f"
     ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0da0\u0dd2\u0db1\u0ddc\u0db8\u0dd2\u0dba\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Ichinomiya"
     ],
@@ -104,14 +170,26 @@
     "name:swe_x_preferred":[
         "Ichinomiya"
     ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcb\u0bae\u0bcd\u0baf\u0bcd\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c1a\u0c3f\u0c28\u0c4b\u0c2e\u0c3f\u0c2f\u0c3e"
+    ],
     "name:tgk_x_preferred":[
         "\u0418\u0447\u0438\u043d\u043e\u043c\u0438\u044f"
     ],
     "name:tgl_x_preferred":[
         "Ichinomiya"
     ],
+    "name:tgl_x_variant":[
+        "Itsinomiya"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e0a\u0e34\u0e42\u0e19\u0e30\u0e21\u0e34\u0e22\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e08\u0e34\u0e42\u0e19\u0e21\u0e34\u0e22\u0e30"
     ],
     "name:tur_x_preferred":[
         "Ichinomiya"
@@ -125,11 +203,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627\u060c \u0627\u06cc\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0686\u06cc\u0646\u0648\u0645\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
         "Ichinomiya"
     ],
     "name:war_x_preferred":[
         "Ichinomiya"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e00\u5bae"
     ],
     "name:zho_min_nan_x_preferred":[
         "Itinomiya-chh\u012b"
@@ -199,7 +283,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527637059,
+    "wof:lastmodified":1563290068,
     "wof:name":"Ichinomiya",
     "wof:parent_id":1108742243,
     "wof:placetype":"locality",

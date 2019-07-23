@@ -33,8 +33,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u062c\u0627\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u062c\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u062c\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u0434\u0437\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u099c\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u014dja"
     ],
     "name:dan_x_preferred":[
         "Soja"
@@ -55,6 +67,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u062c\u0627\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u062c\u0627"
     ],
     "name:fin_x_preferred":[
         "S\u014dja"
@@ -86,11 +101,17 @@
     "name:kor_x_preferred":[
         "\uc18c\uc790 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc18c\uc790\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sod\u017ea"
     ],
     "name:lit_x_preferred":[
         "Soja"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7e3d\u793e\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u091d\u093e"
@@ -100,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u062c\u0627\u060c \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0648\u062c\u0627"
     ],
     "name:nan_x_preferred":[
         "S\u00f4zya-chh\u012b"
@@ -164,6 +188,9 @@
     "name:war_x_preferred":[
         "S\u014dja"
     ],
+    "name:yue_x_preferred":[
+        "\u7e3d\u793e"
+    ],
     "name:zho_x_preferred":[
         "\u7e3d\u793e\u5e02"
     ],
@@ -203,7 +230,7 @@
         }
     ],
     "wof:id":1108742755,
-    "wof:lastmodified":1561776351,
+    "wof:lastmodified":1563294327,
     "wof:name":"Soja",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

@@ -33,8 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u0643\u0627\u062a\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0646\u0627\u0643\u0627\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a8\u09be\u09be\u0995\u09be\u099f\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Munakata-shi"
     ],
     "name:dan_x_preferred":[
         "Munakata"
@@ -57,6 +66,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Munakata"
     ],
@@ -75,6 +87,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0941\u0928\u093e\u0915\u093e\u0924\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Munakata"
+    ],
     "name:ind_x_preferred":[
         "Munakata"
     ],
@@ -90,11 +105,17 @@
     "name:kor_x_preferred":[
         "\ubb34\ub098\uce74\ud0c0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ub098\uce74\ud0c0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Munakata"
     ],
     "name:lit_x_preferred":[
         "Munakata"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5b97\u50cf\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0923\u0915\u093e\u091f\u093e"
@@ -104,6 +125,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627\u060c \u0641\u0648\u06a9\u0648\u0626\u0648\u06a9\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0645\u0648\u0646\u0627\u06a9\u0627\u062a\u0627"
     ],
     "name:nan_x_preferred":[
         "Munakata-chh\u012b"
@@ -165,6 +189,9 @@
     "name:war_x_preferred":[
         "Munakata"
     ],
+    "name:yue_x_preferred":[
+        "\u5b97\u50cf"
+    ],
     "name:zho_x_preferred":[
         "\u5b97\u50cf\u5e02"
     ],
@@ -204,7 +231,7 @@
         }
     ],
     "wof:id":1108743017,
-    "wof:lastmodified":1561776342,
+    "wof:lastmodified":1563294262,
     "wof:name":"Munakata",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

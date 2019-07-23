@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0628\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u062f\u0627\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u062f\u0627\u06a9\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09a6\u09be\u0995\u09be"
     ],
     "name:cat_x_preferred":[
         "Gob\u014d"
+    ],
+    "name:ceb_x_preferred":[
+        "Hidaka"
+    ],
+    "name:ces_x_preferred":[
+        "Hidaka"
     ],
     "name:dan_x_preferred":[
         "Hidaka"
@@ -45,7 +57,8 @@
         "\u06af\u0648\u0628\u0648\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
     "name:fas_x_variant":[
-        "\u0647\u06cc\u062f\u0627\u06a9\u0647\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627"
+        "\u0647\u06cc\u062f\u0627\u06a9\u0647\u060c \u0633\u0627\u06cc\u062a\u0627\u0645\u0627",
+        "\u0647\u06cc\u062f\u0627\u06a9\u0647"
     ],
     "name:fin_x_preferred":[
         "Hidaka"
@@ -59,6 +72,9 @@
     "name:glg_x_preferred":[
         "Gob\u014d"
     ],
+    "name:glg_x_variant":[
+        "Hidaka"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0aa1\u0abe\u0a95\u0abe"
     ],
@@ -70,6 +86,9 @@
     ],
     "name:ita_x_preferred":[
         "Gob\u014d"
+    ],
+    "name:ita_x_variant":[
+        "Hidaka"
     ],
     "name:jpn_x_preferred":[
         "\u5fa1\u574a\u5e02"
@@ -84,11 +103,17 @@
     "name:kor_x_preferred":[
         "\uace0\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\ub2e4\uce74\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Hidaka"
     ],
     "name:lit_x_preferred":[
         "Hoidaka"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65e5\u9ad8\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093f\u0921\u093e\u0915\u093e"
@@ -99,8 +124,14 @@
     "name:mzn_x_preferred":[
         "\u06af\u0648\u0628\u0648\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u062f\u0627\u06a9\u0647"
+    ],
     "name:nan_x_preferred":[
         "Gob\u00f4-chh\u012b"
+    ],
+    "name:nan_x_variant":[
+        "Hidaka-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Gobo"
@@ -117,17 +148,26 @@
     "name:por_x_preferred":[
         "Gobo"
     ],
+    "name:por_x_variant":[
+        "Hidaka"
+    ],
     "name:ron_x_preferred":[
         "Hidaka"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0431\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0438\u0434\u0430\u043a\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0dc4\u0dd2\u0da9\u0d9a\u0dcf"
     ],
     "name:spa_x_preferred":[
         "Gobo"
+    ],
+    "name:spa_x_variant":[
+        "Hidaka"
     ],
     "name:swe_x_preferred":[
         "Hidaka"
@@ -141,6 +181,9 @@
     "name:tgk_x_preferred":[
         "\u0413\u043e\u0431\u043e"
     ],
+    "name:tgk_x_variant":[
+        "\u04b2\u0438\u0434\u0430\u043a\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Hidaka"
     ],
@@ -153,6 +196,9 @@
     "name:ukr_x_preferred":[
         "\u0490\u043e\u0431\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0425\u0456\u0434\u0430\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Hidaka"
     ],
@@ -164,6 +210,9 @@
     ],
     "name:war_x_preferred":[
         "Hidaka"
+    ],
+    "name:yue_x_preferred":[
+        "\u65e5\u9ad8"
     ],
     "name:zho_x_preferred":[
         "\u5fa1\u574a\u5e02"
@@ -213,7 +262,7 @@
         }
     ],
     "wof:id":102031781,
-    "wof:lastmodified":1561776097,
+    "wof:lastmodified":1563290169,
     "wof:name":"Gob\u014d",
     "wof:parent_id":1108740475,
     "wof:placetype":"locality",

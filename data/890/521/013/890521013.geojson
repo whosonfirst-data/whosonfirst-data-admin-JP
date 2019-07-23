@@ -36,8 +36,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0643\u0648\u0628\u0627-\u0645\u064a\u0631\u0627\u064a\u060c \u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0633\u0648\u0643\u0648\u0628\u0627-\u0645\u064a\u0631\u0627\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0648\u06a9\u0648\u0628\u0627\u0645\u06cc\u0631\u0627\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u0981\u09b8\u09c1\u0995\u09c1\u09ac\u09be\u09ae\u09bf\u09b0\u09be\u0987"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsukubamirai"
     ],
     "name:dan_x_preferred":[
         "Tsukubamirai"
@@ -57,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u0633\u0648\u06a9\u0648\u0628\u0627\u0645\u06cc\u0631\u0627\u06cc\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0633\u0648\u06a9\u0648\u0628\u0627\u0645\u06cc\u0631\u0627\u06cc"
     ],
     "name:fin_x_preferred":[
         "Tsukubamirai"
@@ -92,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uc4f0\ucfe0\ubc14\ubbf8\ub77c\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc4f0\ucfe0\ubc14\ubbf8\ub77c\uc774\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tsukubamirai"
     ],
     "name:lit_x_preferred":[
         "Tsukabamirajus"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7b51\u6ce2\u672a\u4f86\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u0941\u0915\u0941\u092c\u0941\u092e\u0940\u0930\u0940"
@@ -106,6 +124,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0648\u06a9\u0648\u0628\u0627\u0645\u06cc\u0631\u0627\u06cc\u060c \u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0633\u0648\u06a9\u0648\u0628\u0627\u0645\u06cc\u0631\u0627\u06cc"
     ],
     "name:nan_x_preferred":[
         "Tukubamirai-chh\u012b"
@@ -167,6 +188,9 @@
     "name:war_x_preferred":[
         "Tsukubamirai"
     ],
+    "name:yue_x_preferred":[
+        "\u7b51\u6ce2\u672a\u4f86"
+    ],
     "name:zho_x_preferred":[
         "\u7b51\u6ce2\u672a\u4f86\u5e02"
     ],
@@ -205,7 +229,7 @@
         }
     ],
     "wof:id":890521013,
-    "wof:lastmodified":1561776439,
+    "wof:lastmodified":1563295785,
     "wof:name":"Tsukubamirai",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

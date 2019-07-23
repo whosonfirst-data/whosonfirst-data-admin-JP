@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
+    "name:ast_x_preferred":[
+        "prefeutura d'Ibaraki"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u0130baraki"
     ],
@@ -54,8 +60,14 @@
     "name:cat_x_preferred":[
         "Prefectura dIbaraki"
     ],
+    "name:cat_x_variant":[
+        "prefectura d'Ibaraki"
+    ],
     "name:cdo_x_preferred":[
         "Ibaraki-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Ibaraki-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura Ibaraki"
@@ -104,7 +116,8 @@
         "Pr\u00e9fecture dIbaraki"
     ],
     "name:fra_x_variant":[
-        "pr\u00e9fecture d'Ibaraki"
+        "pr\u00e9fecture d'Ibaraki",
+        "Ibaraki"
     ],
     "name:gle_x_preferred":[
         "Maoracht Ibaraki"
@@ -114,6 +127,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aac\u0abe\u0ab0\u0abe\u0a95\u0ac0 \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Ibaraki-yen"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Ibaraki"
@@ -133,6 +149,9 @@
     "name:ilo_x_preferred":[
         "Prepektura ti Ibaraki"
     ],
+    "name:ilo_x_variant":[
+        "Ibaraki"
+    ],
     "name:ind_x_preferred":[
         "Prefektur Ibaraki"
     ],
@@ -141,6 +160,9 @@
     ],
     "name:jav_x_preferred":[
         "Pr\u00e9f\u00e8ktur Ibaraki"
+    ],
+    "name:jav_x_variant":[
+        "Prefektur Ibaraki"
     ],
     "name:jpn_x_preferred":[
         "\u8328\u57ce\u770c"
@@ -166,13 +188,17 @@
         "\uc774\ubc14\ub77c\ud0a4\ucf04"
     ],
     "name:kor_x_variant":[
-        "\uc774\ubc14\ub77c\ud0a4 \ud604"
+        "\uc774\ubc14\ub77c\ud0a4 \ud604",
+        "\uc774\ubc14\ub77c\ud0a4\ud604"
     ],
     "name:lav_x_preferred":[
         "Ibaraki prefekt\u016bra"
     ],
     "name:lit_x_preferred":[
         "Ibarakio prefekt\u016bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8328\u57ce\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0907\u092c\u093e\u0930\u093e\u0915\u0940"
@@ -206,6 +232,9 @@
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Ibaraki"
+    ],
+    "name:pam_x_variant":[
+        "Ibaraki Prefecture"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0628\u0627\u0631\u0627\u06a9\u06cc"
@@ -246,6 +275,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0418\u0431\u0430\u0440\u0430\u043a\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
+    ],
     "name:sun_x_preferred":[
         "Ibaraki Prefecture"
     ],
@@ -272,6 +304,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e1a\u0e30\u0e23\u0e30\u0e01\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e1a\u0e32\u0e23\u0e32\u0e01\u0e34"
     ],
     "name:tur_x_preferred":[
         "Ibaraki"
@@ -432,7 +467,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776189,
+    "wof:lastmodified":1563291647,
     "wof:name":"Ibaraki",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

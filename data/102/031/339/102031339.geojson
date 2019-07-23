@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u0627\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0646\u0627\u0628\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09be\u09ac\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Tanabe"
+    ],
+    "name:ceb_x_preferred":[
         "Tanabe"
     ],
     "name:dan_x_preferred":[
@@ -44,6 +50,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u0646\u0627\u0628\u0647\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0646\u0627\u0628\u0647"
+    ],
     "name:fin_x_preferred":[
         "Tanabe"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05e0\u05d0\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05e0\u05d0\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0928\u093e\u092c\u0947"
@@ -83,11 +95,17 @@
     "name:kor_x_preferred":[
         "\ub2e4\ub098\ubca0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\ub098\ubca0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tanabe"
     ],
     "name:lit_x_preferred":[
         "Tanab\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7530\u908a\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0924\u0928\u093e\u092c\u0947"
@@ -97,6 +115,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u0646\u0627\u0628\u0647\u060c \u0648\u0627\u06a9\u0627\u06cc\u0627\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u0646\u0627\u0628\u0647"
     ],
     "name:nan_x_preferred":[
         "Tanabe-chh\u012b"
@@ -173,6 +194,9 @@
     "name:war_x_preferred":[
         "Tanabe"
     ],
+    "name:yue_x_preferred":[
+        "\u7530\u908a"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tanabe-chh\u012b"
     ],
@@ -223,7 +247,7 @@
         }
     ],
     "wof:id":102031339,
-    "wof:lastmodified":1561776079,
+    "wof:lastmodified":1563289986,
     "wof:name":"Tanabe",
     "wof:parent_id":890524337,
     "wof:placetype":"locality",

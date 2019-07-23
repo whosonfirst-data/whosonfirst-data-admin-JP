@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u064a\u0633\u0627\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0647\u200c\u0633\u0627\u06a9\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u044d\u0441\u0430\u043a\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09c7\u09b8\u09be\u0995\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0435\u0441\u0430\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Isesaki Shi"
     ],
     "name:ces_x_preferred":[
         "Isesaki"
@@ -44,6 +53,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0633\u0647\u200c\u0633\u0627\u06a9\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0633\u0647\u200c\u0633\u0627\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Isesaki"
@@ -69,6 +81,9 @@
     "name:hrv_x_preferred":[
         "Iseaki"
     ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u0565\u057d\u0561\u056f\u056b"
+    ],
     "name:ind_x_preferred":[
         "Isesaki"
     ],
@@ -87,20 +102,32 @@
     "name:kor_x_preferred":[
         "\uc774\uc138\uc0ac\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc138\uc0ac\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Isezaki"
     ],
     "name:lit_x_preferred":[
         "Isezakis"
     ],
+    "name:lzh_x_preferred":[
+        "\u4f0a\u52e2\u5d0e\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0938\u0947\u0938\u093e\u0915\u0940"
+    ],
+    "name:mon_x_preferred":[
+        "\u0418\u0441\u044d\u0441\u0430\u043a\u0438"
     ],
     "name:msa_x_preferred":[
         "Isesaki"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0633\u0647\u200c\u0633\u0627\u06a9\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0633\u0647\u200c\u0633\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "Isesaki-chh\u012b"
@@ -159,6 +186,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e40\u0e0b\u0e30\u0e0b\u0e30\u0e01\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e40\u0e0b\u0e0b\u0e32\u0e01\u0e34"
+    ],
     "name:tur_x_preferred":[
         "Isesaki"
     ],
@@ -171,11 +201,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0633\u06cc\u0633\u0627\u06a9\u06cc\u060c \u06af\u0648\u0646\u0645\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u06cc\u0633\u0627\u06a9\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Isesaki"
     ],
     "name:war_x_preferred":[
         "Isesaki"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u52e2\u5d0e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Isesaki-chh\u012b"
@@ -237,7 +273,7 @@
         }
     ],
     "wof:id":102031703,
-    "wof:lastmodified":1561776090,
+    "wof:lastmodified":1563290095,
     "wof:name":"Isesaki",
     "wof:parent_id":890520765,
     "wof:placetype":"locality",

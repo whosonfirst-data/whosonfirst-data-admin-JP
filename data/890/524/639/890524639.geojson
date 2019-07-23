@@ -36,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u063a\u0627\u0643\u064a\u060c \u063a\u064a\u0641\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u063a\u0627\u0643\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0642\u0627\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0981\u0997\u09be\u0995\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "\u014cgaki"
+    ],
+    "name:ces_x_preferred":[
+        "\u00d3gaki"
     ],
     "name:dan_x_preferred":[
         "\u014cgaki"
@@ -62,6 +74,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u06af\u0627\u06a9\u06cc\u060c \u06af\u06cc\u0641\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u06af\u0627\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "\u014cgaki"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:hrv_x_preferred":[
         "Ogaki"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0563\u0561\u056f\u056b"
     ],
     "name:ind_x_preferred":[
         "\u014cgaki"
@@ -96,20 +114,32 @@
     "name:kor_x_preferred":[
         "\uc624\uac00\ud0a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uac00\ud0a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ogaki"
     ],
     "name:lit_x_preferred":[
         "Ogakis"
     ],
+    "name:lzh_x_preferred":[
+        "\u5927\u57a3\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0913\u0917\u0915\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "\u014cgaki"
     ],
     "name:msa_x_preferred":[
         "Ogaki"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u06af\u0627\u06a9\u06cc\u060c \u06af\u06cc\u0641\u0648"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u06af\u0627\u06a9\u06cc"
     ],
     "name:nan_x_preferred":[
         "\u00d4gaki-chh\u012b"
@@ -183,6 +213,9 @@
     "name:war_x_preferred":[
         "\u014cgaki"
     ],
+    "name:yue_x_preferred":[
+        "\u5927\u57a3"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u57a3\u5e02"
     ],
@@ -231,7 +264,7 @@
         }
     ],
     "wof:id":890524639,
-    "wof:lastmodified":1561776486,
+    "wof:lastmodified":1563296726,
     "wof:name":"Ogaki",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

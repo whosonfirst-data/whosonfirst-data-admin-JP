@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u0628\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Tiba"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u044b\u0431\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u044b\u0431\u0430"
     ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09ac\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -56,6 +62,9 @@
     ],
     "name:cdo_x_preferred":[
         "Chiba-g\u00e2ing"
+    ],
+    "name:ceb_x_preferred":[
+        "Chiba-ken"
     ],
     "name:ces_x_preferred":[
         "Prefektura \u010ciba"
@@ -97,8 +106,14 @@
     "name:fin_x_preferred":[
         "Chiban Prefektuuri"
     ],
+    "name:fin_x_variant":[
+        "Chiban prefektuuri"
+    ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Chiba"
+    ],
+    "name:fra_x_variant":[
+        "Chiba"
     ],
     "name:gle_x_preferred":[
         "Maoracht Chiba"
@@ -108,6 +123,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Chiba-yen"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05d1\u05d4"
@@ -155,7 +173,8 @@
         "\uce58\ubc14\ucf04"
     ],
     "name:kor_x_variant":[
-        "\uc9c0\ubc14 \ud604"
+        "\uc9c0\ubc14 \ud604",
+        "\uc9c0\ubc14\ud604"
     ],
     "name:lat_x_preferred":[
         "Tiba"
@@ -246,6 +265,9 @@
     ],
     "name:swe_x_preferred":[
         "Chiba Prefektur"
+    ],
+    "name:swe_x_variant":[
+        "Chiba prefektur"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc0\u0baa\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
@@ -420,7 +442,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1561776193,
+    "wof:lastmodified":1563291680,
     "wof:name":"Chiba",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
