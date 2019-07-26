@@ -30,12 +30,27 @@
     "mps:longitude":139.226364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hinode"
+    ],
+    "name:deu_x_preferred":[
+        "Hinode"
+    ],
     "name:eng_x_preferred":[
         "Hinode"
     ],
     "name:eng_x_variant":[
         "Hinodemati",
         "Hinode Machi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65e5\u306e\u51fa"
+    ],
+    "name:kor_x_preferred":[
+        "\ud788\ub178\ub370"
+    ],
+    "name:nld_x_preferred":[
+        "Hinode"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1108741757,
-    "wof:lastmodified":1554759602,
+    "wof:lastmodified":1564169018,
     "wof:name":"Hinode",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

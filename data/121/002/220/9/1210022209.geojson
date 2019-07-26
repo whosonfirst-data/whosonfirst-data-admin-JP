@@ -29,8 +29,29 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0633\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:est_x_preferred":[
+        "S\u014dsa"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:glg_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:ita_x_preferred":[
+        "S\u014dsa"
     ],
     "name:jpn_x_preferred":[
         "\u531d\u7473"
@@ -41,8 +62,14 @@
     "name:kor_x_preferred":[
         "\uc18c\uc0ac \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc18c\uc0ac\uc2dc"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0633\u0648\u0633\u0627"
     ],
     "name:nan_x_preferred":[
         "S\u00f4sa-chh\u012b"
@@ -50,17 +77,38 @@
     "name:nld_x_preferred":[
         "Sosa"
     ],
+    "name:pol_x_preferred":[
+        "S\u014dsa"
+    ],
     "name:por_x_preferred":[
         "Sosa"
+    ],
+    "name:ron_x_preferred":[
+        "S\u014dsa"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0441\u0430"
     ],
+    "name:spa_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:swa_x_preferred":[
+        "S\u014dsa"
+    ],
     "name:swe_x_preferred":[
         "Sosa"
     ],
+    "name:tgl_x_preferred":[
+        "S\u014dsa"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0b\u0e0b\u0e30"
+    ],
+    "name:tum_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:tur_x_preferred":[
+        "S\u014dsa"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u0430"
@@ -70,6 +118,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0624\u0633\u0627\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0624\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u014dsa"
+    ],
+    "name:war_x_preferred":[
+        "S\u014dsa"
     ],
     "name:zho_x_preferred":[
         "\u531d\u7473\u5e02"
@@ -98,7 +155,7 @@
         }
     ],
     "wof:id":1210022209,
-    "wof:lastmodified":1537650603,
+    "wof:lastmodified":1564168395,
     "wof:name":"Sosa",
     "wof:parent_id":1108741633,
     "wof:placetype":"locality",

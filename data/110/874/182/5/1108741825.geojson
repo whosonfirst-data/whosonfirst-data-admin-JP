@@ -30,12 +30,18 @@
     "mps:longitude":139.233462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kiyokawa"
+    ],
     "name:eng_x_preferred":[
         "Kiyokawa"
     ],
     "name:eng_x_variant":[
         "Kiyokawamura",
         "Kiyokawa Mura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6e05\u5ddd\u6751"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108741825,
-    "wof:lastmodified":1554759603,
+    "wof:lastmodified":1564169129,
     "wof:name":"Kiyokawa",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

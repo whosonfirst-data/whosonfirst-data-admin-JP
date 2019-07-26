@@ -26,17 +26,30 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Asagaya"
+    ],
+    "name:fra_x_preferred":[
+        "Asagaya"
+    ],
     "name:jpn_x_preferred":[
         "\u963f\u4f50\u30f6\u8c37"
     ],
     "name:jpn_x_variant":[
         "\u963f\u4f50\u8c37\u5357",
         "\u3042\u3055\u304c\u3084\u307f\u306a\u307f",
-        "\u30a2\u30b5\u30ac\u30e4\u30df\u30ca\u30df"
+        "\u30a2\u30b5\u30ac\u30e4\u30df\u30ca\u30df",
+        "\u963f\u4f50\u8c37"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0430\u0433\u0430\u044f"
     ],
     "name:und_x_variant":[
         "Asagaya",
         "Asagaya-minami"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f50\u8c37"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +69,7 @@
         }
     ],
     "wof:id":1209253011,
-    "wof:lastmodified":1537650324,
+    "wof:lastmodified":1564167999,
     "wof:name":"Asagaya-minami",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",

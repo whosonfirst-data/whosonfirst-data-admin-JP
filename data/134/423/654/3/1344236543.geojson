@@ -26,17 +26,39 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nosappu burnu"
+    ],
+    "name:fra_x_preferred":[
+        "Cap Nosappu"
+    ],
+    "name:ind_x_preferred":[
+        "Tanjung Nosappu"
+    ],
     "name:jpn_x_preferred":[
         "\u7d0d\u6c99\u5e03"
     ],
     "name:jpn_x_variant":[
         "\u306e\u3055\u3063\u3077",
-        "\u30ce\u30b5\u30c3\u30d7"
+        "\u30ce\u30b5\u30c3\u30d7",
+        "\u7d0d\u6c99\u5e03\u5cac"
+    ],
+    "name:kbd_x_preferred":[
+        "\u041d\u043e\u0441\u0430\u043f\u043f\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc0bf\ud478\uacf6"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0441\u0430\u043f\u043f\u0443"
     ],
     "name:und_x_variant":[
         "Noshappu",
         "Nassafu",
         "Nosappu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6c99\u5e03\u5cac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +84,7 @@
         }
     ],
     "wof:id":1344236543,
-    "wof:lastmodified":1537650506,
+    "wof:lastmodified":1564164923,
     "wof:name":"Nosappu",
     "wof:parent_id":1108739521,
     "wof:placetype":"locality",

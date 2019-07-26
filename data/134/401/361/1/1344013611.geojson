@@ -30,9 +30,24 @@
     "name:jpn_x_preferred":[
         "\u91d1\u5c71"
     ],
+    "name:jpn_x_variant":[
+        "\u91d1\u5c71\u753a"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ub124\uc57c\ub9c8\uc815"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u044f\u043c\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u044f\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Kanayama",
         "Kaneyama"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71\u753a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1344013611,
-    "wof:lastmodified":1537650417,
+    "wof:lastmodified":1564164927,
     "wof:name":"Kaneyama",
     "wof:parent_id":1108740013,
     "wof:placetype":"locality",

@@ -29,11 +29,32 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u064a\u0647\u0648\u0646\u062c\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u0631\u06cc\u0647\u0648\u0646\u062c\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Yurihonj\u014d"
+    ],
+    "name:deu_x_preferred":[
+        "Yurihonj\u014d"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u0648\u0631\u06cc\u0647\u0648\u0646\u062c\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06cc\u0648\u0631\u06cc\u0647\u0648\u0646\u062c\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Yurihonj\u014d"
+    ],
+    "name:glg_x_preferred":[
+        "Yurihonj\u014d"
+    ],
     "name:hun_x_preferred":[
         "Jurihondzs\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Yurihonj\u014d"
     ],
     "name:jpn_x_preferred":[
         "\u7531\u5229\u672c\u8358"
@@ -47,8 +68,14 @@
     "name:kor_x_preferred":[
         "\uc720\ub9ac\ud63c\uc870 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc720\ub9ac\ud63c\uc870\uc2dc"
+    ],
     "name:mzn_x_preferred":[
         "\u06cc\u0648\u0631\u06cc\u0647\u0648\u0646\u062c\u0648\u060c \u0622\u06a9\u06cc\u062a\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u06cc\u0648\u0631\u06cc\u0647\u0648\u0646\u062c\u0648"
     ],
     "name:nan_x_preferred":[
         "Yurihonzy\u00f4-chh\u012b"
@@ -56,14 +83,23 @@
     "name:nld_x_preferred":[
         "Yurihonjo"
     ],
+    "name:pol_x_preferred":[
+        "Yurihonj\u014d"
+    ],
     "name:por_x_preferred":[
         "Yurihonjo"
     ],
     "name:ron_x_preferred":[
         "Yurihonjo"
     ],
+    "name:ron_x_variant":[
+        "Yurihonj\u014d"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u0440\u0438\u0445\u043e\u043d\u0434\u0437\u0451"
+    ],
+    "name:spa_x_preferred":[
+        "Yurihonj\u014d"
     ],
     "name:swe_x_preferred":[
         "Yurihonjo"
@@ -74,6 +110,15 @@
     "name:tgl_x_preferred":[
         "Yurihondyo"
     ],
+    "name:tgl_x_variant":[
+        "Yurihonj\u014d"
+    ],
+    "name:tum_x_preferred":[
+        "Yurihonj\u014d"
+    ],
+    "name:tur_x_preferred":[
+        "Yurihonj\u014d"
+    ],
     "name:ukr_x_preferred":[
         "\u042e\u0440\u0456-\u0425\u043e\u043d\u0434\u0437\u044c\u043e"
     ],
@@ -82,6 +127,15 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u06cc\u06be\u0648\u0646\u062c\u0648\u060c \u0627\u06a9\u062a\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u06cc\u06c1\u0648\u0646\u062c\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Yurihonj\u014d"
+    ],
+    "name:war_x_preferred":[
+        "Yurihonj\u014d"
     ],
     "name:zho_x_preferred":[
         "\u7531\u5229\u672c\u838a\u5e02"
@@ -110,7 +164,7 @@
         }
     ],
     "wof:id":1260297901,
-    "wof:lastmodified":1537650607,
+    "wof:lastmodified":1564168784,
     "wof:name":"Yurihonjo",
     "wof:parent_id":1108741091,
     "wof:placetype":"locality",
