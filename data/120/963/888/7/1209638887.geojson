@@ -27,6 +27,18 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062a\u0627\u0643\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u014ctaki"
+    ],
+    "name:ita_x_preferred":[
+        "\u014ctaki"
+    ],
     "name:jpn_x_preferred":[
         "\u5927\u591a\u559c\u753a"
     ],
@@ -38,8 +50,23 @@
     "name:kor_x_preferred":[
         "\uc624\ud0c0\ud0a4 \uc815"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud0c0\ud0a4\uc815"
+    ],
+    "name:msa_x_preferred":[
+        "\u014ctaki"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u102d\u102f\u1038\u1010\u1001\u102d\u1019\u103c\u102d\u102f\u1037\u104a \u1001\u103b\u102d\u1018"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u0430\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "\u014ctaki"
+    ],
+    "name:tgl_x_preferred":[
+        "\u014ctaki"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0430\u043a\u0456"
@@ -50,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0624\u062a\u0627\u06a9\u06cc\u060c \u0686\u06cc\u0628\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0624\u062a\u0627\u06a9\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u5927\u591a\u559c\u753a"
@@ -72,7 +102,7 @@
         }
     ],
     "wof:id":1209638887,
-    "wof:lastmodified":1537650388,
+    "wof:lastmodified":1564167792,
     "wof:name":"Otaki",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",

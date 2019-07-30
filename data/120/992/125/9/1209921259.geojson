@@ -29,11 +29,35 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0627\u0643\u0627\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:deu_x_preferred":[
+        "Hirakawa"
+    ],
     "name:epo_x_preferred":[
         "Hiraka\u016da"
     ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:glg_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0580\u0561\u056f\u0561\u057e\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Hirakawa"
     ],
     "name:jpn_x_preferred":[
         "\u5e73\u5ddd"
@@ -50,23 +74,65 @@
     "name:kor_x_preferred":[
         "\ud788\ub77c\uce74\uc640 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\ub77c\uce74\uc640\uc2dc"
+    ],
     "name:mzn_x_preferred":[
         "\u0647\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u0647\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627"
     ],
     "name:nan_x_preferred":[
         "Hirakawa-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:pol_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:por_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:ron_x_preferred":[
+        "Hirakawa"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u0440\u0430\u043a\u0430\u0432\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:swe_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:tgl_x_preferred":[
+        "Hirakawa"
+    ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e34\u0e23\u0e30\u0e01\u0e30\u0e27\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e34\u0e23\u0e32\u0e01\u0e32\u0e27\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Hirakawa"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0440\u0430\u043a\u0430\u0432\u0430"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627\u060c \u0627\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06c1\u06cc\u0631\u0627\u06a9\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Hirakawa"
+    ],
+    "name:war_x_preferred":[
+        "Hirakawa"
     ],
     "name:zho_x_preferred":[
         "\u5e73\u5ddd\u5e02"
@@ -95,7 +161,7 @@
         }
     ],
     "wof:id":1209921259,
-    "wof:lastmodified":1537650607,
+    "wof:lastmodified":1564168072,
     "wof:name":"Hirakawa",
     "wof:parent_id":890520595,
     "wof:placetype":"locality",

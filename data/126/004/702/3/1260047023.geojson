@@ -29,9 +29,18 @@
     "name:jpn_x_preferred":[
         "\u4e2d\u6761"
     ],
+    "name:jpn_x_variant":[
+        "\u4e2d\u6761\u6751"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uce74\uc870\ucd0c"
+    ],
     "name:und_x_variant":[
         "Kakaj\u014d",
         "Nakaj\u014d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u689d\u6751"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1260047023,
-    "wof:lastmodified":1537650085,
+    "wof:lastmodified":1564168839,
     "wof:name":"Nakajo",
     "wof:parent_id":890523285,
     "wof:placetype":"locality",

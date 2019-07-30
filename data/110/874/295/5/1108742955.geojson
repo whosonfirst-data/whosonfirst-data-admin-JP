@@ -30,12 +30,27 @@
     "mps:longitude":134.003092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Yasuda"
+    ],
     "name:eng_x_preferred":[
         "Yasuda"
     ],
     "name:eng_x_variant":[
         "Yasudatyoo",
         "Yasuda Cho"
+    ],
+    "name:kor_x_preferred":[
+        "\uc57c\uc2a4\ub2e4"
+    ],
+    "name:pol_x_preferred":[
+        "Yasuda"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u0443\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0443\u0434\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1108742955,
-    "wof:lastmodified":1554759622,
+    "wof:lastmodified":1564168976,
     "wof:name":"Yasuda",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

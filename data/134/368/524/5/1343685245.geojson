@@ -27,12 +27,25 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nanbu"
+    ],
+    "name:fra_x_preferred":[
+        "Nanbu"
+    ],
     "name:jpn_x_preferred":[
         "\u5357\u90e8"
     ],
     "name:jpn_x_variant":[
         "\u306a\u3093\u3076",
-        "\u30ca\u30f3\u30d6"
+        "\u30ca\u30f3\u30d6",
+        "\u5357\u90e8\u753a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\ubd80\uc815"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u90e8\u753a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1343685245,
-    "wof:lastmodified":1537652326,
+    "wof:lastmodified":1564165142,
     "wof:name":"Nanbu",
     "wof:parent_id":1108741663,
     "wof:placetype":"locality",

@@ -29,11 +29,32 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0648\u0627\u062f\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0627\u062f\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Towada"
+    ],
+    "name:deu_x_preferred":[
+        "Towada"
+    ],
     "name:epo_x_preferred":[
         "To\u016dada"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0627\u062f\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0627\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Towada"
+    ],
+    "name:glg_x_preferred":[
+        "Towada"
+    ],
+    "name:ita_x_preferred":[
+        "Towada"
     ],
     "name:jpn_x_preferred":[
         "\u5341\u548c\u7530"
@@ -50,26 +71,71 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc640\ub2e4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc640\ub2e4\uc2dc"
+    ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u0627\u062f\u0627\u060c \u0622\u0626\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0648\u0627\u062f\u0627"
     ],
     "name:nan_x_preferred":[
         "Towada-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Towada"
+    ],
+    "name:pol_x_preferred":[
+        "Towada"
+    ],
+    "name:por_x_preferred":[
+        "Towada"
+    ],
+    "name:ron_x_preferred":[
+        "Towada"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0432\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Towada"
+    ],
+    "name:swe_x_preferred":[
+        "Towada"
     ],
     "name:tgk_x_preferred":[
         "\u0422\u043e\u0432\u0430\u0434\u0430"
     ],
+    "name:tgl_x_preferred":[
+        "Towada"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e17\u0e30\u0e27\u0e30\u0e14\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e17\u0e27\u0e32\u0e14\u0e30"
+    ],
+    "name:tum_x_preferred":[
+        "Towada"
+    ],
+    "name:tur_x_preferred":[
+        "Towada"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0432\u0430\u0434\u0430"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0648\u0627\u062f\u0627\u060c \u0627\u0648\u0645\u0648\u0631\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u0648\u0627\u062f\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Towada"
+    ],
+    "name:war_x_preferred":[
+        "Towada"
     ],
     "name:zho_x_preferred":[
         "\u5341\u548c\u7530\u5e02"
@@ -98,7 +164,7 @@
         }
     ],
     "wof:id":1242578893,
-    "wof:lastmodified":1537650608,
+    "wof:lastmodified":1564171181,
     "wof:name":"Towada",
     "wof:parent_id":890519961,
     "wof:placetype":"locality",

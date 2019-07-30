@@ -26,6 +26,21 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u062a\u0634\u064a\u062c\u0648\u062c\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Kichij\u014dji"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0686\u06cc\u062c\u0648\u062c\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Kichij\u014dji"
+    ],
+    "name:ita_x_preferred":[
+        "Kichij\u014dji"
+    ],
     "name:jpn_x_preferred":[
         "\u5409\u7965\u5bfa"
     ],
@@ -34,9 +49,15 @@
         "\u304d\u3061\u3058\u3087\u3046\u3058\u307b\u3093\u3061\u3087\u3046",
         "\u30ad\u30c1\u30b8\u30e7\u30a6\u30b8\u30db\u30f3\u30c1\u30e7\u30a6"
     ],
+    "name:kor_x_preferred":[
+        "\uae30\uce58\uc870\uc9c0"
+    ],
     "name:und_x_variant":[
         "Kichij\u014dji",
         "Kichij\u014dji-honch\u014d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u7965\u5bfa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1243019463,
-    "wof:lastmodified":1537650173,
+    "wof:lastmodified":1564171078,
     "wof:name":"Kichijoji-honcho",
     "wof:parent_id":890523767,
     "wof:placetype":"locality",

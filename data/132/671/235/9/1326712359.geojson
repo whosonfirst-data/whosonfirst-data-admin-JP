@@ -27,12 +27,19 @@
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0645\u0648\u0645\u0627\u0631\u0648\u06a9\u0648"
+    ],
     "name:jpn_x_preferred":[
         "\u4e0b\u5186\u5b50"
     ],
     "name:jpn_x_variant":[
         "\u3057\u3082\u307e\u308b\u3053",
-        "\u30b7\u30e2\u30de\u30eb\u30b3"
+        "\u30b7\u30e2\u30de\u30eb\u30b3",
+        "\u4e0b\u4e38\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u4e38\u5b50"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1326712359,
-    "wof:lastmodified":1537651015,
+    "wof:lastmodified":1564164380,
     "wof:name":"Shimomaruko",
     "wof:parent_id":1108739985,
     "wof:placetype":"locality",
