@@ -11,13 +11,15 @@
     "geom:longitude":134.605917,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Anan"
     ],
     "lbl:latitude":33.894214,
     "lbl:longitude":134.5947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokushima Ken",
     "meso:gadm_admin":"Anan",
     "meso:gadm_hasc2":"JP.TS.AN",
@@ -33,6 +35,7 @@
     "mps:longitude":134.5947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u060c \u062a\u0648\u0643\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -188,9 +191,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Anan"
-    ],
     "name:urd_x_preferred":[
         "\u0639\u0646\u0627\u0646"
     ],
@@ -214,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -225,7 +225,7 @@
     "wof:concordances":{
         "gn:id":1865306,
         "hasc:id":"JP.TS.AN",
-        "qs:id":1028243,
+        "qs_pg:id":1028243,
         "wd:id":"Q485583"
     },
     "wof:country":"JP",
@@ -240,7 +240,7 @@
         }
     ],
     "wof:id":890524497,
-    "wof:lastmodified":1563296659,
+    "wof:lastmodified":1566726493,
     "wof:name":"Anan",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

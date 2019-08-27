@@ -11,10 +11,14 @@
     "geom:longitude":131.03732,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"130.93732,32.74409,131.13732,32.94409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u5357\u963f\u8607\u6751"
     ],
@@ -22,7 +26,7 @@
         "\u307f\u306a\u307f\u3042\u305d\u3080\u3089",
         "\u30df\u30ca\u30df\u30a2\u30bd\u30e0\u30e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minamiaso-mura"
     ],
     "qs:name":"Minamioso-mura",
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7413165,
-        "qs:id":380620
+        "qs_pg:id":380620
     },
     "wof:country":"JP",
     "wof:created":1469056329,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890524155,
-    "wof:lastmodified":1505343924,
+    "wof:lastmodified":1566726498,
     "wof:name":"Minamioso-mura",
     "wof:parent_id":1108743191,
     "wof:placetype":"localadmin",

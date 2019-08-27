@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.53891,
     "lbl:longitude":131.139045,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukuoka Ken",
     "meso:gadm_admin":"Yoshitomi",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":131.139045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Koge"
     ],
@@ -39,7 +42,7 @@
         "Koge Machi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108743095,
-    "wof:lastmodified":1554759625,
+    "wof:lastmodified":1566725942,
     "wof:name":"Koge",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

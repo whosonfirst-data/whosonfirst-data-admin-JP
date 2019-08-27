@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000926,
-    "geom:area_square_m":9379335.651159,
+    "geom:area_square_m":9379335.651161,
     "geom:bbox":"136.148104929,34.9534815259,136.19198162,34.9895178996",
     "geom:latitude":34.971087,
     "geom:longitude":136.170543,
@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.974015,
     "lbl:longitude":136.168715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.974015,
     "mps:longitude":136.168715,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u6c34\u53e3"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102032297,
-    "wof:lastmodified":1501273465,
+    "wof:lastmodified":1566724945,
     "wof:name":"Minokuchi",
     "wof:parent_id":1108742367,
     "wof:placetype":"locality",

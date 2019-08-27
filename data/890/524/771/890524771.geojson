@@ -11,13 +11,15 @@
     "geom:longitude":134.140847,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Setouchi"
     ],
     "lbl:latitude":34.666428,
     "lbl:longitude":134.13021,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Okayama Ken",
     "meso:gadm_admin":"Setouchi",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":134.13021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0648\u062a\u0634\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0442\u043e\u0443\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Setouchi-shi"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -215,7 +218,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7405226,
-        "qs:id":1041269,
+        "qs_pg:id":1041269,
         "wd:id":"Q691691"
     },
     "wof:country":"JP",
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":890524771,
-    "wof:lastmodified":1563296676,
+    "wof:lastmodified":1566726495,
     "wof:name":"Setouchi",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

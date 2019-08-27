@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":35.019795,
     "lbl:longitude":132.512404,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Shimane Ken",
     "meso:name_loc":"\u5cf6\u6839\u770c",
     "mps:latitude":35.016637,
@@ -257,7 +258,7 @@
         "Shimane prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0bbf\u0bae\u0bcd\u0bae\u0ba9\u0bc7  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0bb7\u0bbf\u0bae\u0bcd\u0bae\u0ba9\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3f\u0c2e\u0c47\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -287,7 +288,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0428\u0456\u043c\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "\u5cf6\u6839\u770c",
         "Shimane Ken"
     ],
     "name:urd_x_preferred":[
@@ -382,9 +382,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"6,627",
     "statoids:area_mi":"2,559",
     "statoids:as_of_date":"2010-10-01",
@@ -410,7 +410,7 @@
         "hasc:id":"JP.SM",
         "iso:id":"JP-32",
         "loc:id":"n80045027",
-        "qs:id":900706,
+        "qs_pg:id":900706,
         "wd:id":"Q132751",
         "wk:page":"Shimane Prefecture"
     },
@@ -430,11 +430,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724592,
+    "wof:lastmodified":1566725306,
     "wof:name":"Shimane",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":717397,
     "wof:population_rank":11,

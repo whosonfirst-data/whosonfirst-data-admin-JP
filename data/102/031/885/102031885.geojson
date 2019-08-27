@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":33.84635,
     "lbl:longitude":132.744777,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":33.84635,
     "mps:longitude":132.744777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u064a\u0627\u0645\u0627"
     ],
@@ -248,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0446\u0443\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matuyama"
     ],
     "name:urd_x_preferred":[
@@ -295,7 +298,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":33.833333,
     "wd:longitude":132.766667,
@@ -312,7 +315,6 @@
         "fct:id":"1340a6b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1926099,
         "gp:id":1117690,
-        "qs:id":236844,
         "qs_pg:id":236844,
         "wd:id":"Q200022"
     },
@@ -330,7 +332,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290125,
+    "wof:lastmodified":1566724934,
     "wof:name":"Matsuyama-shi",
     "wof:parent_id":1108742909,
     "wof:placetype":"locality",

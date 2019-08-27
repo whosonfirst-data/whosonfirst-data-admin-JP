@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.040169,
     "lbl:longitude":137.259429,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Aichi Ken",
     "meso:name_loc":"\u611b\u77e5\u770c",
     "mps:latitude":35.025156,
@@ -288,7 +289,7 @@
         "Aichi prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0b86\u0b9f\u0bcd\u0b9a\u0bbf  \u0baa\u0bbf\u0bb0\u0bc7\u0baa\u0bbf\u0b95\u0bcd\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd"
+        "\u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bc7\u0baa\u0bbf\u0b95\u0bcd\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2f\u0c3f\u0c1a\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -312,7 +313,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0410\u0439\u0447\u0456"
     ],
     "name:und_x_variant":[
-        "\u611b\u77e5\u770c",
         "Aichi Ken"
     ],
     "name:urd_x_preferred":[
@@ -410,9 +410,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"5,105",
     "statoids:area_mi":"1,971",
     "statoids:as_of_date":"2010-10-01",
@@ -436,7 +436,7 @@
         "gp:id":2345851,
         "hasc:id":"JP.AI",
         "iso:id":"JP-23",
-        "qs:id":184372,
+        "qs_pg:id":184372,
         "wd:id":"Q80434",
         "wk:page":"Aichi Prefecture"
     },
@@ -456,11 +456,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724597,
+    "wof:lastmodified":1566725311,
     "wof:name":"Aichi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":7410719,
     "wof:population_rank":13,

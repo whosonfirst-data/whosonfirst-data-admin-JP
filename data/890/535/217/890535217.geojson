@@ -11,10 +11,14 @@
     "geom:longitude":133.08333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":80387,
+    "gn:population":80387,
     "iso:country":"JP",
+    "lbl:bbox":"133.06333,34.38,133.10333,34.42",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u06cc\u0647\u0627\u0631\u0627"
     ],
@@ -156,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mihama"
     ],
     "name:urd_x_preferred":[
@@ -189,7 +193,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1857334,
-        "qs:id":137138,
+        "qs_pg:id":137138,
         "wd:id":"Q820760",
         "wk:page":"Mihara"
     },
@@ -206,7 +210,7 @@
         }
     ],
     "wof:id":890535217,
-    "wof:lastmodified":1563295624,
+    "wof:lastmodified":1566726270,
     "wof:name":"Mihara",
     "wof:parent_id":890520161,
     "wof:placetype":"locality",

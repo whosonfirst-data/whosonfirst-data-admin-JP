@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.277512,
     "lbl:longitude":131.337844,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Miyazaki Ken",
     "meso:name_loc":"\u5bae\u5d0e\u770c",
     "mps:latitude":32.279872,
@@ -289,11 +290,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0456\u044f\u0434\u0437\u0430\u043a\u0456"
     ],
     "name:und_x_variant":[
-        "\u5bae\u5d0e\u770c",
         "Miyazaki Ken"
-    ],
-    "name:unk_x_variant":[
-        "Miyazaki-ken"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0632\u0627\u06a9\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -384,9 +381,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"7,734",
     "statoids:area_mi":"2,986",
     "statoids:as_of_date":"2010-10-01",
@@ -412,7 +409,7 @@
         "hasc:id":"JP.MZ",
         "iso:id":"JP-45",
         "loc:id":"n81018291",
-        "qs:id":1131365,
+        "qs_pg:id":1131365,
         "unlc:id":"JP-45",
         "wd:id":"Q130300",
         "wk:page":"Miyazaki Prefecture"
@@ -433,11 +430,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724597,
+    "wof:lastmodified":1566725311,
     "wof:name":"Miyazaki",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":1135233,
     "wof:population_rank":12,

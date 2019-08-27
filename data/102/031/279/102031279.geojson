@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.655803,
     "lbl:longitude":129.468384,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.655803,
     "mps:longitude":129.468384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Tsushima"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0443\u0441\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsushima ch\u014d"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":303,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":1849539,
         "gp:id":28487503,
-        "qs:id":137080,
         "qs_pg:id":137080,
         "wd:id":"Q52048"
     },
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":102031279,
-    "wof:lastmodified":1563290114,
+    "wof:lastmodified":1566724933,
     "wof:name":"Tsushima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

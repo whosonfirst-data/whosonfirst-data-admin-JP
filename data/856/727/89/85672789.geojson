@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.212375,
     "lbl:longitude":136.128153,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Shiga Ken",
     "meso:name_loc":"\u6ecb\u8cc0\u770c",
     "mps:latitude":35.194263,
@@ -49,7 +50,7 @@
         "\u0421\u0438\u0433\u0430"
     ],
     "name:bel_x_preferred":[
-        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430  \u0421\u0456\u0433\u0430"
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0421\u0456\u0433\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u0997\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -287,11 +288,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0421\u0456\u0491\u0430"
     ],
     "name:und_x_variant":[
-        "\u6ecb\u8cc0\u770c",
         "Shiga Ken"
-    ],
-    "name:unk_x_variant":[
-        "Shiga-ken"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u06af\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -385,9 +382,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"4,016",
     "statoids:area_mi":"1,551",
     "statoids:as_of_date":"2010-10-01",
@@ -411,7 +408,7 @@
         "gp:id":2345884,
         "hasc:id":"JP.SH",
         "iso:id":"JP-25",
-        "qs:id":1164999,
+        "qs_pg:id":1164999,
         "wd:id":"Q131358",
         "wk:page":"Shiga Prefecture"
     },
@@ -431,11 +428,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724597,
+    "wof:lastmodified":1566725310,
     "wof:name":"Shiga",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":1410777,
     "wof:population_rank":12,

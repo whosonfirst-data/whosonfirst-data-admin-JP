@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.514051,
     "lbl:longitude":140.603028,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.514051,
     "mps:longitude":140.603028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u062a\u0627\u0634\u064a"
     ],
@@ -230,7 +233,7 @@
     "name:ukr_x_variant":[
         "\u0425\u0456\u0442\u0430\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hidachi"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2106,
     "wof:belongsto":[
@@ -283,7 +286,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2112708,
-        "qs:id":355889,
         "qs_pg:id":355889,
         "wd:id":"Q633922"
     },
@@ -299,7 +301,7 @@
         }
     ],
     "wof:id":102031985,
-    "wof:lastmodified":1563290066,
+    "wof:lastmodified":1566724929,
     "wof:name":"Hitachi",
     "wof:parent_id":890520685,
     "wof:placetype":"locality",

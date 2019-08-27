@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.310699,
     "lbl:longitude":139.971313,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.310699,
     "mps:longitude":139.971313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Shimodate"
     ],
@@ -26,7 +29,7 @@
     "name:jpn_x_preferred":[
         "\u4e0b\u9928\u5e02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Simodate"
     ],
     "name:zho_x_preferred":[
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1852347,
         "gp:id":28403375,
-        "qs:id":137108,
         "qs_pg:id":137108,
         "wd:id":"Q7496952"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":102031383,
-    "wof:lastmodified":1561776087,
+    "wof:lastmodified":1566724927,
     "wof:name":"Shimodate",
     "wof:parent_id":890524227,
     "wof:placetype":"locality",

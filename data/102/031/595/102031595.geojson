@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.056097,
     "lbl:longitude":139.50986,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.056097,
     "mps:longitude":139.50986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0648"
     ],
@@ -204,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":314,
     "wof:belongsto":[
@@ -217,9 +220,11 @@
     "wof:concordances":{
         "gn:id":1858794,
         "gp:id":1117572,
-        "qs:id":362004,
         "qs_pg:id":137141,
         "wd:id":"Q734541"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":362004
     },
     "wof:country":"JP",
     "wof:geomhash":"83599506cc5d3bd59d56211452f5d60d",
@@ -232,7 +237,7 @@
         }
     ],
     "wof:id":102031595,
-    "wof:lastmodified":1563289980,
+    "wof:lastmodified":1566724921,
     "wof:name":"K\u014dnosu",
     "wof:parent_id":1108740439,
     "wof:placetype":"locality",

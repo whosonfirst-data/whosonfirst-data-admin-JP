@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":38.043765,
     "lbl:longitude":140.169068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.043765,
     "mps:longitude":140.169068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Akayu"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191569,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102032281,
-    "wof:lastmodified":1563290211,
+    "wof:lastmodified":1566724941,
     "wof:name":"Akayu",
     "wof:parent_id":1108740103,
     "wof:placetype":"locality",

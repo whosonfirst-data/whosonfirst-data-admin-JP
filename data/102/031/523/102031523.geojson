@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.357696,
     "lbl:longitude":137.25769,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.357696,
     "mps:longitude":137.25769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0632\u0648\u0646\u0627\u0645\u064a \u063a\u064a\u0641\u0648"
     ],
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0434\u0437\u0443\u043d\u0430\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mizunami-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -211,7 +214,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1856667,
-        "qs:id":846577,
         "qs_pg:id":846577,
         "wd:id":"Q853821",
         "wk:page":"Mizunami, Gifu"
@@ -228,7 +230,7 @@
         }
     ],
     "wof:id":102031523,
-    "wof:lastmodified":1563290187,
+    "wof:lastmodified":1566724939,
     "wof:name":"Mizunami",
     "wof:parent_id":890520457,
     "wof:placetype":"locality",

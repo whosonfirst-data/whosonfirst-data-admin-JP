@@ -11,10 +11,14 @@
     "geom:longitude":135.66514,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"135.56514,35.04897,135.76514,35.24897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uky\u014d District"
     ],
@@ -26,7 +30,7 @@
         "U-ky\u014d",
         "\u4eac\u90fd\u5e02\u53f3\u4eac\u533a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "U-ky\u014d-ku"
     ],
     "qs:name":"Uky\u014d-ku",
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1849328,
-        "qs:id":372400
+        "qs_pg:id":372400
     },
     "wof:country":"JP",
     "wof:created":1469056211,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890521503,
-    "wof:lastmodified":1505343920,
+    "wof:lastmodified":1566726311,
     "wof:name":"Uky\u014d-ku",
     "wof:parent_id":1108742393,
     "wof:placetype":"localadmin",

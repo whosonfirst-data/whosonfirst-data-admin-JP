@@ -11,8 +11,11 @@
     "geom:longitude":139.421104,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.416104,35.722971,139.426104,35.732971",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\uff15\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u6771\u4eac\u90fd",
@@ -26,14 +29,14 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85632429,
         85672817,
+        85632429,
         890520047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28530197,
-        "qs:id":961300
+        "qs_pg:id":961300
     },
     "wof:country":"JP",
     "wof:created":1469056438,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890526919,
-    "wof:lastmodified":1500054401,
+    "wof:lastmodified":1566726341,
     "wof:name":"\uff15\u4e01\u76ee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

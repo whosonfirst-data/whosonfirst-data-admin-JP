@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.292991,
     "lbl:longitude":139.367065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.292991,
     "mps:longitude":139.367065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627"
     ],
@@ -220,7 +223,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":102032257,
-    "wof:lastmodified":1563290212,
+    "wof:lastmodified":1566724941,
     "wof:name":"\u014cta",
     "wof:parent_id":890524369,
     "wof:placetype":"locality",

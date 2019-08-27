@@ -11,13 +11,15 @@
     "geom:longitude":136.026195,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kumano"
     ],
     "lbl:latitude":33.94239,
     "lbl:longitude":136.073512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mie Ken",
     "meso:gadm_admin":"Kumano",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":136.073512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0646\u0648\u060c \u0645\u064a\u0647"
     ],
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0430\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumano-shi"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":325,
     "wof:belongsto":[
@@ -232,7 +235,7 @@
     "wof:concordances":{
         "gn:id":1858408,
         "hasc:id":"JP.KY.KU",
-        "qs:id":372476,
+        "qs_pg:id":372476,
         "wd:id":"Q819672",
         "wk:page":"Kumano, Mie"
     },
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":890523789,
-    "wof:lastmodified":1563296619,
+    "wof:lastmodified":1566726486,
     "wof:name":"Kumano",
     "wof:parent_id":85672745,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":140.02417,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":51079,
+    "gn:population":51079,
     "iso:country":"JP",
+    "lbl:bbox":"140.00417,40.18389,140.04417,40.22389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0634\u064a\u0631\u0648"
     ],
@@ -170,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0441\u0456\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nosiro"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +210,7 @@
     "wof:concordances":{
         "gn:id":2128867,
         "gp:id":28394592,
-        "qs:id":572647,
+        "qs_pg:id":572647,
         "wd:id":"Q819587"
     },
     "wof:country":"JP",
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":890523125,
-    "wof:lastmodified":1563296618,
+    "wof:lastmodified":1566726485,
     "wof:name":"Noshiro",
     "wof:parent_id":890520793,
     "wof:placetype":"locality",

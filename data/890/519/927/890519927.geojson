@@ -11,13 +11,15 @@
     "geom:longitude":136.54423,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Nomi"
     ],
     "lbl:latitude":36.428417,
     "lbl:longitude":136.576762,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ishikawa Ken",
     "meso:gadm_admin":"Nomi",
     "meso:gadm_hasc2":"JP.IS.NM",
@@ -33,6 +35,7 @@
     "mps:longitude":136.576762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0645\u064a\u060c \u0625\u064a\u0634\u064a\u0643\u0627\u0648\u0627"
     ],
@@ -183,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nomi-shi"
     ],
     "name:urd_x_preferred":[
@@ -209,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":7467882,
         "hasc:id":"JP.IS.NM",
-        "qs:id":1245625,
+        "qs_pg:id":1245625,
         "wd:id":"Q658912"
     },
     "wof:country":"JP",
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":890519927,
-    "wof:lastmodified":1563296004,
+    "wof:lastmodified":1566726355,
     "wof:name":"Nomi",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

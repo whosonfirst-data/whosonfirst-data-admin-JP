@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":39.270537,
     "lbl:longitude":141.866455,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.270537,
     "mps:longitude":141.866455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0627\u064a\u0634\u064a"
     ],
@@ -177,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0430\u0457\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamaischi"
     ],
     "name:urd_x_preferred":[
@@ -223,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1600,
     "wof:belongsto":[
@@ -236,10 +239,12 @@
     "wof:concordances":{
         "gn:id":2112444,
         "gp:id":1117400,
-        "qs:id":899015,
         "qs_pg:id":138466,
         "wd:id":"Q329790",
         "wk:page":"Kamaishi, Iwate"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899015
     },
     "wof:country":"JP",
     "wof:geomhash":"01fdf63ef451cd2cce49854bd742e42c",
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102031967,
-    "wof:lastmodified":1563290092,
+    "wof:lastmodified":1566724931,
     "wof:name":"Kamaishi",
     "wof:parent_id":890524547,
     "wof:placetype":"locality",

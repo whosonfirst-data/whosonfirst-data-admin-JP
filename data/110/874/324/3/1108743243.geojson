@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":32.980208,
     "lbl:longitude":131.522575,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oita Ken",
     "meso:gadm_admin":"Bungo-\u014dno",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":131.522575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u063a\u0648-\u0623\u0648\u0646\u0648\u060c \u0623\u0648\u064a\u062a\u0627"
     ],
@@ -193,7 +196,7 @@
         "\u8c50\u5f8c\u5927\u91ce\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1108743243,
-    "wof:lastmodified":1563294384,
+    "wof:lastmodified":1566725971,
     "wof:name":"Bungoono",
     "wof:parent_id":85672723,
     "wof:placetype":"county",

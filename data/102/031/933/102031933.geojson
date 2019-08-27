@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.771265,
     "lbl:longitude":140.342774,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.771265,
     "mps:longitude":140.342774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u064a\u062a\u0627"
     ],
@@ -222,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1489,
     "wof:belongsto":[
@@ -236,7 +239,6 @@
         "fct:id":"133ff952-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2111684,
         "gp:id":1117861,
-        "qs:id":897873,
         "qs_pg:id":897873,
         "wd:id":"Q273798",
         "wk:page":"Narita, Chiba"
@@ -256,7 +258,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290104,
+    "wof:lastmodified":1566724932,
     "wof:name":"Narita",
     "wof:parent_id":890524535,
     "wof:placetype":"locality",

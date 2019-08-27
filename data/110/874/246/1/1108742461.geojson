@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.62162,
     "lbl:longitude":135.614814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Osaka Fu",
     "meso:gadm_admin":"Yao",
     "meso:gadm_hasc2":"JP.OS.YA",
@@ -30,6 +32,7 @@
     "mps:longitude":135.614814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u042f\u043e"
     ],
@@ -89,9 +92,9 @@
         "Yao"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"42",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108742461,
-    "wof:lastmodified":1564169049,
+    "wof:lastmodified":1566725984,
     "wof:name":"Yao",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

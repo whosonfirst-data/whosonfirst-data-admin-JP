@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.687515,
     "lbl:longitude":135.809505,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.687515,
     "mps:longitude":135.809505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nara"
     ],
@@ -260,9 +263,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u5948\u826f\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u0627\u060c \u0646\u0627\u0631\u0627"
     ],
@@ -318,7 +318,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":34.683333,
     "wd:longitude":135.783333,
@@ -335,9 +335,11 @@
         "fct:id":"13407b02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1855612,
         "gp:id":1117858,
-        "qs:id":1207329,
         "qs_pg:id":1062563,
         "wd:id":"Q169134"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1207329
     },
     "wof:country":"JP",
     "wof:geomhash":"745c5697b62693ec3b9ccfa48d992ae9",
@@ -354,7 +356,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290133,
+    "wof:lastmodified":1566724934,
     "wof:name":"Nara-shi",
     "wof:parent_id":890519285,
     "wof:placetype":"locality",

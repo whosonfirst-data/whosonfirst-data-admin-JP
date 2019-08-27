@@ -11,13 +11,15 @@
     "geom:longitude":135.577196,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tanabe Shi"
     ],
     "lbl:latitude":33.791155,
     "lbl:longitude":135.573534,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wakayama Ken",
     "meso:gadm_admin":"Ky\u014dtanabe",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":135.573534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tanabe"
     ],
@@ -48,7 +51,7 @@
         "\u305f\u306a\u3079\u3057",
         "\u7530\u8fba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tanabe-machi"
     ],
     "qs:name":"Tanabe-shi",
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"136",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1850706,
         "hasc:id":"JP.WK.TN",
-        "qs:id":1027845
+        "qs_pg:id":1027845
     },
     "wof:country":"JP",
     "wof:created":1469056336,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890524337,
-    "wof:lastmodified":1554759539,
+    "wof:lastmodified":1566726488,
     "wof:name":"Tanabe",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

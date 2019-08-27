@@ -11,10 +11,14 @@
     "geom:longitude":130.2,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":70339,
+    "gn:population":70339,
     "iso:country":"JP",
+    "lbl:bbox":"130.18,33.53,130.22,33.57",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Maebaru-ch\u016b\u014d"
     ],
@@ -78,7 +82,7 @@
     "name:tgl_x_preferred":[
         "Maebaru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maeharu"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1857844,
-        "qs:id":565757,
+        "qs_pg:id":565757,
         "wd:id":"Q990362"
     },
     "wof:country":"JP",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890523047,
-    "wof:lastmodified":1563296551,
+    "wof:lastmodified":1566726474,
     "wof:name":"Maebaru",
     "wof:parent_id":1108743025,
     "wof:placetype":"locality",

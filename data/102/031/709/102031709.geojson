@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.362028,
     "lbl:longitude":136.952863,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.362028,
     "mps:longitude":136.952863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0648\u064a\u0627\u0645\u0627"
     ],
@@ -183,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0443\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inuyama-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -232,7 +235,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":708,
     "wof:belongsto":[
@@ -245,9 +248,11 @@
     "wof:concordances":{
         "gn:id":1861528,
         "gp:id":15015456,
-        "qs:id":1251419,
         "qs_pg:id":137181,
         "wd:id":"Q503411"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1251419
     },
     "wof:country":"JP",
     "wof:geomhash":"68aa952e2daa3976424f059fd0449cab",
@@ -261,7 +266,7 @@
         }
     ],
     "wof:id":102031709,
-    "wof:lastmodified":1563289987,
+    "wof:lastmodified":1566724922,
     "wof:name":"Inuyama",
     "wof:parent_id":1108742259,
     "wof:placetype":"locality",

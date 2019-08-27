@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.699468,
     "lbl:longitude":140.966552,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Aomori Ken",
     "meso:name_loc":"\u9752\u68ee\u770c",
     "mps:latitude":40.657004,
@@ -322,11 +323,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0410\u043e\u043c\u043e\u0440\u0456"
     ],
     "name:und_x_variant":[
-        "\u9752\u68ee\u770c",
         "Aomori Ken"
-    ],
-    "name:unk_x_variant":[
-        "Aomori-ken"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0645\u0648\u0631\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -423,9 +420,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"9,614",
     "statoids:area_mi":"3,712",
     "statoids:as_of_date":"2010-10-01",
@@ -451,7 +448,7 @@
         "hasc:id":"JP.AO",
         "iso:id":"JP-02",
         "loc:id":"n80022938",
-        "qs:id":290288,
+        "qs_pg:id":290288,
         "unlc:id":"JP-02",
         "wd:id":"Q71699",
         "wk:page":"Aomori Prefecture"
@@ -472,11 +469,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724594,
+    "wof:lastmodified":1566725308,
     "wof:name":"Aomori",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":1373339,
     "wof:population_rank":12,

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.6439,
     "lbl:longitude":136.068334,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.6439,
     "mps:longitude":136.068334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0631\u0648\u063a\u0627"
     ],
@@ -169,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0443\u0440\u0443\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turuga"
     ],
     "name:urd_x_preferred":[
@@ -204,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":573,
     "wof:belongsto":[
@@ -218,7 +221,6 @@
         "fct:id":"13402300-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1849592,
         "gp:id":1118435,
-        "qs:id":137081,
         "qs_pg:id":137081,
         "wd:id":"Q847581"
     },
@@ -236,7 +238,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290127,
+    "wof:lastmodified":1566724934,
     "wof:name":"Tsuruga",
     "wof:parent_id":1108741903,
     "wof:placetype":"locality",

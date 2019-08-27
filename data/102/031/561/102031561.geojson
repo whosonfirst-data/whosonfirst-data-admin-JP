@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":35.485092,
     "lbl:longitude":135.417963,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.485092,
     "mps:longitude":135.417963,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0434\u0437\u0443\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maiduru"
     ],
     "name:urd_x_preferred":[
@@ -312,7 +314,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":460,
     "wof:belongsto":[
@@ -326,9 +328,11 @@
         "fct:id":"134065b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1857766,
         "gp:id":1117185,
-        "qs:id":137154,
-        "qs_pg:id":1111007,
+        "qs_pg:id":137154,
         "wd:id":"Q750573"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1111007
     },
     "wof:country":"JP",
     "wof:geomhash":"baa58aef0ca092e784a41867db8e971e",
@@ -344,7 +348,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289982,
+    "wof:lastmodified":1566724921,
     "wof:name":"Maizuru",
     "wof:parent_id":1108742397,
     "wof:placetype":"locality",

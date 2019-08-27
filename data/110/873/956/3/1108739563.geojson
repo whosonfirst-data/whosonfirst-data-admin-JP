@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":42.446854,
     "lbl:longitude":140.091436,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Imakane",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.091436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Imakane"
     ],
@@ -38,7 +41,7 @@
         "Imakane Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108739563,
-    "wof:lastmodified":1554759580,
+    "wof:lastmodified":1566726017,
     "wof:name":"Imakane",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":39.425534,
     "lbl:longitude":141.805279,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Iwate Ken",
     "meso:gadm_admin":"\u014ctsuchi",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":141.805279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Otsuchi"
     ],
@@ -39,7 +42,7 @@
         "Otsuchi Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108739973,
-    "wof:lastmodified":1554759586,
+    "wof:lastmodified":1566726011,
     "wof:name":"Otsuchi",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

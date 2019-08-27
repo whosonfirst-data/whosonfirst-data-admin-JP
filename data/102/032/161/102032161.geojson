@@ -12,10 +12,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.775177,
     "lbl:longitude":140.006802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.775177,
     "mps:longitude":140.006802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0627\u063a\u0627\u064a\u0627"
     ],
@@ -210,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":510,
     "wof:belongsto":[
         102191569,
@@ -223,7 +226,6 @@
         "fct:id":"133ffc04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6822181,
         "gp:id":15015459,
-        "qs:id":291475,
         "qs_pg:id":291475,
         "wd:id":"Q387365"
     },
@@ -242,7 +244,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290196,
+    "wof:lastmodified":1566724940,
     "wof:name":"Kamagaya-shi",
     "wof:parent_id":890524723,
     "wof:placetype":"locality",

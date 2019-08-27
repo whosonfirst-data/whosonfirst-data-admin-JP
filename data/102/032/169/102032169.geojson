@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":38.569643,
     "lbl:longitude":140.960083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.569643,
     "mps:longitude":140.960083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0627\u0643\u064a"
     ],
@@ -195,7 +198,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":469,
     "wof:belongsto":[
         102191569,
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":102032169,
-    "wof:lastmodified":1563290200,
+    "wof:lastmodified":1566724940,
     "wof:name":"\u014csaki",
     "wof:parent_id":890524897,
     "wof:placetype":"locality",

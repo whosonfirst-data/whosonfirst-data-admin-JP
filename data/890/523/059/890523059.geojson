@@ -11,10 +11,14 @@
     "geom:longitude":124.15717,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":44802,
+    "gn:population":44802,
     "iso:country":"JP",
+    "lbl:bbox":"124.13717,24.32478,124.17717,24.36478",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u0634\u064a\u063a\u0627\u0643\u0627"
     ],
@@ -166,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0448\u0456\u0491\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shika"
     ],
     "name:urd_x_preferred":[
@@ -200,7 +204,7 @@
     "wof:concordances":{
         "gn:id":1861416,
         "gp:id":28493874,
-        "qs:id":566178,
+        "qs_pg:id":566178,
         "wd:id":"Q838366",
         "wk:page":"Ishigaki"
     },
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":890523059,
-    "wof:lastmodified":1563296606,
+    "wof:lastmodified":1566726483,
     "wof:name":"Ishigaki",
     "wof:parent_id":890520999,
     "wof:placetype":"locality",

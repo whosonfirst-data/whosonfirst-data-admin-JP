@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.998331,
     "lbl:longitude":137.013027,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.998331,
     "mps:longitude":137.013027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u064a\u0627"
     ],
@@ -171,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kariya-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":513,
     "wof:belongsto":[
@@ -233,10 +236,12 @@
     "wof:concordances":{
         "gn:id":1860034,
         "gp:id":1117455,
-        "qs:id":899019,
         "qs_pg:id":137165,
         "wd:id":"Q389515",
         "wk:page":"Kariya, Aichi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899019
     },
     "wof:country":"JP",
     "wof:geomhash":"d921e9f823460f7da458f5ab6a1e4152",
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":102031647,
-    "wof:lastmodified":1563290120,
+    "wof:lastmodified":1566724933,
     "wof:name":"Kariya",
     "wof:parent_id":890520053,
     "wof:placetype":"locality",

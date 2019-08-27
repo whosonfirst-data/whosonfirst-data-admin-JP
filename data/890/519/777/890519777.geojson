@@ -11,13 +11,15 @@
     "geom:longitude":130.309872,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Makurazaki Shi"
     ],
     "lbl:latitude":31.295603,
     "lbl:longitude":130.304345,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kagoshima Ken",
     "meso:gadm_admin":"Makurazaki",
     "meso:gadm_hasc2":"JP.KS.MK",
@@ -33,6 +35,7 @@
     "mps:longitude":130.304345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0648\u0631\u0627\u0632\u0627\u0643\u064a\u060c \u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0443\u0440\u0430\u0434\u0437\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makurasaki-machi"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"75",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -231,7 +234,7 @@
     "wof:concordances":{
         "gn:id":1857710,
         "hasc:id":"JP.KS.MK",
-        "qs:id":372469,
+        "qs_pg:id":372469,
         "wd:id":"Q548493",
         "wk:page":"Makurazaki, Kagoshima"
     },
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":890519777,
-    "wof:lastmodified":1563295952,
+    "wof:lastmodified":1566726349,
     "wof:name":"Makurazaki",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

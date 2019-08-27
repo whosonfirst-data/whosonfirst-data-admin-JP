@@ -14,6 +14,8 @@
     "iso:country":"JP",
     "lbl:latitude":35.924644,
     "lbl:longitude":139.476929,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.924644,
     "mps:longitude":139.476929,
     "mz:hierarchy_label":1,
@@ -322,7 +324,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":35.933333,
     "wd:longitude":139.483333,
@@ -338,10 +340,12 @@
     "wof:concordances":{
         "gn:id":1859740,
         "gp:id":1117492,
-        "qs:id":1117225,
         "qs_pg:id":274083,
         "wd:id":"Q319740",
         "wk:page":"Kawagoe, Saitama"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117225
     },
     "wof:country":"JP",
     "wof:geomhash":"e05cb715a2ddbb63c8aea754f29d99f5",
@@ -355,7 +359,7 @@
         }
     ],
     "wof:id":102031633,
-    "wof:lastmodified":1563290025,
+    "wof:lastmodified":1566724925,
     "wof:name":"Kawagoe",
     "wof:parent_id":890519943,
     "wof:placetype":"locality",

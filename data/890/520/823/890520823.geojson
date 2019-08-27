@@ -11,13 +11,15 @@
     "geom:longitude":134.332809,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Higashikagawa"
     ],
     "lbl:latitude":34.216831,
     "lbl:longitude":134.321319,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kagawa Ken",
     "meso:gadm_admin":"Higashikagawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":134.321319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u063a\u0627\u0634\u064a\u0643\u0627\u063a\u0627\u0648\u0627\u060c \u0643\u0627\u063a\u0627\u0648\u0627"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0491\u0430\u0448\u0456-\u041a\u0430\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Higashikagawa-shi"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -219,7 +222,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7391347,
-        "qs:id":1041245,
+        "qs_pg:id":1041245,
         "wd:id":"Q861255",
         "wk:page":"Higashikagawa, Kagawa"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":890520823,
-    "wof:lastmodified":1563296164,
+    "wof:lastmodified":1566726385,
     "wof:name":"Higashikagawa",
     "wof:parent_id":85672715,
     "wof:placetype":"county",

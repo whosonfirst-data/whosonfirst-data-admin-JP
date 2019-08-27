@@ -11,10 +11,14 @@
     "geom:longitude":138.43333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":46272,
+    "gn:population":46272,
     "iso:country":"JP",
+    "lbl:bbox":"138.41333,36.29667,138.45333,36.33667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0648\u0631\u0648"
     ],
@@ -186,7 +190,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1858858,
-        "qs:id":89938,
+        "qs_pg:id":89938,
         "wd:id":"Q838657",
         "wk:page":"Komoro"
     },
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":890531785,
-    "wof:lastmodified":1563296355,
+    "wof:lastmodified":1566726428,
     "wof:name":"Komoro",
     "wof:parent_id":890524669,
     "wof:placetype":"locality",

@@ -11,17 +11,21 @@
     "geom:longitude":130.8,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"130.7,31.91667,130.9,32.11667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u3048\u3073\u306e\u5e02"
     ],
     "name:jpn_x_variant":[
         "\u3048\u3073\u306e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ebino"
     ],
     "qs:name":"Ebino-ch\u014d",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1864313,
-        "qs:id":355893
+        "qs_pg:id":355893
     },
     "wof:country":"JP",
     "wof:created":1469056297,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890523307,
-    "wof:lastmodified":1505343922,
+    "wof:lastmodified":1566726470,
     "wof:name":"Ebino-ch\u014d",
     "wof:parent_id":1108743265,
     "wof:placetype":"localadmin",

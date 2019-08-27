@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":36.423586,
     "lbl:longitude":138.845727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gunma Ken",
     "meso:gadm_admin":"Takasaki",
     "meso:gadm_hasc2":"JP.GM.TK",
@@ -30,6 +32,7 @@
     "mps:longitude":138.845727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u0633\u0627\u0643\u064a"
     ],
@@ -167,7 +170,7 @@
         "\u9ad8\u5d0e\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1108740361,
-    "wof:lastmodified":1564168983,
+    "wof:lastmodified":1566725963,
     "wof:name":"Takasaki",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

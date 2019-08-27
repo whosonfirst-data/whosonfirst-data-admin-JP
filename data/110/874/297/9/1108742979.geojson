@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.49499,
     "lbl:longitude":133.285289,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kochi Ken",
     "meso:gadm_admin":"Sakawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":133.285289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sakawa"
     ],
@@ -44,7 +47,7 @@
         "Sakawa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1108742979,
-    "wof:lastmodified":1564169103,
+    "wof:lastmodified":1566725999,
     "wof:name":"Sakawa",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

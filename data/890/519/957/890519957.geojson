@@ -11,13 +11,15 @@
     "geom:longitude":140.081646,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tsukuba Shi"
     ],
     "lbl:latitude":36.096175,
     "lbl:longitude":140.072981,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ibaraki Ken",
     "meso:gadm_admin":"Tsukuba",
     "meso:gadm_hasc2":"JP.IB.TG",
@@ -33,6 +35,7 @@
     "mps:longitude":140.072981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tsukuba"
     ],
@@ -47,7 +50,7 @@
         "\u3064\u304f\u3070\u3057",
         "\u3064\u304f\u3070"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsukuba-shi"
     ],
     "qs:name":"Tsukuba-shi",
@@ -58,9 +61,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":7452809,
         "hasc:id":"JP.IB.TG",
-        "qs:id":1063727
+        "qs_pg:id":1063727
     },
     "wof:country":"JP",
     "wof:created":1469056123,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890519957,
-    "wof:lastmodified":1554759527,
+    "wof:lastmodified":1566726350,
     "wof:name":"Tsukuba",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

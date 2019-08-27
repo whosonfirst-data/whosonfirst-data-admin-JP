@@ -11,14 +11,18 @@
     "geom:longitude":134.35,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":24374,
+    "gn:population":24374,
     "iso:country":"JP",
+    "lbl:bbox":"134.33,34.04667,134.37,34.08667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:jpn_x_preferred":[
         "\u9d28\u5cf6\u753a\u4e0a\u4e0b\u5cf6"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamoshima"
     ],
     "qs:name":"Kamojima",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1860321,
         "gp:id":28477573,
-        "qs:id":89997
+        "qs_pg:id":89997
     },
     "wof:country":"JP",
     "wof:created":1469056676,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890531791,
-    "wof:lastmodified":1505343931,
+    "wof:lastmodified":1566726422,
     "wof:name":"Kamojima",
     "wof:parent_id":890524145,
     "wof:placetype":"locality",

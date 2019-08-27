@@ -11,10 +11,14 @@
     "geom:longitude":130.94098,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":61481,
+    "gn:population":61481,
     "iso:country":"JP",
+    "lbl:bbox":"130.92098,33.3013,130.96098,33.3413",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u062a\u0627\u060c \u0623\u0648\u064a\u062a\u0627"
     ],
@@ -165,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hida"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +201,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1862373,
-        "qs:id":566287,
+        "qs_pg:id":566287,
         "wd:id":"Q386968"
     },
     "wof:country":"JP",
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890523067,
-    "wof:lastmodified":1563296611,
+    "wof:lastmodified":1566726484,
     "wof:name":"Hita",
     "wof:parent_id":890533887,
     "wof:placetype":"locality",

@@ -11,13 +11,15 @@
     "geom:longitude":139.242124,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ome Shi"
     ],
     "lbl:latitude":35.802594,
     "lbl:longitude":139.24211,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"\u014cme",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":139.24211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0647\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
@@ -209,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aoume-shi"
     ],
     "name:urd_x_preferred":[
@@ -235,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"103",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -257,7 +260,7 @@
     "wof:concordances":{
         "gn:id":1854160,
         "hasc:id":"JP.TK.OM",
-        "qs:id":1027922,
+        "qs_pg:id":1027922,
         "wd:id":"Q237683"
     },
     "wof:country":"JP",
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":890524379,
-    "wof:lastmodified":1563296670,
+    "wof:lastmodified":1566726494,
     "wof:name":"Ome",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

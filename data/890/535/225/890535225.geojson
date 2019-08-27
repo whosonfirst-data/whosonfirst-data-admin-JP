@@ -11,13 +11,15 @@
     "geom:longitude":140.388786,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Fukushima"
     ],
     "lbl:latitude":37.760824,
     "lbl:longitude":140.391997,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukushima Ken",
     "meso:gadm_admin":"Fukushima",
     "meso:gadm_hasc2":"JP.FS.FK",
@@ -33,6 +35,7 @@
     "mps:longitude":140.391997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0648\u0634\u064a\u0645\u0627\u060c \u0641\u0648\u0643\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -266,9 +269,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043a\u0443\u0441\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Fukushima"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
     ],
@@ -295,7 +295,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -306,7 +306,7 @@
     "wof:concordances":{
         "gn:id":2112921,
         "hasc:id":"JP.FS.FK",
-        "qs:id":244495,
+        "qs_pg:id":244495,
         "wd:id":"Q161176"
     },
     "wof:country":"JP",
@@ -321,7 +321,7 @@
         }
     ],
     "wof:id":890535225,
-    "wof:lastmodified":1563295641,
+    "wof:lastmodified":1566726274,
     "wof:name":"Fukushima",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

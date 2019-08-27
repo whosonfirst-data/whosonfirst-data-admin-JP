@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":36.611895,
     "lbl:longitude":137.274304,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Toyama Ken",
     "meso:name_loc":"\u5bcc\u5c71\u770c",
     "mps:latitude":36.602828,
@@ -250,7 +251,7 @@
         "Toyama prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcb\u0baf\u0bae\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0b9f\u0bcb\u0baf\u0bae\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c2f\u0c3e\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -274,7 +275,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u044f\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "\u5bcc\u5c71\u770c",
         "Toyama Ken"
     ],
     "name:urd_x_preferred":[
@@ -369,9 +369,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"4,252",
     "statoids:area_mi":"1,642",
     "statoids:as_of_date":"2010-10-01",
@@ -397,7 +397,7 @@
         "gp:id":2345891,
         "hasc:id":"JP.TY",
         "iso:id":"JP-16",
-        "qs:id":900708,
+        "qs_pg:id":900708,
         "unlc:id":"JP-16",
         "wd:id":"Q132929",
         "wk:page":"Toyama Prefecture"
@@ -418,11 +418,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724596,
+    "wof:lastmodified":1566725309,
     "wof:name":"Toyama",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":1093247,
     "wof:population_rank":12,

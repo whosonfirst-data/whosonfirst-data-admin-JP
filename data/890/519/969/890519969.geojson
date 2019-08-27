@@ -11,10 +11,14 @@
     "geom:longitude":145.13197,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":21744,
+    "gn:population":21744,
     "iso:country":"JP",
+    "lbl:bbox":"145.11197,43.63899,145.15197,43.67899",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u062a\u0633\u0648"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0431\u0435\u0446\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sibetu"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2128206,
-        "qs:id":278026,
+        "qs_pg:id":278026,
         "wd:id":"Q1186204"
     },
     "wof:country":"JP",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890519969,
-    "wof:lastmodified":1563295968,
+    "wof:lastmodified":1566726351,
     "wof:name":"Shibetsu",
     "wof:parent_id":1108740875,
     "wof:placetype":"locality",

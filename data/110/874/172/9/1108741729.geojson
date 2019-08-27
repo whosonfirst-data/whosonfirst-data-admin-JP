@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.69163,
     "lbl:longitude":139.871041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Edogawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":139.871041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Edogawa"
     ],
@@ -53,7 +56,7 @@
         "Edogawa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108741729,
-    "wof:lastmodified":1564169014,
+    "wof:lastmodified":1566725972,
     "wof:name":"Edogawa",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":36.846045,
     "lbl:longitude":138.464874,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagano Ken",
     "meso:gadm_admin":"Kijimadaira",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":138.464874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kijimadaira"
     ],
@@ -38,7 +41,7 @@
         "Kijimadaira Mura"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108742111,
-    "wof:lastmodified":1554759608,
+    "wof:lastmodified":1566725948,
     "wof:name":"Kijimadaira",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

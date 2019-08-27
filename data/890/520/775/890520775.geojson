@@ -11,13 +11,15 @@
     "geom:longitude":141.196031,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ninohe Shi"
     ],
     "lbl:latitude":40.252901,
     "lbl:longitude":141.178308,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Iwate Ken",
     "meso:gadm_admin":"Ninohe",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":141.178308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u0648\u0647\u064a\u060c \u0625\u064a\u0648\u0627\u062a\u0647"
     ],
@@ -189,7 +192,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d\u043e\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ninohe-shi"
     ],
     "name:urd_x_preferred":[
@@ -215,9 +218,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"940",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -237,7 +240,7 @@
     "wof:concordances":{
         "gn:id":2128940,
         "hasc:id":"JP.IW.NG",
-        "qs:id":1028541,
+        "qs_pg:id":1028541,
         "wd:id":"Q695907"
     },
     "wof:country":"JP",
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":890520775,
-    "wof:lastmodified":1563296193,
+    "wof:lastmodified":1566726389,
     "wof:name":"Ninohe",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

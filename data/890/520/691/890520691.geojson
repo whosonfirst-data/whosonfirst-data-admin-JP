@@ -11,13 +11,15 @@
     "geom:longitude":140.019074,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Funabashi Shi"
     ],
     "lbl:latitude":35.722332,
     "lbl:longitude":140.031515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiba Ken",
     "meso:gadm_admin":"Funabashi",
     "meso:gadm_hasc2":"JP.CH.FN",
@@ -33,6 +35,7 @@
     "mps:longitude":140.031515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0627\u0628\u0627\u0634\u064a\u060c \u062a\u0634\u064a\u0628\u0627"
     ],
@@ -229,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0431\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Funabashi-shi"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"86",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -281,7 +284,7 @@
     "wof:concordances":{
         "gn:id":1863903,
         "hasc:id":"JP.CH.FN",
-        "qs:id":276693,
+        "qs_pg:id":276693,
         "wd:id":"Q271417",
         "wk:page":"Funabashi, Chiba"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":890520691,
-    "wof:lastmodified":1563296184,
+    "wof:lastmodified":1566726387,
     "wof:name":"Funabashi",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

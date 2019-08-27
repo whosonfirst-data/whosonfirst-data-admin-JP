@@ -11,13 +11,15 @@
     "geom:longitude":143.715984,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kitami Shi"
     ],
     "lbl:latitude":43.866355,
     "lbl:longitude":143.872506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Kitami",
     "meso:gadm_hasc2":"JP.HK.KM",
@@ -33,6 +35,7 @@
     "mps:longitude":143.872506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627\u0645\u064a\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
@@ -218,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0442\u0430\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nokkeushi-machi"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"421",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -266,7 +269,7 @@
     "wof:concordances":{
         "gn:id":2129532,
         "hasc:id":"JP.HK.KM",
-        "qs:id":1028544,
+        "qs_pg:id":1028544,
         "wd:id":"Q265555"
     },
     "wof:country":"JP",
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":890520783,
-    "wof:lastmodified":1563296141,
+    "wof:lastmodified":1566726382,
     "wof:name":"Kitami",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

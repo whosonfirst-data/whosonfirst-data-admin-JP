@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.596014,
     "lbl:longitude":133.782506,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.596014,
     "mps:longitude":133.782506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u0634\u064a\u0643\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -196,7 +199,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0440\u0430\u0448\u0456\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurasiki"
     ],
     "name:urd_x_preferred":[
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":715,
     "wof:belongsto":[
@@ -251,7 +254,6 @@
         "fct:id":"134090ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1858311,
         "gp:id":1117618,
-        "qs:id":1193057,
         "qs_pg:id":1193057,
         "wd:id":"Q467487",
         "wk:page":"Kurashiki, Okayama"
@@ -271,7 +273,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290180,
+    "wof:lastmodified":1566724938,
     "wof:name":"Kurashiki",
     "wof:parent_id":1108742749,
     "wof:placetype":"locality",

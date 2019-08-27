@@ -11,10 +11,14 @@
     "geom:longitude":139.96667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":24948,
+    "gn:population":24948,
     "iso:country":"JP",
+    "lbl:bbox":"139.94667,36.09667,139.98667,36.13667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ishige"
     ],
@@ -24,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u77f3\u4e0b\u753a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moto-ishige"
     ],
     "qs:name":"Ishige",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1861406,
         "gp:id":28402451,
-        "qs:id":566162,
+        "qs_pg:id":566162,
         "wd:id":"Q11584779",
         "wk:page":"Ishige"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890519837,
-    "wof:lastmodified":1561776449,
+    "wof:lastmodified":1566726354,
     "wof:name":"Ishige",
     "wof:parent_id":1108740275,
     "wof:placetype":"locality",

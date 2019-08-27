@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.315125,
     "lbl:longitude":137.91687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.315125,
     "mps:longitude":137.91687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0632\u0648\u0645\u064a\u0646\u0648\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
@@ -198,7 +201,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":450,
     "wof:belongsto":[
         102191569,
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":102032107,
-    "wof:lastmodified":1563290232,
+    "wof:lastmodified":1566724943,
     "wof:name":"Azumino",
     "wof:parent_id":1108741991,
     "wof:placetype":"locality",

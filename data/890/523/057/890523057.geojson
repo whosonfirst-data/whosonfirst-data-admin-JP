@@ -11,10 +11,14 @@
     "geom:longitude":139.55,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":178739,
+    "gn:population":178739,
     "iso:country":"JP",
+    "lbl:bbox":"139.53,35.66333,139.57,35.70333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0627\u0643\u0627\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
@@ -191,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mitaka-machi"
     ],
     "name:urd_x_preferred":[
@@ -223,7 +227,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1860437,
-        "qs:id":566079,
+        "qs_pg:id":566079,
         "wd:id":"Q242885"
     },
     "wof:country":"JP",
@@ -239,7 +243,7 @@
         }
     ],
     "wof:id":890523057,
-    "wof:lastmodified":1563296607,
+    "wof:lastmodified":1566726483,
     "wof:name":"Kami-renjaku",
     "wof:parent_id":1108741733,
     "wof:placetype":"locality",

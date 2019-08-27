@@ -11,13 +11,15 @@
     "geom:longitude":138.246358,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Chino"
     ],
     "lbl:latitude":36.036943,
     "lbl:longitude":138.255254,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagano Ken",
     "meso:gadm_admin":"Suwa",
     "meso:gadm_hasc2":"JP.NN.SG",
@@ -33,6 +35,7 @@
     "mps:longitude":138.255254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chino"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Chino"
     ],
-    "name:unk_x_variant":[
-        "Chino"
-    ],
     "name:war_x_preferred":[
         "Chino"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":1864555,
         "hasc:id":"JP.NN.SG",
-        "qs:id":355875
+        "qs_pg:id":355875
     },
     "wof:country":"JP",
     "wof:created":1469056297,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":890523301,
-    "wof:lastmodified":1564170937,
+    "wof:lastmodified":1566726471,
     "wof:name":"Chino",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":140.75,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":50843,
+    "gn:population":50843,
     "iso:country":"JP",
+    "lbl:bbox":"140.73,36.76333,140.77,36.80333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627 \u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
@@ -153,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0442\u0430-\u0406\u0431\u0430\u0440\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kitaibaragi"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +190,7 @@
     "wof:concordances":{
         "gn:id":2112232,
         "gp:id":28402608,
-        "qs:id":572331,
+        "qs_pg:id":572331,
         "wd:id":"Q838654",
         "wk:page":"Kitaibaraki, Ibaraki"
     },
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":890523111,
-    "wof:lastmodified":1563296568,
+    "wof:lastmodified":1566726477,
     "wof:name":"Kitaibaraki",
     "wof:parent_id":85672801,
     "wof:placetype":"locality",

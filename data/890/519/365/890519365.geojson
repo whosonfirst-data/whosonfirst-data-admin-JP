@@ -11,10 +11,14 @@
     "geom:longitude":138.9,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":48235,
+    "gn:population":48235,
     "iso:country":"JP",
+    "lbl:bbox":"138.88,36.29667,138.92,36.33667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0643\u0627"
     ],
@@ -183,7 +187,7 @@
     "wof:concordances":{
         "gn:id":1865290,
         "gp:id":28407154,
-        "qs:id":566620,
+        "qs_pg:id":566620,
         "wd:id":"Q564234"
     },
     "wof:country":"JP",
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":890519365,
-    "wof:lastmodified":1563295901,
+    "wof:lastmodified":1566726343,
     "wof:name":"Annaka",
     "wof:parent_id":890520385,
     "wof:placetype":"locality",

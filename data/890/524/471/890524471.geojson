@@ -11,13 +11,15 @@
     "geom:longitude":138.793552,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Fujiyoshida Shi"
     ],
     "lbl:latitude":35.425294,
     "lbl:longitude":138.775145,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yamanashi Ken",
     "meso:gadm_admin":"Fujiyoshida",
     "meso:gadm_hasc2":"JP.YN.FJ",
@@ -33,6 +35,7 @@
     "mps:longitude":138.775145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u0648\u0634\u064a\u062f\u0627\u060c \u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0434\u0437\u0456-\u0419\u043e\u0441\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shimo-yoshida-machi"
     ],
     "name:urd_x_preferred":[
@@ -214,9 +217,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"122",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -237,7 +240,7 @@
     "wof:concordances":{
         "gn:id":1864076,
         "hasc:id":"JP.YN.FJ",
-        "qs:id":1028189,
+        "qs_pg:id":1028189,
         "wd:id":"Q647508",
         "wk:page":"Fujiyoshida, Yamanashi"
     },
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":890524471,
-    "wof:lastmodified":1563296643,
+    "wof:lastmodified":1566726490,
     "wof:name":"Fujiyoshida",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

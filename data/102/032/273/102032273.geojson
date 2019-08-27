@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3120598.340733,
+    "geom:area_square_m":3120598.340736,
     "geom:bbox":"141.937199321,39.6347583176,141.960505702,39.6527765563",
     "geom:latitude":39.643768,
     "geom:longitude":141.948853,
@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":39.643768,
     "lbl:longitude":141.948853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.643768,
     "mps:longitude":141.948853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Shinmachi"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102032273,
-    "wof:lastmodified":1527637847,
+    "wof:lastmodified":1566724941,
     "wof:name":"Shinmachi",
     "wof:parent_id":890524531,
     "wof:placetype":"locality",

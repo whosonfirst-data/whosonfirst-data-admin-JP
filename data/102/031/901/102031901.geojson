@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.984832,
     "lbl:longitude":140.14589,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.984832,
     "mps:longitude":140.14589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0634\u064a\u0643\u0648"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":354,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110629,
-        "qs:id":351608,
         "qs_pg:id":351608,
         "wd:id":"Q844133",
         "wk:page":"Ushiku, Ibaraki"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":102031901,
-    "wof:lastmodified":1563289978,
+    "wof:lastmodified":1566724921,
     "wof:name":"Ushiku",
     "wof:parent_id":890519749,
     "wof:placetype":"locality",

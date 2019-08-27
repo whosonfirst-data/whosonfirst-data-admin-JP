@@ -11,13 +11,15 @@
     "geom:longitude":135.141639,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Arida Shi"
     ],
     "lbl:latitude":34.077004,
     "lbl:longitude":135.147165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wakayama Ken",
     "meso:gadm_admin":"Arida",
     "meso:gadm_hasc2":"JP.WK.AG",
@@ -33,6 +35,7 @@
     "mps:longitude":135.147165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u062f\u0627\u060c \u0648\u0627\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arida-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -213,9 +216,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"438",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -235,7 +238,7 @@
     "wof:concordances":{
         "gn:id":1865121,
         "hasc:id":"JP.WK.AG",
-        "qs:id":1028241,
+        "qs_pg:id":1028241,
         "wd:id":"Q657843"
     },
     "wof:country":"JP",
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890524493,
-    "wof:lastmodified":1563296720,
+    "wof:lastmodified":1566726501,
     "wof:name":"Arida",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

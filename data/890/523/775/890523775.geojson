@@ -11,17 +11,21 @@
     "geom:longitude":137.91667,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"137.81667,35.5,138.01667,35.7",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u677e\u5ddd\u753a"
     ],
     "name:jpn_x_variant":[
         "\u307e\u3064\u304b\u308f\u307e\u3061"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mataukawa Ch\u014d"
     ],
     "qs:name":"Matsukawa-machi",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1857522,
-        "qs:id":372466
+        "qs_pg:id":372466
     },
     "wof:country":"JP",
     "wof:created":1469056315,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890523775,
-    "wof:lastmodified":1505343923,
+    "wof:lastmodified":1566726485,
     "wof:name":"Matsukawa-machi",
     "wof:parent_id":1108742039,
     "wof:placetype":"localadmin",

@@ -11,13 +11,15 @@
     "geom:longitude":140.213522,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Sakura Shi"
     ],
     "lbl:latitude":35.691233,
     "lbl:longitude":140.235357,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiba Ken",
     "meso:gadm_admin":"Sakura",
     "meso:gadm_hasc2":"JP.CH.SK",
@@ -33,6 +35,7 @@
     "mps:longitude":140.235357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sakura"
     ],
@@ -48,7 +51,7 @@
         "\u3055\u304f\u3089\u3057",
         "\u4f50\u5009"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sakura-machi"
     ],
     "qs:name":"Sakura-shi",
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"104",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2111215,
         "hasc:id":"JP.CH.SK",
-        "qs:id":1032074
+        "qs_pg:id":1032074
     },
     "wof:country":"JP",
     "wof:created":1469056165,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890520809,
-    "wof:lastmodified":1554759534,
+    "wof:lastmodified":1566726387,
     "wof:name":"Sakura",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

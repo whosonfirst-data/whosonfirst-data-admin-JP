@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"139.96333,40.08,140.00333,40.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hamada"
     ],
@@ -116,8 +120,7 @@
         "\u0413\u0430\u043c\u0430\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Hamata",
-        "Hamada"
+        "Hamata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1209823411,
-    "wof:lastmodified":1564167981,
+    "wof:lastmodified":1566725731,
     "wof:name":"Hamada",
     "wof:parent_id":1108740065,
     "wof:placetype":"locality",

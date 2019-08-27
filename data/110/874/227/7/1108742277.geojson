@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.100181,
     "lbl:longitude":137.048187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aichi Ken",
     "meso:gadm_admin":"T\u014dg\u014d",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":137.048187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Togo"
     ],
@@ -612,7 +615,7 @@
         "ITogo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -632,7 +635,7 @@
         }
     ],
     "wof:id":1108742277,
-    "wof:lastmodified":1564168930,
+    "wof:lastmodified":1566725949,
     "wof:name":"Togo",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

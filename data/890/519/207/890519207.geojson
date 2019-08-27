@@ -11,14 +11,18 @@
     "geom:longitude":131.01667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":19986,
+    "gn:population":19986,
     "iso:country":"JP",
+    "lbl:bbox":"130.99667,31.63,131.03667,31.67",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:jpn_x_preferred":[
         "\u672b\u5409\u753a\u4e8c\u4e4b\u65b9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sueyoshich\u014d-ninokata"
     ],
     "qs:name":"Sueyoshi",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1851542,
         "gp:id":28493070,
-        "qs:id":564933
+        "qs_pg:id":564933
     },
     "wof:country":"JP",
     "wof:created":1469056095,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890519207,
-    "wof:lastmodified":1505343912,
+    "wof:lastmodified":1566726353,
     "wof:name":"Sueyoshi",
     "wof:parent_id":890524131,
     "wof:placetype":"locality",

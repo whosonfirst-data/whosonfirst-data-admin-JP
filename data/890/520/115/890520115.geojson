@@ -11,17 +11,21 @@
     "geom:longitude":135.48222,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"135.38222,34.81382,135.58222,35.01382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u8c4a\u80fd\u753a"
     ],
     "name:jpn_x_variant":[
         "\u3068\u3088\u306e\u3061\u3087\u3046"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Toyono Ch\u014d"
     ],
     "qs:name":"Toyono-ch\u014d",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7391687,
-        "qs:id":1154539
+        "qs_pg:id":1154539
     },
     "wof:country":"JP",
     "wof:created":1469056130,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890520115,
-    "wof:lastmodified":1505343916,
+    "wof:lastmodified":1566726388,
     "wof:name":"Toyono-ch\u014d",
     "wof:parent_id":1108742483,
     "wof:placetype":"localadmin",

@@ -16,10 +16,13 @@
     "iso:country":"JP",
     "lbl:latitude":40.684803,
     "lbl:longitude":141.361162,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":40.684803,
     "mps:longitude":141.361162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0627\u0648\u0627"
     ],
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014cmisawa"
     ],
     "name:urd_x_preferred":[
@@ -224,7 +227,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1136,
     "wof:belongsto":[
@@ -237,10 +240,12 @@
     "wof:concordances":{
         "gn:id":2129211,
         "gp:id":1117733,
-        "qs:id":896731,
-        "qs_pg:id":1243632,
+        "qs_pg:id":896731,
         "wd:id":"Q496401",
         "wk:page":"Misawa, Aomori"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243632
     },
     "wof:country":"JP",
     "wof:geomhash":"ed3f089290ed3d8395547d69ba31a9aa",
@@ -254,7 +259,7 @@
         }
     ],
     "wof:id":102032039,
-    "wof:lastmodified":1563290221,
+    "wof:lastmodified":1566724942,
     "wof:name":"Misawa",
     "wof:parent_id":890524885,
     "wof:placetype":"locality",

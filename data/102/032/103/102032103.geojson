@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.958466,
     "lbl:longitude":140.321166,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.958466,
     "mps:longitude":140.321166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u0634\u064a\u0643\u064a"
     ],
@@ -165,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0430\u0441\u0456\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "sakuragawa"
     ],
     "name:urd_x_preferred":[
@@ -200,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":273,
     "wof:belongsto":[
@@ -214,7 +217,6 @@
         "fct:id":"133fd4ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6822108,
         "gp:id":28379172,
-        "qs:id":1039095,
         "qs_pg:id":1039095,
         "wd:id":"Q838675",
         "wk:page":"Inashiki, Ibaraki"
@@ -234,7 +236,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290193,
+    "wof:lastmodified":1566724940,
     "wof:name":"Inashiki",
     "wof:parent_id":1108740287,
     "wof:placetype":"locality",

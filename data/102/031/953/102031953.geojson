@@ -12,10 +12,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.133387,
     "lbl:longitude":140.015259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.133387,
     "mps:longitude":140.015259,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maebara Station"
     ],
@@ -30,7 +33,7 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc5d0\ubc14\ub77c \uc5ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maibara"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191569,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102031953,
-    "wof:lastmodified":1563289976,
+    "wof:lastmodified":1566724921,
     "wof:name":"Maebara",
     "wof:parent_id":1108741611,
     "wof:placetype":"locality",

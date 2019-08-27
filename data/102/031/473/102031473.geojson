@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.973559,
     "lbl:longitude":139.844974,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.973559,
     "mps:longitude":139.844974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u062f\u0627"
     ],
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -222,7 +225,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1855078,
-        "qs:id":137126,
         "qs_pg:id":137126,
         "wd:id":"Q328619"
     },
@@ -237,7 +239,7 @@
         }
     ],
     "wof:id":102031473,
-    "wof:lastmodified":1563290131,
+    "wof:lastmodified":1566724934,
     "wof:name":"Noda",
     "wof:parent_id":1108741593,
     "wof:placetype":"locality",

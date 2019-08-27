@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.398108,
     "lbl:longitude":138.262576,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.398108,
     "mps:longitude":138.262576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u062f\u0627"
     ],
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":537,
     "wof:belongsto":[
@@ -228,7 +231,6 @@
         "fct:id":"13402d46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1849429,
         "gp:id":1118456,
-        "qs:id":351298,
         "qs_pg:id":351298,
         "wd:id":"Q844852",
         "wk:page":"Ueda, Nagano"
@@ -247,7 +249,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290022,
+    "wof:lastmodified":1566724925,
     "wof:name":"Ueda",
     "wof:parent_id":1108741979,
     "wof:placetype":"locality",

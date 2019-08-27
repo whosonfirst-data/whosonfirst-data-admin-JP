@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.299435,
     "lbl:longitude":136.939087,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.299435,
     "mps:longitude":136.939087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0643\u064a"
     ],
@@ -229,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":413,
     "wof:belongsto":[
@@ -242,10 +245,12 @@
     "wof:concordances":{
         "gn:id":1858926,
         "gp:id":1117564,
-        "qs:id":1111050,
         "qs_pg:id":137147,
         "wd:id":"Q389537",
         "wk:page":"Komaki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1111050
     },
     "wof:country":"JP",
     "wof:geomhash":"b0b985bc7d193c9b5c7aae62aebe904b",
@@ -259,7 +264,7 @@
         }
     ],
     "wof:id":102031601,
-    "wof:lastmodified":1563290147,
+    "wof:lastmodified":1566724936,
     "wof:name":"Komaki",
     "wof:parent_id":890524675,
     "wof:placetype":"locality",

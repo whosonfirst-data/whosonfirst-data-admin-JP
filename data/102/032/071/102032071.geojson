@@ -16,6 +16,8 @@
     "iso:country":"JP",
     "lbl:latitude":43.788688,
     "lbl:longitude":142.362325,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.788688,
     "mps:longitude":142.362325,
     "mz:hierarchy_label":1,
@@ -366,7 +368,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1233,
     "wof:belongsto":[
@@ -379,10 +381,12 @@
     "wof:concordances":{
         "gn:id":2130629,
         "gp:id":1116988,
-        "qs:id":1086903,
         "qs_pg:id":1033845,
         "wd:id":"Q200740",
         "wk:page":"Asahikawa, Hokkaido"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086903
     },
     "wof:country":"JP",
     "wof:geomhash":"0b4a529f3d715ae121e828db6a50b289",
@@ -396,7 +400,7 @@
         }
     ],
     "wof:id":102032071,
-    "wof:lastmodified":1563290208,
+    "wof:lastmodified":1566724941,
     "wof:name":"Asahikawa",
     "wof:parent_id":890524555,
     "wof:placetype":"locality",

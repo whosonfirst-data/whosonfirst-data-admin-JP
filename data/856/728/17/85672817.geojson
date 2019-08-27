@@ -23,6 +23,7 @@
     "lbl:bbox":"139.279417452,35.5330801096,140.147167867,35.813461192",
     "lbl:latitude":35.675099,
     "lbl:longitude":139.393288,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tokyo To",
     "meso:name_loc":"\u6771\u4eac\u90fd",
     "mps:latitude":35.661208,
@@ -727,7 +728,6 @@
         "\u0422\u043e\u043a\u0456\u043e"
     ],
     "name:und_x_variant":[
-        "\u6771\u4eac\u90fd",
         "Tokyo To"
     ],
     "name:urd_x_preferred":[
@@ -864,9 +864,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"2,145",
     "statoids:area_mi":"828",
     "statoids:as_of_date":"2010-10-01",
@@ -880,7 +880,6 @@
     "statoids:timezone":"+9",
     "statoids:type":"metropolis",
     "wd:wordcount":7885,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632429
@@ -893,7 +892,7 @@
         "hasc:id":"JP.TK",
         "iso:id":"JP-13",
         "loc:id":"n79034998",
-        "qs:id":184386,
+        "qs_pg:id":184386,
         "wd:id":"Q1490",
         "wk:page":"Tokyo"
     },
@@ -916,11 +915,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724594,
+    "wof:lastmodified":1566725307,
     "wof:name":"Tokyo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"metropolis",
     "wof:population":13159388,
     "wof:population_rank":14,

@@ -16,6 +16,8 @@
     "iso:country":"JP",
     "lbl:latitude":43.802805,
     "lbl:longitude":143.882171,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.802805,
     "mps:longitude":143.882171,
     "mz:hierarchy_label":1,
@@ -204,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0442\u0430\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Notsukeushi"
     ],
     "name:urd_x_preferred":[
@@ -345,7 +347,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1066,
     "wof:belongsto":[
@@ -358,10 +360,12 @@
     "wof:concordances":{
         "gn:id":2129537,
         "gp:id":1117535,
-        "qs:id":1086922,
         "qs_pg:id":372934,
         "wd:id":"Q265555",
         "wk:page":"Kitami, Hokkaido"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086922
     },
     "wof:country":"JP",
     "wof:geomhash":"1ef11086562da57cc7d87332451585fc",
@@ -375,7 +379,7 @@
         }
     ],
     "wof:id":102032047,
-    "wof:lastmodified":1563290211,
+    "wof:lastmodified":1566724941,
     "wof:name":"Kitami",
     "wof:parent_id":890520783,
     "wof:placetype":"locality",

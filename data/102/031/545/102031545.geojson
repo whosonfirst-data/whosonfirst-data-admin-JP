@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.777716,
     "lbl:longitude":135.038452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.777716,
     "mps:longitude":135.038452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u064a"
     ],
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":154,
     "wof:belongsto":[
@@ -218,10 +221,12 @@
     "wof:concordances":{
         "gn:id":1857276,
         "gp:id":1117711,
-        "qs:id":1167010,
         "qs_pg:id":137137,
         "wd:id":"Q31238",
         "wk:page":"Miki, Hy\u014dgo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1167010
     },
     "wof:country":"JP",
     "wof:geomhash":"58262cb1b6af43ee335607cb7db4e770",
@@ -235,7 +240,7 @@
         }
     ],
     "wof:id":102031545,
-    "wof:lastmodified":1563290071,
+    "wof:lastmodified":1566724929,
     "wof:name":"Miki",
     "wof:parent_id":890520179,
     "wof:placetype":"locality",

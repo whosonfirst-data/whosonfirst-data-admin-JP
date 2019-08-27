@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.748827,
     "lbl:longitude":139.606809,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Nerima",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":139.606809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Nerima"
     ],
@@ -167,7 +170,7 @@
         "\u7df4\u99ac\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1108741721,
-    "wof:lastmodified":1564169016,
+    "wof:lastmodified":1566725972,
     "wof:name":"Nerima",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

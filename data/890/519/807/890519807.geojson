@@ -11,10 +11,14 @@
     "geom:longitude":136.80761,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"136.70761,34.96764,136.90761,35.16764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u98db\u5cf6\u6751"
     ],
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7354044,
-        "qs:id":853885
+        "qs_pg:id":853885
     },
     "wof:country":"JP",
     "wof:created":1469056117,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890519807,
-    "wof:lastmodified":1505343915,
+    "wof:lastmodified":1566726353,
     "wof:name":"Tobishima-mura",
     "wof:parent_id":1108742293,
     "wof:placetype":"localadmin",

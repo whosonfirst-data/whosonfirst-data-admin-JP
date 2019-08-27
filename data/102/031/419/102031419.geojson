@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.691944,
     "lbl:longitude":138.202515,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":34.691944,
     "mps:longitude":138.202515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Sagara"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":1853280,
         "gp:id":28438599,
-        "qs:id":137116,
         "qs_pg:id":137116,
         "wd:id":"Q7399037",
         "wk:page":"Sagara, Shizuoka"
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102031419,
-    "wof:lastmodified":1563290105,
+    "wof:lastmodified":1566724932,
     "wof:name":"Sagara",
     "wof:parent_id":890520563,
     "wof:placetype":"locality",

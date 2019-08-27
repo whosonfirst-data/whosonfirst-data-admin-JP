@@ -11,13 +11,15 @@
     "geom:longitude":134.912713,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Awaji"
     ],
     "lbl:latitude":34.487669,
     "lbl:longitude":134.902711,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hyogo Ken",
     "meso:gadm_admin":"Awaji",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":134.902711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0627\u062c\u064a\u060c \u0647\u064a\u0648\u063a\u0648"
     ],
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0430\u0434\u0437\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Awaji-shi"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -221,7 +224,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7370819,
-        "qs:id":1041205,
+        "qs_pg:id":1041205,
         "wd:id":"Q373107"
     },
     "wof:country":"JP",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":890522917,
-    "wof:lastmodified":1563296526,
+    "wof:lastmodified":1566726469,
     "wof:name":"Awaji",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

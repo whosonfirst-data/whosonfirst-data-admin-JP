@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.327182,
     "lbl:longitude":139.457893,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.327182,
     "mps:longitude":139.457893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0634\u064a\u0643\u0627\u063a\u0627"
     ],
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0456\u043a\u0430\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asikaga"
     ],
     "name:urd_x_preferred":[
@@ -216,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":586,
     "wof:belongsto":[
@@ -230,7 +233,6 @@
         "fct:id":"133fd8e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1865005,
         "gp:id":1116992,
-        "qs:id":137219,
         "qs_pg:id":137219,
         "wd:id":"Q374477",
         "wk:page":"Ashikaga, Tochigi"
@@ -250,7 +252,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290106,
+    "wof:lastmodified":1566724932,
     "wof:name":"Ashikaga",
     "wof:parent_id":1108740323,
     "wof:placetype":"locality",

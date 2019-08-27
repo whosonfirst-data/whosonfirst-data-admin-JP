@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.97947,
     "lbl:longitude":134.188671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Okayama Ken",
     "meso:gadm_admin":"Mimasaka",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":134.188671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0645\u0627\u0633\u0627\u0643\u0627\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -191,7 +194,7 @@
         "\u7f8e\u4f5c\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1108742757,
-    "wof:lastmodified":1563294326,
+    "wof:lastmodified":1566725957,
     "wof:name":"Mimasaka",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

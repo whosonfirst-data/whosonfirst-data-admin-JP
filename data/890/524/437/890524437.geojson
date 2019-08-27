@@ -11,13 +11,15 @@
     "geom:longitude":130.660115,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Iizuka Shi"
     ],
     "lbl:latitude":33.639586,
     "lbl:longitude":130.661755,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukuoka Ken",
     "meso:gadm_admin":"Iizuka",
     "meso:gadm_hasc2":"JP.FO.IZ",
@@ -33,6 +35,7 @@
     "mps:longitude":130.661755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0632\u0648\u0643\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
@@ -203,9 +206,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0457\u0434\u0437\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Iizuka"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0632\u0648\u06a9\u0627"
     ],
@@ -229,9 +229,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"72",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -251,7 +251,7 @@
     "wof:concordances":{
         "gn:id":1861834,
         "hasc:id":"JP.FO.IZ",
-        "qs:id":1028143,
+        "qs_pg:id":1028143,
         "wd:id":"Q328605"
     },
     "wof:country":"JP",
@@ -266,7 +266,7 @@
         }
     ],
     "wof:id":890524437,
-    "wof:lastmodified":1563296656,
+    "wof:lastmodified":1566726492,
     "wof:name":"Iizuka",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

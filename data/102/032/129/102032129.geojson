@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.773285,
     "lbl:longitude":139.306575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.773285,
     "mps:longitude":139.306575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0648\u0631\u0627"
     ],
@@ -216,7 +219,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":379,
     "wof:belongsto":[
         102191569,
@@ -228,7 +231,7 @@
     "wof:concordances":{
         "gn:id":6822134,
         "gp:id":15015474,
-        "qs:id":1087182,
+        "qs_pg:id":1087182,
         "wd:id":"Q270465"
     },
     "wof:country":"JP",
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":102032129,
-    "wof:lastmodified":1563290223,
+    "wof:lastmodified":1566724942,
     "wof:name":"Hamura",
     "wof:parent_id":1108741749,
     "wof:placetype":"locality",

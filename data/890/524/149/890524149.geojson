@@ -11,17 +11,21 @@
     "geom:longitude":134.40609,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"134.30609,34.03076,134.50609,34.23076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u4e0a\u677f\u753a"
     ],
     "name:jpn_x_variant":[
         "\u304b\u307f\u3044\u305f\u3061\u3087\u3046"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamiita Ch\u014d"
     ],
     "qs:name":"Kamiita-ch\u014d",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7406332,
-        "qs:id":380601
+        "qs_pg:id":380601
     },
     "wof:country":"JP",
     "wof:created":1469056328,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890524149,
-    "wof:lastmodified":1505343924,
+    "wof:lastmodified":1566726505,
     "wof:name":"Kamiita-ch\u014d",
     "wof:parent_id":1108742875,
     "wof:placetype":"localadmin",

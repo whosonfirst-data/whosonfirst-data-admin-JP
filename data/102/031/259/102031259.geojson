@@ -12,10 +12,13 @@
     "iso:country":"JP",
     "lbl:latitude":37.300275,
     "lbl:longitude":136.96106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.300275,
     "mps:longitude":136.96106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062c\u064a\u0645\u0627"
     ],
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0434\u0437\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wazima"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1379,
     "wof:belongsto":[
         102191569,
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":102031259,
-    "wof:lastmodified":1563290029,
+    "wof:lastmodified":1566724925,
     "wof:name":"Wajima",
     "wof:parent_id":890523277,
     "wof:placetype":"locality",

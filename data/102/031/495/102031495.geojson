@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":26.211638,
     "lbl:longitude":127.693438,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.211638,
     "mps:longitude":127.693438,
     "mz:hierarchy_label":1,
@@ -253,7 +255,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nafa"
     ],
     "name:urd_x_preferred":[
@@ -383,7 +385,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -396,7 +398,6 @@
         "fct:id":"1340e7a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1856035,
         "gp:id":1117818,
-        "qs:id":808974,
         "qs_pg:id":808974,
         "wd:id":"Q181966"
     },
@@ -415,7 +416,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290152,
+    "wof:lastmodified":1566724936,
     "wof:name":"Naha-shi",
     "wof:parent_id":1108743371,
     "wof:placetype":"locality",

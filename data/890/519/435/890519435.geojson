@@ -11,10 +11,14 @@
     "geom:longitude":140.77028,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":22788,
+    "gn:population":22788,
     "iso:country":"JP",
+    "lbl:bbox":"140.75028,43.18389,140.79028,43.22389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0627\u0634\u064a"
     ],
@@ -81,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0457\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minatomachi"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2129218,
-        "qs:id":572672,
+        "qs_pg:id":572672,
         "wd:id":"Q1348748",
         "wk:page":"Yoichi"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890519435,
-    "wof:lastmodified":1563295997,
+    "wof:lastmodified":1566726354,
     "wof:name":"Yoichi",
     "wof:parent_id":1108739607,
     "wof:placetype":"locality",

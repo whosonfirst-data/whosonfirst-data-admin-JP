@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":34.246767,
     "lbl:longitude":132.570087,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.246767,
     "mps:longitude":132.570087,
     "mz:hierarchy_label":1,
@@ -324,7 +326,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1191,
     "wof:belongsto":[
@@ -338,7 +340,6 @@
         "fct:id":"13409614-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1858296,
         "gp:id":1117620,
-        "qs:id":461027,
         "qs_pg:id":461027,
         "wd:id":"Q223439",
         "wk:page":"Kure, Hiroshima"
@@ -357,7 +358,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290184,
+    "wof:lastmodified":1566724939,
     "wof:name":"Kure",
     "wof:parent_id":1108742785,
     "wof:placetype":"locality",

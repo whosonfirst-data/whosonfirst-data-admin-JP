@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":36.686274,
     "lbl:longitude":137.20174,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.686274,
     "mps:longitude":137.20174,
     "mz:hierarchy_label":1,
@@ -222,9 +224,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Toyama"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u06cc\u0627\u0645\u0627\u060c \u062a\u0648\u06cc\u0627\u0645\u0627"
     ],
@@ -355,7 +354,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":884,
     "wof:belongsto":[
@@ -369,10 +368,12 @@
         "fct:id":"13401b12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1849876,
         "gp:id":1118400,
-        "qs:id":351300,
-        "qs_pg:id":1111137,
+        "qs_pg:id":351300,
         "wd:id":"Q204266",
         "wk:page":"Toyama, Toyama"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1111137
     },
     "wof:country":"JP",
     "wof:geomhash":"b53944cb4462c2e379e35686bce032ee",
@@ -389,7 +390,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290031,
+    "wof:lastmodified":1566724926,
     "wof:name":"Toyama-shi",
     "wof:parent_id":890524325,
     "wof:placetype":"locality",

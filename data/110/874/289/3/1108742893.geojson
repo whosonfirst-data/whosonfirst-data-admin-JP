@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.230675,
     "lbl:longitude":134.138235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kagawa Ken",
     "meso:gadm_admin":"Miki",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":134.138235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Miki"
     ],
@@ -80,7 +83,7 @@
         "Miki"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108742893,
-    "wof:lastmodified":1564168942,
+    "wof:lastmodified":1566725952,
     "wof:name":"Miki",
     "wof:parent_id":85672715,
     "wof:placetype":"county",

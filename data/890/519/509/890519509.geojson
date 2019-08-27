@@ -11,10 +11,14 @@
     "geom:longitude":139.70444,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":69646,
+    "gn:population":69646,
     "iso:country":"JP",
+    "lbl:bbox":"139.68444,35.80639,139.72444,35.84639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u0627\u0628\u064a\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
@@ -183,7 +187,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1848903,
-        "qs:id":137077,
+        "qs_pg:id":137077,
         "wd:id":"Q673010",
         "wk:page":"Warabi"
     },
@@ -200,7 +204,7 @@
         }
     ],
     "wof:id":890519509,
-    "wof:lastmodified":1563295970,
+    "wof:lastmodified":1566726351,
     "wof:name":"Warabi",
     "wof:parent_id":1108740451,
     "wof:placetype":"locality",

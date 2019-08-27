@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.545708,
     "lbl:longitude":135.746883,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nara Ken",
     "meso:gadm_admin":"K\u014dry\u014d",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":135.746883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Koryo"
     ],
@@ -57,7 +60,7 @@
         "\u9ad8\u9e97"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108742599,
-    "wof:lastmodified":1564168971,
+    "wof:lastmodified":1566725959,
     "wof:name":"Koryo",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

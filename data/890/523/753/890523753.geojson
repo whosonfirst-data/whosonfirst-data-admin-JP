@@ -11,17 +11,21 @@
     "geom:longitude":127.85278,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"127.75278,26.37595,127.95278,26.57595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u6069\u7d0d\u6751"
     ],
     "name:jpn_x_variant":[
         "\u304a\u3093\u306a\u305d\u3093"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unna-mura"
     ],
     "qs:name":"Onna-son",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1854034,
-        "qs:id":372431
+        "qs_pg:id":372431
     },
     "wof:country":"JP",
     "wof:created":1469056315,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890523753,
-    "wof:lastmodified":1505343923,
+    "wof:lastmodified":1566726471,
     "wof:name":"Onna-son",
     "wof:parent_id":1108743395,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":127.82139,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":22412,
+    "gn:population":22412,
     "iso:country":"JP",
+    "lbl:bbox":"127.80139,26.40333,127.84139,26.44333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Ishikawa"
     ],
@@ -42,7 +46,7 @@
     "name:spa_x_preferred":[
         "Ishikawa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ishiza"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1861393,
-        "qs:id":1243535,
+        "qs_pg:id":1243535,
         "wd:id":"Q1044032",
         "wk:page":"Ishikawa"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890519587,
-    "wof:lastmodified":1563295954,
+    "wof:lastmodified":1566726349,
     "wof:name":"Ishikawa",
     "wof:parent_id":890520843,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.071302,
     "lbl:longitude":140.377807,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.071302,
     "mps:longitude":140.377807,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0648\u0645\u064a\u063a\u0627\u0648\u0631\u0627"
     ],
@@ -191,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":288,
     "wof:belongsto":[
         102191569,
@@ -203,7 +206,6 @@
     "wof:concordances":{
         "gn:id":6822098,
         "gp:id":28379341,
-        "qs:id":1013115,
         "qs_pg:id":1013115,
         "wd:id":"Q772817",
         "wk:page":"Kasumigaura, Ibaraki"
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":102032095,
-    "wof:lastmodified":1563290253,
+    "wof:lastmodified":1566724945,
     "wof:name":"Kasumigaura",
     "wof:parent_id":1108740289,
     "wof:placetype":"locality",

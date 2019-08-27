@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":33.637489,
     "lbl:longitude":130.731811,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":33.637489,
     "mps:longitude":130.731811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0632\u0648\u0643\u0627"
     ],
@@ -229,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":428,
     "wof:belongsto":[
@@ -242,10 +245,12 @@
     "wof:concordances":{
         "gn:id":1861835,
         "gp:id":1109368,
-        "qs:id":1086512,
         "qs_pg:id":137194,
         "wd:id":"Q328605",
         "wk:page":"Iizuka, Fukuoka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086512
     },
     "wof:country":"JP",
     "wof:geomhash":"d322e6dab77544c951f03365af7c5799",
@@ -259,7 +264,7 @@
         }
     ],
     "wof:id":102031719,
-    "wof:lastmodified":1563290171,
+    "wof:lastmodified":1566724938,
     "wof:name":"Iizuka",
     "wof:parent_id":890524437,
     "wof:placetype":"locality",

@@ -11,13 +11,15 @@
     "geom:longitude":137.112267,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tajimi Shi"
     ],
     "lbl:latitude":35.334428,
     "lbl:longitude":137.113323,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Tajimi",
     "meso:gadm_hasc2":"JP.GF.TJ",
@@ -33,6 +35,7 @@
     "mps:longitude":137.113323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062c\u064a\u0645\u064a \u063a\u064a\u0641\u0648"
     ],
@@ -185,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0434\u0437\u0456\u043c\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tajimi"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u062c\u06cc\u0645\u06cc"
     ],
@@ -211,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"78",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -233,7 +233,7 @@
     "wof:concordances":{
         "gn:id":1851192,
         "hasc:id":"JP.GF.TJ",
-        "qs:id":1027874,
+        "qs_pg:id":1027874,
         "wd:id":"Q819689"
     },
     "wof:country":"JP",
@@ -248,7 +248,7 @@
         }
     ],
     "wof:id":890524343,
-    "wof:lastmodified":1563296755,
+    "wof:lastmodified":1566726505,
     "wof:name":"Tajimi",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

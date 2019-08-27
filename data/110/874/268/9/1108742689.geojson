@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.376311,
     "lbl:longitude":134.306634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tottori Ken",
     "meso:gadm_admin":"Yazu",
     "meso:gadm_hasc2":"JP.TT.YZ",
@@ -30,6 +32,7 @@
     "mps:longitude":134.306634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yazu"
     ],
@@ -38,9 +41,9 @@
         "Yazu Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"876",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108742689,
-    "wof:lastmodified":1554759618,
+    "wof:lastmodified":1566725958,
     "wof:name":"Yazu",
     "wof:parent_id":85672685,
     "wof:placetype":"county",

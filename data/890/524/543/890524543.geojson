@@ -11,13 +11,15 @@
     "geom:longitude":141.534988,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kesennuma Shi"
     ],
     "lbl:latitude":38.86858,
     "lbl:longitude":141.530543,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miyagi Ken",
     "meso:gadm_admin":"Kesennuma",
     "meso:gadm_hasc2":"JP.MG.KS",
@@ -33,6 +35,7 @@
     "mps:longitude":141.530543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0633\u064a\u0646-\u0646\u0648\u0645\u0627\u060c \u0645\u064a\u0627\u063a\u064a"
     ],
@@ -204,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u0435\u043d-\u041d\u0443\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shishiori-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -230,9 +233,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"184",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -253,7 +256,7 @@
     "wof:concordances":{
         "gn:id":2112261,
         "hasc:id":"JP.MG.KS",
-        "qs:id":1028465,
+        "qs_pg:id":1028465,
         "wd:id":"Q235746",
         "wk:page":"Kesennuma"
     },
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":890524543,
-    "wof:lastmodified":1563296676,
+    "wof:lastmodified":1566726495,
     "wof:name":"Kesennuma",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

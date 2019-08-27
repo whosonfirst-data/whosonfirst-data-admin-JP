@@ -11,13 +11,15 @@
     "geom:longitude":137.948145,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Komagane Shi"
     ],
     "lbl:latitude":35.728026,
     "lbl:longitude":138.00424,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagano Ken",
     "meso:gadm_admin":"Komagane",
     "meso:gadm_hasc2":"JP.NN.KG",
@@ -33,6 +35,7 @@
     "mps:longitude":138.00424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u063a\u0627\u0646\u0647\u060c \u0646\u0627\u063a\u0627\u0646\u0648"
     ],
@@ -182,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0491\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Komagane"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0645\u0627\u062c\u0627\u0646\u06cc"
     ],
@@ -208,9 +208,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"166",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -230,7 +230,7 @@
     "wof:concordances":{
         "gn:id":1858938,
         "hasc:id":"JP.NN.KG",
-        "qs:id":1031812,
+        "qs_pg:id":1031812,
         "wd:id":"Q838684"
     },
     "wof:country":"JP",
@@ -245,7 +245,7 @@
         }
     ],
     "wof:id":890524673,
-    "wof:lastmodified":1563296650,
+    "wof:lastmodified":1566726491,
     "wof:name":"Komagane",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

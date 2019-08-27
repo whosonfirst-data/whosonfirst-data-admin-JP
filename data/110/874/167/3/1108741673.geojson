@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.241113,
     "lbl:longitude":140.212878,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiba Ken",
     "meso:gadm_admin":"\u014ctaki",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.212878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Otaki"
     ],
@@ -57,7 +60,7 @@
         "\u041e\u0442\u0430\u043a\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108741673,
-    "wof:lastmodified":1564168919,
+    "wof:lastmodified":1566725947,
     "wof:name":"Otaki",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":131.4,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":34318,
+    "gn:population":34318,
     "iso:country":"JP",
+    "lbl:bbox":"131.38,32.08,131.42,32.12",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tsumairi"
     ],
@@ -24,7 +28,7 @@
     "name:spa_x_preferred":[
         "Tsumairi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuma"
     ],
     "qs:name":"Tsuma",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1849647,
         "gp:id":28492242,
-        "qs:id":564669,
+        "qs_pg:id":564669,
         "wd:id":"Q7883237",
         "wk:page":"Tsumairi"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890520699,
-    "wof:lastmodified":1563296177,
+    "wof:lastmodified":1566726386,
     "wof:name":"Tsuma",
     "wof:parent_id":890524631,
     "wof:placetype":"locality",

@@ -13,14 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":40.60278,
     "gn:longitude":140.43734,
-    "gn:pop":39223,
+    "gn:population":39223,
     "iso:country":"JP",
     "lbl:latitude":33.17894,
     "lbl:longitude":130.380249,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":33.17894,
     "mps:longitude":130.380249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0627\u0648\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
@@ -208,7 +211,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -221,7 +224,7 @@
     "wof:concordances":{
         "gn:id":1854405,
         "gp:id":28483942,
-        "qs:id":89843,
+        "qs_pg:id":89843,
         "wd:id":"Q385248",
         "wk:page":"Okawa"
     },
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":102032317,
-    "wof:lastmodified":1563290268,
+    "wof:lastmodified":1566724946,
     "wof:name":"\u014ckawa",
     "wof:parent_id":890524587,
     "wof:placetype":"locality",

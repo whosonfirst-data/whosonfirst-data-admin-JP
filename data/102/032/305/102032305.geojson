@@ -13,14 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":40.80133,
     "gn:longitude":141.26916,
-    "gn:pop":41720,
+    "gn:population":41720,
     "iso:country":"JP",
     "lbl:latitude":35.724218,
     "lbl:longitude":140.652466,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.724218,
     "mps:longitude":140.652466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0622\u0633\u0627\u0647\u064a"
     ],
@@ -128,7 +131,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":250,
     "wof:belongsto":[
@@ -141,7 +144,7 @@
     "wof:concordances":{
         "gn:id":2113077,
         "gp:id":28411793,
-        "qs:id":1033830,
+        "qs_pg:id":1033830,
         "wd:id":"Q226462",
         "wk:page":"Asahi"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102032305,
-    "wof:lastmodified":1563290238,
+    "wof:lastmodified":1566724943,
     "wof:name":"Asahi",
     "wof:parent_id":1108741601,
     "wof:placetype":"locality",

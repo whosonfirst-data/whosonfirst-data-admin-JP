@@ -11,10 +11,14 @@
     "geom:longitude":133.95,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":67786,
+    "gn:population":67786,
     "iso:country":"JP",
+    "lbl:bbox":"133.93,34.46333,133.97,34.50333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0627\u0646\u0648"
     ],
@@ -182,7 +186,7 @@
     "wof:concordances":{
         "gn:id":1850742,
         "gp:id":1118465,
-        "qs:id":89756,
+        "qs_pg:id":89756,
         "wd:id":"Q850335"
     },
     "wof:country":"JP",
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":890531749,
-    "wof:lastmodified":1563296356,
+    "wof:lastmodified":1566726428,
     "wof:name":"Tamano",
     "wof:parent_id":85672675,
     "wof:placetype":"locality",

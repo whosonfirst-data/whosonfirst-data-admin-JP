@@ -11,13 +11,15 @@
     "geom:longitude":139.492978,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Inagi Shi"
     ],
     "lbl:latitude":35.63534,
     "lbl:longitude":139.492394,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Inagi",
     "meso:gadm_hasc2":"JP.TK.IN",
@@ -33,6 +35,7 @@
     "mps:longitude":139.492394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u063a\u064a\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
@@ -198,9 +201,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0430\u0491\u0456"
     ],
-    "name:unk_x_variant":[
-        "Inagi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0627\u062c\u06cc"
     ],
@@ -224,9 +224,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"18",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -246,7 +246,7 @@
     "wof:concordances":{
         "gn:id":1861634,
         "hasc:id":"JP.TK.IN",
-        "qs:id":1031848,
+        "qs_pg:id":1031848,
         "wd:id":"Q317847"
     },
     "wof:country":"JP",
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":890524695,
-    "wof:lastmodified":1563296668,
+    "wof:lastmodified":1566726494,
     "wof:name":"Inagi",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

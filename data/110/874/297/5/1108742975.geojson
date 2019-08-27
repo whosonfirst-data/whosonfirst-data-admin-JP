@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.582666,
     "lbl:longitude":133.128541,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kochi Ken",
     "meso:gadm_admin":"Niyodogawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":133.128541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Niyodogawa"
     ],
@@ -38,7 +41,7 @@
         "Niyodogawa Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108742975,
-    "wof:lastmodified":1554759623,
+    "wof:lastmodified":1566725999,
     "wof:name":"Niyodogawa",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

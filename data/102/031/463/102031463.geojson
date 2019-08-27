@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.357696,
     "lbl:longitude":136.653442,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.357696,
     "mps:longitude":136.653442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u063a\u0627\u0643\u064a"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0491\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oaki"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":733,
     "wof:belongsto":[
@@ -223,7 +226,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1854703,
-        "qs:id":1033387,
         "qs_pg:id":1033387,
         "wd:id":"Q384926",
         "wk:page":"\u014cgaki, Gifu"
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":102031463,
-    "wof:lastmodified":1563290032,
+    "wof:lastmodified":1566724926,
     "wof:name":"\u014cgaki",
     "wof:parent_id":890524639,
     "wof:placetype":"locality",

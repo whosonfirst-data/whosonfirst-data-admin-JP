@@ -11,10 +11,14 @@
     "geom:longitude":140.83333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":39209,
+    "gn:population":39209,
     "iso:country":"JP",
+    "lbl:bbox":"140.81333,35.71333,140.85333,35.75333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hasaki"
     ],
@@ -24,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u6ce2\u5d0e\u753a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Namisaki"
     ],
     "qs:name":"Hasaki",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2112802,
         "gp:id":28410763,
-        "qs:id":572431,
+        "qs_pg:id":572431,
         "wd:id":"Q11555522"
     },
     "wof:country":"JP",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890519421,
-    "wof:lastmodified":1561776448,
+    "wof:lastmodified":1566726352,
     "wof:name":"Hasaki",
     "wof:parent_id":1108740533,
     "wof:placetype":"locality",

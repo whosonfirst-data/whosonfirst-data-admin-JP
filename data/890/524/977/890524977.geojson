@@ -11,13 +11,15 @@
     "geom:longitude":135.289112,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Sennan Shi"
     ],
     "lbl:latitude":34.350268,
     "lbl:longitude":135.294559,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Osaka Fu",
     "meso:gadm_admin":"NO DATA",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":135.294559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0646\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u043d\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sennan-shi"
     ],
     "name:urd_x_preferred":[
@@ -201,9 +204,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"70",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -223,7 +226,7 @@
     "wof:concordances":{
         "gn:id":7391700,
         "hasc:id":"JP.OS.SG",
-        "qs:id":1048058,
+        "qs_pg:id":1048058,
         "wd:id":"Q838809"
     },
     "wof:country":"JP",
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":890524977,
-    "wof:lastmodified":1563296670,
+    "wof:lastmodified":1566726494,
     "wof:name":"Sennan",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.883742,
     "lbl:longitude":139.972477,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.883742,
     "mps:longitude":139.972477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0634\u064a\u0648\u0627"
     ],
@@ -243,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":829,
     "wof:belongsto":[
@@ -257,7 +260,6 @@
         "fct:id":"133ffa74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1859924,
         "gp:id":1117469,
-        "qs:id":137164,
         "qs_pg:id":137164,
         "wd:id":"Q319743",
         "wk:page":"Kashiwa"
@@ -276,7 +278,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289997,
+    "wof:lastmodified":1566724923,
     "wof:name":"Kashiwa",
     "wof:parent_id":1108741603,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":37.372318,
     "lbl:longitude":140.521022,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Fukushima Ken",
     "meso:name_loc":"\u798f\u5cf6\u770c",
     "mps:latitude":37.361536,
@@ -294,7 +295,7 @@
         "Fukushima prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb7\u0bbf\u0bae\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb7\u0bbf\u0bae\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c41\u0c15\u0c41\u0c37\u0c3f\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -321,10 +322,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0424\u0443\u043a\u0443\u0441\u0456\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "\u798f\u5cf6\u770c",
-        "Fukushima Ken"
-    ],
-    "name:unk_x_variant":[
         "Fukushima Ken"
     ],
     "name:urd_x_preferred":[
@@ -419,9 +416,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"13,781",
     "statoids:area_mi":"5,321",
     "statoids:as_of_date":"2010-10-01",
@@ -445,7 +442,7 @@
         "gp:id":2345858,
         "hasc:id":"JP.FS",
         "iso:id":"JP-07",
-        "qs:id":1208588,
+        "qs_pg:id":1208588,
         "wd:id":"Q71707",
         "wk:page":"Fukushima Prefecture"
     },
@@ -465,11 +462,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724593,
+    "wof:lastmodified":1566725307,
     "wof:name":"Fukushima",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":2029064,
     "wof:population_rank":12,

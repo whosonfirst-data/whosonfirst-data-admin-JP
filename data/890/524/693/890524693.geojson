@@ -11,13 +11,15 @@
     "geom:longitude":136.76332,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Inazawa Shi"
     ],
     "lbl:latitude":35.234401,
     "lbl:longitude":136.763317,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aichi Ken",
     "meso:gadm_admin":"Inazawa",
     "meso:gadm_hasc2":"JP.AI.IZ",
@@ -33,6 +35,7 @@
     "mps:longitude":136.763317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u0632\u0627\u0648\u0627\u060c \u0622\u064a\u062a\u0634\u064a"
     ],
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0430\u0434\u0437\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inasawa-shi"
     ],
     "name:urd_x_preferred":[
@@ -216,9 +219,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"48",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -239,7 +242,7 @@
     "wof:concordances":{
         "gn:id":1861601,
         "hasc:id":"JP.AI.IZ",
-        "qs:id":1031847,
+        "qs_pg:id":1031847,
         "wd:id":"Q389562",
         "wk:page":"Inazawa, Aichi"
     },
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":890524693,
-    "wof:lastmodified":1563296662,
+    "wof:lastmodified":1566726493,
     "wof:name":"Inazawa",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

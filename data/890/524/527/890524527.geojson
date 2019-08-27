@@ -11,17 +11,21 @@
     "geom:longitude":140.11667,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"140.01667,36.91667,140.21667,37.11667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u90a3\u9808\u753a"
     ],
     "name:jpn_x_variant":[
         "\u306a\u3059\u307e\u3061"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nasu"
     ],
     "qs:name":"Nasu-machi",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2111673,
-        "qs:id":1028448
+        "qs_pg:id":1028448
     },
     "wof:country":"JP",
     "wof:created":1469056342,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890524527,
-    "wof:lastmodified":1505343925,
+    "wof:lastmodified":1566726495,
     "wof:name":"Nasu-machi",
     "wof:parent_id":1108740353,
     "wof:placetype":"localadmin",

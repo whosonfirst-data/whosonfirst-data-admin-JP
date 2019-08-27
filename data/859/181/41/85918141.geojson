@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2615790.121413,
+    "geom:area_square_m":0.0,
     "geom:bbox":"135.211254,34.694644,135.211254,34.694644",
     "geom:latitude":34.694644,
     "geom:longitude":135.211254,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"135.206254,34.689644,135.216254,34.699644",
     "lbl:latitude":34.694644,
     "lbl:longitude":135.211254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.690981,
     "mps:longitude":135.214047,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "\u308f\u304d\u306e\u306f\u307e\u304b\u3044\u304c\u3093\u3069\u304a\u308a \uff11\u3061\u3087\u3046\u3081",
         "\u8107\u6d5c\u6d77\u5cb8\u901a \uff11\u4e01\u76ee",
         "\uff11\u3061\u3087\u3046\u3081"
-    ],
-    "name:unk_x_variant":[
-        "\uff11\u4e01\u76ee"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -68,18 +67,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672769,
         102191569,
         85632429,
         102031613,
-        1108742503,
-        85672769
+        1108742503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28566948,
-        "qs:id":229217
+        "qs_pg:id":229217
     },
     "wof:country":"JP",
     "wof:geomhash":"ecef54953638c0b9b450271dad64aba1",
@@ -97,7 +96,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1531938205,
+    "wof:lastmodified":1566725197,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031613,
     "wof:placetype":"neighbourhood",

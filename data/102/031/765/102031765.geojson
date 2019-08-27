@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.234419,
     "lbl:longitude":139.102474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.234419,
     "mps:longitude":139.102474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0643\u0648\u0646\u0647"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":788,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fb:id":"en.hakone",
         "gn:id":1863357,
         "nyt:id":"51631928824989418781",
-        "qs:id":372532,
         "qs_pg:id":372532,
         "wd:id":"Q671040"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":102031765,
-    "wof:lastmodified":1563289983,
+    "wof:lastmodified":1566724921,
     "wof:name":"Hakone",
     "wof:parent_id":1108741817,
     "wof:placetype":"locality",

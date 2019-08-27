@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"139.25278,35.55111,139.29278,35.59111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nakano"
     ],
@@ -75,8 +79,7 @@
     ],
     "name:und_x_variant":[
         "Kawawa",
-        "Kaawa",
-        "Nakano"
+        "Kaawa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1344020011,
-    "wof:lastmodified":1564165317,
+    "wof:lastmodified":1566725081,
     "wof:name":"Nakano",
     "wof:parent_id":890524363,
     "wof:placetype":"locality",

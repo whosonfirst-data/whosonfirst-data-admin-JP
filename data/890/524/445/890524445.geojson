@@ -11,13 +11,15 @@
     "geom:longitude":131.976944,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Hikari"
     ],
     "lbl:latitude":33.981442,
     "lbl:longitude":131.960606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yamaguchi Ken",
     "meso:gadm_admin":"Hikari",
     "meso:gadm_hasc2":"JP.YC.HK",
@@ -33,6 +35,7 @@
     "mps:longitude":131.960606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0643\u0627\u0631\u064a\u060c \u064a\u0627\u0645\u0627\u063a\u0648\u062a\u0634\u064a"
     ],
@@ -200,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u043a\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hikari-shi"
     ],
     "name:urd_x_preferred":[
@@ -226,7 +229,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -237,7 +240,7 @@
     "wof:concordances":{
         "gn:id":1862667,
         "hasc:id":"JP.YC.HK",
-        "qs:id":1028168,
+        "qs_pg:id":1028168,
         "wd:id":"Q823502"
     },
     "wof:country":"JP",
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":890524445,
-    "wof:lastmodified":1563296719,
+    "wof:lastmodified":1566726501,
     "wof:name":"Hikari",
     "wof:parent_id":85672689,
     "wof:placetype":"county",

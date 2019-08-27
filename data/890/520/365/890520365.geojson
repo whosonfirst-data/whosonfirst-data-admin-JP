@@ -11,13 +11,15 @@
     "geom:longitude":135.704137,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Katsuragi"
     ],
     "lbl:latitude":34.495802,
     "lbl:longitude":135.703501,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nara Ken",
     "meso:gadm_admin":"Katsuragi",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":135.703501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u0633\u0648\u0631\u0627\u063a\u064a\u060c \u0646\u0627\u0631\u0627"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0446\u0443\u0440\u0430\u0491\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katsuragi-shi"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -224,7 +227,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7412211,
-        "qs:id":1041353,
+        "qs_pg:id":1041353,
         "wd:id":"Q659672"
     },
     "wof:country":"JP",
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":890520365,
-    "wof:lastmodified":1563296086,
+    "wof:lastmodified":1566726375,
     "wof:name":"Katsuragi",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

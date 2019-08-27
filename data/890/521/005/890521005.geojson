@@ -11,13 +11,15 @@
     "geom:longitude":130.269422,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Minamisatsuma"
     ],
     "lbl:latitude":31.379917,
     "lbl:longitude":130.278111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kagoshima Ken",
     "meso:gadm_admin":"Minamisatsuma",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":130.278111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0645\u064a\u0633\u0627\u062a\u0633\u0648\u0645\u0627\u060c \u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0430\u043c\u0456-\u0421\u0430\u0446\u0443\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minamisatsuma-shi"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -225,7 +228,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7383994,
-        "qs:id":1245556,
+        "qs_pg:id":1245556,
         "wd:id":"Q15754",
         "wk:page":"Minamisatsuma"
     },
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":890521005,
-    "wof:lastmodified":1563295822,
+    "wof:lastmodified":1566726322,
     "wof:name":"Minamisatsuma",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

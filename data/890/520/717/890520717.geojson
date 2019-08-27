@@ -11,13 +11,15 @@
     "geom:longitude":137.621899,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kurobe Shi"
     ],
     "lbl:latitude":36.747847,
     "lbl:longitude":137.680813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Toyama Ken",
     "meso:gadm_admin":"Kurobe",
     "meso:gadm_hasc2":"JP.TY.KR",
@@ -33,6 +35,7 @@
     "mps:longitude":137.680813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0628\u064a\u060c \u062a\u0648\u064a\u0627\u0645\u0627"
     ],
@@ -197,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u043e\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurobe-shi"
     ],
     "name:urd_x_preferred":[
@@ -223,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"87",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -245,7 +248,7 @@
     "wof:concordances":{
         "gn:id":1858253,
         "hasc:id":"JP.TY.KR",
-        "qs:id":1027998,
+        "qs_pg:id":1027998,
         "wd:id":"Q753864"
     },
     "wof:country":"JP",
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":890520717,
-    "wof:lastmodified":1563296198,
+    "wof:lastmodified":1566726389,
     "wof:name":"Kurobe",
     "wof:parent_id":85672759,
     "wof:placetype":"county",

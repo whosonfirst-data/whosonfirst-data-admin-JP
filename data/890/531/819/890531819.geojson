@@ -11,10 +11,14 @@
     "geom:longitude":135.25,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":37612,
+    "gn:population":37612,
     "iso:country":"JP",
+    "lbl:bbox":"135.23,35.28,135.27,35.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0627\u0628\u0647"
     ],
@@ -200,7 +204,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1864873,
-        "qs:id":90111,
+        "qs_pg:id":90111,
         "wd:id":"Q694370"
     },
     "wof:country":"JP",
@@ -216,7 +220,7 @@
         }
     ],
     "wof:id":890531819,
-    "wof:lastmodified":1563296338,
+    "wof:lastmodified":1566726424,
     "wof:name":"Ayabe",
     "wof:parent_id":890524721,
     "wof:placetype":"locality",

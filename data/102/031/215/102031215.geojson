@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.458778,
     "lbl:longitude":139.343887,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.458778,
     "mps:longitude":139.343887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0633\u0648\u063a\u064a"
     ],
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0446\u0443\u0491\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atsuki"
     ],
     "name:urd_x_preferred":[
@@ -235,7 +238,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":652,
     "wof:belongsto":[
@@ -249,7 +252,6 @@
         "fct:id":"13400f28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1847963,
         "gp:id":1117007,
-        "qs:id":239989,
         "qs_pg:id":239989,
         "wd:id":"Q389711",
         "wk:page":"Atsugi, Kanagawa"
@@ -269,7 +271,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290117,
+    "wof:lastmodified":1566724933,
     "wof:name":"Atsugi",
     "wof:parent_id":1108741791,
     "wof:placetype":"locality",

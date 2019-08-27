@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.303787,
     "lbl:longitude":138.610459,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shizuoka Ken",
     "meso:gadm_admin":"Fujinomiya",
     "meso:gadm_hasc2":"JP.SZ.FN",
@@ -30,6 +32,7 @@
     "mps:longitude":138.610459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u0646\u0648\u0645\u064a\u0627\u060c \u0634\u064a\u0632\u0648\u0643\u0627"
     ],
@@ -194,9 +197,9 @@
         "\u5bcc\u58eb\u5bae\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"315",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":1108742191,
-    "wof:lastmodified":1563294310,
+    "wof:lastmodified":1566725954,
     "wof:name":"Fujinomiya",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

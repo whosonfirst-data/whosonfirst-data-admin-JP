@@ -11,10 +11,14 @@
     "geom:longitude":139.30278,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":32595,
+    "gn:population":32595,
     "iso:country":"JP",
+    "lbl:bbox":"139.28278,35.28306,139.32278,35.32306",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0633\u0648"
     ],
@@ -78,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0457\u0441\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u014ciso-machi"
-    ],
     "name:zho_x_preferred":[
         "\u5927\u78ef\u753a"
     ],
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1854492,
         "gp:id":28417422,
-        "qs:id":565296,
+        "qs_pg:id":565296,
         "wd:id":"Q385023"
     },
     "wof:country":"JP",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":890519263,
-    "wof:lastmodified":1563295997,
+    "wof:lastmodified":1566726355,
     "wof:name":"\u014ciso",
     "wof:parent_id":85672805,
     "wof:placetype":"locality",

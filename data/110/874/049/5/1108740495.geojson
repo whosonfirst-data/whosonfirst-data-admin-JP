@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":36.043117,
     "lbl:longitude":139.451736,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Saitama Ken",
     "meso:gadm_admin":"Yoshimi",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":139.451736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yoshimi"
     ],
@@ -41,7 +44,7 @@
         "\uc694\uc2dc\ubbf8"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108740495,
-    "wof:lastmodified":1564168956,
+    "wof:lastmodified":1566725956,
     "wof:name":"Yoshimi",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

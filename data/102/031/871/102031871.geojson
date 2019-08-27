@@ -12,10 +12,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.638345,
     "lbl:longitude":139.570421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.638345,
     "mps:longitude":139.570421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u064a\u0647"
     ],
@@ -212,7 +215,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":797,
     "wof:belongsto":[
         102191569,
@@ -225,7 +228,6 @@
         "fct:id":"13400794-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1907306,
         "gp:id":15015479,
-        "qs:id":137260,
         "qs_pg:id":137260,
         "wd:id":"Q86536"
     },
@@ -244,7 +246,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290125,
+    "wof:lastmodified":1566724934,
     "wof:name":"Komae",
     "wof:parent_id":1108741747,
     "wof:placetype":"locality",

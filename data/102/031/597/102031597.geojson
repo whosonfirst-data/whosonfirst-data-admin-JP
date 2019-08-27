@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.345763,
     "lbl:longitude":136.886428,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.345763,
     "mps:longitude":136.886428,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0627\u0646"
     ],
@@ -199,7 +202,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -212,10 +215,12 @@
     "wof:concordances":{
         "gn:id":1858836,
         "gp:id":1111070,
-        "qs:id":588578,
         "qs_pg:id":137145,
         "wd:id":"Q820496",
         "wk:page":"K\u014dnan, Aichi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":588578
     },
     "wof:country":"JP",
     "wof:geomhash":"6dfd5110ece4ade1bf4af4578abd501e",
@@ -228,7 +233,7 @@
         }
     ],
     "wof:id":102031597,
-    "wof:lastmodified":1563290090,
+    "wof:lastmodified":1566724931,
     "wof:name":"K\u014dnan",
     "wof:parent_id":1108742263,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.272532,
     "lbl:longitude":137.03247,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.272532,
     "mps:longitude":137.03247,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kasugai"
     ],
@@ -283,7 +286,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":28,
     "wof:belongsto":[
@@ -295,7 +298,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1859891,
-        "qs:id":137163,
         "qs_pg:id":137163,
         "wd:id":"Q6374874"
     },
@@ -311,7 +313,7 @@
         }
     ],
     "wof:id":102031639,
-    "wof:lastmodified":1563290145,
+    "wof:lastmodified":1566724935,
     "wof:name":"Kasugai",
     "wof:parent_id":890520733,
     "wof:placetype":"locality",

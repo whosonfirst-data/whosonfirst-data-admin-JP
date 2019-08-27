@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.792658,
     "lbl:longitude":132.72147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ehime Ken",
     "meso:gadm_admin":"Masaki",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":132.72147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Matsumae"
     ],
@@ -51,7 +54,7 @@
         "\u041c\u0430\u0446\u0443\u043c\u0430\u0435"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108742923,
-    "wof:lastmodified":1564168970,
+    "wof:lastmodified":1566725958,
     "wof:name":"Matsumae",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.037827,
     "lbl:longitude":138.12461,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.037827,
     "mps:longitude":138.12461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627"
     ],
@@ -162,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamisuwa"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":474,
     "wof:belongsto":[
@@ -221,10 +224,12 @@
     "wof:concordances":{
         "gn:id":1851368,
         "gp:id":1118248,
-        "qs:id":1086973,
-        "qs_pg:id":1237980,
+        "qs_pg:id":1086973,
         "wd:id":"Q846338",
         "wk:page":"Suwa, Nagano"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1237980
     },
     "wof:country":"JP",
     "wof:geomhash":"57974f366fc0de546283098807614b85",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":102031365,
-    "wof:lastmodified":1563289975,
+    "wof:lastmodified":1566724921,
     "wof:name":"Suwa",
     "wof:parent_id":890524349,
     "wof:placetype":"locality",

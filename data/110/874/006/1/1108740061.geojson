@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":39.990983,
     "lbl:longitude":140.303803,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Akita Ken",
     "meso:gadm_admin":"Kamikoani",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.303803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kamikoani"
     ],
@@ -38,7 +41,7 @@
         "Kamikoani Mura"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108740061,
-    "wof:lastmodified":1554759589,
+    "wof:lastmodified":1566725968,
     "wof:name":"Kamikoani",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

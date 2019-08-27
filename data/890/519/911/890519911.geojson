@@ -11,10 +11,14 @@
     "geom:longitude":140.37086,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"140.27086,35.26151,140.47086,35.46151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u064a\u0646\u0648\u0645\u064a\u0627"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0456\u043d\u043e\u043c\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ichinomiya Machi"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8304239,
-        "qs:id":1246186,
+        "qs_pg:id":1246186,
         "wd:id":"Q1203602",
         "wk:page":"Ichinomiya, Chiba"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890519911,
-    "wof:lastmodified":1563296001,
+    "wof:lastmodified":1566726355,
     "wof:name":"Ichinomiya-machi",
     "wof:parent_id":1108741659,
     "wof:placetype":"localadmin",

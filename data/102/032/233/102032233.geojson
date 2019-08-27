@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":3121840.211395,
+    "geom:area_square_m":3121840.211396,
     "geom:bbox":"138.927686639,34.6919652522,138.949510727,34.7099893162",
     "geom:latitude":34.700977,
     "geom:longitude":138.938599,
@@ -14,9 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.700977,
     "lbl:longitude":138.938598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.700977,
     "mps:longitude":138.938598,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Japan",
@@ -29,7 +33,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -42,7 +46,7 @@
         "gp:id":28438374
     },
     "wof:country":"JP",
-    "wof:geomhash":"14170e2b90859bff141bf97c4cad3e46",
+    "wof:geomhash":"04610320b602b8c25acf0c29a84c6f37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102032233,
-    "wof:lastmodified":1480369930,
+    "wof:lastmodified":1566724942,
     "wof:name":"\u4e0b\u7530",
     "wof:parent_id":890524625,
     "wof:placetype":"locality",
