@@ -11,13 +11,15 @@
     "geom:longitude":138.185637,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Makinohara"
     ],
     "lbl:latitude":34.749051,
     "lbl:longitude":138.18566,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shizuoka Ken",
     "meso:gadm_admin":"Makinohara",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":138.18566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u0646\u0648\u0647\u0627\u0631\u0627\u060c \u0634\u064a\u0632\u0648\u0643\u0627"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u043e\u0445\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makinohara-shi"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":381,
     "wof:belongsto":[
@@ -219,7 +222,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7418321,
-        "qs:id":1154633,
+        "qs_pg:id":1154633,
         "wd:id":"Q850527",
         "wk:page":"Makinohara"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":890520563,
-    "wof:lastmodified":1563296152,
+    "wof:lastmodified":1566726383,
     "wof:name":"Makinohara",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

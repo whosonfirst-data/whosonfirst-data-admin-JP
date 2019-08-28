@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.517157,
     "lbl:longitude":136.902836,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.517157,
     "mps:longitude":136.902836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u062a\u0648"
     ],
@@ -171,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Nanto"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0646\u062a\u0648"
     ],
@@ -206,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
     "wof:belongsto":[
@@ -220,7 +220,6 @@
         "fct:id":"13401cd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6694821,
         "gp:id":28379199,
-        "qs:id":160972,
         "qs_pg:id":160972,
         "wd:id":"Q646805",
         "wk:page":"Nanto, Toyama"
@@ -239,7 +238,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290245,
+    "wof:lastmodified":1566724944,
     "wof:name":"Nanto-shi",
     "wof:parent_id":1108741865,
     "wof:placetype":"locality",

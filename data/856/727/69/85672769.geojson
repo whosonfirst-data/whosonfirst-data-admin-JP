@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.034343,
     "lbl:longitude":134.86514,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Hyogo Ken",
     "meso:name_loc":"\u5175\u5eab\u770c",
     "mps:latitude":35.076324,
@@ -313,11 +314,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u0456\u043e\u0433\u043e"
     ],
     "name:und_x_variant":[
-        "\u5175\u5eab\u770c",
         "Hyogo Ken"
-    ],
-    "name:unk_x_variant":[
-        "Hy\u014dgo-ken"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0648\u06af\u0648 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -411,9 +408,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"8,362",
     "statoids:area_mi":"3,229",
     "statoids:as_of_date":"2010-10-01",
@@ -437,7 +434,7 @@
         "gp:id":2345862,
         "hasc:id":"JP.HG",
         "iso:id":"JP-28",
-        "qs:id":244823,
+        "qs_pg:id":244823,
         "wd:id":"Q130290",
         "wk:page":"Hy\u014dgo Prefecture"
     },
@@ -457,11 +454,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724596,
+    "wof:lastmodified":1566725310,
     "wof:name":"Hy\u014dgo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":5588133,
     "wof:population_rank":13,

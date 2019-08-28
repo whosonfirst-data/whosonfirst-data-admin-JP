@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.66064,
     "lbl:longitude":140.302775,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Chiba Ken",
     "meso:name_loc":"\u5343\u8449\u770c",
     "mps:latitude":35.352376,
@@ -273,7 +274,7 @@
         "Chiba prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc0\u0baa\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0b9a\u0bc0\u0baa\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c2c\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -294,11 +295,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u0456\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "\u5343\u8449\u770c",
         "Chiba Ken"
-    ],
-    "name:unk_x_variant":[
-        "\u3061\u3070\u3051\u3093"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0628\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -395,9 +392,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"5,103",
     "statoids:area_mi":"1,970",
     "statoids:as_of_date":"2010-10-01",
@@ -422,7 +419,7 @@
         "hasc:id":"JP.CH",
         "iso:id":"JP-12",
         "loc:id":"n81073721",
-        "qs:id":184374,
+        "qs_pg:id":184374,
         "wd:id":"Q80011",
         "wk:page":"Chiba Prefecture"
     },
@@ -442,11 +439,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724598,
+    "wof:lastmodified":1566725311,
     "wof:name":"Chiba",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":6216289,
     "wof:population_rank":13,

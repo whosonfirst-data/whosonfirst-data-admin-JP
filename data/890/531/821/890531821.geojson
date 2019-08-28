@@ -11,10 +11,14 @@
     "geom:longitude":134.65,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":55421,
+    "gn:population":55421,
     "iso:country":"JP",
+    "lbl:bbox":"134.63,33.89667,134.67,33.93667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646"
     ],
@@ -192,7 +196,7 @@
     "wof:concordances":{
         "gn:id":1865309,
         "gp:id":28477513,
-        "qs:id":90123,
+        "qs_pg:id":90123,
         "wd:id":"Q485583"
     },
     "wof:country":"JP",
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":890531821,
-    "wof:lastmodified":1563296338,
+    "wof:lastmodified":1566726424,
     "wof:name":"Anan",
     "wof:parent_id":890524497,
     "wof:placetype":"locality",

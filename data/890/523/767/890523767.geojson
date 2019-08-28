@@ -11,13 +11,15 @@
     "geom:longitude":139.561771,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":137479,
+    "gn:population":137479,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Musashino Shi"
     ],
     "lbl:latitude":35.711204,
     "lbl:longitude":139.565234,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Musashino",
     "meso:gadm_hasc2":"JP.TK.MS",
@@ -33,6 +35,7 @@
     "mps:longitude":139.565234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0634\u064a\u0646\u0648\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
@@ -209,9 +212,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0430\u0441\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Musashino-shi"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0627\u0634\u06cc\u0646\u0648"
     ],
@@ -235,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"11",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -257,7 +257,7 @@
     "wof:concordances":{
         "gn:id":1856366,
         "hasc:id":"JP.TK.MS",
-        "qs:id":372450,
+        "qs_pg:id":372450,
         "wd:id":"Q210661"
     },
     "wof:country":"JP",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":890523767,
-    "wof:lastmodified":1563296579,
+    "wof:lastmodified":1566726479,
     "wof:name":"Musashino",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

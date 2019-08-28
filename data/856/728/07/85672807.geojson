@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.022293,
     "lbl:longitude":139.356126,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Saitama Ken",
     "meso:name_loc":"\u57fc\u7389\u770c",
     "mps:latitude":36.006374,
@@ -291,7 +292,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0421\u0430\u0439\u0442\u0430\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "\u57fc\u7389\u770c",
         "Saitama Ken"
     ],
     "name:urd_x_preferred":[
@@ -392,9 +392,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"3,799",
     "statoids:area_mi":"1,467",
     "statoids:as_of_date":"2010-10-01",
@@ -420,7 +420,7 @@
         "hasc:id":"JP.ST",
         "iso:id":"JP-11",
         "loc:id":"n80024257",
-        "qs:id":1248998,
+        "qs_pg:id":1248998,
         "unlc:id":"JP-11",
         "wd:id":"Q128186",
         "wk:page":"Saitama Prefecture"
@@ -441,11 +441,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724594,
+    "wof:lastmodified":1566725308,
     "wof:name":"Saitama",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":7194556,
     "wof:population_rank":13,

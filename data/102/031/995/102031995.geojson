@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.614457,
     "lbl:longitude":140.127845,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.614457,
     "mps:longitude":140.127845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Chiba"
     ],
@@ -259,7 +262,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiba"
     ],
     "name:urd_x_preferred":[
@@ -303,7 +306,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1811,
     "wof:belongsto":[
@@ -317,7 +320,6 @@
         "fct:id":"1340f06e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2113015,
         "gp:id":1117034,
-        "qs:id":1033829,
         "qs_pg:id":1033829,
         "wd:id":"Q170616"
     },
@@ -336,7 +338,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290080,
+    "wof:lastmodified":1566724930,
     "wof:name":"Chiba-shi",
     "wof:parent_id":1108740531,
     "wof:placetype":"locality",

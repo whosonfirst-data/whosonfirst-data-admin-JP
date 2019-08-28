@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":31.732839,
     "lbl:longitude":131.083374,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":31.732839,
     "mps:longitude":131.083374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0643\u0648\u0646\u0648\u062c\u0648"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u044f\u043a\u043e\u043d\u043e\u0434\u0436\u044c\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miyakonozy\u014d"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":456,
     "wof:belongsto":[
@@ -226,7 +229,6 @@
     "wof:concordances":{
         "gn:id":1856775,
         "gp:id":28491849,
-        "qs:id":277673,
         "qs_pg:id":277673,
         "wd:id":"Q638301",
         "wk:page":"Miyakonoj\u014d"
@@ -242,7 +244,7 @@
         }
     ],
     "wof:id":102031529,
-    "wof:lastmodified":1563290065,
+    "wof:lastmodified":1566724929,
     "wof:name":"Miyakonoj\u014d",
     "wof:parent_id":1108743261,
     "wof:placetype":"locality",

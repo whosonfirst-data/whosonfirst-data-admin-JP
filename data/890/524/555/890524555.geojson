@@ -11,13 +11,15 @@
     "geom:longitude":142.370733,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Asahikawa Shi"
     ],
     "lbl:latitude":43.71353,
     "lbl:longitude":142.31728,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Asahikawa",
     "meso:gadm_hasc2":"JP.HK.AH",
@@ -33,6 +35,7 @@
     "mps:longitude":142.31728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0627\u0647\u064a\u0643\u0627\u0648\u0627"
     ],
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0430\u0445\u0456\u043a\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asahikawa-shi"
     ],
     "name:urd_x_preferred":[
@@ -199,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"748",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -221,7 +224,7 @@
     "wof:concordances":{
         "gn:id":2130628,
         "hasc:id":"JP.HK.AH",
-        "qs:id":1028560
+        "qs_pg:id":1028560
     },
     "wof:country":"JP",
     "wof:created":1469056343,
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":890524555,
-    "wof:lastmodified":1564171003,
+    "wof:lastmodified":1566726497,
     "wof:name":"Asahikawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

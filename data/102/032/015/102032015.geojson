@@ -15,6 +15,8 @@
     "iso:country":"JP",
     "lbl:latitude":43.080237,
     "lbl:longitude":141.336707,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":43.080237,
     "mps:longitude":141.336707,
     "mz:hierarchy_label":1,
@@ -404,9 +406,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043f\u043f\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Sapporo"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u067e\u0648\u0631\u0648"
     ],
@@ -543,7 +542,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -556,7 +555,6 @@
         "fct:id":"1340efd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2128295,
         "gp:id":1118108,
-        "qs:id":351642,
         "qs_pg:id":351642,
         "wd:id":"Q37951"
     },
@@ -575,7 +573,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290202,
+    "wof:lastmodified":1566724941,
     "wof:megacity":1,
     "wof:name":"Sapporo-shi",
     "wof:parent_id":1108740535,

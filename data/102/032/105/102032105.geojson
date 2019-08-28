@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.425555,
     "lbl:longitude":132.733693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.425555,
     "mps:longitude":132.733693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u06cc\u063a\u0627\u0634\u06cc\u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
@@ -210,7 +213,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191569,
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":6822110,
         "gp:id":15015442,
-        "qs:id":893437,
+        "qs_pg:id":893437,
         "wd:id":"Q653372"
     },
     "wof:country":"JP",
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":102032105,
-    "wof:lastmodified":1563290196,
+    "wof:lastmodified":1566724940,
     "wof:name":"Higashi-Hiroshima",
     "wof:parent_id":890524703,
     "wof:placetype":"locality",

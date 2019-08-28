@@ -11,10 +11,14 @@
     "geom:longitude":136.94655,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"136.84655,35.06609,137.04655,35.26609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0643\u0648\u0633\u0627-\u0643\u0648"
     ],
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1864575,
-        "qs:id":1028221,
+        "qs_pg:id":1028221,
         "wd:id":"Q1207951",
         "wk:page":"Chikusa-ku, Nagoya"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890524479,
-    "wof:lastmodified":1563296648,
+    "wof:lastmodified":1566726491,
     "wof:name":"Chikusa-ku",
     "wof:parent_id":1108742239,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.89547,
     "lbl:longitude":139.795428,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.89547,
     "mps:longitude":139.795428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u064a\u063a\u0627\u064a\u0627"
     ],
@@ -225,7 +228,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":344,
     "wof:belongsto":[
@@ -239,7 +242,6 @@
         "fct:id":"133feb9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1858729,
         "gp:id":1117577,
-        "qs:id":479115,
         "qs_pg:id":479115,
         "wd:id":"Q497952",
         "wk:page":"Koshigaya, Saitama"
@@ -259,7 +261,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290100,
+    "wof:lastmodified":1566724932,
     "wof:name":"Koshigaya",
     "wof:parent_id":1108740449,
     "wof:placetype":"locality",

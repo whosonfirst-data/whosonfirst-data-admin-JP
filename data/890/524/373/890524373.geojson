@@ -11,13 +11,15 @@
     "geom:longitude":132.597247,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ozu"
     ],
     "lbl:latitude":33.530919,
     "lbl:longitude":132.559606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ehime Ken",
     "meso:gadm_admin":"Su\u014d-\u014cshima",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":132.559606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0632\u0648\u060c \u0625\u0647\u064a\u0645\u0647"
     ],
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0437\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014czu-shi"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -225,7 +228,7 @@
     "wof:concordances":{
         "gn:id":1853424,
         "hasc:id":"JP.EH.OZ",
-        "qs:id":1027919,
+        "qs_pg:id":1027919,
         "wd:id":"Q386655"
     },
     "wof:country":"JP",
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":890524373,
-    "wof:lastmodified":1563296744,
+    "wof:lastmodified":1566726504,
     "wof:name":"Ozu",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

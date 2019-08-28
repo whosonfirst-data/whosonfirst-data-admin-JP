@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.223304,
     "lbl:longitude":130.112338,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Saga Ken",
     "meso:gadm_admin":"\u014cmachi",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":130.112338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Omachi"
     ],
@@ -39,7 +42,7 @@
         "Omachi Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108743121,
-    "wof:lastmodified":1554759625,
+    "wof:lastmodified":1566725971,
     "wof:name":"Omachi",
     "wof:parent_id":85672695,
     "wof:placetype":"county",

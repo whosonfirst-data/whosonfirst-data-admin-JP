@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.903298,
     "lbl:longitude":137.656022,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagano Ken",
     "meso:gadm_admin":"Kiso",
     "meso:gadm_hasc2":"JP.NN.KS",
@@ -30,6 +32,7 @@
     "mps:longitude":137.656022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kiso"
     ],
@@ -68,7 +71,7 @@
         "\u041a\u0456\u0441\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108742079,
-    "wof:lastmodified":1564169082,
+    "wof:lastmodified":1566725994,
     "wof:name":"Kiso",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.700977,
     "lbl:longitude":134.873657,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.700977,
     "mps:longitude":134.873657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0627\u0634\u064a"
     ],
@@ -182,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "Akasi"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u06a9\u0627\u0634\u06cc"
     ],
@@ -217,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":552,
     "wof:belongsto":[
@@ -228,7 +228,6 @@
         "gn:id":1847966,
         "gp:id":28462102,
         "loc:id":"n80108721",
-        "qs:id":137056,
         "qs_pg:id":137056,
         "wd:id":"Q26406",
         "wk:page":"Akashi, Hy\u014dgo"
@@ -244,7 +243,7 @@
         }
     ],
     "wof:id":102031217,
-    "wof:lastmodified":1563290014,
+    "wof:lastmodified":1566724924,
     "wof:name":"Akashi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

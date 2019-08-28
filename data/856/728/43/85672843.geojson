@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.573864,
     "lbl:longitude":140.875798,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Miyagi Ken",
     "meso:name_loc":"\u5bae\u57ce\u770c",
     "mps:latitude":38.565665,
@@ -244,7 +245,7 @@
         "Mijagi prefekt\u016bra"
     ],
     "name:sin_x_preferred":[
-        "\u0db8\u0dd2\u0dba\u0dcf\u0d9c\u0dd3  \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+        "\u0db8\u0dd2\u0dba\u0dcf\u0d9c\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
         "Mijagi"
@@ -274,7 +275,7 @@
         "Miyagi prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0baf\u0bbe\u0b95\u0bbf  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0bae\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c2f\u0c3e\u0c17\u0c40 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -301,11 +302,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0456\u044f\u0491\u0456"
     ],
     "name:und_x_variant":[
-        "\u5bae\u57ce\u770c",
         "Miyagi Ken"
-    ],
-    "name:unk_x_variant":[
-        "Miyagi-ken"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u06af\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -402,9 +399,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"7,288",
     "statoids:area_mi":"2,814",
     "statoids:as_of_date":"2010-10-01",
@@ -429,7 +426,7 @@
         "gp:id":2345873,
         "hasc:id":"JP.MG",
         "iso:id":"JP-04",
-        "qs:id":897963,
+        "qs_pg:id":897963,
         "unlc:id":"JP-04",
         "wd:id":"Q47896",
         "wk:page":"Miyagi Prefecture"
@@ -450,11 +447,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724594,
+    "wof:lastmodified":1566725308,
     "wof:name":"Miyagi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":2348165,
     "wof:population_rank":12,

@@ -11,10 +11,14 @@
     "geom:longitude":132.21667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":30151,
+    "gn:population":30151,
     "iso:country":"JP",
+    "lbl:bbox":"132.19667,34.18,132.23667,34.22",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627\u0643\u064a\u060c \u0647\u06cc\u0631\u0648\u0634\u06cc\u0645\u0627"
     ],
@@ -197,7 +201,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1853662,
-        "qs:id":89831,
+        "qs_pg:id":89831,
         "wd:id":"Q386250"
     },
     "wof:country":"JP",
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890531767,
-    "wof:lastmodified":1563296364,
+    "wof:lastmodified":1566726429,
     "wof:name":"\u014ctake",
     "wof:parent_id":1108742833,
     "wof:placetype":"locality",

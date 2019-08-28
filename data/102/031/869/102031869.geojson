@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.817835,
     "lbl:longitude":139.651424,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.817835,
     "mps:longitude":139.651424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u062f\u0627\u060c \u0633\u0627\u064a\u062a\u0627\u0645\u0627"
     ],
@@ -185,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Shimotoda"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u062f\u06c1"
     ],
@@ -220,7 +220,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -233,7 +233,6 @@
         "fct:id":"133fec0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1907301,
         "gp:id":15015574,
-        "qs:id":23044,
         "qs_pg:id":23044,
         "wd:id":"Q823874"
     },
@@ -251,7 +250,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290042,
+    "wof:lastmodified":1566724926,
     "wof:name":"Toda",
     "wof:parent_id":1108740453,
     "wof:placetype":"locality",

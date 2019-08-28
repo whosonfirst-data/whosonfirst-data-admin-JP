@@ -11,13 +11,15 @@
     "geom:longitude":140.700648,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Hirakawa"
     ],
     "lbl:latitude":40.487829,
     "lbl:longitude":140.718796,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aomori Ken",
     "meso:gadm_admin":"Hirakawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":140.718796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0627\u0643\u0627\u0648\u0627\u060c \u0622\u0648\u0645\u0648\u0631\u064a"
     ],
@@ -195,7 +198,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0440\u0430\u043a\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hirakawa-shi"
     ],
     "name:urd_x_preferred":[
@@ -224,7 +227,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -234,7 +237,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7439934,
-        "qs:id":1154662,
+        "qs_pg:id":1154662,
         "wd:id":"Q695930"
     },
     "wof:country":"JP",
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":890520595,
-    "wof:lastmodified":1563296089,
+    "wof:lastmodified":1566726375,
     "wof:name":"Hirakawa",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

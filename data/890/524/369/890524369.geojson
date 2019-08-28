@@ -11,13 +11,15 @@
     "geom:longitude":139.339393,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ota"
     ],
     "lbl:latitude":36.305588,
     "lbl:longitude":139.329994,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gunma Ken",
     "meso:gadm_admin":"\u014cta",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":139.329994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ota"
     ],
@@ -47,7 +50,7 @@
     "name:jpn_x_variant":[
         "\u592a\u7530"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ohta"
     ],
     "qs:name":"\u014cta-shi",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1853626,
         "hasc:id":"JP.GM.OT",
-        "qs:id":1027912
+        "qs_pg:id":1027912
     },
     "wof:country":"JP",
     "wof:created":1469056337,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890524369,
-    "wof:lastmodified":1554759539,
+    "wof:lastmodified":1566726497,
     "wof:name":"Ota",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":44.375609,
     "lbl:longitude":146.169887,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"NO DATA",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":146.169887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ruyabetsu"
     ],
@@ -37,7 +40,7 @@
         "Ruyabetsu Mura"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108739857,
-    "wof:lastmodified":1554759584,
+    "wof:lastmodified":1566726014,
     "wof:name":"Ruyabetsu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

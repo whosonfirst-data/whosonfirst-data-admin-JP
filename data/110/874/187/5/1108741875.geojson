@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":36.924116,
     "lbl:longitude":137.496533,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Toyama Ken",
     "meso:gadm_admin":"Ny\u016bzen",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":137.496533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nyuzen"
     ],
@@ -39,7 +42,7 @@
         "Nyuzen Machi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108741875,
-    "wof:lastmodified":1554759604,
+    "wof:lastmodified":1566725969,
     "wof:name":"Nyuzen",
     "wof:parent_id":85672759,
     "wof:placetype":"county",

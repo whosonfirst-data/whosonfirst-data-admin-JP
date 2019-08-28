@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.310887,
     "lbl:longitude":139.817841,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.310887,
     "mps:longitude":139.817841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0627\u0645\u0627"
     ],
@@ -229,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":409,
     "wof:belongsto":[
@@ -242,10 +245,12 @@
     "wof:concordances":{
         "gn:id":1853483,
         "gp:id":1118039,
-        "qs:id":1086956,
         "qs_pg:id":137118,
         "wd:id":"Q374511",
         "wk:page":"Oyama, Tochigi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086956
     },
     "wof:country":"JP",
     "wof:geomhash":"2ca66b3c0c6e17e6dd8c7167fed1168a",
@@ -259,7 +264,7 @@
         }
     ],
     "wof:id":102031429,
-    "wof:lastmodified":1563290124,
+    "wof:lastmodified":1566724934,
     "wof:name":"Oyama",
     "wof:parent_id":890519619,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":140.30083,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":41140,
+    "gn:population":41140,
     "iso:country":"JP",
+    "lbl:bbox":"140.28083,38.73861,140.32083,38.77861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u062c\u0648\u060c \u064a\u0627\u0645\u0627\u063a\u0627\u062a\u0627"
     ],
@@ -159,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u0434\u0437\u044c\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sindscho"
     ],
     "name:urd_x_preferred":[
@@ -193,7 +197,7 @@
     "wof:concordances":{
         "gn:id":2111065,
         "gp:id":28397082,
-        "qs:id":572201,
+        "qs_pg:id":572201,
         "wd:id":"Q840603",
         "wk:page":"Shinj\u014d"
     },
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":890535305,
-    "wof:lastmodified":1563295639,
+    "wof:lastmodified":1566726274,
     "wof:name":"Shinj\u014d",
     "wof:parent_id":1108740093,
     "wof:placetype":"locality",

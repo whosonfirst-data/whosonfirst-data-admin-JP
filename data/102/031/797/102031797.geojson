@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":36.064652,
     "lbl:longitude":136.221943,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.064652,
     "mps:longitude":136.221943,
     "mz:hierarchy_label":1,
@@ -327,7 +329,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -340,7 +342,6 @@
         "fct:id":"134022c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1863985,
         "gp:id":1117096,
-        "qs:id":137224,
         "qs_pg:id":137224,
         "wd:id":"Q201618"
     },
@@ -358,7 +359,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289963,
+    "wof:lastmodified":1566724919,
     "wof:name":"Fukui-shi",
     "wof:parent_id":1108741901,
     "wof:placetype":"locality",

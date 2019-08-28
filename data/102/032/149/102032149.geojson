@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.857084,
     "lbl:longitude":139.520066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.857084,
     "mps:longitude":139.520066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u0645\u064a\u0646\u0648"
     ],
@@ -207,7 +210,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":551,
     "wof:belongsto":[
         102191569,
@@ -219,7 +222,7 @@
     "wof:concordances":{
         "gn:id":6822159,
         "gp:id":28379186,
-        "qs:id":369748,
+        "qs_pg:id":369748,
         "wd:id":"Q873590",
         "wk:page":"Fujimino, Saitama"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":102032149,
-    "wof:lastmodified":1563290272,
+    "wof:lastmodified":1566724946,
     "wof:name":"Fujimino",
     "wof:parent_id":890520393,
     "wof:placetype":"locality",

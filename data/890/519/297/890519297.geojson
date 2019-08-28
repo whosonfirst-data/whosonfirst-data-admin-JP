@@ -11,10 +11,14 @@
     "geom:longitude":130.31667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":24971,
+    "gn:population":24971,
     "iso:country":"JP",
+    "lbl:bbox":"130.29667,31.24667,130.33667,31.28667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0648\u0631\u0627\u0632\u0627\u0643\u064a\u060c \u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -159,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0443\u0440\u0430\u0434\u0437\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mazuraki"
     ],
     "name:urd_x_preferred":[
@@ -192,7 +196,7 @@
     "wof:concordances":{
         "gn:id":1857712,
         "gp:id":28492743,
-        "qs:id":565737,
+        "qs_pg:id":565737,
         "wd:id":"Q548493"
     },
     "wof:country":"JP",
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":890519297,
-    "wof:lastmodified":1563295996,
+    "wof:lastmodified":1566726354,
     "wof:name":"Makurazaki",
     "wof:parent_id":890519777,
     "wof:placetype":"locality",

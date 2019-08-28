@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":32.198857,
     "lbl:longitude":130.830689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.198857,
     "mps:longitude":130.830689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0634\u064a\u0643\u064a"
     ],
@@ -98,7 +101,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":167,
     "wof:belongsto":[
         102191569,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102032267,
-    "wof:lastmodified":1563290217,
+    "wof:lastmodified":1566724942,
     "wof:name":"Nishikich\u014d",
     "wof:parent_id":1108743211,
     "wof:placetype":"locality",

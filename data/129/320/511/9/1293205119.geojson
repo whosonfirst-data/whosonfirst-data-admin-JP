@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"133.06833,33.90167,133.10833,33.94167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u6771\u4e88\u5e02"
     ],
@@ -36,9 +40,6 @@
         "Toyo"
     ],
     "name:spa_x_preferred":[
-        "T\u014dyo"
-    ],
-    "name:und_x_variant":[
         "T\u014dyo"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293205119,
-    "wof:lastmodified":1564166715,
+    "wof:lastmodified":1566725448,
     "wof:name":"Toyo",
     "wof:parent_id":1108742911,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.840065,
     "lbl:longitude":140.196533,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.840065,
     "mps:longitude":140.196533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627\u0648\u0627\u0631\u0627"
     ],
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0430\u0432\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otahara"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":789,
     "wof:belongsto":[
@@ -212,7 +215,6 @@
     "wof:concordances":{
         "gn:id":2111325,
         "gp:id":28405447,
-        "qs:id":138457,
         "qs_pg:id":138457,
         "wd:id":"Q386322",
         "wk:page":"\u014ctawara"
@@ -229,7 +231,7 @@
         }
     ],
     "wof:id":102031921,
-    "wof:lastmodified":1563290181,
+    "wof:lastmodified":1566724938,
     "wof:name":"\u014ctawara",
     "wof:parent_id":890524525,
     "wof:placetype":"locality",

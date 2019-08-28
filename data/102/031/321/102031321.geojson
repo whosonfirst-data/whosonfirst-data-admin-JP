@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.38149,
     "lbl:longitude":139.729614,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.38149,
     "mps:longitude":139.729614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u062a\u0634\u064a\u063a\u064a"
     ],
@@ -168,7 +171,7 @@
     "name:ukr_x_variant":[
         "\u0422\u043e\u0447\u0456\u0491\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Totigi"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":649,
     "wof:belongsto":[
@@ -227,10 +230,12 @@
     "wof:concordances":{
         "gn:id":1850311,
         "gp:id":1118347,
-        "qs:id":237263,
         "qs_pg:id":137088,
         "wd:id":"Q44830",
         "wk:page":"Tochigi, Tochigi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":237263
     },
     "wof:country":"JP",
     "wof:geomhash":"2acfb301d1d030bb489e78917b3c3e42",
@@ -244,7 +249,7 @@
         }
     ],
     "wof:id":102031321,
-    "wof:lastmodified":1563290183,
+    "wof:lastmodified":1566724939,
     "wof:name":"Tochigi",
     "wof:parent_id":890520383,
     "wof:placetype":"locality",

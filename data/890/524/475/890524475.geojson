@@ -11,13 +11,15 @@
     "geom:longitude":135.603539,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Fujiidera Shi"
     ],
     "lbl:latitude":34.574022,
     "lbl:longitude":135.599322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Osaka Fu",
     "meso:gadm_admin":"Fujiidera",
     "meso:gadm_hasc2":"JP.OS.FJ",
@@ -33,6 +35,7 @@
     "mps:longitude":135.599322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062c\u064a\u062f\u064a\u0631\u0627\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -179,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0434\u0436\u0456\u0457\u0434\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Fujiidera"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u062c\u06cc\u062f\u06cc\u0631\u0627"
     ],
@@ -205,9 +205,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"9",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -228,7 +228,7 @@
     "wof:concordances":{
         "gn:id":1864125,
         "hasc:id":"JP.OS.FJ",
-        "qs:id":1028191,
+        "qs_pg:id":1028191,
         "wd:id":"Q634011",
         "wk:page":"Fujiidera, Osaka"
     },
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":890524475,
-    "wof:lastmodified":1563296710,
+    "wof:lastmodified":1566726499,
     "wof:name":"Fujiidera",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

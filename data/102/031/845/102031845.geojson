@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.734466,
     "lbl:longitude":135.414022,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.734466,
     "mps:longitude":135.414022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
@@ -270,7 +273,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":459,
     "wof:belongsto":[
@@ -284,9 +287,11 @@
         "fct:id":"1340730a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1865387,
         "gp:id":1107405,
-        "qs:id":224385,
-        "qs_pg:id":351459,
+        "qs_pg:id":224385,
         "wd:id":"Q213318"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351459
     },
     "wof:country":"JP",
     "wof:geomhash":"7359efa456ca9f750193fc29f75641ce",
@@ -303,7 +308,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290000,
+    "wof:lastmodified":1566724923,
     "wof:name":"Amagasaki",
     "wof:parent_id":890524487,
     "wof:placetype":"locality",

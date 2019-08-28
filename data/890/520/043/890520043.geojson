@@ -11,13 +11,15 @@
     "geom:longitude":137.30094,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Toyota Shi"
     ],
     "lbl:latitude":35.141588,
     "lbl:longitude":137.304883,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aichi Ken",
     "meso:gadm_admin":"Toyota",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":137.304883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Toyota"
     ],
@@ -270,7 +273,7 @@
     "name:ukr_x_preferred":[
         "Toyota"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koromo"
     ],
     "name:urd_x_preferred":[
@@ -302,9 +305,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"329",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -324,7 +327,7 @@
     "wof:concordances":{
         "gn:id":1849809,
         "hasc:id":"JP.HS.TT",
-        "qs:id":351295
+        "qs_pg:id":351295
     },
     "wof:country":"JP",
     "wof:created":1469056126,
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":890520043,
-    "wof:lastmodified":1564170635,
+    "wof:lastmodified":1566726386,
     "wof:name":"Toyota",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

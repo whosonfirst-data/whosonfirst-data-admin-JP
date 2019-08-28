@@ -11,13 +11,15 @@
     "geom:longitude":130.792448,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ukiha Shi"
     ],
     "lbl:latitude":33.309548,
     "lbl:longitude":130.798597,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukuoka Ken",
     "meso:gadm_admin":"Ukiha",
     "meso:gadm_hasc2":"JP.FO.UK",
@@ -33,6 +35,7 @@
     "mps:longitude":130.798597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u064a\u0647\u0627\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043a\u0456\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukiha-shi"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"169",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -230,7 +233,7 @@
     "wof:concordances":{
         "gn:id":7407420,
         "hasc:id":"JP.FO.UK",
-        "qs:id":1048090,
+        "qs_pg:id":1048090,
         "wd:id":"Q850373"
     },
     "wof:country":"JP",
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":890524987,
-    "wof:lastmodified":1563296740,
+    "wof:lastmodified":1566726504,
     "wof:name":"Ukiha",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

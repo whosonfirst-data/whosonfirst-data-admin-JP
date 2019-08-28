@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.624186,
     "lbl:longitude":130.704837,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Fukuoka Ken",
     "meso:name_loc":"\u798f\u5ca1\u770c",
     "mps:latitude":33.618626,
@@ -278,7 +279,7 @@
         "Fukuoka prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0b92\u0b95\u0bcd\u0b95\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0b92\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c41\u0c15\u0c41\u0c35\u0c4b\u0c15\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -300,10 +301,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0424\u0443\u043a\u0443\u043e\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u798f\u5ca1\u770c",
-        "Fukuoka Ken"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u06a9\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -394,9 +391,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"4,934",
     "statoids:area_mi":"1,905",
     "statoids:as_of_date":"2010-10-01",
@@ -421,7 +418,7 @@
         "hasc:id":"JP.FO",
         "iso:id":"JP-40",
         "loc:id":"n80022934",
-        "qs:id":1115501,
+        "qs_pg:id":1115501,
         "wd:id":"Q123258",
         "wk:page":"Fukuoka Prefecture"
     },
@@ -441,11 +438,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724592,
+    "wof:lastmodified":1566725306,
     "wof:name":"Fukuoka",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":5071968,
     "wof:population_rank":13,

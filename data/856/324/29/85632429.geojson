@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":36.13793,
     "lbl:longitude":138.441899,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":36.13793,
     "mps:longitude":138.441899,
     "mz:hierarchy_label":1,
@@ -1011,12 +1013,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Japonska"
-    ],
-    "name:unk_x_variant":[
-        "Nihon"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u067e\u0627\u0646"
     ],
@@ -1185,7 +1181,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"81",
     "statoids:ds":"J",
@@ -1205,7 +1201,6 @@
     "wd:longitude":136.0,
     "wd:population":127110047,
     "wd:wordcount":12515,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569
     ],
@@ -1230,7 +1225,7 @@
         "marc:id":"ja",
         "ne:adm0_a3":"JPN",
         "nyt:id":"59436095099277148161",
-        "qs:id":276680,
+        "qs_pg:id":276680,
         "uncrt:id":"J",
         "wd:id":"Q17",
         "wk:page":"Japan",
@@ -1252,7 +1247,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724587,
+    "wof:lastmodified":1566725301,
     "wof:name":"Japan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

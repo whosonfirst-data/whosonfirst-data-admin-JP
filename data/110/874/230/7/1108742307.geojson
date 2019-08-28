@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.859685,
     "lbl:longitude":137.16495,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aichi Ken",
     "meso:gadm_admin":"K\u014dta",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":137.16495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bih_x_preferred":[
         "\u0915\u094b\u091f\u093e"
     ],
@@ -102,7 +105,7 @@
         "Kota"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108742307,
-    "wof:lastmodified":1564169097,
+    "wof:lastmodified":1566725998,
     "wof:name":"Kota",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

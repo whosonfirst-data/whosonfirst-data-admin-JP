@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.600778,
     "lbl:longitude":139.741543,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.600778,
     "mps:longitude":139.741543,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Shinagawa"
     ],
@@ -223,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2369,
     "wof:belongsto":[
@@ -235,7 +238,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1852140,
-        "qs:id":351323,
         "qs_pg:id":351323,
         "wd:id":"Q233495",
         "wk:page":"Shinagawa"
@@ -252,7 +254,7 @@
         }
     ],
     "wof:id":102031379,
-    "wof:lastmodified":1563290051,
+    "wof:lastmodified":1566724927,
     "wof:name":"Shinagawa-ku",
     "wof:parent_id":1108741697,
     "wof:placetype":"locality",

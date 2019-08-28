@@ -11,17 +11,21 @@
     "geom:longitude":131.28767,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"131.18767,31.93898,131.38767,32.13898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u56fd\u5bcc\u753a"
     ],
     "name:jpn_x_variant":[
         "\u304f\u306b\u3068\u307f\u3061\u3087\u3046"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunitomi Ch\u014d"
     ],
     "qs:name":"Kunitomi-ch\u014d",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7413974,
-        "qs:id":904226
+        "qs_pg:id":904226
     },
     "wof:country":"JP",
     "wof:created":1469056111,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890519641,
-    "wof:lastmodified":1505343914,
+    "wof:lastmodified":1566726353,
     "wof:name":"Kunitomi-ch\u014d",
     "wof:parent_id":1108743271,
     "wof:placetype":"localadmin",

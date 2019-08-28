@@ -11,13 +11,15 @@
     "geom:longitude":137.474153,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Nakatsugawa Shi"
     ],
     "lbl:latitude":35.538559,
     "lbl:longitude":137.471778,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Nakatsugawa",
     "meso:gadm_hasc2":"JP.GF.NK",
@@ -33,6 +35,7 @@
     "mps:longitude":137.471778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0627\u062a\u0633\u0648\u063a\u0627\u0648\u0627 \u063a\u064a\u0641\u0648"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0430\u0446\u0443\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakatsu"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"276",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -231,7 +234,7 @@
     "wof:concordances":{
         "gn:id":1855750,
         "hasc:id":"JP.GF.NK",
-        "qs:id":1031785,
+        "qs_pg:id":1031785,
         "wd:id":"Q844052",
         "wk:page":"Nakatsugawa, Gifu"
     },
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":890524651,
-    "wof:lastmodified":1563296658,
+    "wof:lastmodified":1566726492,
     "wof:name":"Nakatsugawa",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

@@ -11,13 +11,15 @@
     "geom:longitude":134.038695,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Akaiwa Shi"
     ],
     "lbl:latitude":34.898484,
     "lbl:longitude":134.045321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Okayama Ken",
     "meso:gadm_admin":"Akaiwa",
     "meso:gadm_hasc2":"JP.OY.AK",
@@ -33,6 +35,7 @@
     "mps:longitude":134.045321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0627\u064a\u0648\u0627\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0457\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akaiwa-shi"
     ],
     "name:urd_x_preferred":[
@@ -205,9 +208,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"251",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -227,7 +230,7 @@
     "wof:concordances":{
         "gn:id":7405227,
         "hasc:id":"JP.OY.AK",
-        "qs:id":1041270,
+        "qs_pg:id":1041270,
         "wd:id":"Q415372"
     },
     "wof:country":"JP",
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":890524775,
-    "wof:lastmodified":1563296739,
+    "wof:lastmodified":1566726503,
     "wof:name":"Akaiwa",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

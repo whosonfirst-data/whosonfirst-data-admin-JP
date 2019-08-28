@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":26.272484,
     "lbl:longitude":127.750603,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":26.272484,
     "mps:longitude":127.750603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0646\u0648\u0627\u0646\u060c \u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
     ],
@@ -166,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0456\u043d\u043e\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin\u014dn"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":681,
     "wof:belongsto":[
@@ -219,7 +222,6 @@
         "fct:id":"133efb2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1863627,
         "gp:id":1108358,
-        "qs:id":808889,
         "qs_pg:id":808889,
         "wd:id":"Q592065",
         "wk:page":"Ginowan, Okinawa"
@@ -239,7 +241,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290070,
+    "wof:lastmodified":1566724929,
     "wof:name":"Ginowan",
     "wof:parent_id":1108743373,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.75155,
     "lbl:longitude":137.94618,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.75155,
     "mps:longitude":137.94618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0648\u0631\u064a"
     ],
@@ -201,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":444,
     "wof:belongsto":[
@@ -215,7 +218,6 @@
         "fct:id":"13404894-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1863945,
         "gp:id":1117102,
-        "qs:id":137209,
         "qs_pg:id":137209,
         "wd:id":"Q821337",
         "wk:page":"Fukuroi, Shizuoka"
@@ -235,7 +237,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290086,
+    "wof:lastmodified":1566724930,
     "wof:name":"Fukuroi",
     "wof:parent_id":1108742201,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":134.71667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":23180,
+    "gn:population":23180,
     "iso:country":"JP",
+    "lbl:bbox":"134.69667,34.76333,134.73667,34.80333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Shirahama"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0438\u0440\u0430\u0445\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shirahama-ku"
     ],
     "qs:name":"Shirahama",
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1851935,
-        "qs:id":564994
+        "qs_pg:id":564994
     },
     "wof:country":"JP",
     "wof:created":1469056096,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890519221,
-    "wof:lastmodified":1505343913,
+    "wof:lastmodified":1566726345,
     "wof:name":"Shirahama",
     "wof:parent_id":1108742505,
     "wof:placetype":"locality",

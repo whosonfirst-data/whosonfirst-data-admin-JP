@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":31.482551,
     "lbl:longitude":130.712585,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.482551,
     "mps:longitude":130.712585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0648\u0645\u064a\u0632\u0648"
     ],
@@ -162,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0443\u043c\u0456\u0434\u0437\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarumi"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -221,10 +224,12 @@
     "wof:concordances":{
         "gn:id":1850589,
         "gp:id":1118331,
-        "qs:id":362215,
         "qs_pg:id":137091,
         "wd:id":"Q847591",
         "wk:page":"Tarumizu, Kagoshima"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":362215
     },
     "wof:country":"JP",
     "wof:geomhash":"d4eb989f11261a144f1e347cc77cc375",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":102031329,
-    "wof:lastmodified":1563290169,
+    "wof:lastmodified":1566724937,
     "wof:name":"Tarumizu",
     "wof:parent_id":890523737,
     "wof:placetype":"locality",

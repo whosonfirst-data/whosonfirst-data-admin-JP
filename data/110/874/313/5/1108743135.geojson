@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":32.686042,
     "lbl:longitude":128.742157,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagasaki Ken",
     "meso:gadm_admin":"Got\u014d",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":128.742157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u062a\u0648\u060c \u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
@@ -194,7 +197,7 @@
         "\u4e94\u5cf6\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":1108743135,
-    "wof:lastmodified":1563294400,
+    "wof:lastmodified":1566725973,
     "wof:name":"Goto",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

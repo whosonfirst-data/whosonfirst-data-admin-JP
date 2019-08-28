@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.842468,
     "lbl:longitude":138.30368,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.842468,
     "mps:longitude":138.30368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u064a\u0632\u0648"
     ],
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0439\u0434\u0437\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yaidu"
     ],
     "name:urd_x_preferred":[
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":661,
     "wof:belongsto":[
@@ -227,7 +230,6 @@
         "fct:id":"134047c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1848774,
         "gp:id":1118508,
-        "qs:id":137076,
         "qs_pg:id":137076,
         "wd:id":"Q696783",
         "wk:page":"Yaizu, Shizuoka"
@@ -247,7 +249,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290159,
+    "wof:lastmodified":1566724937,
     "wof:name":"Yaizu",
     "wof:parent_id":890524301,
     "wof:placetype":"locality",

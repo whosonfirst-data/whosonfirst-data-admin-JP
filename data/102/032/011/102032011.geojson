@@ -15,6 +15,8 @@
     "iso:country":"JP",
     "lbl:latitude":42.625415,
     "lbl:longitude":141.573183,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":42.625415,
     "mps:longitude":141.573183,
     "mz:hierarchy_label":1,
@@ -321,7 +323,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":329,
     "wof:belongsto":[
@@ -333,7 +335,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2127733,
-        "qs:id":274180,
         "qs_pg:id":274180,
         "wd:id":"Q390413"
     },
@@ -349,7 +350,7 @@
         }
     ],
     "wof:id":102032011,
-    "wof:lastmodified":1563290243,
+    "wof:lastmodified":1566724944,
     "wof:name":"Tomakomai",
     "wof:parent_id":890519529,
     "wof:placetype":"locality",

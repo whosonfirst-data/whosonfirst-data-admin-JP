@@ -11,8 +11,12 @@
     "geom:longitude":140.135593,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"140.115593,41.409213,140.155593,41.449213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Matsumae"
     ],
@@ -97,9 +101,11 @@
     "wof:concordances":{
         "gn:id":1926101,
         "gp:id":1111607,
-        "qs:id":268747,
-        "qs_pg:id":1057777,
+        "qs_pg:id":268747,
         "wd:id":"Q1374364"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1057777
     },
     "wof:country":"JP",
     "wof:created":1469056107,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890519533,
-    "wof:lastmodified":1563295900,
+    "wof:lastmodified":1566726342,
     "wof:name":"\u677e\u524d\u753a",
     "wof:parent_id":1108739535,
     "wof:placetype":"locality",

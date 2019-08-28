@@ -11,10 +11,14 @@
     "geom:longitude":141.31539,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"141.21539,40.5276,141.41539,40.7276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0643\u0648\u0646\u0648\u0647"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u0443\u043d\u043e\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rokunohe-machi"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7439940,
-        "qs:id":1154671,
+        "qs_pg:id":1154671,
         "wd:id":"Q1206630",
         "wk:page":"Rokunohe, Aomori"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890520483,
-    "wof:lastmodified":1563296106,
+    "wof:lastmodified":1566726377,
     "wof:name":"Rokunohe Machi",
     "wof:parent_id":1108739903,
     "wof:placetype":"localadmin",

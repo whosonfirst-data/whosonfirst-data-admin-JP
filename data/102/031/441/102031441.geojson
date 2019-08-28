@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.408125,
     "lbl:longitude":133.193992,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.408125,
     "mps:longitude":133.193992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u0648\u0645\u06cc\u062a\u0634\u064a"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u043e\u043c\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onomiti"
     ],
     "name:urd_x_preferred":[
@@ -228,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1005,
     "wof:belongsto":[
@@ -242,9 +245,11 @@
         "fct:id":"134096aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1853992,
         "gp:id":1118005,
-        "qs:id":1083627,
         "qs_pg:id":1033383,
         "wd:id":"Q696694"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1083627
     },
     "wof:country":"JP",
     "wof:geomhash":"e6c38b1c12a6500e6b7e31b43fdc7455",
@@ -261,7 +266,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290015,
+    "wof:lastmodified":1566724924,
     "wof:name":"Onomichi",
     "wof:parent_id":1108742791,
     "wof:placetype":"locality",

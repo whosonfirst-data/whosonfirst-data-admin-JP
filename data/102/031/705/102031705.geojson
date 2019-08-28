@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.492975,
     "lbl:longitude":136.713867,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.492975,
     "mps:longitude":136.713867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0647"
     ],
@@ -198,7 +201,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yamada"
     ],
     "name:urd_x_preferred":[
@@ -244,7 +247,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2391,
     "wof:belongsto":[
@@ -257,10 +260,12 @@
     "wof:concordances":{
         "gn:id":1861450,
         "gp:id":1117319,
-        "qs:id":361974,
         "qs_pg:id":137179,
         "wd:id":"Q328067",
         "wk:page":"Ise, Mie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":361974
     },
     "wof:country":"JP",
     "wof:geomhash":"691fa7e279b36b83f59f20a3be1fd96c",
@@ -274,7 +279,7 @@
         }
     ],
     "wof:id":102031705,
-    "wof:lastmodified":1563290078,
+    "wof:lastmodified":1566724930,
     "wof:name":"Ise",
     "wof:parent_id":890520063,
     "wof:placetype":"locality",

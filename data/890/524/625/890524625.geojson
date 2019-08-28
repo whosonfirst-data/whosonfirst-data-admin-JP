@@ -11,13 +11,15 @@
     "geom:longitude":138.92127,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Shimoda Shi"
     ],
     "lbl:latitude":34.708947,
     "lbl:longitude":138.928481,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shizuoka Ken",
     "meso:gadm_admin":"Shimoda",
     "meso:gadm_hasc2":"JP.SZ.SM",
@@ -33,6 +35,7 @@
     "mps:longitude":138.928481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0645\u0648\u062f\u0627\u060c \u0634\u064a\u0632\u0648\u0643\u0627"
     ],
@@ -214,9 +217,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"105",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -236,7 +239,7 @@
     "wof:concordances":{
         "gn:id":1852349,
         "hasc:id":"JP.SZ.SM",
-        "qs:id":1031751,
+        "qs_pg:id":1031751,
         "wd:id":"Q653402"
     },
     "wof:country":"JP",
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":890524625,
-    "wof:lastmodified":1563296705,
+    "wof:lastmodified":1566726499,
     "wof:name":"Shimoda",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

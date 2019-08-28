@@ -11,13 +11,15 @@
     "geom:longitude":130.762232,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tarumizu Shi"
     ],
     "lbl:latitude":31.502161,
     "lbl:longitude":130.746165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kagoshima Ken",
     "meso:gadm_admin":"Tarumizu",
     "meso:gadm_hasc2":"JP.KS.TR",
@@ -33,6 +35,7 @@
     "mps:longitude":130.746165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0648\u0645\u064a\u0632\u0648\u060c \u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -185,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0443\u043c\u0456\u0434\u0437\u0443"
     ],
-    "name:unk_x_variant":[
-        "Tarumizu"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u0648\u0645\u06cc\u0632\u0648"
     ],
@@ -211,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"162",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -233,7 +233,7 @@
     "wof:concordances":{
         "gn:id":1850587,
         "hasc:id":"JP.KS.TR",
-        "qs:id":372412,
+        "qs_pg:id":372412,
         "wd:id":"Q847591"
     },
     "wof:country":"JP",
@@ -248,7 +248,7 @@
         }
     ],
     "wof:id":890523737,
-    "wof:lastmodified":1563296534,
+    "wof:lastmodified":1566726471,
     "wof:name":"Tarumizu",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

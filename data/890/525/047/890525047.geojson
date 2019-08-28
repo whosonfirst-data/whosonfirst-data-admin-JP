@@ -11,13 +11,15 @@
     "geom:longitude":139.409502,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Chigasaki Shi"
     ],
     "lbl:latitude":35.342089,
     "lbl:longitude":139.416252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kanagawa Ken",
     "meso:gadm_admin":"Chigasaki",
     "meso:gadm_hasc2":"JP.KN.CH",
@@ -33,6 +35,7 @@
     "mps:longitude":139.416252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chigasaki"
     ],
@@ -47,7 +50,7 @@
         "\u3061\u304c\u3055\u304d\u3057",
         "\u8305\u30b1\u5d0e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chigasaki-shi"
     ],
     "qs:name":"Chigasaki-shi",
@@ -58,9 +61,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"36",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1864622,
         "hasc:id":"JP.KN.CH",
-        "qs:id":1062585
+        "qs_pg:id":1062585
     },
     "wof:country":"JP",
     "wof:created":1469056363,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890525047,
-    "wof:lastmodified":1554759546,
+    "wof:lastmodified":1566726440,
     "wof:name":"Chigasaki",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

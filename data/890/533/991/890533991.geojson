@@ -11,10 +11,14 @@
     "geom:longitude":131.13002,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":26886,
+    "gn:population":26886,
     "iso:country":"JP",
+    "lbl:bbox":"131.11002,33.59153,131.15002,33.63153",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u064a\u0646\u060c \u0641\u0648\u0643\u0648\u0643\u0627"
     ],
@@ -196,7 +200,7 @@
     "wof:concordances":{
         "gn:id":8198709,
         "gp:id":28484245,
-        "qs:id":759363,
+        "qs_pg:id":759363,
         "wd:id":"Q633601",
         "wk:page":"Buzen"
     },
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890533991,
-    "wof:lastmodified":1563295505,
+    "wof:lastmodified":1566726240,
     "wof:name":"Buzen",
     "wof:parent_id":890520693,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":139.16667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":37360,
+    "gn:population":37360,
     "iso:country":"JP",
+    "lbl:bbox":"139.14667,37.71333,139.18667,37.75333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0633\u064a\u0646\u060c \u0646\u064a\u064a\u063a\u0627\u062a\u0627"
     ],
@@ -190,7 +194,7 @@
     "wof:concordances":{
         "gn:id":1863540,
         "gp:id":28420832,
-        "qs:id":566450,
+        "qs_pg:id":566450,
         "wd:id":"Q858364",
         "wk:page":"Gosen"
     },
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":890519359,
-    "wof:lastmodified":1563295957,
+    "wof:lastmodified":1566726350,
     "wof:name":"Gosen",
     "wof:parent_id":890524465,
     "wof:placetype":"locality",

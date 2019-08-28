@@ -11,17 +11,21 @@
     "geom:longitude":131.8911,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"131.7911,34.29836,131.9911,34.49836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u5409\u8cc0\u753a"
     ],
     "name:jpn_x_variant":[
         "\u3088\u3057\u304b\u3061\u3087\u3046"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yoshika Ch\u014d"
     ],
     "qs:name":"Yoshika-ch\u014d",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7392551,
-        "qs:id":380604
+        "qs_pg:id":380604
     },
     "wof:country":"JP",
     "wof:created":1469056134,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890520223,
-    "wof:lastmodified":1505343917,
+    "wof:lastmodified":1566726385,
     "wof:name":"Yoshika-ch\u014d",
     "wof:parent_id":1108742735,
     "wof:placetype":"localadmin",

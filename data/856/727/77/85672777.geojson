@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":35.174408,
     "lbl:longitude":135.581264,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kyoto Fu",
     "meso:name_loc":"\u4eac\u90fd\u5e9c",
     "mps:latitude":35.14825,
@@ -299,7 +300,6 @@
         "\u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0456\u043e\u0442\u043e"
     ],
     "name:und_x_variant":[
-        "\u4eac\u90fd\u5e9c",
         "Kyoto Fu"
     ],
     "name:urd_x_preferred":[
@@ -397,9 +397,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"4,612",
     "statoids:area_mi":"1,781",
     "statoids:as_of_date":"2010-10-01",
@@ -424,7 +424,7 @@
         "gp:id":2345871,
         "hasc:id":"JP.KY",
         "iso:id":"JP-26",
-        "qs:id":900724,
+        "qs_pg:id":900724,
         "wd:id":"Q120730",
         "wk:page":"Kyoto Prefecture"
     },
@@ -444,11 +444,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724598,
+    "wof:lastmodified":1566725311,
     "wof:name":"Kyoto",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"urban prefecture",
     "wof:population":2636092,
     "wof:population_rank":12,

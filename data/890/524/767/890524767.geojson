@@ -11,13 +11,15 @@
     "geom:longitude":134.14278,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Mima Shi"
     ],
     "lbl:latitude":34.058562,
     "lbl:longitude":134.140825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokushima Ken",
     "meso:gadm_admin":"Mima",
     "meso:gadm_hasc2":"JP.TS.MM",
@@ -33,6 +35,7 @@
     "mps:longitude":134.140825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0645\u0627\u060c \u062a\u0648\u0643\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mima-shi"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +214,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"562",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -233,7 +236,7 @@
     "wof:concordances":{
         "gn:id":7406325,
         "hasc:id":"JP.TS.MM",
-        "qs:id":1041267,
+        "qs_pg:id":1041267,
         "wd:id":"Q857828"
     },
     "wof:country":"JP",
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":890524767,
-    "wof:lastmodified":1563296689,
+    "wof:lastmodified":1566726497,
     "wof:name":"Mima",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.797937,
     "lbl:longitude":135.388682,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.797937,
     "mps:longitude":135.388682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0627\u0645\u064a"
     ],
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0430\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itan"
     ],
     "name:urd_x_preferred":[
@@ -216,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":448,
     "wof:belongsto":[
@@ -230,7 +233,6 @@
         "fct:id":"1340740e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1861310,
         "gp:id":24715980,
-        "qs:id":237824,
         "qs_pg:id":237824,
         "wd:id":"Q335444",
         "wk:page":"Itami, Hy\u014dgo"
@@ -250,7 +252,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289974,
+    "wof:lastmodified":1566724920,
     "wof:name":"Itami",
     "wof:parent_id":1108742511,
     "wof:placetype":"locality",

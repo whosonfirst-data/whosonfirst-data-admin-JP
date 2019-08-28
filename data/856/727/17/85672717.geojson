@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.627502,
     "lbl:longitude":133.367512,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kochi Ken",
     "meso:name_loc":"\u611b\u77e5\u770c",
     "mps:latitude":33.585423,
@@ -346,9 +347,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"7,106",
     "statoids:area_mi":"2,744",
     "statoids:as_of_date":"2010-10-01",
@@ -373,7 +374,7 @@
         "hasc:id":"JP.KC",
         "iso:id":"JP-39",
         "loc:id":"n81019927",
-        "qs:id":221172,
+        "qs_pg:id":221172,
         "wd:id":"Q134093",
         "wk:page":"K\u014dchi Prefecture"
     },
@@ -393,11 +394,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724597,
+    "wof:lastmodified":1566725310,
     "wof:name":"Kochi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":764456,
     "wof:population_rank":11,

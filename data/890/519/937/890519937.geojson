@@ -11,13 +11,15 @@
     "geom:longitude":141.993284,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Mikasa Shi"
     ],
     "lbl:latitude":43.246246,
     "lbl:longitude":141.996035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Mikasa",
     "meso:gadm_hasc2":"JP.HK.MK",
@@ -33,6 +35,7 @@
     "mps:longitude":141.996035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0627\u0633\u0627\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043a\u0430\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikasa-shi"
     ],
     "name:urd_x_preferred":[
@@ -220,9 +223,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"303",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -242,7 +245,7 @@
     "wof:concordances":{
         "gn:id":8301405,
         "hasc:id":"JP.HK.MK",
-        "qs:id":1246173,
+        "qs_pg:id":1246173,
         "wd:id":"Q842318"
     },
     "wof:country":"JP",
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":890519937,
-    "wof:lastmodified":1563295907,
+    "wof:lastmodified":1566726343,
     "wof:name":"Mikasa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

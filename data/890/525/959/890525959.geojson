@@ -11,10 +11,14 @@
     "geom:longitude":130.6,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":104341,
+    "gn:population":104341,
     "iso:country":"JP",
+    "lbl:bbox":"130.58,32.48,130.62,32.52",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u062a\u0633\u0648\u0634\u064a\u0631\u0648"
     ],
@@ -182,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0446\u0443\u0448\u0456\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yatusiro"
     ],
     "name:urd_x_preferred":[
@@ -217,7 +221,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1848445,
-        "qs:id":564516,
+        "qs_pg:id":564516,
         "wd:id":"Q734479"
     },
     "wof:country":"JP",
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":890525959,
-    "wof:lastmodified":1563296432,
+    "wof:lastmodified":1566726445,
     "wof:name":"Yatsushiro",
     "wof:parent_id":890524581,
     "wof:placetype":"locality",

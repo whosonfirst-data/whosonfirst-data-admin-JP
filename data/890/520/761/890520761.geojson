@@ -11,13 +11,15 @@
     "geom:longitude":137.026215,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Minokamo"
     ],
     "lbl:latitude":35.465155,
     "lbl:longitude":137.025279,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Minokamo",
     "meso:gadm_hasc2":"JP.GF.MK",
@@ -33,6 +35,7 @@
     "mps:longitude":137.025279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0648\u0643\u0627\u0645\u0648 \u063a\u064a\u0641\u0648"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u043e-\u041a\u0430\u043c\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minokamo-shi"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":1857051,
         "hasc:id":"JP.GF.MK",
-        "qs:id":1027992,
+        "qs_pg:id":1027992,
         "wd:id":"Q857305",
         "wk:page":"Minokamo, Gifu"
     },
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":890520761,
-    "wof:lastmodified":1563296159,
+    "wof:lastmodified":1566726384,
     "wof:name":"Minokamo",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

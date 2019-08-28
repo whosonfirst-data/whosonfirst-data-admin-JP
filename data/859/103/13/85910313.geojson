@@ -13,6 +13,7 @@
     "iso:country":"JP",
     "lbl:latitude":35.667348,
     "lbl:longitude":139.730954,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.667338,
     "mps:longitude":139.73072,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "\u3042\u304b\u3055\u304b \uff19\u3061\u3087\u3046\u3081",
         "\u8d64\u5742 \uff19\u4e01\u76ee",
         "\uff19\u3061\u3087\u3046\u3081"
-    ],
-    "name:unk_x_variant":[
-        "\uff19\u4e01\u76ee"
     ],
     "qs:gn_adm0_cc":"JP",
     "qs:gn_id":0,
@@ -69,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
         102191569,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28527340,
-        "qs:id":220368,
         "qs_pg:id":220368
     },
     "wof:country":"JP",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1527268686,
+    "wof:lastmodified":1566725123,
     "wof:name":"\uff19\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",

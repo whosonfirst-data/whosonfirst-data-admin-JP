@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":31.873952,
     "lbl:longitude":131.35767,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miyazaki Ken",
     "meso:gadm_admin":"Miyazaki",
     "meso:gadm_hasc2":"JP.MZ.MG",
@@ -30,6 +32,7 @@
     "mps:longitude":131.35767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Miyazaki"
     ],
@@ -113,9 +116,9 @@
         "\u041c\u0456\u044f\u0434\u0437\u0430\u043a\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"213",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108743259,
-    "wof:lastmodified":1564169024,
+    "wof:lastmodified":1566725974,
     "wof:name":"Miyazaki",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":33.022482,
     "lbl:longitude":130.687866,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":33.022482,
     "mps:longitude":130.687866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0645\u0627\u063a\u0627"
     ],
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -226,10 +229,12 @@
     "wof:concordances":{
         "gn:id":1848705,
         "gp:id":1118514,
-        "qs:id":362319,
         "qs_pg:id":137075,
         "wd:id":"Q861214",
         "wk:page":"Yamaga, Kumamoto"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":362319
     },
     "wof:country":"JP",
     "wof:geomhash":"ca802c3315ecd12dc7eaf229a4c99718",
@@ -243,7 +248,7 @@
         }
     ],
     "wof:id":102031253,
-    "wof:lastmodified":1563290143,
+    "wof:lastmodified":1566724935,
     "wof:name":"Yamaga",
     "wof:parent_id":890524817,
     "wof:placetype":"locality",

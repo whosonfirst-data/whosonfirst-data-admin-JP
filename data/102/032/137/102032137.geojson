@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":37.443607,
     "lbl:longitude":137.269991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.443607,
     "mps:longitude":137.269991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0632\u0648"
     ],
@@ -210,7 +213,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1190,
     "wof:belongsto":[
         102191569,
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":6822142,
         "gp:id":1118250,
-        "qs:id":1086975,
+        "qs_pg:id":1086975,
         "wd:id":"Q846345",
         "wk:page":"Suzu, Ishikawa"
     },
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":102032137,
-    "wof:lastmodified":1563290237,
+    "wof:lastmodified":1566724943,
     "wof:name":"Suzu",
     "wof:parent_id":890520713,
     "wof:placetype":"locality",

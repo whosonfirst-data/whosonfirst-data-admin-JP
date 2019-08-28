@@ -11,17 +11,21 @@
     "geom:longitude":138.80067,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"138.70067,36.75573,138.90067,36.95573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u6e6f\u6ca2\u753a"
     ],
     "name:jpn_x_variant":[
         "\u3086\u3056\u308f\u307e\u3061"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuzawa Machi"
     ],
     "qs:name":"Yuzawa-machi",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7468188,
-        "qs:id":380822
+        "qs_pg:id":380822
     },
     "wof:country":"JP",
     "wof:created":1469056333,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890524263,
-    "wof:lastmodified":1505343924,
+    "wof:lastmodified":1566726502,
     "wof:name":"Yuzawa-machi",
     "wof:parent_id":1108741853,
     "wof:placetype":"localadmin",

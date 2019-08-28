@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.884014,
     "lbl:longitude":136.994019,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.884014,
     "mps:longitude":136.994019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0645\u064a"
     ],
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":212,
     "wof:belongsto":[
@@ -221,10 +224,12 @@
     "wof:concordances":{
         "gn:id":1862612,
         "gp:id":1117201,
-        "qs:id":1086911,
         "qs_pg:id":277688,
         "wd:id":"Q646886",
         "wk:page":"Himi, Toyama"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086911
     },
     "wof:country":"JP",
     "wof:geomhash":"e57a85d2f84de838ee4c5f7d23352c52",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":102031743,
-    "wof:lastmodified":1563290165,
+    "wof:lastmodified":1566724937,
     "wof:name":"Himi",
     "wof:parent_id":890520097,
     "wof:placetype":"locality",

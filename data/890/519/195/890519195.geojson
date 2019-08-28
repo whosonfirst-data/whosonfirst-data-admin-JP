@@ -11,10 +11,14 @@
     "geom:longitude":130.8,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":51608,
+    "gn:population":51608,
     "iso:country":"JP",
+    "lbl:bbox":"130.78,33.61333,130.82,33.65333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u063a\u0627\u0648\u0627"
     ],
@@ -159,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Takawa"
     ],
     "name:urd_x_preferred":[
@@ -192,7 +196,7 @@
     "wof:concordances":{
         "gn:id":1851273,
         "gp:id":28483900,
-        "qs:id":564895,
+        "qs_pg:id":564895,
         "wd:id":"Q850332"
     },
     "wof:country":"JP",
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":890519195,
-    "wof:lastmodified":1563295903,
+    "wof:lastmodified":1566726343,
     "wof:name":"Tagawa",
     "wof:parent_id":890524345,
     "wof:placetype":"locality",

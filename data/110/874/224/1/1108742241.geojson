@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.951148,
     "lbl:longitude":137.25519,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aichi Ken",
     "meso:gadm_admin":"Okazaki",
     "meso:gadm_hasc2":"JP.AI.OK",
@@ -30,6 +32,7 @@
     "mps:longitude":137.25519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Okazaki"
     ],
@@ -62,9 +65,9 @@
         "\u041e\u043a\u0430\u0434\u0437\u0430\u043a\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"227",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108742241,
-    "wof:lastmodified":1564169058,
+    "wof:lastmodified":1566725987,
     "wof:name":"Okazaki",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

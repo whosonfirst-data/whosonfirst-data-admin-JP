@@ -11,10 +11,14 @@
     "geom:longitude":135.83333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":71052,
+    "gn:population":71052,
     "iso:country":"JP",
+    "lbl:bbox":"135.81333,34.56333,135.85333,34.60333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0646\u064a"
     ],
@@ -196,7 +200,7 @@
     "wof:concordances":{
         "gn:id":1850396,
         "gp:id":28466290,
-        "qs:id":564784,
+        "qs_pg:id":564784,
         "wd:id":"Q502196",
         "wk:page":"Tenri, Nara"
     },
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890519825,
-    "wof:lastmodified":1563295984,
+    "wof:lastmodified":1566726353,
     "wof:name":"Tenri",
     "wof:parent_id":890524335,
     "wof:placetype":"locality",

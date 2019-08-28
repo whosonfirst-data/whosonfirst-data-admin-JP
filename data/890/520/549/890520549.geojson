@@ -11,10 +11,14 @@
     "geom:longitude":133.91788,
     "gn:country":"JP",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"133.81788,33.9356,134.01788,34.1356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u063a\u0627\u0634\u064a\u0645\u064a\u0648\u0634\u064a"
     ],
@@ -69,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0491\u0430\u0448\u0456-\u041c\u0456\u0439\u043e\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "Higashimiyoshi Ch\u014d"
-    ],
     "name:zho_x_preferred":[
         "\u6771\u4e09\u597d\u753a"
     ],
@@ -90,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7406334,
-        "qs:id":1154570,
+        "qs_pg:id":1154570,
         "wd:id":"Q1206006",
         "wk:page":"Higashimiyoshi"
     },
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":890520549,
-    "wof:lastmodified":1563296192,
+    "wof:lastmodified":1566726388,
     "wof:name":"Higashimiyoshi-ch\u014d",
     "wof:parent_id":1108742881,
     "wof:placetype":"localadmin",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":43.449217,
     "lbl:longitude":142.777095,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Hokkai Do",
     "meso:name_loc":"\u5317\u6d77\u9053",
     "mps:latitude":43.451275,
@@ -387,7 +388,6 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "\u5317\u6d77\u9053",
         "Hokkai Do"
     ],
     "name:urd_x_preferred":[
@@ -500,9 +500,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"78,515",
     "statoids:area_mi":"30,315",
     "statoids:as_of_date":"2010-10-01",
@@ -528,7 +528,7 @@
         "hasc:id":"JP.HK",
         "iso:id":"JP-01",
         "loc:id":"n80076150",
-        "qs:id":1105403,
+        "qs_pg:id":1105403,
         "wd:id":"Q1037393",
         "wk:page":"Hokkaido"
     },
@@ -548,11 +548,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724595,
+    "wof:lastmodified":1566725309,
     "wof:name":"Hokkaido",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"territory",
     "wof:population":5506419,
     "wof:population_rank":13,

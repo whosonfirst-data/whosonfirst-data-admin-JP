@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"141.76333,44.16333,141.80333,44.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sankei"
     ],
@@ -42,8 +46,7 @@
         "\u0421\u0430\u043d\u043a\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "Mikebetsu",
-        "Sankei"
+        "Mikebetsu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1344136501,
-    "wof:lastmodified":1537650486,
+    "wof:lastmodified":1566724985,
     "wof:name":"Sankei",
     "wof:parent_id":1108739693,
     "wof:placetype":"locality",

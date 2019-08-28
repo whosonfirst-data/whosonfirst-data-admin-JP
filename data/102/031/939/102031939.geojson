@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.441531,
     "lbl:longitude":139.993156,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.441531,
     "mps:longitude":139.993156,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Mooka"
     ],
@@ -231,7 +234,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u014dka"
     ],
     "name:vec_x_preferred":[
@@ -272,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":14,
     "wof:belongsto":[
@@ -286,7 +289,6 @@
         "fct:id":"133fda12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2111836,
         "gp:id":1112126,
-        "qs:id":138464,
         "qs_pg:id":138464,
         "wd:id":"Q6907301"
     },
@@ -304,7 +306,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289980,
+    "wof:lastmodified":1566724921,
     "wof:name":"Mooka",
     "wof:parent_id":1108740329,
     "wof:placetype":"locality",

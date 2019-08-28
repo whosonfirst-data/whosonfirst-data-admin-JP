@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.065973,
     "lbl:longitude":135.22522,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.065973,
     "mps:longitude":135.22522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -218,7 +221,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":216,
     "wof:belongsto":[
@@ -231,10 +234,12 @@
     "wof:concordances":{
         "gn:id":1852901,
         "gp:id":1118111,
-        "qs:id":1115057,
-        "qs_pg:id":1243517,
+        "qs_pg:id":1115057,
         "wd:id":"Q877169",
         "wk:page":"Sasayama, Hy\u014dgo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243517
     },
     "wof:country":"JP",
     "wof:geomhash":"21ddb90e32f4cacda66d6043c149b828",
@@ -248,7 +253,7 @@
         }
     ],
     "wof:id":102031405,
-    "wof:lastmodified":1563290141,
+    "wof:lastmodified":1566724935,
     "wof:name":"Sasayama",
     "wof:parent_id":890524743,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":35.695126,
     "lbl:longitude":139.75391,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":35.695126,
     "mps:longitude":139.75391,
     "mz:hierarchy_label":1,
@@ -837,7 +839,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -855,7 +857,6 @@
         "gp:id":1118370,
         "loc:id":"n79034998",
         "nyt:id":"56992597117380105501",
-        "qs:id":301367,
         "qs_pg:id":301367
     },
     "wof:coterminous":[
@@ -876,7 +877,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1564164681,
+    "wof:lastmodified":1566724919,
     "wof:megacity":1,
     "wof:name":"Tokyo",
     "wof:parent_id":1108741679,

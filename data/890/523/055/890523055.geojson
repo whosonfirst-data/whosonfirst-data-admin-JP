@@ -11,10 +11,14 @@
     "geom:longitude":130.31667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":23710,
+    "gn:population":23710,
     "iso:country":"JP",
+    "lbl:bbox":"130.29667,31.39667,130.33667,31.43667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u044d\u0434\u0430"
     ],
@@ -60,9 +64,6 @@
     "name:slv_x_preferred":[
         "Kaseda"
     ],
-    "name:unk_x_variant":[
-        "Kaseda-shirakame"
-    ],
     "name:zho_x_preferred":[
         "\u52a0\u4e16\u7530\u5e02"
     ],
@@ -81,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1859964,
         "gp:id":28493202,
-        "qs:id":566016,
+        "qs_pg:id":566016,
         "wd:id":"Q1156670"
     },
     "wof:country":"JP",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890523055,
-    "wof:lastmodified":1563296559,
+    "wof:lastmodified":1566726475,
     "wof:name":"Kaseda",
     "wof:parent_id":890521005,
     "wof:placetype":"locality",

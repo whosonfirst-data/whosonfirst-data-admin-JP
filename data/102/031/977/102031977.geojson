@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":38.449441,
     "lbl:longitude":141.284894,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":38.449441,
     "mps:longitude":141.284894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0634\u064a\u0646\u0648\u0645\u0627\u0643\u064a"
     ],
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0456\u043d\u043e\u043c\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ishinomachi"
     ],
     "name:urd_x_preferred":[
@@ -222,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1391,
     "wof:belongsto":[
@@ -236,7 +239,6 @@
         "fct:id":"133fafb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2112576,
         "gp:id":1109614,
-        "qs:id":351630,
         "qs_pg:id":351630,
         "wd:id":"Q270814",
         "wk:page":"Ishinomaki, Miyagi"
@@ -255,7 +257,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290050,
+    "wof:lastmodified":1566724927,
     "wof:name":"Ishinomaki",
     "wof:parent_id":1108739999,
     "wof:placetype":"locality",

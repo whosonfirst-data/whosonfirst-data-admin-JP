@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.434839,
     "lbl:longitude":133.357226,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":35.434839,
     "mps:longitude":133.357226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0646\u0627\u063a\u0648"
     ],
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":320,
     "wof:belongsto":[
@@ -251,7 +254,6 @@
         "fct:id":"13408926-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1848277,
         "gp:id":1118555,
-        "qs:id":137059,
         "qs_pg:id":137059,
         "wd:id":"Q320964",
         "wk:page":"Yonago, Tottori"
@@ -271,7 +273,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290033,
+    "wof:lastmodified":1566724926,
     "wof:name":"Yonago",
     "wof:parent_id":1108742681,
     "wof:placetype":"locality",

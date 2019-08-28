@@ -11,13 +11,15 @@
     "geom:longitude":139.521789,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kiyose Shi"
     ],
     "lbl:latitude":35.780506,
     "lbl:longitude":139.521413,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Kiyose",
     "meso:gadm_hasc2":"JP.TK.KS",
@@ -33,6 +35,7 @@
     "mps:longitude":139.521413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0633\u0647\u060c \u0637\u0648\u0643\u064a\u0648"
     ],
@@ -90,7 +93,7 @@
         "\u0a95\u0abf\u0aaf\u0acb\u0ab8\u0ac7"
     ],
     "name:hin_x_preferred":[
-        "\u0915\u093f\u092f\u094b\u0938\u0947  \u0938\u093f\u091f\u0940"
+        "\u0915\u093f\u092f\u094b\u0938\u0947 \u0938\u093f\u091f\u0940"
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0575\u0578\u057d\u0565"
@@ -197,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0439\u043e\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiyose-mura"
     ],
     "name:urd_x_preferred":[
@@ -223,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"10",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -245,7 +248,7 @@
     "wof:concordances":{
         "gn:id":1859211,
         "hasc:id":"JP.TK.KS",
-        "qs:id":1028027,
+        "qs_pg:id":1028027,
         "wd:id":"Q329754"
     },
     "wof:country":"JP",
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":890520719,
-    "wof:lastmodified":1563296196,
+    "wof:lastmodified":1566726389,
     "wof:name":"Kiyose",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

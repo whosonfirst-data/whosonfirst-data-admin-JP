@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":33.723087,
     "lbl:longitude":130.975042,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":33.723087,
     "mps:longitude":130.975042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0643\u0648\u0647\u0627\u0634\u064a"
     ],
@@ -172,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u043a\u0443\u0445\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukihashi"
     ],
     "name:urd_x_preferred":[
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -227,7 +230,6 @@
         "fct:id":"1340b75c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1848087,
         "gp:id":1118578,
-        "qs:id":1170097,
         "qs_pg:id":1170097,
         "wd:id":"Q851668",
         "wk:page":"Yukuhashi, Fukuoka"
@@ -246,7 +248,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290121,
+    "wof:lastmodified":1566724933,
     "wof:name":"Yukuhashi",
     "wof:parent_id":1108743009,
     "wof:placetype":"locality",

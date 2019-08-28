@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.142306,
     "lbl:longitude":137.254126,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.142306,
     "mps:longitude":137.254126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -220,7 +223,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1850892,
-        "qs:id":277655,
         "qs_pg:id":277655,
         "wd:id":"Q622594"
     },
@@ -236,7 +238,7 @@
         }
     ],
     "wof:id":102031345,
-    "wof:lastmodified":1563290172,
+    "wof:lastmodified":1566724938,
     "wof:name":"Takayama",
     "wof:parent_id":890524607,
     "wof:placetype":"locality",

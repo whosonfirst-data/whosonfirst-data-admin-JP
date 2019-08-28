@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":38.940274,
     "lbl:longitude":141.296144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Iwate Ken",
     "meso:gadm_admin":"Ichinoseki",
     "meso:gadm_hasc2":"JP.IW.IC",
@@ -30,6 +32,7 @@
     "mps:longitude":141.296144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u064a\u0646\u0648\u0633\u064a\u0643\u064a\u060c \u0625\u064a\u0648\u0627\u062a\u0647"
     ],
@@ -197,9 +200,9 @@
         "\u4e00\u5173\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"410",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":1108739951,
-    "wof:lastmodified":1563294584,
+    "wof:lastmodified":1566726015,
     "wof:name":"Ichinoseki",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

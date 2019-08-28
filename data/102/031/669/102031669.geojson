@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.765645,
     "lbl:longitude":138.037399,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.765645,
     "mps:longitude":138.037399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u064a\u063a\u0627\u0648\u0627"
     ],
@@ -219,7 +222,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":670,
     "wof:belongsto":[
@@ -233,7 +236,6 @@
         "fct:id":"134047f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1860728,
         "gp:id":1117390,
-        "qs:id":6971,
         "qs_pg:id":6971,
         "wd:id":"Q823988",
         "wk:page":"Kakegawa, Shizuoka"
@@ -252,7 +254,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290034,
+    "wof:lastmodified":1566724926,
     "wof:name":"Kakegawa",
     "wof:parent_id":1108742197,
     "wof:placetype":"locality",

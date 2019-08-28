@@ -11,13 +11,15 @@
     "geom:longitude":129.324894,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tsushima"
     ],
     "lbl:latitude":34.562028,
     "lbl:longitude":129.394006,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagasaki Ken",
     "meso:gadm_admin":"Tsushima",
     "meso:gadm_hasc2":"JP.NS.TS",
@@ -33,6 +35,7 @@
     "mps:longitude":129.394006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0634\u064a\u0645\u0627\u060c \u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a"
     ],
@@ -179,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0443\u0448\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tsushima"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0633\u0648\u0634\u06cc\u0645\u0627"
     ],
@@ -205,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":364,
     "wof:belongsto":[
@@ -217,7 +217,7 @@
     "wof:concordances":{
         "gn:id":1849535,
         "hasc:id":"JP.NS.TS",
-        "qs:id":1027826,
+        "qs_pg:id":1027826,
         "wd:id":"Q991032",
         "wk:page":"Tsushima, Aichi"
     },
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":890524319,
-    "wof:lastmodified":1563296748,
+    "wof:lastmodified":1566726505,
     "wof:name":"Tsushima",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

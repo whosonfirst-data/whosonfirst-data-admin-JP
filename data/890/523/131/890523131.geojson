@@ -11,10 +11,14 @@
     "geom:longitude":141.55056,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":133953,
+    "gn:population":133953,
     "iso:country":"JP",
+    "lbl:bbox":"141.53056,43.08806,141.57056,43.12806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0625\u0628\u064a\u062a\u0633\u0648"
     ],
@@ -207,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2130404,
         "gp:id":28381927,
-        "qs:id":572731,
+        "qs_pg:id":572731,
         "wd:id":"Q496681"
     },
     "wof:country":"JP",
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":890523131,
-    "wof:lastmodified":1563296579,
+    "wof:lastmodified":1566726479,
     "wof:name":"Ebetsu",
     "wof:parent_id":890520789,
     "wof:placetype":"locality",

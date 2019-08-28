@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.714324,
     "lbl:longitude":139.825431,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tochigi Ken",
     "meso:name_loc":"\u6803\u6728\u770c",
     "mps:latitude":36.705228,
@@ -257,7 +258,7 @@
         "Tochigi prefektur"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcb\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bbf  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0b9f\u0bcb\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bbf \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c1a\u0c3f\u0c17\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -287,11 +288,7 @@
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u043e\u0447\u0456\u0491\u0456"
     ],
     "name:und_x_variant":[
-        "\u6803\u6728\u770c",
         "Tochigi Ken"
-    ],
-    "name:unk_x_variant":[
-        "Tochigi-ken"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0686\u06cc\u06af\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
@@ -382,9 +379,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-01",
+    "src:population_date":"2010-10-01",
     "statoids:area_km":"6,414",
     "statoids:area_mi":"2,476",
     "statoids:as_of_date":"2010-10-01",
@@ -408,7 +405,7 @@
         "gp:id":2345887,
         "hasc:id":"JP.TC",
         "iso:id":"JP-09",
-        "qs:id":1248999,
+        "qs_pg:id":1248999,
         "wd:id":"Q44843",
         "wk:page":"Tochigi Prefecture"
     },
@@ -428,11 +425,10 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1565724595,
+    "wof:lastmodified":1566725308,
     "wof:name":"Tochigi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":2007683,
     "wof:population_rank":12,

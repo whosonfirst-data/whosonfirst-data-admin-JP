@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.370213,
     "lbl:longitude":136.535714,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.370213,
     "mps:longitude":136.535714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0648\u064a"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":1850600,
         "gp:id":1115515,
-        "qs:id":951012,
         "qs_pg:id":137092,
         "wd:id":"Q1345531"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":951012
     },
     "wof:country":"JP",
     "wof:geomhash":"a6e62ddd9dbf5ffd34fe32300b52c906",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":102031331,
-    "wof:lastmodified":1563289973,
+    "wof:lastmodified":1566724920,
     "wof:name":"Tarui",
     "wof:parent_id":1108742145,
     "wof:placetype":"locality",

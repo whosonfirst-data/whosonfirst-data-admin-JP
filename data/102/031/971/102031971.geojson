@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":37.006937,
     "lbl:longitude":140.740983,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":37.006937,
     "mps:longitude":140.740983,
     "mz:hierarchy_label":1,
@@ -331,7 +333,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -344,7 +346,6 @@
     "wof:concordances":{
         "gn:id":2112539,
         "gp:id":28398782,
-        "qs:id":274161,
         "qs_pg:id":274161,
         "wd:id":"Q274384"
     },
@@ -359,7 +360,7 @@
         }
     ],
     "wof:id":102031971,
-    "wof:lastmodified":1563290065,
+    "wof:lastmodified":1566724929,
     "wof:name":"Iwaki",
     "wof:parent_id":1108740153,
     "wof:placetype":"locality",

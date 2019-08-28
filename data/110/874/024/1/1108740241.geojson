@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":37.091101,
     "lbl:longitude":140.425365,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukushima Ken",
     "meso:gadm_admin":"Asakawa",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.425365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Asakawa"
     ],
@@ -38,7 +41,7 @@
         "Asakawa Machi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108740241,
-    "wof:lastmodified":1554759592,
+    "wof:lastmodified":1566725947,
     "wof:name":"Asakawa",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

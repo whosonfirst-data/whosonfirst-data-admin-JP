@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.773682,
     "lbl:longitude":136.131484,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.773682,
     "mps:longitude":136.131484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0625\u063a\u0627"
     ],
@@ -228,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":512,
     "wof:belongsto":[
@@ -242,10 +245,12 @@
         "fct:id":"13405cee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1861901,
         "gp:id":28379365,
-        "qs:id":893675,
-        "qs_pg:id":1028145,
+        "qs_pg:id":893675,
         "wd:id":"Q460820",
         "wk:page":"Iga, Mie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028145
     },
     "wof:country":"JP",
     "wof:geomhash":"6197e73515889c3d348feef8cfa055a5",
@@ -261,7 +266,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290172,
+    "wof:lastmodified":1566724938,
     "wof:name":"Iga",
     "wof:parent_id":1108742325,
     "wof:placetype":"locality",

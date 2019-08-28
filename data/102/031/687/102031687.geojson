@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":32.080372,
     "lbl:longitude":130.355972,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":32.080372,
     "mps:longitude":130.355972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0632\u0648\u0645\u064a"
     ],
@@ -203,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":178,
     "wof:belongsto":[
@@ -216,10 +219,12 @@
     "wof:concordances":{
         "gn:id":1861107,
         "gp:id":1117362,
-        "qs:id":466689,
         "qs_pg:id":351408,
         "wd:id":"Q15734",
         "wk:page":"Izumi, Kagoshima"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":466689
     },
     "wof:country":"JP",
     "wof:geomhash":"768274fac106e5b8c7ad1f157eda8f99",
@@ -233,7 +238,7 @@
         }
     ],
     "wof:id":102031687,
-    "wof:lastmodified":1563290016,
+    "wof:lastmodified":1566724924,
     "wof:name":"Izumi",
     "wof:parent_id":890524689,
     "wof:placetype":"locality",

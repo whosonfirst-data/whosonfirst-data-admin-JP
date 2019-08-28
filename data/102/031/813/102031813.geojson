@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.721246,
     "lbl:longitude":135.637771,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.721246,
     "mps:longitude":135.637771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u064a\u062a\u0648\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -171,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0439\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dait\u014dch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -203,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":32,
     "wof:belongsto":[
@@ -216,7 +219,6 @@
     "wof:concordances":{
         "gn:id":1864416,
         "gp:id":28459731,
-        "qs:id":355867,
         "qs_pg:id":355867,
         "wd:id":"Q386668"
     },
@@ -232,7 +234,7 @@
         }
     ],
     "wof:id":102031813,
-    "wof:lastmodified":1563290131,
+    "wof:lastmodified":1566724934,
     "wof:name":"Dait\u014d",
     "wof:parent_id":1108742469,
     "wof:placetype":"locality",

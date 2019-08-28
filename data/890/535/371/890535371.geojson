@@ -11,10 +11,14 @@
     "geom:longitude":133.43333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":24123,
+    "gn:population":24123,
     "iso:country":"JP",
+    "lbl:bbox":"133.41333,33.53,133.45333,33.57",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0646\u0648"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inoch\u014d"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1861584,
         "gp:id":1117309,
-        "qs:id":90029,
+        "qs_pg:id":90029,
         "wd:id":"Q1206590",
         "wk:page":"Ino"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890535371,
-    "wof:lastmodified":1563295633,
+    "wof:lastmodified":1566726272,
     "wof:name":"Ino",
     "wof:parent_id":1108742973,
     "wof:placetype":"locality",

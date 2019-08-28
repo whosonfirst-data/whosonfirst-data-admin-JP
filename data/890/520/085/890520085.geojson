@@ -11,8 +11,11 @@
     "geom:longitude":140.11667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":320069,
+    "gn:population":320069,
     "iso:country":"JP",
+    "lbl:bbox":"140.09667,39.69667,140.13667,39.73667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -355,7 +358,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2113126,
-        "qs:id":274162,
+        "qs_pg:id":274162,
         "wd:id":"Q17139",
         "wk:page":"Akita"
     },
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":890520085,
-    "wof:lastmodified":1563296108,
+    "wof:lastmodified":1566726378,
     "wof:name":"Akita",
     "wof:parent_id":1108740049,
     "wof:placetype":"locality",

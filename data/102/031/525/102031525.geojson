@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.804783,
     "lbl:longitude":132.852173,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":34.804783,
     "mps:longitude":132.852173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u06cc\u0648\u0634\u064a"
     ],
@@ -162,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0439\u043e\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miyosi"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -217,10 +220,12 @@
     "wof:concordances":{
         "gn:id":1856698,
         "gp:id":1117761,
-        "qs:id":896734,
-        "qs_pg:id":1243523,
+        "qs_pg:id":896734,
         "wd:id":"Q840591",
         "wk:page":"Miyoshi, Hiroshima"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243523
     },
     "wof:country":"JP",
     "wof:geomhash":"2ae2fe6d9a5292e1ecbe8166d72e852b",
@@ -233,7 +238,7 @@
         }
     ],
     "wof:id":102031525,
-    "wof:lastmodified":1563290174,
+    "wof:lastmodified":1566724938,
     "wof:name":"Miyoshi",
     "wof:parent_id":85672671,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":37.634339,
     "lbl:longitude":140.926709,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukushima Ken",
     "meso:gadm_admin":"Minamis\u014dma",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.926709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0645\u064a\u0633\u0648\u0645\u0627\u060c \u0641\u0648\u0643\u0648\u0634\u064a\u0645\u0627"
     ],
@@ -192,7 +195,7 @@
         "\u5357\u76f8\u99ac\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":1108741211,
-    "wof:lastmodified":1563294400,
+    "wof:lastmodified":1566725973,
     "wof:name":"Minamisoma",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

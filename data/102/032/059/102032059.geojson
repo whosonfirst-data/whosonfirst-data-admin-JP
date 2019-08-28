@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":42.860804,
     "lbl:longitude":140.706921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.860804,
     "mps:longitude":140.706921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hirafu Station"
     ],
@@ -36,7 +39,7 @@
     "name:nld_x_preferred":[
         "Hirafu Station"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014cmagari"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +57,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191569,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102032059,
-    "wof:lastmodified":1563290254,
+    "wof:lastmodified":1566724945,
     "wof:name":"Hirafu",
     "wof:parent_id":1108739589,
     "wof:placetype":"locality",

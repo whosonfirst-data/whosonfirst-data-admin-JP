@@ -11,10 +11,14 @@
     "geom:longitude":142.03917,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":26152,
+    "gn:population":26152,
     "iso:country":"JP",
+    "lbl:bbox":"142.01917,43.68806,142.05917,43.72806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0627\u063a\u0627\u0648\u0627"
     ],
@@ -165,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043a\u0430\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hukagawa"
     ],
     "name:urd_x_preferred":[
@@ -198,7 +202,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2130332,
-        "qs:id":90947,
+        "qs_pg:id":90947,
         "wd:id":"Q817268",
         "wk:page":"Fukagawa"
     },
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":890531861,
-    "wof:lastmodified":1563296343,
+    "wof:lastmodified":1566726425,
     "wof:name":"Fukagawa",
     "wof:parent_id":890523937,
     "wof:placetype":"locality",

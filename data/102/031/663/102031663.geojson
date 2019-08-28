@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.994004,
     "lbl:longitude":135.626221,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.994004,
     "mps:longitude":135.626221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0648\u0643\u0627"
     ],
@@ -205,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":396,
     "wof:belongsto":[
@@ -218,9 +221,11 @@
     "wof:concordances":{
         "gn:id":1860635,
         "gp:id":1117403,
-        "qs:id":899016,
         "qs_pg:id":137169,
         "wd:id":"Q633996"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899016
     },
     "wof:country":"JP",
     "wof:geomhash":"5afbe6f2f8903d8ac9f46f262afc14e7",
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":102031663,
-    "wof:lastmodified":1563290140,
+    "wof:lastmodified":1566724935,
     "wof:name":"Kameoka",
     "wof:parent_id":890524419,
     "wof:placetype":"locality",

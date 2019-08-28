@@ -11,13 +11,15 @@
     "geom:longitude":134.939697,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Akashi Shi"
     ],
     "lbl:latitude":34.683577,
     "lbl:longitude":134.943583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hyogo Ken",
     "meso:gadm_admin":"Akashi",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":134.943583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Akashi"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
-        "Akashi"
-    ],
     "qs:name":"Akashi-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -85,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"49",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -107,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1865470,
         "hasc:id":"JP.HG.AK",
-        "qs:id":1028246
+        "qs_pg:id":1028246
     },
     "wof:country":"JP",
     "wof:created":1469056342,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":890524505,
-    "wof:lastmodified":1564170984,
+    "wof:lastmodified":1566726487,
     "wof:name":"Akashi",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

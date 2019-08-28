@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.254696,
     "lbl:longitude":137.827516,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nagano Ken",
     "meso:gadm_admin":"Tenry\u016b",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":137.827516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Tenry\u016b"
     ],
@@ -51,9 +54,9 @@
         "\u0422\u0435\u043d\u0440\u044e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"182",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108742057,
-    "wof:lastmodified":1564168997,
+    "wof:lastmodified":1566725967,
     "wof:name":"Tenryu",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

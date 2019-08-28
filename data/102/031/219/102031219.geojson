@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.303526,
     "lbl:longitude":139.596847,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.303526,
     "mps:longitude":139.596847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u0634\u064a"
     ],
@@ -246,7 +249,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":579,
     "wof:belongsto":[
@@ -259,10 +262,12 @@
     "wof:concordances":{
         "gn:id":1847968,
         "gp:id":1118594,
-        "qs:id":1173294,
         "qs_pg:id":137057,
         "wd:id":"Q230843",
         "wk:page":"Zushi, Kanagawa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1173294
     },
     "wof:country":"JP",
     "wof:geomhash":"873acc7cd25fe78b64eca915bbc5d4a5",
@@ -276,7 +281,7 @@
         }
     ],
     "wof:id":102031219,
-    "wof:lastmodified":1563290012,
+    "wof:lastmodified":1566724924,
     "wof:name":"Zushi",
     "wof:parent_id":890520315,
     "wof:placetype":"locality",

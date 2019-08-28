@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":38.402359,
     "lbl:longitude":141.070714,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miyagi Ken",
     "meso:gadm_admin":"Matsushima",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":141.070714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Matsu\u015fima adalar\u0131"
     ],
@@ -89,7 +92,7 @@
         "\u041c\u0430\u0446\u0443\u0441\u0456\u043c\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108740021,
-    "wof:lastmodified":1564169099,
+    "wof:lastmodified":1566725998,
     "wof:name":"Matsushima",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

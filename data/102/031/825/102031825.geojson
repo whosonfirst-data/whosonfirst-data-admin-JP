@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":33.484763,
     "lbl:longitude":130.532664,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":33.484763,
     "mps:longitude":130.532664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0643\u0648\u0634\u064a\u0646\u0648"
     ],
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043a\u0443\u0448\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "chikushino"
     ],
     "name:urd_x_preferred":[
@@ -201,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -215,7 +218,6 @@
         "fct:id":"1340b87e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1864572,
         "gp:id":1117041,
-        "qs:id":360443,
         "qs_pg:id":360443,
         "wd:id":"Q844140"
     },
@@ -233,7 +235,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290133,
+    "wof:lastmodified":1566724934,
     "wof:name":"Chikushino-shi",
     "wof:parent_id":1108743013,
     "wof:placetype":"locality",

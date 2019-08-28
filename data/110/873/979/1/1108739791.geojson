@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":43.012576,
     "lbl:longitude":143.225646,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Otofuke",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":143.225646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Otofuke"
     ],
@@ -38,7 +41,7 @@
         "Otofuke Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108739791,
-    "wof:lastmodified":1554759583,
+    "wof:lastmodified":1566726013,
     "wof:name":"Otofuke",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

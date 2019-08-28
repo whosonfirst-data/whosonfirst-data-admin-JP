@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.303843,
     "lbl:longitude":138.939031,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.303843,
     "mps:longitude":138.939031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u062a\u064a\u0646\u0628\u0627"
     ],
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043e\u0442\u0435\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ky\u016b-gotemba"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":548,
     "wof:belongsto":[
@@ -208,7 +211,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1863528,
-        "qs:id":277691,
         "qs_pg:id":277691,
         "wd:id":"Q735175",
         "wk:page":"Gotemba, Shizuoka"
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":102031777,
-    "wof:lastmodified":1563290072,
+    "wof:lastmodified":1566724929,
     "wof:name":"Gotemba",
     "wof:parent_id":890524461,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.511562,
     "lbl:longitude":137.084625,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Kawabe",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":137.084625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kawabe"
     ],
@@ -50,9 +53,9 @@
         "\u041a\u0430\u0432\u0430\u0431\u0435"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"446",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108742169,
-    "wof:lastmodified":1564168923,
+    "wof:lastmodified":1566725947,
     "wof:name":"Kawabe",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

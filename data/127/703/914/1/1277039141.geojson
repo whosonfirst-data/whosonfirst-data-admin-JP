@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"130.57652,32.97752,130.61652,33.01752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u014ckido"
     ],
@@ -36,9 +40,6 @@
     "name:jpn_x_variant":[
         "\u304a\u304a\u304d\u3069",
         "\u30aa\u30aa\u30ad\u30c9"
-    ],
-    "name:und_x_variant":[
-        "\u014ckido"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1277039141,
-    "wof:lastmodified":1564167346,
+    "wof:lastmodified":1566725585,
     "wof:name":"Okido",
     "wof:parent_id":1108743173,
     "wof:placetype":"locality",

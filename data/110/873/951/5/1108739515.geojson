@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":43.145052,
     "lbl:longitude":141.029926,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Otaru",
     "meso:gadm_hasc2":"JP.HK.OT",
@@ -30,6 +32,7 @@
     "mps:longitude":141.029926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627\u0631\u0648\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
@@ -230,9 +233,9 @@
         "\u5c0f\u6a3d\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"243",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":1108739515,
-    "wof:lastmodified":1563294596,
+    "wof:lastmodified":1566726018,
     "wof:name":"Otaru",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

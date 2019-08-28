@@ -13,14 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":39.79633,
     "gn:longitude":140.1199,
-    "gn:pop":39747,
+    "gn:population":39747,
     "iso:country":"JP",
     "lbl:latitude":31.991285,
     "lbl:longitude":130.982521,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.991285,
     "mps:longitude":130.982521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u064a\u0627\u0634\u064a\u060c \u0645\u064a\u0627\u0632\u0627\u0643\u064a"
     ],
@@ -174,7 +177,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0431\u0430\u044f\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kobayashi-ch\u014d"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":517,
     "wof:belongsto":[
@@ -224,7 +227,7 @@
     "wof:concordances":{
         "gn:id":1859175,
         "gp:id":28492131,
-        "qs:id":137150,
+        "qs_pg:id":137150,
         "wd:id":"Q861283",
         "wk:page":"Kobayashi"
     },
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":102032293,
-    "wof:lastmodified":1563290218,
+    "wof:lastmodified":1566724942,
     "wof:name":"Kobayashi",
     "wof:parent_id":890522719,
     "wof:placetype":"locality",

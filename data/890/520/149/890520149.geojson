@@ -11,13 +11,15 @@
     "geom:longitude":137.205513,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Hida"
     ],
     "lbl:latitude":36.336663,
     "lbl:longitude":137.185497,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Hida",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":137.185497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u062f\u0627 \u063a\u064a\u0641\u0648"
     ],
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hida-shi"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -221,7 +224,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7419032,
-        "qs:id":380722,
+        "qs_pg:id":380722,
         "wd:id":"Q847319"
     },
     "wof:country":"JP",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":890520149,
-    "wof:lastmodified":1563296206,
+    "wof:lastmodified":1566726390,
     "wof:name":"Hida",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

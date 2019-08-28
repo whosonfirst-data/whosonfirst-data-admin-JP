@@ -11,13 +11,15 @@
     "geom:longitude":133.335218,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Fukuyama Shi"
     ],
     "lbl:latitude":34.527935,
     "lbl:longitude":133.343732,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hiroshima Ken",
     "meso:gadm_admin":"Fukuyama",
     "meso:gadm_hasc2":"JP.HS.FM",
@@ -33,6 +35,7 @@
     "mps:longitude":133.343732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Fukuyama"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043a\u0443\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Fukuyama"
-    ],
     "qs:name":"Fukuyama-shi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -97,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"364",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -119,7 +119,7 @@
     "wof:concordances":{
         "gn:id":1863914,
         "hasc:id":"JP.HS.FM",
-        "qs:id":1028186
+        "qs_pg:id":1028186
     },
     "wof:country":"JP",
     "wof:created":1469056340,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":890524463,
-    "wof:lastmodified":1564170993,
+    "wof:lastmodified":1566726492,
     "wof:name":"Fukuyama",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

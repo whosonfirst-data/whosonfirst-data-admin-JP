@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.892061,
     "lbl:longitude":136.99678,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.892061,
     "mps:longitude":136.99678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0643\u064a\u0646\u0627\u0646"
     ],
@@ -207,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1573,
     "wof:belongsto":[
@@ -221,7 +224,6 @@
         "fct:id":"13404ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1862912,
         "gp:id":1108754,
-        "qs:id":277689,
         "qs_pg:id":277689,
         "wd:id":"Q495802",
         "wk:page":"Hekinan"
@@ -241,7 +243,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289981,
+    "wof:lastmodified":1566724921,
     "wof:name":"Hekinan",
     "wof:parent_id":1108742253,
     "wof:placetype":"locality",

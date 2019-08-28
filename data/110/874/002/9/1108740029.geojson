@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":38.420934,
     "lbl:longitude":141.005866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miyagi Ken",
     "meso:gadm_admin":"\u014csato",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":141.005866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Osato"
     ],
@@ -48,9 +51,9 @@
         "\u041e\u0441\u0430\u0442\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"207",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108740029,
-    "wof:lastmodified":1564169098,
+    "wof:lastmodified":1566725998,
     "wof:name":"Osato",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

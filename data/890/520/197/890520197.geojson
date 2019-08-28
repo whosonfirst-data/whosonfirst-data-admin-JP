@@ -11,10 +11,14 @@
     "geom:longitude":139.66667,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"139.56667,35.6,139.76667,35.8",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nakano-ku"
     ],
@@ -28,7 +32,7 @@
         "\u306a\u304b\u306e\u304f",
         "\u30ca\u30ab\u30ce\u30af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakano Ku"
     ],
     "qs:name":"Nakano-ku",
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1855848,
-        "qs:id":1031774
+        "qs_pg:id":1031774
     },
     "wof:country":"JP",
     "wof:created":1469056132,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890520197,
-    "wof:lastmodified":1505343917,
+    "wof:lastmodified":1566726383,
     "wof:name":"Nakano-ku",
     "wof:parent_id":1108741709,
     "wof:placetype":"localadmin",

@@ -11,13 +11,15 @@
     "geom:longitude":135.335105,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Takarazuka Shi"
     ],
     "lbl:latitude":34.839896,
     "lbl:longitude":135.3476,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hyogo Ken",
     "meso:gadm_admin":"Takarazuka",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":135.3476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Takarazuka"
     ],
@@ -53,7 +56,7 @@
         "\u305f\u304b\u3089\u3065\u304b\u3057",
         "\u5b9d\u585a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ry\u014dgen-mura"
     ],
     "qs:name":"Takarazuka-shi",
@@ -64,9 +67,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"102",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1851011,
         "hasc:id":"JP.HG.TR",
-        "qs:id":1031737
+        "qs_pg:id":1031737
     },
     "wof:country":"JP",
     "wof:created":1469056346,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890524615,
-    "wof:lastmodified":1564171009,
+    "wof:lastmodified":1566726500,
     "wof:name":"Takarazuka",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

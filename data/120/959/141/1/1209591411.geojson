@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"130.08528,32.15639,130.12528,32.19639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632429
@@ -36,7 +40,7 @@
         "gn:id":1858317
     },
     "wof:country":"JP",
-    "wof:geomhash":"ba596ae3edeb86c623437670c41f0a1e",
+    "wof:geomhash":"e916c5d6fa3292d31d6719d39adc3277",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209591411,
-    "wof:lastmodified":1536282466,
+    "wof:lastmodified":1566725753,
     "wof:name":"Kuranomoto",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     130.10528,
-    32.176390000000005,
+    32.17639,
     130.10528,
-    32.176390000000005
+    32.17639
 ],
   "geometry": {"coordinates":[130.10527999999999,32.17639],"type":"Point"}
 }

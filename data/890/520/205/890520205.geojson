@@ -11,10 +11,14 @@
     "geom:longitude":141.30167,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":15825,
+    "gn:population":15825,
     "iso:country":"JP",
+    "lbl:bbox":"141.28167,40.18694,141.32167,40.22694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u064a\u0646\u0648\u0647"
     ],
@@ -77,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0456\u043d\u043e\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ehinohe"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":2129961,
         "gp:id":28390905,
-        "qs:id":572715,
+        "qs_pg:id":572715,
         "wd:id":"Q1205998",
         "wk:page":"Ichinohe"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890520205,
-    "wof:lastmodified":1563296127,
+    "wof:lastmodified":1566726380,
     "wof:name":"Ichinohe",
     "wof:parent_id":1108739993,
     "wof:placetype":"locality",

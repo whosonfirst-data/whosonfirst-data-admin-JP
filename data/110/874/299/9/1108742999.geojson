@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":33.547082,
     "lbl:longitude":130.345393,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Fukuoka Ken",
     "meso:gadm_admin":"Fukuoka",
     "meso:gadm_hasc2":"JP.FO.FK",
@@ -30,6 +32,7 @@
     "mps:longitude":130.345393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Fukuoka"
     ],
@@ -301,9 +304,9 @@
         "\u798f\u5ca1\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"339",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -335,7 +338,7 @@
         }
     ],
     "wof:id":1108742999,
-    "wof:lastmodified":1564169108,
+    "wof:lastmodified":1566726000,
     "wof:name":"Fukuoka",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

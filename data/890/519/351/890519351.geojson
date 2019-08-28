@@ -11,10 +11,14 @@
     "geom:longitude":127.87194,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":34239,
+    "gn:population":34239,
     "iso:country":"JP",
+    "lbl:bbox":"127.85194,26.31694,127.89194,26.35694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0628\u0627\u0631\u0648"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0435\u0431\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hiebaru"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1863426,
         "gp:id":28494115,
-        "qs:id":566434,
+        "qs_pg:id":566434,
         "wd:id":"Q1206308"
     },
     "wof:country":"JP",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890519351,
-    "wof:lastmodified":1563295966,
+    "wof:lastmodified":1566726351,
     "wof:name":"Haebaru",
     "wof:parent_id":890520843,
     "wof:placetype":"locality",

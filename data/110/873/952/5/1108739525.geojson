@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":42.874544,
     "lbl:longitude":141.516796,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Eniwa",
     "meso:gadm_hasc2":"JP.HK.EN",
@@ -30,6 +32,7 @@
     "mps:longitude":141.516796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0646\u064a\u0648\u0627\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
@@ -209,9 +212,9 @@
         "\u60e0\u5ead\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"295",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":1108739525,
-    "wof:lastmodified":1563294572,
+    "wof:lastmodified":1566726012,
     "wof:name":"Eniwa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

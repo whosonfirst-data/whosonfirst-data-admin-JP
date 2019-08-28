@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":36.397219,
     "lbl:longitude":139.073198,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.397219,
     "mps:longitude":139.073198,
     "mz:hierarchy_label":1,
@@ -232,9 +234,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0435\u0431\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
-        "Maebashi"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06cc\u0628\u0627\u0634\u06cc"
     ],
@@ -362,7 +361,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":36.383333,
     "wd:longitude":139.066667,
@@ -379,7 +378,6 @@
         "fct:id":"133fdf80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1857843,
         "gp:id":1117656,
-        "qs:id":396476,
         "qs_pg:id":396476,
         "wd:id":"Q201613"
     },
@@ -398,7 +396,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290090,
+    "wof:lastmodified":1566724931,
     "wof:name":"Maebashi-shi",
     "wof:parent_id":1108740359,
     "wof:placetype":"locality",

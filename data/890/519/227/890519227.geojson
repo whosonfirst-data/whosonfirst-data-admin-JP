@@ -11,10 +11,14 @@
     "geom:longitude":137.06667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":35994,
+    "gn:population":35994,
     "iso:country":"JP",
+    "lbl:bbox":"137.04667,36.76333,137.08667,36.80333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Shinminato"
     ],
@@ -42,9 +46,6 @@
     "name:tgl_x_preferred":[
         "Shinminato"
     ],
-    "name:unk_x_variant":[
-        "Shinminato"
-    ],
     "name:zho_x_preferred":[
         "\u65b0\u6e4a\u5e02"
     ],
@@ -63,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1852385,
         "gp:id":28424110,
-        "qs:id":565040,
+        "qs_pg:id":565040,
         "wd:id":"Q1155438"
     },
     "wof:country":"JP",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":890519227,
-    "wof:lastmodified":1563295913,
+    "wof:lastmodified":1566726344,
     "wof:name":"Shimminato",
     "wof:parent_id":890519673,
     "wof:placetype":"locality",

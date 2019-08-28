@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":32.763367,
     "lbl:longitude":129.87662,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.763367,
     "mps:longitude":129.87662,
     "mz:hierarchy_label":1,
@@ -371,9 +373,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0491\u0430\u0441\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Nagasaki"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0633\u0627\u06a9\u06cc"
     ],
@@ -501,7 +500,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3603,
     "wof:belongsto":[
@@ -518,7 +517,6 @@
         "gn:id":1856177,
         "gp:id":1117811,
         "nyt:id":"N31527965654373764331",
-        "qs:id":137144,
         "qs_pg:id":137144,
         "wd:id":"Q38234"
     },
@@ -537,7 +535,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563289977,
+    "wof:lastmodified":1566724921,
     "wof:megacity":0,
     "wof:name":"Nagasaki-shi",
     "wof:parent_id":1108743131,

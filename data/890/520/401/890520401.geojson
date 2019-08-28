@@ -11,13 +11,15 @@
     "geom:longitude":136.732447,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Kahoku"
     ],
     "lbl:latitude":36.745434,
     "lbl:longitude":136.731309,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ishikawa Ken",
     "meso:gadm_admin":"Kahoku",
     "meso:gadm_hasc2":"JP.IS.KH",
@@ -33,6 +35,7 @@
     "mps:longitude":136.731309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0647\u0648\u0643\u0648\u060c \u0625\u064a\u0634\u064a\u0643\u0627\u0648\u0627"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0445\u043e\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kahoku-shi"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -225,7 +228,7 @@
     "wof:concordances":{
         "gn:id":7467880,
         "hasc:id":"JP.IS.KH",
-        "qs:id":1041570,
+        "qs_pg:id":1041570,
         "wd:id":"Q846335"
     },
     "wof:country":"JP",
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":890520401,
-    "wof:lastmodified":1563296113,
+    "wof:lastmodified":1566726378,
     "wof:name":"Kahoku",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

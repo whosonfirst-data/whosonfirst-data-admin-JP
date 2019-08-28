@@ -12,10 +12,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.698404,
     "lbl:longitude":139.500254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.698404,
     "mps:longitude":139.500254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u063a\u0627\u0646\u0647"
     ],
@@ -227,7 +230,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":395,
     "wof:belongsto":[
         102191569,
@@ -240,7 +243,6 @@
         "fct:id":"134005fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1859088,
         "gp:id":1110933,
-        "qs:id":1089790,
         "qs_pg:id":1089790,
         "wd:id":"Q242874"
     },
@@ -259,7 +261,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290043,
+    "wof:lastmodified":1566724926,
     "wof:name":"Koganei",
     "wof:parent_id":890522887,
     "wof:placetype":"locality",

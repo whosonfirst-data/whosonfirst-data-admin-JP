@@ -11,13 +11,15 @@
     "geom:longitude":135.710045,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Ikoma Shi"
     ],
     "lbl:latitude":34.692972,
     "lbl:longitude":135.695712,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nara Ken",
     "meso:gadm_admin":"Ikoma",
     "meso:gadm_hasc2":"JP.NR.IG",
@@ -33,6 +35,7 @@
     "mps:longitude":135.695712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0643\u0648\u0645\u0627\u060c \u0646\u0627\u0631\u0627"
     ],
@@ -196,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043a\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ikoma-shi"
     ],
     "name:urd_x_preferred":[
@@ -222,9 +225,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"51",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -244,7 +247,7 @@
     "wof:concordances":{
         "gn:id":1861747,
         "hasc:id":"JP.NR.IG",
-        "qs:id":1031851,
+        "qs_pg:id":1031851,
         "wd:id":"Q328610"
     },
     "wof:country":"JP",
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":890519735,
-    "wof:lastmodified":1563295967,
+    "wof:lastmodified":1566726351,
     "wof:name":"Ikoma",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

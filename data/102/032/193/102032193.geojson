@@ -16,10 +16,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.457231,
     "lbl:longitude":137.047982,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.457231,
     "mps:longitude":137.047982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0648\u0643\u0627\u0645\u0648 \u063a\u064a\u0641\u0648"
     ],
@@ -207,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -220,10 +223,12 @@
     "wof:concordances":{
         "gn:id":6822217,
         "gp:id":1117728,
-        "qs:id":896729,
-        "qs_pg:id":1039096,
+        "qs_pg:id":896729,
         "wd:id":"Q857305",
         "wk:page":"Minokamo, Gifu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1039096
     },
     "wof:country":"JP",
     "wof:geomhash":"462450d158c85b3b0aecc521adb9bc6e",
@@ -237,7 +242,7 @@
         }
     ],
     "wof:id":102032193,
-    "wof:lastmodified":1563290199,
+    "wof:lastmodified":1566724940,
     "wof:name":"Minokamo",
     "wof:parent_id":890520761,
     "wof:placetype":"locality",

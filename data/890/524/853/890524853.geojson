@@ -11,13 +11,15 @@
     "geom:longitude":136.742804,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Yamagata"
     ],
     "lbl:latitude":35.613484,
     "lbl:longitude":136.728579,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gifu Ken",
     "meso:gadm_admin":"Yamagata",
     "meso:gadm_hasc2":"JP.GF.YM",
@@ -33,6 +35,7 @@
     "mps:longitude":136.728579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0645\u0627\u063a\u0627\u062a\u0627 \u063a\u064a\u0641\u0648"
     ],
@@ -183,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043c\u0430\u0491\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yamagata-shi"
     ],
     "name:urd_x_preferred":[
@@ -212,7 +215,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":256,
     "wof:belongsto":[
@@ -224,7 +227,7 @@
     "wof:concordances":{
         "gn:id":7419036,
         "hasc:id":"JP.GF.YM",
-        "qs:id":1041436,
+        "qs_pg:id":1041436,
         "wd:id":"Q773311",
         "wk:page":"Yamagata, Gifu"
     },
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":890524853,
-    "wof:lastmodified":1563296726,
+    "wof:lastmodified":1566726501,
     "wof:name":"Yamagata",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

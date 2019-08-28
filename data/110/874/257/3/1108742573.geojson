@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.599825,
     "lbl:longitude":135.684473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nara Ken",
     "meso:gadm_admin":"Sang\u014d",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":135.684473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sango"
     ],
@@ -39,7 +42,7 @@
         "Sango Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108742573,
-    "wof:lastmodified":1554759616,
+    "wof:lastmodified":1566725957,
     "wof:name":"Sango",
     "wof:parent_id":85672779,
     "wof:placetype":"county",

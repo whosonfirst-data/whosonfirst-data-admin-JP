@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":35.150343,
     "lbl:longitude":136.92629,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":35.150343,
     "mps:longitude":136.92629,
     "mz:hierarchy_label":1,
@@ -421,9 +423,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0491\u043e\u044f"
     ],
-    "name:unk_x_variant":[
-        "Nagoya"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0648\u06cc\u0627"
     ],
@@ -560,7 +559,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -577,7 +576,6 @@
         "gp:id":1117817,
         "loc:id":"n96096101",
         "nyt:id":"48013513494224685341",
-        "qs:id":137143,
         "qs_pg:id":137143,
         "wd:id":"Q11751",
         "wk:page":"Nagoya"
@@ -597,7 +595,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290036,
+    "wof:lastmodified":1566724926,
     "wof:megacity":1,
     "wof:name":"Nagoya-shi",
     "wof:parent_id":1108742239,

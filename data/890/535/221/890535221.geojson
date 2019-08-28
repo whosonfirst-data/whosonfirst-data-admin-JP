@@ -11,10 +11,14 @@
     "geom:longitude":138.91667,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"138.81667,34.73333,139.01667,34.93333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0632\u0648"
     ],
@@ -60,7 +64,7 @@
     "name:spa_x_preferred":[
         "Izu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Izuno-kuni"
     ],
     "qs:name":"Izu",
@@ -78,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1861119,
-        "qs:id":244291,
+        "qs_pg:id":244291,
         "wk:page":"Izu"
     },
     "wof:country":"JP",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890535221,
-    "wof:lastmodified":1564170258,
+    "wof:lastmodified":1566726270,
     "wof:name":"Izu",
     "wof:parent_id":1108742205,
     "wof:placetype":"localadmin",

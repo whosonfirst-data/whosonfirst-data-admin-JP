@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.861291,
     "lbl:longitude":133.752368,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Okayama Ken",
     "meso:gadm_admin":"Kibich\u016b\u014d",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":133.752368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kibichuo"
     ],
@@ -39,7 +42,7 @@
         "Kibichuo Cho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108742783,
-    "wof:lastmodified":1554759619,
+    "wof:lastmodified":1566725988,
     "wof:name":"Kibichuo",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

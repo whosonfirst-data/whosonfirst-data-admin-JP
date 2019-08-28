@@ -11,11 +11,15 @@
     "geom:longitude":136.19768,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":45338,
+    "gn:population":45338,
     "iso:country":"JP",
+    "lbl:bbox":"136.17768,35.09626,136.21768,35.13626",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Yokkaichi"
     ],
     "qs:name":"Youkaichi",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1848382,
         "gp:id":28449265,
-        "qs:id":89690
+        "qs_pg:id":89690
     },
     "wof:country":"JP",
     "wof:created":1469056668,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890531727,
-    "wof:lastmodified":1505343931,
+    "wof:lastmodified":1566726436,
     "wof:name":"Youkaichi",
     "wof:parent_id":1108742377,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":139.33333,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":80793,
+    "gn:population":80793,
     "iso:country":"JP",
+    "lbl:bbox":"139.31333,37.93,139.35333,37.97",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u0627\u062a\u0627"
     ],
@@ -162,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0431\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "sibata"
     ],
     "name:urd_x_preferred":[
@@ -195,7 +199,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1852607,
-        "qs:id":565078,
+        "qs_pg:id":565078,
         "wd:id":"Q601950",
         "wk:page":"Shibata"
     },
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":890519239,
-    "wof:lastmodified":1563295993,
+    "wof:lastmodified":1566726354,
     "wof:name":"Shibata",
     "wof:parent_id":890523743,
     "wof:placetype":"locality",

@@ -11,13 +11,15 @@
     "geom:longitude":134.488859,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Katsuura"
     ],
     "lbl:latitude":33.939677,
     "lbl:longitude":134.493649,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokushima Ken",
     "meso:gadm_admin":"Katsuura",
     "meso:gadm_hasc2":"JP.TS.KT",
@@ -33,6 +35,7 @@
     "mps:longitude":134.493649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Katsuura"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0446\u0443\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katsuura-ch\u014d"
     ],
     "qs:name":"Katsuura-ch\u014d",
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":7406327,
         "hasc:id":"JP.TS.KT",
-        "qs:id":904218
+        "qs_pg:id":904218
     },
     "wof:country":"JP",
     "wof:created":1469056142,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890520451,
-    "wof:lastmodified":1564170639,
+    "wof:lastmodified":1566726387,
     "wof:name":"Katsuura",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

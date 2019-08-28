@@ -11,14 +11,18 @@
     "geom:longitude":135.7893,
     "gn:country":"JP",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
+    "lbl:bbox":"135.6893,34.2902,135.8893,34.4902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u5927\u6dc0\u753a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014cyodo-machi"
     ],
     "qs:name":"\u014cyodo-ch\u014d",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1853466,
-        "qs:id":1027904
+        "qs_pg:id":1027904
     },
     "wof:country":"JP",
     "wof:created":1469056337,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890524365,
-    "wof:lastmodified":1505343925,
+    "wof:lastmodified":1566726487,
     "wof:name":"\u014cyodo-ch\u014d",
     "wof:parent_id":1108742605,
     "wof:placetype":"localadmin",

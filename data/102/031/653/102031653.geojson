@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":31.394746,
     "lbl:longitude":130.874174,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":31.394746,
     "mps:longitude":130.874174,
     "mz:hierarchy_label":1,
@@ -303,7 +305,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":439,
     "wof:belongsto":[
@@ -317,7 +319,6 @@
         "fct:id":"1340dec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1860112,
         "gp:id":1117447,
-        "qs:id":686820,
         "qs_pg:id":686820,
         "wd:id":"Q819578",
         "wk:page":"Kanoya, Kagoshima"
@@ -336,7 +337,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290152,
+    "wof:lastmodified":1566724936,
     "wof:name":"Kanoya",
     "wof:parent_id":1108743307,
     "wof:placetype":"locality",

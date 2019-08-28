@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.65974,
     "lbl:longitude":140.499642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiba Ken",
     "meso:gadm_admin":"Yokoshibahikari",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":140.499642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yokoshibahikari-machi"
     ],
@@ -74,7 +77,7 @@
         "\u6a6b\u829d\u5149\u753a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108741657,
-    "wof:lastmodified":1564169027,
+    "wof:lastmodified":1566725975,
     "wof:name":"Yokoshibahikari",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

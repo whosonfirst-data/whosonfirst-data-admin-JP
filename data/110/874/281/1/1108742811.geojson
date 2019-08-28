@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.319135,
     "lbl:longitude":132.515713,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hiroshima Ken",
     "meso:gadm_admin":"Saka",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":132.515713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:amh_x_preferred":[
         "\u1233\u12ab\u12ce\u127d"
     ],
@@ -161,7 +164,7 @@
         "Ng\u01b0\u1eddi Saka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1108742811,
-    "wof:lastmodified":1564168963,
+    "wof:lastmodified":1566725957,
     "wof:name":"Saka",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

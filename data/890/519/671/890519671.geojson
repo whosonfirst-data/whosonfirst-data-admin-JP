@@ -11,13 +11,15 @@
     "geom:longitude":139.439802,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Tama Shi"
     ],
     "lbl:latitude":35.635219,
     "lbl:longitude":139.447113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokyo To",
     "meso:gadm_admin":"Hachi\u014dji",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":139.447113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0627"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tama-shi"
     ],
     "name:vie_x_preferred":[
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"21",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gn:id":1850731,
         "hasc:id":"JP.TK.TM",
-        "qs:id":351309
+        "qs_pg:id":351309
     },
     "wof:country":"JP",
     "wof:created":1469056112,
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":890519671,
-    "wof:lastmodified":1564170536,
+    "wof:lastmodified":1566726352,
     "wof:name":"Tama",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

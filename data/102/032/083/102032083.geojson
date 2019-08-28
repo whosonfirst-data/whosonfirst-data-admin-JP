@@ -16,10 +16,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.768687,
     "lbl:longitude":135.625378,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.768687,
     "mps:longitude":135.625378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627\u063a\u0627\u0648\u0627\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -187,9 +190,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u044f\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Neyagawa-shi"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0627\u06af\u0627\u0648\u0627\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
     ],
@@ -228,7 +228,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":305,
     "wof:belongsto":[
@@ -242,7 +242,6 @@
         "fct:id":"13406d38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6697563,
         "gp:id":1117874,
-        "qs:id":897867,
         "qs_pg:id":897867,
         "wd:id":"Q389633"
     },
@@ -261,7 +260,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290206,
+    "wof:lastmodified":1566724941,
     "wof:name":"Neyagawa",
     "wof:parent_id":1108742467,
     "wof:placetype":"locality",

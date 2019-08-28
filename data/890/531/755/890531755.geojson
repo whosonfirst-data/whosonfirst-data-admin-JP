@@ -11,10 +11,14 @@
     "geom:longitude":133.61667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":24819,
+    "gn:population":24819,
     "iso:country":"JP",
+    "lbl:bbox":"133.59667,34.76333,133.63667,34.80333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u0647\u0627\u0634\u064a"
     ],
@@ -162,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0430\u0445\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Takahasi"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +200,7 @@
     "wof:concordances":{
         "gn:id":1851137,
         "gp:id":28472734,
-        "qs:id":89763,
+        "qs_pg:id":89763,
         "wd:id":"Q851675",
         "wk:page":"Takahashi"
     },
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890531755,
-    "wof:lastmodified":1563296325,
+    "wof:lastmodified":1566726421,
     "wof:name":"Takahashi",
     "wof:parent_id":890524339,
     "wof:placetype":"locality",

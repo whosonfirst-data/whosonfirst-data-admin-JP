@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":36.157441,
     "lbl:longitude":139.376961,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.157441,
     "mps:longitude":139.376961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u063a\u0627\u064a\u0627"
     ],
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0430\u0491\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumagai"
     ],
     "name:urd_x_preferred":[
@@ -201,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1511,
     "wof:belongsto":[
@@ -215,10 +218,12 @@
         "fct:id":"133fe7fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1858428,
         "gp:id":1111238,
-        "qs:id":361852,
         "qs_pg:id":137139,
         "wd:id":"Q41106",
         "wk:page":"Kumagaya, Saitama"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":361852
     },
     "wof:country":"JP",
     "wof:geomhash":"37db04ff800979a2fb0cf185b0e1545b",
@@ -235,7 +240,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290185,
+    "wof:lastmodified":1566724939,
     "wof:name":"Kumagaya",
     "wof:parent_id":1108741477,
     "wof:placetype":"locality",

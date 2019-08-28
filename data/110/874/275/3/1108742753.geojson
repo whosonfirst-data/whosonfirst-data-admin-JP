@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":35.123549,
     "lbl:longitude":134.046512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Okayama Ken",
     "meso:gadm_admin":"Tsuyama",
     "meso:gadm_hasc2":"JP.OY.TY",
@@ -30,6 +32,7 @@
     "mps:longitude":134.046512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u064a\u0627\u0645\u0627\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -203,9 +206,9 @@
         "\u6d25\u5c71\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"186",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":1108742753,
-    "wof:lastmodified":1563294326,
+    "wof:lastmodified":1566725957,
     "wof:name":"Tsuyama",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

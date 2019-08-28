@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"140.4154,40.79904,140.4554,40.83904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Basho"
     ],
@@ -54,9 +58,6 @@
     "name:tur_x_preferred":[
         "Basho"
     ],
-    "name:und_x_variant":[
-        "Bash\u014d"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1326731709,
-    "wof:lastmodified":1564164077,
+    "wof:lastmodified":1566724782,
     "wof:name":"Basho",
     "wof:parent_id":890523933,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":130.36667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":38113,
+    "gn:population":38113,
     "iso:country":"JP",
+    "lbl:bbox":"130.34667,32.76333,130.38667,32.80333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0645\u0628\u0627\u0631\u0627"
     ],
@@ -168,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u043c\u0430\u0431\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Simabara"
     ],
     "name:urd_x_preferred":[
@@ -201,7 +205,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1852479,
-        "qs:id":565045,
+        "qs_pg:id":565045,
         "wd:id":"Q847594",
         "wk:page":"Shimabara"
     },
@@ -218,7 +222,7 @@
         }
     ],
     "wof:id":890519231,
-    "wof:lastmodified":1563295986,
+    "wof:lastmodified":1566726353,
     "wof:name":"Shimabara",
     "wof:parent_id":890519919,
     "wof:placetype":"locality",

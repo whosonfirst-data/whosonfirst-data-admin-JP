@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.727099,
     "lbl:longitude":140.009753,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.727099,
     "mps:longitude":140.009753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0627\u0628\u0627\u0634\u064a"
     ],
@@ -219,7 +222,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0431\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hunabasi"
     ],
     "name:urd_x_preferred":[
@@ -263,7 +266,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1022,
     "wof:belongsto":[
@@ -277,7 +280,6 @@
         "fct:id":"133ff7f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1863905,
         "gp:id":1117109,
-        "qs:id":137203,
         "qs_pg:id":137203,
         "wd:id":"Q271417",
         "wk:page":"Funabashi, Chiba"
@@ -297,7 +299,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290181,
+    "wof:lastmodified":1566724938,
     "wof:name":"Funabashi",
     "wof:parent_id":890520691,
     "wof:placetype":"locality",

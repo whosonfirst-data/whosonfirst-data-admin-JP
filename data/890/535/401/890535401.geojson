@@ -11,13 +11,15 @@
     "geom:longitude":134.262374,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Naka"
     ],
     "lbl:latitude":33.806466,
     "lbl:longitude":134.258369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tokushima Ken",
     "meso:gadm_admin":"Naka",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":134.258369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Naka"
     ],
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naka-ch\u014d"
     ],
     "qs:name":"Naka-ch\u014d",
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":7406329,
         "hasc:id":"JP.IB.NK",
-        "qs:id":904219
+        "qs_pg:id":904219
     },
     "wof:country":"JP",
     "wof:created":1469056818,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890535401,
-    "wof:lastmodified":1564170260,
+    "wof:lastmodified":1566726271,
     "wof:name":"Naka",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

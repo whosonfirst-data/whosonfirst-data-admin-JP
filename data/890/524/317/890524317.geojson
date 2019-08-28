@@ -11,13 +11,15 @@
     "geom:longitude":137.491249,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Uozu Shi"
     ],
     "lbl:latitude":36.770904,
     "lbl:longitude":137.464355,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Toyama Ken",
     "meso:gadm_admin":"Uozu",
     "meso:gadm_hasc2":"JP.TY.UZ",
@@ -33,6 +35,7 @@
     "mps:longitude":137.464355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0632\u0648\u060c \u062a\u0648\u064a\u0627\u0645\u0627"
     ],
@@ -191,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043e\u0434\u0437\u0443"
     ],
-    "name:unk_x_variant":[
-        "Uozu"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0632\u0648"
     ],
@@ -217,9 +217,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"201",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -239,7 +239,7 @@
     "wof:concordances":{
         "gn:id":1849235,
         "hasc:id":"JP.TY.UZ",
-        "qs:id":1027825,
+        "qs_pg:id":1027825,
         "wd:id":"Q819613"
     },
     "wof:country":"JP",
@@ -254,7 +254,7 @@
         }
     ],
     "wof:id":890524317,
-    "wof:lastmodified":1563296746,
+    "wof:lastmodified":1566726504,
     "wof:name":"Uozu",
     "wof:parent_id":85672759,
     "wof:placetype":"county",

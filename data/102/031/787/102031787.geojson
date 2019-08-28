@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":35.422492,
     "lbl:longitude":136.752606,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.422492,
     "mps:longitude":136.752606,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0456\u0444\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gihu"
     ],
     "name:urd_x_preferred":[
@@ -328,7 +330,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -341,7 +343,6 @@
         "fct:id":"13403d7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1863641,
         "gp:id":1117127,
-        "qs:id":277686,
         "qs_pg:id":277686,
         "wd:id":"Q45798",
         "wk:page":"Gifu"
@@ -361,7 +362,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290180,
+    "wof:lastmodified":1566724938,
     "wof:name":"Gifu-shi",
     "wof:parent_id":1108742125,
     "wof:placetype":"locality",

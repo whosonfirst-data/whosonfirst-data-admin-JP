@@ -15,10 +15,13 @@
     "iso:country":"JP",
     "lbl:latitude":39.461644,
     "lbl:longitude":140.476684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.461644,
     "mps:longitude":140.476684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u064a\u0633\u064a\u0646"
     ],
@@ -210,7 +213,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":474,
     "wof:belongsto":[
         102191569,
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":6822199,
         "gp:id":28379158,
-        "qs:id":899122,
+        "qs_pg:id":899122,
         "wd:id":"Q695920",
         "wk:page":"Daisen, Akita"
     },
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":102032185,
-    "wof:lastmodified":1563290274,
+    "wof:lastmodified":1566724946,
     "wof:name":"Daisen",
     "wof:parent_id":890524891,
     "wof:placetype":"locality",

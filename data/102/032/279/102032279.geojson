@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":5026790.386367,
+    "geom:area_square_m":5026790.386368,
     "geom:bbox":"136.895133244,35.3038718875,136.928108779,35.321895829",
     "geom:latitude":35.312884,
     "geom:longitude":136.911621,
@@ -14,10 +14,13 @@
     "iso:country":"JP",
     "lbl:latitude":35.312884,
     "lbl:longitude":136.911621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.312884,
     "mps:longitude":136.911621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u014ckuchi"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":340,
     "wof:belongsto":[
         102191569,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":102032279,
-    "wof:lastmodified":1527637850,
+    "wof:lastmodified":1566724944,
     "wof:name":"\u014ckuchi",
     "wof:parent_id":890524675,
     "wof:placetype":"locality",

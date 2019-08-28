@@ -11,13 +11,15 @@
     "geom:longitude":142.099686,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Fukagawa Shi"
     ],
     "lbl:latitude":43.754801,
     "lbl:longitude":142.090154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hokkai Do",
     "meso:gadm_admin":"Fukagawa",
     "meso:gadm_hasc2":"JP.HK.FK",
@@ -33,6 +35,7 @@
     "mps:longitude":142.090154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0627\u063a\u0627\u0648\u0627\u060c \u0647\u0648\u0643\u0627\u064a\u062f\u0648"
     ],
@@ -191,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043a\u0430\u0491\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fukagawa-shi"
     ],
     "name:urd_x_preferred":[
@@ -217,9 +220,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"529",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -239,7 +242,7 @@
     "wof:concordances":{
         "gn:id":2130331,
         "hasc:id":"JP.HK.FK",
-        "qs:id":372945,
+        "qs_pg:id":372945,
         "wd:id":"Q817268"
     },
     "wof:country":"JP",
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":890523937,
-    "wof:lastmodified":1563296537,
+    "wof:lastmodified":1566726471,
     "wof:name":"Fukagawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

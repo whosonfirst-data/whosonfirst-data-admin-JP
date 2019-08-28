@@ -12,8 +12,11 @@
     "gn:country":"JP",
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"130.357052,33.590316,130.367052,33.600316",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\uff12\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u798f\u5ca1\u770c",
@@ -26,16 +29,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85672697,
         102191569,
         85632429,
         102031795,
-        1108742999,
-        85672697
+        1108742999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28578666,
-        "qs:id":1119866
+        "qs_pg:id":1119866
     },
     "wof:country":"JP",
     "wof:created":1469056640,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890531085,
-    "wof:lastmodified":1499470936,
+    "wof:lastmodified":1566726424,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031795,
     "wof:placetype":"neighbourhood",

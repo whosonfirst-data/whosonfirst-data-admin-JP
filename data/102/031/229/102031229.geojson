@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000569,
-    "geom:area_square_m":5636405.842877,
+    "geom:area_square_m":5636405.842888,
     "geom:bbox":"138.400064981,36.7254761218,138.433430066,36.7522915147",
     "geom:latitude":36.738884,
     "geom:longitude":138.416748,
     "iso:country":"JP",
     "lbl:latitude":36.738884,
     "lbl:longitude":138.416748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.738884,
     "mps:longitude":138.416748,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u6e6f\u7530\u4e2d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yutanaka"
     ],
     "qs:a1":"*",
@@ -34,7 +37,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632429,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102031229,
-    "wof:lastmodified":1501222809,
+    "wof:lastmodified":1566724922,
     "wof:name":"Yudanaka",
     "wof:parent_id":1108742109,
     "wof:placetype":"locality",

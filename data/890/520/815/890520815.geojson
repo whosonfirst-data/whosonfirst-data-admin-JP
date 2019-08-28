@@ -11,10 +11,14 @@
     "geom:longitude":131.95,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":45885,
+    "gn:population":45885,
     "iso:country":"JP",
+    "lbl:bbox":"131.93,33.935,131.97,33.975",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0643\u0627\u0631\u064a"
     ],
@@ -204,7 +208,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1896348,
-        "qs:id":1033417,
+        "qs_pg:id":1033417,
         "wd:id":"Q823502",
         "wk:page":"Hikari"
     },
@@ -221,7 +225,7 @@
         }
     ],
     "wof:id":890520815,
-    "wof:lastmodified":1563296168,
+    "wof:lastmodified":1566726385,
     "wof:name":"Hikari",
     "wof:parent_id":890524445,
     "wof:placetype":"locality",

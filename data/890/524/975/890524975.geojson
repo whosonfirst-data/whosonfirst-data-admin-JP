@@ -11,13 +11,15 @@
     "geom:longitude":135.548828,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Osakasayama Shi"
     ],
     "lbl:latitude":34.493005,
     "lbl:longitude":135.54857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Osaka Fu",
     "meso:gadm_admin":"\u014csakasayama",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":135.54857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0627\u0643\u0627\u0633\u0627\u064a\u0627\u0645\u0627\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -183,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0430\u043a\u0430-\u0421\u0430\u044f\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014csakasayama-shi"
     ],
     "name:urd_x_preferred":[
@@ -209,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"12",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -232,7 +235,7 @@
     "wof:concordances":{
         "gn:id":7391699,
         "hasc:id":"JP.OS.OY",
-        "qs:id":1048057,
+        "qs_pg:id":1048057,
         "wd:id":"Q385864",
         "wk:page":"\u014csakasayama, Osaka"
     },
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":890524975,
-    "wof:lastmodified":1563296754,
+    "wof:lastmodified":1566726505,
     "wof:name":"Osakasayama",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

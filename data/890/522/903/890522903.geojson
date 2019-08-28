@@ -11,13 +11,15 @@
     "geom:longitude":132.493546,
     "gn:country":"JP",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"JP",
     "label:eng_x_preferred_longname":[
         "Oda Shi"
     ],
     "lbl:latitude":35.166619,
     "lbl:longitude":132.505861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shimane Ken",
     "meso:gadm_admin":"\u014cda",
     "meso:gadm_hasc2":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":132.505861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062f\u0627\u060c \u0634\u064a\u0645\u0627\u0646\u0647"
     ],
@@ -192,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u014cta-shi"
     ],
     "name:urd_x_preferred":[
@@ -218,9 +221,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"163",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -240,7 +243,7 @@
     "wof:concordances":{
         "gn:id":1854750,
         "hasc:id":"JP.OY.OD",
-        "qs:id":276668,
+        "qs_pg:id":276668,
         "wd:id":"Q384796"
     },
     "wof:country":"JP",
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":890522903,
-    "wof:lastmodified":1563296498,
+    "wof:lastmodified":1566726462,
     "wof:name":"Oda",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

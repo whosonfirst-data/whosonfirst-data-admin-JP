@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"129.0385,32.82071,129.0785,32.86071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nara"
     ],
@@ -128,8 +132,7 @@
     ],
     "name:und_x_variant":[
         "Chara-dantai",
-        "Nara-dantai",
-        "Nara"
+        "Nara-dantai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1326810011,
-    "wof:lastmodified":1564164023,
+    "wof:lastmodified":1566724771,
     "wof:name":"Nara",
     "wof:parent_id":1108743153,
     "wof:placetype":"locality",

@@ -13,14 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":40.59459,
     "gn:longitude":141.27138,
-    "gn:pop":29123,
+    "gn:population":29123,
     "iso:country":"JP",
     "lbl:latitude":37.063095,
     "lbl:longitude":138.87375,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.063095,
     "mps:longitude":138.87375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Muikamachi Station"
     ],
@@ -42,7 +45,7 @@
     "name:nld_x_preferred":[
         "Muikamachi Station"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muika"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +67,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1856476,
         "gp:id":1117789,
-        "qs:id":565558,
+        "qs_pg:id":565558,
         "wd:id":"Q3660544"
     },
     "wof:country":"JP",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102032275,
-    "wof:lastmodified":1563290211,
+    "wof:lastmodified":1566724941,
     "wof:name":"Muikamachi",
     "wof:parent_id":890520189,
     "wof:placetype":"locality",

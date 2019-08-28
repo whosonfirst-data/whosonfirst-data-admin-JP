@@ -15,6 +15,8 @@
     "iso:country":"JP",
     "lbl:latitude":41.803559,
     "lbl:longitude":140.742056,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.803559,
     "mps:longitude":140.742056,
     "mz:hierarchy_label":1,
@@ -241,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043a\u043e\u0434\u0430\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hokodate"
     ],
     "name:urd_x_preferred":[
@@ -374,7 +376,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1971,
     "wof:belongsto":[
@@ -389,7 +391,6 @@
         "gn:id":2130188,
         "gp:id":1117148,
         "loc:id":"n82166014",
-        "qs:id":278021,
         "qs_pg:id":278021,
         "wd:id":"Q26418",
         "wk:page":"Hakodate, Hokkaido"
@@ -408,7 +409,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290218,
+    "wof:lastmodified":1566724942,
     "wof:name":"Hakodate",
     "wof:parent_id":1108739513,
     "wof:placetype":"locality",

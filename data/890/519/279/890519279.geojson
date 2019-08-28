@@ -11,10 +11,14 @@
     "geom:longitude":133.46667,
     "gn:country":"JP",
     "gn:fcode":"PPL",
-    "gn:pop":23787,
+    "gn:population":23787,
     "iso:country":"JP",
+    "lbl:bbox":"133.44667,34.96333,133.48667,35.00333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0645\u064a\u060c \u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627"
     ],
@@ -189,7 +193,7 @@
     "wof:concordances":{
         "gn:id":1855416,
         "gp:id":28494661,
-        "qs:id":565434,
+        "qs_pg:id":565434,
         "wd:id":"Q873596"
     },
     "wof:country":"JP",
@@ -205,7 +209,7 @@
         }
     ],
     "wof:id":890519279,
-    "wof:lastmodified":1563295976,
+    "wof:lastmodified":1566726352,
     "wof:name":"Niimi",
     "wof:parent_id":890524759,
     "wof:placetype":"locality",

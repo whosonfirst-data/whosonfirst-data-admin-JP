@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":39.395997,
     "lbl:longitude":141.124791,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":39.395997,
     "mps:longitude":141.124791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u0627\u0645\u0627\u0643\u064a"
     ],
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1005,
     "wof:belongsto":[
@@ -227,7 +230,6 @@
         "fct:id":"133fa920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2112823,
         "gp:id":1117161,
-        "qs:id":1033827,
         "qs_pg:id":1033827,
         "wd:id":"Q317827"
     },
@@ -245,7 +247,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290170,
+    "wof:lastmodified":1566724937,
     "wof:name":"Hanamaki",
     "wof:parent_id":1108739945,
     "wof:placetype":"locality",

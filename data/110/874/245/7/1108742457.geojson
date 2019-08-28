@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":34.827408,
     "lbl:longitude":135.682479,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Osaka Fu",
     "meso:gadm_admin":"Hirakata",
     "meso:gadm_hasc2":"JP.OS.HR",
@@ -30,6 +32,7 @@
     "mps:longitude":135.682479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0627\u0643\u0627\u062a\u0627"
     ],
@@ -152,9 +155,9 @@
         "\u679a\u65b9\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-10-01",
+    "src:population_date":"2000-10-01",
     "statoids:area_km":"65",
     "statoids:as_of_date":"2000-10-01",
     "statoids:capital":"",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1108742457,
-    "wof:lastmodified":1564168941,
+    "wof:lastmodified":1566725952,
     "wof:name":"Hirakata",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"JP",
     "lbl:latitude":34.74763,
     "lbl:longitude":135.573754,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.74763,
     "mps:longitude":135.573754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u063a\u0648\u062a\u0634\u064a\u060c \u0623\u0648\u0633\u0627\u0643\u0627"
     ],
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":179,
     "wof:belongsto":[
@@ -227,7 +230,6 @@
         "fct:id":"13406c02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1856584,
         "gp:id":1112134,
-        "qs:id":1063083,
         "qs_pg:id":1063083,
         "wd:id":"Q694154",
         "wk:page":"Moriguchi, Osaka"
@@ -247,7 +249,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290055,
+    "wof:lastmodified":1566724928,
     "wof:name":"Moriguchi",
     "wof:parent_id":1108742455,
     "wof:placetype":"locality",

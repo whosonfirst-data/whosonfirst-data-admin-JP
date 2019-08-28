@@ -13,6 +13,8 @@
     "iso:country":"JP",
     "lbl:latitude":34.691802,
     "lbl:longitude":135.50506,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":34.691802,
     "mps:longitude":135.50506,
     "mz:hierarchy_label":1,
@@ -485,9 +487,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Osaka"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0633\u0627\u06a9\u0627"
     ],
@@ -624,7 +623,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -641,7 +640,6 @@
         "gp:id":15015370,
         "loc:id":"n80022951",
         "nyt:id":"48073157764323644701",
-        "qs:id":351342,
         "qs_pg:id":351342,
         "wd:id":"Q35765",
         "wk:page":"Osaka"
@@ -661,7 +659,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1563290028,
+    "wof:lastmodified":1566724925,
     "wof:megacity":1,
     "wof:name":"\u014csaka-shi",
     "wof:parent_id":1108742439,
