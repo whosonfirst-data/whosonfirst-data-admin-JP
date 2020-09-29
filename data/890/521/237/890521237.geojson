@@ -11,6 +11,12 @@
     "geom:longitude":130.963737,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Kitakyushu City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:bbox":"130.9437365,33.929056,130.9837365,33.969056",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Kitakyushu"
+    ],
+    "name:eng_x_variant":[
         "Kitakyushu City"
     ],
     "name:jpn_x_preferred":[
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":890521237,
-    "wof:lastmodified":1601068409,
-    "wof:name":"Kitakyushu City",
+    "wof:lastmodified":1601337580,
+    "wof:name":"Kitakyushu",
     "wof:parent_id":890523793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",

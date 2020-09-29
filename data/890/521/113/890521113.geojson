@@ -11,6 +11,12 @@
     "geom:longitude":138.991127,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Niigata City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:bbox":"138.971127,37.77108,139.011127,37.81108",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Niigata"
+    ],
+    "name:eng_x_variant":[
         "Niigata City"
     ],
     "name:jpn_x_preferred":[
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":890521113,
-    "wof:lastmodified":1601068423,
-    "wof:name":"Niigata City",
+    "wof:lastmodified":1601337591,
+    "wof:name":"Niigata",
     "wof:parent_id":890520757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",

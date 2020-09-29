@@ -11,6 +11,12 @@
     "geom:longitude":135.009098,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Awaji City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:bbox":"134.989098,34.542353,135.029098,34.582353",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Awaji"
+    ],
+    "name:eng_x_variant":[
         "Awaji City"
     ],
     "name:jpn_x_preferred":[
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":890532453,
-    "wof:lastmodified":1601068429,
-    "wof:name":"Awaji City",
+    "wof:lastmodified":1601337596,
+    "wof:name":"Awaji",
     "wof:parent_id":890522917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",

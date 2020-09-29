@@ -11,6 +11,12 @@
     "geom:longitude":141.530777,
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Kitahiroshima City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:bbox":"141.510777,42.978194,141.550777,43.018194",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Kitahiroshima"
+    ],
+    "name:eng_x_variant":[
         "Kitahiroshima City"
     ],
     "name:jpn_x_preferred":[
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":890521015,
-    "wof:lastmodified":1601068409,
-    "wof:name":"Kitahiroshima City",
+    "wof:lastmodified":1601337580,
+    "wof:name":"Kitahiroshima",
     "wof:parent_id":1108739527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
