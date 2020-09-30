@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.0738955,32.8815865,131.0738955,32.8815865",
+    "geom:bbox":"131.073895,32.881586,131.073895,32.881586",
     "geom:latitude":32.881586,
     "geom:longitude":131.073895,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Minamiaso"
+    ],
+    "name:eng_x_variant":[
+        "Minamiaso Village"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u963f\u8607\u6751"
+    ],
     "qs:name":"\u5357\u963f\u8607\u6751",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u718a\u672c\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743159
+        1108743159,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056580,
-    "wof:geomhash":"5dffadcf86722211ad82db013245a6ca",
+    "wof:geomhash":"01447b10cf6f455b7824d237cf8fd583",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890530021,
-    "wof:lastmodified":1566726417,
-    "wof:name":"\u5357\u963f\u8607\u6751",
+    "wof:lastmodified":1601423028,
+    "wof:name":"Minamiaso",
     "wof:parent_id":1108743159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.0738955,
-    32.8815865,
-    131.0738955,
-    32.8815865
+    131.073895,
+    32.881586,
+    131.073895,
+    32.881586
 ],
-  "geometry": {"coordinates":[131.07389549999999,32.8815865],"type":"Point"}
+  "geometry": {"coordinates":[131.07389499999999,32.881586],"type":"Point"}
 }

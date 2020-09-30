@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.4284965,36.205,139.4284965,36.205",
+    "geom:bbox":"139.428496,36.205,139.428496,36.205",
     "geom:latitude":36.205,
     "geom:longitude":139.428496,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:eng_x_variant":[
+        "Chiyoda Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5343\u4ee3\u7530\u753a"
+    ],
     "qs:name":"\u5343\u4ee3\u7530\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u7fa4\u99ac\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108741477
+        1108741477,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056556,
-    "wof:geomhash":"1916025d4de5d1f7da91e14aab763aeb",
+    "wof:geomhash":"156ea223749c9985ece6098bc2619266",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529443,
-    "wof:lastmodified":1566726401,
-    "wof:name":"\u5343\u4ee3\u7530\u753a",
+    "wof:lastmodified":1601422984,
+    "wof:name":"Chiyoda",
     "wof:parent_id":1108741477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.4284965,
+    139.428496,
     36.205,
-    139.4284965,
+    139.428496,
     36.205
 ],
-  "geometry": {"coordinates":[139.42849649999999,36.205],"type":"Point"}
+  "geometry": {"coordinates":[139.428496,36.205],"type":"Point"}
 }

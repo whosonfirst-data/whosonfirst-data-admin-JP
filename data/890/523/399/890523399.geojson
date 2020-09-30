@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.9064705,36.259105,136.9064705,36.259105",
+    "geom:bbox":"136.906471,36.259105,136.906471,36.259105",
     "geom:latitude":36.259105,
     "geom:longitude":136.906471,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shirakawa"
+    ],
+    "name:eng_x_variant":[
+        "Shirakawa Village"
+    ],
+    "name:jpn_x_preferred":[
+        "\u767d\u5ddd\u6751"
+    ],
     "qs:name":"\u767d\u5ddd\u6751",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5c90\u961c\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742183
+        1108742183,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056301,
-    "wof:geomhash":"0ffa18c226b79e8863df8cc54cab538c",
+    "wof:geomhash":"fb7c3944c0edb5d295f1a3a63ab94216",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890523399,
-    "wof:lastmodified":1566726471,
-    "wof:name":"\u767d\u5ddd\u6751",
+    "wof:lastmodified":1601423051,
+    "wof:name":"Shirakawa",
     "wof:parent_id":1108742183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9064705,
+    136.906471,
     36.259105,
-    136.9064705,
+    136.906471,
     36.259105
 ],
-  "geometry": {"coordinates":[136.90647050000001,36.259105],"type":"Point"}
+  "geometry": {"coordinates":[136.90647100000001,36.259105],"type":"Point"}
 }

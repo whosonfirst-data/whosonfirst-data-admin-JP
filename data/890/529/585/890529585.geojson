@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.7321495,36.346199,138.7321495,36.346199",
+    "geom:bbox":"138.732149,36.346199,138.732149,36.346199",
     "geom:latitude":36.346199,
     "geom:longitude":138.732149,
     "gp:adm0":23424856,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Annaka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5b89\u4e2d\u5e02"
+    ],
     "qs:name":"\u5b89\u4e2d\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u7fa4\u99ac\u770c",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        890520385
+        890520385,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056561,
-    "wof:geomhash":"35c4972d39f6efa9a42ab30eb7d6075a",
+    "wof:geomhash":"a05dc7bb3fe56a29c3de3ba9a762d964",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890529585,
-    "wof:lastmodified":1566726404,
-    "wof:name":"\u5b89\u4e2d\u5e02",
+    "wof:lastmodified":1601422976,
+    "wof:name":"Annaka",
     "wof:parent_id":890520385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.73214949999996,
+    138.732149,
     36.346199,
-    138.73214949999996,
+    138.732149,
     36.346199
 ],
-  "geometry": {"coordinates":[138.73214949999996,36.346199],"type":"Point"}
+  "geometry": {"coordinates":[138.73214899999999,36.346199],"type":"Point"}
 }

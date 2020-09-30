@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.593572,35.4688485,139.593572,35.4688485",
+    "geom:bbox":"139.593572,35.468849,139.593572,35.468849",
     "geom:latitude":35.468849,
     "geom:longitude":139.593572,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hodogaya"
+    ],
+    "name:eng_x_variant":[
+        "Hodogaya Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4fdd\u571f\u30f6\u8c37\u533a"
+    ],
     "qs:name":"\u4fdd\u571f\u30f6\u8c37\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056606,
-    "wof:geomhash":"f06f340b1318e463a50bb9c4b473715a",
+    "wof:geomhash":"9ca2efe3368b8557c5134f8acc665a60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890530465,
-    "wof:lastmodified":1479154004,
-    "wof:name":"\u4fdd\u571f\u30f6\u8c37\u533a",
+    "wof:lastmodified":1601423004,
+    "wof:name":"Hodogaya",
     "wof:parent_id":85672805,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -58,9 +67,9 @@
 },
   "bbox": [
     139.593572,
-    35.4688485,
+    35.468849,
     139.593572,
-    35.4688485
+    35.468849
 ],
-  "geometry": {"coordinates":[139.59357199999999,35.4688485],"type":"Point"}
+  "geometry": {"coordinates":[139.59357199999999,35.468849],"type":"Point"}
 }

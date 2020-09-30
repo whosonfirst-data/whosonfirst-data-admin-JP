@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.8937345,35.406121,133.8937345,35.406121",
+    "geom:bbox":"133.893734,35.406121,133.893734,35.406121",
     "geom:latitude":35.406121,
     "geom:longitude":133.893734,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Misasa"
+    ],
+    "name:eng_x_variant":[
+        "Misasa Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e09\u671d\u753a"
+    ],
     "qs:name":"\u4e09\u671d\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9ce5\u53d6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672685,
-        1108742691
+        1108742691,
+        85672685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056300,
-    "wof:geomhash":"9e218cac32dcd4a07c9ec5aa89b54ad1",
+    "wof:geomhash":"429d7b2df2aa807158417128d3e44a77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890523375,
-    "wof:lastmodified":1566726486,
-    "wof:name":"\u4e09\u671d\u753a",
+    "wof:lastmodified":1601423029,
+    "wof:name":"Misasa",
     "wof:parent_id":1108742691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.8937345,
+    133.893734,
     35.406121,
-    133.8937345,
+    133.893734,
     35.406121
 ],
-  "geometry": {"coordinates":[133.89373449999999,35.406121],"type":"Point"}
+  "geometry": {"coordinates":[133.89373399999999,35.406121],"type":"Point"}
 }

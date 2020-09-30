@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"144.2853895,43.8376455,144.2853895,43.8376455",
+    "geom:bbox":"144.28539,43.837646,144.28539,43.837646",
     "geom:latitude":43.837646,
     "geom:longitude":144.28539,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ozora"
+    ],
+    "name:eng_x_variant":[
+        "Ozora Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u7a7a\u753a"
+    ],
     "qs:name":"\u5927\u7a7a\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5317\u6d77\u9053",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739755
+        1108739755,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056302,
-    "wof:geomhash":"57fd12952834af50a86b45c8a064cb1c",
+    "wof:geomhash":"c3d20fc59b12fbe5129e52a987a6048a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890523417,
-    "wof:lastmodified":1566726481,
-    "wof:name":"\u5927\u7a7a\u753a",
+    "wof:lastmodified":1601423039,
+    "wof:name":"Ozora",
     "wof:parent_id":1108739755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    144.2853895,
-    43.8376455,
-    144.2853895,
-    43.8376455
+    144.28539,
+    43.837646,
+    144.28539,
+    43.837646
 ],
-  "geometry": {"coordinates":[144.28538950000001,43.8376455],"type":"Point"}
+  "geometry": {"coordinates":[144.28539000000001,43.837646],"type":"Point"}
 }

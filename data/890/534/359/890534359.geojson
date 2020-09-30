@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.861305,43.3315455,141.861305,43.3315455",
+    "geom:bbox":"141.861305,43.331545,141.861305,43.331545",
     "geom:latitude":43.331545,
     "geom:longitude":141.861305,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bibai"
+    ],
+    "name:eng_x_variant":[
+        "Bibai City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7f8e\u5504\u5e02"
+    ],
     "qs:name":"\u7f8e\u5504\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5317\u6d77\u9053",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890522889
+        890522889,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056780,
-    "wof:geomhash":"e9afe62ae5e62ebb488174c142d48bea",
+    "wof:geomhash":"c5d8c66c02eaeb87e2331fffb92ad4d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890534359,
-    "wof:lastmodified":1566726262,
-    "wof:name":"\u7f8e\u5504\u5e02",
+    "wof:lastmodified":1601422980,
+    "wof:name":"Bibai",
     "wof:parent_id":890522889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     141.861305,
-    43.3315455,
+    43.331545,
     141.861305,
-    43.3315455
+    43.331545
 ],
-  "geometry": {"coordinates":[141.86130499999999,43.3315455],"type":"Point"}
+  "geometry": {"coordinates":[141.86130499999999,43.331545],"type":"Point"}
 }

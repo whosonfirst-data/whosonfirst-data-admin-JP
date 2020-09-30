@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.5595285,35.209331,138.5595285,35.209331",
+    "geom:bbox":"138.559528,35.209331,138.559528,35.209331",
     "geom:latitude":35.209331,
     "geom:longitude":138.559528,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shibakawa"
+    ],
+    "name:eng_x_variant":[
+        "Shibakawa Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u829d\u5ddd\u753a"
+    ],
     "qs:name":"\u829d\u5ddd\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9759\u5ca1\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672753,
-        1108742191
+        1108742191,
+        85672753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056563,
-    "wof:geomhash":"3c658661236bbb387303244de558b468",
+    "wof:geomhash":"0a6231c6021eaadfd4df5d093a3d58e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529629,
-    "wof:lastmodified":1566726395,
-    "wof:name":"\u829d\u5ddd\u753a",
+    "wof:lastmodified":1601423049,
+    "wof:name":"Shibakawa",
     "wof:parent_id":1108742191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.5595285,
+    138.559528,
     35.209331,
-    138.5595285,
+    138.559528,
     35.209331
 ],
-  "geometry": {"coordinates":[138.5595285,35.209331],"type":"Point"}
+  "geometry": {"coordinates":[138.559528,35.209331],"type":"Point"}
 }

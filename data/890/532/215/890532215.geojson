@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.441726,35.3788765,133.441726,35.3788765",
+    "geom:bbox":"133.441726,35.378876,133.441726,35.378876",
     "geom:latitude":35.378876,
     "geom:longitude":133.441726,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hoki"
+    ],
+    "name:eng_x_variant":[
+        "Hoki Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4f2f\u8006\u753a"
+    ],
     "qs:name":"\u4f2f\u8006\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9ce5\u53d6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672685,
-        1108742707
+        1108742707,
+        85672685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056691,
-    "wof:geomhash":"d19ea653a5957d58bdf6b7b9b82cb800",
+    "wof:geomhash":"ff0f6995158171b987bafa4d37e58bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890532215,
-    "wof:lastmodified":1566726287,
-    "wof:name":"\u4f2f\u8006\u753a",
+    "wof:lastmodified":1601423004,
+    "wof:name":"Hoki",
     "wof:parent_id":1108742707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     133.441726,
-    35.3788765,
+    35.378876,
     133.441726,
-    35.3788765
+    35.378876
 ],
-  "geometry": {"coordinates":[133.44172599999999,35.3788765],"type":"Point"}
+  "geometry": {"coordinates":[133.44172599999999,35.378876],"type":"Point"}
 }

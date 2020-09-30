@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.4486825,34.3923555,132.4486825,34.3923555",
+    "geom:bbox":"132.448682,34.392356,132.448682,34.392356",
     "geom:latitude":34.392356,
     "geom:longitude":132.448682,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Naka"
+    ],
+    "name:eng_x_variant":[
+        "Naka Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u533a"
+    ],
     "qs:name":"\u4e2d\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5e83\u5cf6\u770c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056778,
-    "wof:geomhash":"19c8ffc96a86dcc6e6000e4a6f6c074d",
+    "wof:geomhash":"f832e0c414c52395e8fca51ace352c61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890534293,
-    "wof:lastmodified":1479154156,
-    "wof:name":"\u4e2d\u533a",
+    "wof:lastmodified":1601423032,
+    "wof:name":"Naka",
     "wof:parent_id":85672671,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -57,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.4486825,
-    34.3923555,
-    132.4486825,
-    34.3923555
+    132.448682,
+    34.392356,
+    132.448682,
+    34.392356
 ],
-  "geometry": {"coordinates":[132.44868249999999,34.3923555],"type":"Point"}
+  "geometry": {"coordinates":[132.44868199999999,34.392356],"type":"Point"}
 }

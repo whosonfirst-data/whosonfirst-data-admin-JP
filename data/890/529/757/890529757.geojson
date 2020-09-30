@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.878359,37.6532985,139.878359,37.6532985",
+    "geom:bbox":"139.878359,37.653298,139.878359,37.653298",
     "geom:latitude":37.653298,
     "geom:longitude":139.878359,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kitakata"
+    ],
+    "name:eng_x_variant":[
+        "Kitakata City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u559c\u591a\u65b9\u5e02"
+    ],
     "qs:name":"\u559c\u591a\u65b9\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u798f\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740157
+        1108740157,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056568,
-    "wof:geomhash":"a148a91466706956ffd0490eee0e8c66",
+    "wof:geomhash":"b7015f7c111b12c9cf5985244e0e6af4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529757,
-    "wof:lastmodified":1566726400,
-    "wof:name":"\u559c\u591a\u65b9\u5e02",
+    "wof:lastmodified":1601423017,
+    "wof:name":"Kitakata",
     "wof:parent_id":1108740157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     139.878359,
-    37.6532985,
+    37.653298,
     139.878359,
-    37.6532985
+    37.653298
 ],
-  "geometry": {"coordinates":[139.87835899999999,37.6532985],"type":"Point"}
+  "geometry": {"coordinates":[139.87835899999999,37.653298],"type":"Point"}
 }

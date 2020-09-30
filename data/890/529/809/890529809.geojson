@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.5579215,40.271865,140.5579215,40.271865",
+    "geom:bbox":"140.557921,40.271865,140.557921,40.271865",
     "geom:latitude":40.271865,
     "geom:longitude":140.557921,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Odate"
+    ],
+    "name:eng_x_variant":[
+        "Odate City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u9928\u5e02"
+    ],
     "qs:name":"\u5927\u9928\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u79cb\u7530\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672825,
-        1108740053
+        1108740053,
+        85672825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056569,
-    "wof:geomhash":"50d088f71f398ac4d351e29506153f6f",
+    "wof:geomhash":"717c9570f4c620f6c278c5036cc38afa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529809,
-    "wof:lastmodified":1566726402,
-    "wof:name":"\u5927\u9928\u5e02",
+    "wof:lastmodified":1601423037,
+    "wof:name":"Odate",
     "wof:parent_id":1108740053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.5579215,
+    140.557921,
     40.271865,
-    140.5579215,
+    140.557921,
     40.271865
 ],
-  "geometry": {"coordinates":[140.55792149999999,40.271865],"type":"Point"}
+  "geometry": {"coordinates":[140.55792099999999,40.271865],"type":"Point"}
 }

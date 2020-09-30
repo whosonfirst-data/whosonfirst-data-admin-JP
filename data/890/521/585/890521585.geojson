@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.569622,31.7641575,130.569622,31.7641575",
+    "geom:bbox":"130.569622,31.764157,130.569622,31.764157",
     "geom:latitude":31.764157,
     "geom:longitude":130.569622,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kamou"
+    ],
+    "name:eng_x_variant":[
+        "Kamou Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u84b2\u751f\u753a"
+    ],
     "qs:name":"\u84b2\u751f\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9e7f\u5150\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        1108743315
+        1108743315,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056215,
-    "wof:geomhash":"1206e0a18b710507b5f1aa4a563179ce",
+    "wof:geomhash":"49a43643872e14ea4cd18a009db8b788",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890521585,
-    "wof:lastmodified":1566726323,
-    "wof:name":"\u84b2\u751f\u753a",
+    "wof:lastmodified":1601423015,
+    "wof:name":"Kamou",
     "wof:parent_id":1108743315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     130.569622,
-    31.7641575,
+    31.764157,
     130.569622,
-    31.7641575
+    31.764157
 ],
-  "geometry": {"coordinates":[130.56962200000001,31.7641575],"type":"Point"}
+  "geometry": {"coordinates":[130.56962200000001,31.764157],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"134.5306985,33.732883,134.5306985,33.732883",
+    "geom:bbox":"134.530698,33.732883,134.530698,33.732883",
     "geom:latitude":33.732883,
     "geom:longitude":134.530698,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Minami"
+    ],
+    "name:eng_x_variant":[
+        "Minami Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7f8e\u6ce2\u753a"
+    ],
     "qs:name":"\u7f8e\u6ce2\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5fb3\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        1108742863
+        1108742863,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056790,
-    "wof:geomhash":"eb8ea8df266f9c85edf7f9e52f2c1802",
+    "wof:geomhash":"c1f800eef212c013d89fb18bda0178b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890534657,
-    "wof:lastmodified":1566726259,
-    "wof:name":"\u7f8e\u6ce2\u753a",
+    "wof:lastmodified":1601423027,
+    "wof:name":"Minami",
     "wof:parent_id":1108742863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.5306985,
+    134.530698,
     33.732883,
-    134.5306985,
+    134.530698,
     33.732883
 ],
-  "geometry": {"coordinates":[134.5306985,33.732883],"type":"Point"}
+  "geometry": {"coordinates":[134.530698,33.732883],"type":"Point"}
 }

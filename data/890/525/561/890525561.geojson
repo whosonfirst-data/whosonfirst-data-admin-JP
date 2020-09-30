@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"134.4547815,34.1511165,134.4547815,34.1511165",
+    "geom:bbox":"134.454781,34.151117,134.454781,34.151117",
     "geom:latitude":34.151117,
     "geom:longitude":134.454781,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Itano"
+    ],
+    "name:eng_x_variant":[
+        "Itano Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u677f\u91ce\u753a"
+    ],
     "qs:name":"\u677f\u91ce\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5fb3\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        1108742873
+        1108742873,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056382,
-    "wof:geomhash":"f0a2bf8876889963b4e0d0d84214e28c",
+    "wof:geomhash":"b89ff869ef628ce5771b702f3f371bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890525561,
-    "wof:lastmodified":1566726437,
-    "wof:name":"\u677f\u91ce\u753a",
+    "wof:lastmodified":1601423008,
+    "wof:name":"Itano",
     "wof:parent_id":1108742873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.4547815,
-    34.1511165,
-    134.4547815,
-    34.1511165
+    134.454781,
+    34.151117,
+    134.454781,
+    34.151117
 ],
-  "geometry": {"coordinates":[134.4547815,34.1511165],"type":"Point"}
+  "geometry": {"coordinates":[134.454781,34.151117],"type":"Point"}
 }

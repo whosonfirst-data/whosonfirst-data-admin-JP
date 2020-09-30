@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.5216215,34.2411845,135.5216215,34.2411845",
+    "geom:bbox":"135.521622,34.241185,135.521622,34.241185",
     "geom:latitude":34.241185,
     "geom:longitude":135.521622,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Katsuragi"
+    ],
+    "name:eng_x_variant":[
+        "Katsuragi Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u304b\u3064\u3089\u304e\u753a"
+    ],
     "qs:name":"\u304b\u3064\u3089\u304e\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u548c\u6b4c\u5c71\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        1108742635
+        1108742635,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056810,
-    "wof:geomhash":"e7565341419e400a1419e3373304abff",
+    "wof:geomhash":"f60e09e4c2135447b116dc20e59eb3f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890535169,
-    "wof:lastmodified":1566726270,
-    "wof:name":"\u304b\u3064\u3089\u304e\u753a",
+    "wof:lastmodified":1601423016,
+    "wof:name":"Katsuragi",
     "wof:parent_id":1108742635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.5216215,
-    34.2411845,
-    135.5216215,
-    34.2411845
+    135.521622,
+    34.241185,
+    135.521622,
+    34.241185
 ],
-  "geometry": {"coordinates":[135.52162150000001,34.2411845],"type":"Point"}
+  "geometry": {"coordinates":[135.52162200000001,34.241185],"type":"Point"}
 }

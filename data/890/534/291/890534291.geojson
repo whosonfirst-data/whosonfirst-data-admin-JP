@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.5318255,34.811006,135.5318255,34.811006",
+    "geom:bbox":"135.531825,34.811006,135.531825,34.811006",
     "geom:latitude":34.811006,
     "geom:longitude":135.531825,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Higashiyodogawa"
+    ],
+    "name:eng_x_variant":[
+        "Higashiyodogawa Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6771\u6dc0\u5ddd\u533a"
+    ],
     "qs:name":"\u6771\u6dc0\u5ddd\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5927\u962a\u5e9c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056778,
-    "wof:geomhash":"05fefe08705e2316ce669f6e62efd02f",
+    "wof:geomhash":"ba125cbbc3ea5643e23dc1a21e3cd492",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890534291,
-    "wof:lastmodified":1479154155,
-    "wof:name":"\u6771\u6dc0\u5ddd\u533a",
+    "wof:lastmodified":1601423004,
+    "wof:name":"Higashiyodogawa",
     "wof:parent_id":85672785,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -57,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.5318255,
+    135.531825,
     34.811006,
-    135.5318255,
+    135.531825,
     34.811006
 ],
-  "geometry": {"coordinates":[135.5318255,34.811006],"type":"Point"}
+  "geometry": {"coordinates":[135.531825,34.811006],"type":"Point"}
 }

@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.759993,34.9877805,135.759993,34.9877805",
+    "geom:bbox":"135.759993,34.98778,135.759993,34.98778",
     "geom:latitude":34.98778,
     "geom:longitude":135.759993,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Shimogyo"
+    ],
+    "name:eng_x_variant":[
+        "Shimogyo Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e0b\u4eac\u533a"
+    ],
     "qs:name":"\u4e0b\u4eac\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u4eac\u90fd\u5e9c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056521,
-    "wof:geomhash":"610e9022381d4f1da714b2a91c7df45b",
+    "wof:geomhash":"de92670aae73740bba05121c0c09070e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890528621,
-    "wof:lastmodified":1479153971,
-    "wof:name":"\u4e0b\u4eac\u533a",
+    "wof:lastmodified":1601423050,
+    "wof:name":"Shimogyo",
     "wof:parent_id":85672777,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -58,9 +67,9 @@
 },
   "bbox": [
     135.759993,
-    34.9877805,
+    34.98778,
     135.759993,
-    34.9877805
+    34.98778
 ],
-  "geometry": {"coordinates":[135.75999300000001,34.9877805],"type":"Point"}
+  "geometry": {"coordinates":[135.75999300000001,34.98778],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"142.793826,43.6621245,142.793826,43.6621245",
+    "geom:bbox":"142.793826,43.662124,142.793826,43.662124",
     "geom:latitude":43.662124,
     "geom:longitude":142.793826,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Higashikawa"
+    ],
+    "name:eng_x_variant":[
+        "Higashikawa Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6771\u5ddd\u753a"
+    ],
     "qs:name":"\u6771\u5ddd\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5317\u6d77\u9053",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739653
+        1108739653,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056293,
-    "wof:geomhash":"cc2bea92a0b74159d90db02e4ef9244e",
+    "wof:geomhash":"e394111d0f893f91f276264f19dfcb03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890523237,
-    "wof:lastmodified":1566726484,
-    "wof:name":"\u6771\u5ddd\u753a",
+    "wof:lastmodified":1601423004,
+    "wof:name":"Higashikawa",
     "wof:parent_id":1108739653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     142.793826,
-    43.6621245,
+    43.662124,
     142.793826,
-    43.6621245
+    43.662124
 ],
-  "geometry": {"coordinates":[142.793826,43.6621245],"type":"Point"}
+  "geometry": {"coordinates":[142.793826,43.662124],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.7287815,35.8243345,139.7287815,35.8243345",
+    "geom:bbox":"139.728781,35.824334,139.728781,35.824334",
     "geom:latitude":35.824334,
     "geom:longitude":139.728781,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hatogaya"
+    ],
+    "name:eng_x_variant":[
+        "Hatogaya City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ce9\u30f6\u8c37\u5e02"
+    ],
     "qs:name":"\u9ce9\u30f6\u8c37\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u57fc\u7389\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740423
+        1108740423,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056734,
-    "wof:geomhash":"1ae9183d6ea60cdde766ea1ef4acb574",
+    "wof:geomhash":"9ede7286ebbcfde71351614723d24552",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890533211,
-    "wof:lastmodified":1566726241,
-    "wof:name":"\u9ce9\u30f6\u8c37\u5e02",
+    "wof:lastmodified":1601423002,
+    "wof:name":"Hatogaya",
     "wof:parent_id":1108740423,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.72878149999997,
-    35.8243345,
-    139.72878149999997,
-    35.8243345
+    139.728781,
+    35.824334,
+    139.728781,
+    35.824334
 ],
-  "geometry": {"coordinates":[139.72878149999997,35.8243345],"type":"Point"}
+  "geometry": {"coordinates":[139.728781,35.824334],"type":"Point"}
 }

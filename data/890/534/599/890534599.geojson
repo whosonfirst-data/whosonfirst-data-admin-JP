@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.73153,45.0094985,141.73153,45.0094985",
+    "geom:bbox":"141.73153,45.009498,141.73153,45.009498",
     "geom:latitude":45.009498,
     "geom:longitude":141.73153,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Horonobe"
+    ],
+    "name:eng_x_variant":[
+        "Horonobe Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e4c\u5ef6\u753a"
+    ],
     "qs:name":"\u5e4c\u5ef6\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5317\u6d77\u9053",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739721
+        1108739721,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056788,
-    "wof:geomhash":"455374dfd3be8c115e3c786253d5293d",
+    "wof:geomhash":"cd88a5bcee59f20a6cf60e1f9a7e6fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890534599,
-    "wof:lastmodified":1566726262,
-    "wof:name":"\u5e4c\u5ef6\u753a",
+    "wof:lastmodified":1601423005,
+    "wof:name":"Horonobe",
     "wof:parent_id":1108739721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     141.73153,
-    45.0094985,
+    45.009498,
     141.73153,
-    45.0094985
+    45.009498
 ],
-  "geometry": {"coordinates":[141.73152999999999,45.0094985],"type":"Point"}
+  "geometry": {"coordinates":[141.73152999999999,45.009498],"type":"Point"}
 }

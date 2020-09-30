@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.182336,35.8917655,139.182336,35.8917655",
+    "geom:bbox":"139.182336,35.891765,139.182336,35.891765",
     "geom:latitude":35.891765,
     "geom:longitude":139.182336,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hanno"
+    ],
+    "name:eng_x_variant":[
+        "Hanno City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u98ef\u80fd\u5e02"
+    ],
     "qs:name":"\u98ef\u80fd\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u57fc\u7389\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740427
+        1108740427,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056209,
-    "wof:geomhash":"63bc78497e1eddcb10a4f4f24cf7b8af",
+    "wof:geomhash":"2f0d7701c00ff26b31cf18e4b4945ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890521477,
-    "wof:lastmodified":1566726312,
-    "wof:name":"\u98ef\u80fd\u5e02",
+    "wof:lastmodified":1601423001,
+    "wof:name":"Hanno",
     "wof:parent_id":1108740427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     139.182336,
-    35.8917655,
+    35.891765,
     139.182336,
-    35.8917655
+    35.891765
 ],
-  "geometry": {"coordinates":[139.18233599999999,35.8917655],"type":"Point"}
+  "geometry": {"coordinates":[139.18233599999999,35.891765],"type":"Point"}
 }

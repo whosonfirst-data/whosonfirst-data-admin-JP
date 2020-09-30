@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.468835,35.4926905,139.468835,35.4926905",
+    "geom:bbox":"139.468835,35.492691,139.468835,35.492691",
     "geom:latitude":35.492691,
     "geom:longitude":139.468835,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yamato"
+    ],
+    "name:eng_x_variant":[
+        "Yamato City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u548c\u5e02"
+    ],
     "qs:name":"\u5927\u548c\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672805,
-        1108741793
+        1108741793,
+        85672805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056383,
-    "wof:geomhash":"c58a8356fe519d889320c340bb61f14e",
+    "wof:geomhash":"45cf63d20185b32cccbdf6e13ba9edad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890525599,
-    "wof:lastmodified":1566726445,
-    "wof:name":"\u5927\u548c\u5e02",
+    "wof:lastmodified":1601423071,
+    "wof:name":"Yamato",
     "wof:parent_id":1108741793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     139.468835,
-    35.4926905,
+    35.492691,
     139.468835,
-    35.4926905
+    35.492691
 ],
-  "geometry": {"coordinates":[139.46883500000001,35.4926905],"type":"Point"}
+  "geometry": {"coordinates":[139.46883500000001,35.492691],"type":"Point"}
 }

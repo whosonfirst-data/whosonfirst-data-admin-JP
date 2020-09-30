@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.703666,35.7892055,137.703666,35.7892055",
+    "geom:bbox":"137.703666,35.789206,137.703666,35.789206",
     "geom:latitude":35.789206,
     "geom:longitude":137.703666,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Agematsu"
+    ],
+    "name:eng_x_variant":[
+        "Agematsu Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e0a\u677e\u753a"
+    ],
     "qs:name":"\u4e0a\u677e\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9577\u91ce\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742069
+        1108742069,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056704,
-    "wof:geomhash":"719b0070f78813ce2b449c62b5f1335b",
+    "wof:geomhash":"01bbaa698ded873becd5c477787840a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890532435,
-    "wof:lastmodified":1566726290,
-    "wof:name":"\u4e0a\u677e\u753a",
+    "wof:lastmodified":1601422974,
+    "wof:name":"Agematsu",
     "wof:parent_id":1108742069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     137.703666,
-    35.7892055,
+    35.789206,
     137.703666,
-    35.7892055
+    35.789206
 ],
-  "geometry": {"coordinates":[137.703666,35.7892055],"type":"Point"}
+  "geometry": {"coordinates":[137.703666,35.789206],"type":"Point"}
 }

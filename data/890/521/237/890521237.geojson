@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.9637365,33.949056,130.9637365,33.949056",
+    "geom:bbox":"130.963737,33.949056,130.963737,33.949056",
     "geom:latitude":33.949056,
     "geom:longitude":130.963737,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kitakyushu"
+    ],
+    "name:eng_x_variant":[
+        "Kitakyushu City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u4e5d\u5dde\u5e02"
+    ],
     "qs:name":"\u5317\u4e5d\u5dde\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u798f\u5ca1\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        890523793
+        890523793,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056195,
-    "wof:geomhash":"4757b8dbc601357f0b7798e63a7e4439",
+    "wof:geomhash":"fa5778b50503956ed249aee6b5c658b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890521237,
-    "wof:lastmodified":1566726322,
-    "wof:name":"\u5317\u4e5d\u5dde\u5e02",
+    "wof:lastmodified":1601423017,
+    "wof:name":"Kitakyushu",
     "wof:parent_id":890523793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.9637365,
+    130.963737,
     33.949056,
-    130.9637365,
+    130.963737,
     33.949056
 ],
-  "geometry": {"coordinates":[130.96373650000001,33.949056],"type":"Point"}
+  "geometry": {"coordinates":[130.96373700000001,33.949056],"type":"Point"}
 }

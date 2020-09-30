@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.634674,36.7347525,140.634674,36.7347525",
+    "geom:bbox":"140.634674,36.734752,140.634674,36.734752",
     "geom:latitude":36.734752,
     "geom:longitude":140.634674,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Takahagi"
+    ],
+    "name:eng_x_variant":[
+        "Takahagi City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ad8\u8429\u5e02"
+    ],
     "qs:name":"\u9ad8\u8429\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u8328\u57ce\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890524247
+        890524247,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056747,
-    "wof:geomhash":"ad1ad671c8ecb06766de3e2188e120e5",
+    "wof:geomhash":"8fefccf2f3cbb71b5a04a236cf7c51e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890533499,
-    "wof:lastmodified":1566726243,
-    "wof:name":"\u9ad8\u8429\u5e02",
+    "wof:lastmodified":1601423055,
+    "wof:name":"Takahagi",
     "wof:parent_id":890524247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     140.634674,
-    36.7347525,
+    36.734752,
     140.634674,
-    36.7347525
+    36.734752
 ],
-  "geometry": {"coordinates":[140.63467399999999,36.7347525],"type":"Point"}
+  "geometry": {"coordinates":[140.63467399999999,36.734752],"type":"Point"}
 }

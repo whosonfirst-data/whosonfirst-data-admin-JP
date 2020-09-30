@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"134.1416925,34.2667425,134.1416925,34.2667425",
+    "geom:bbox":"134.141693,34.266742,134.141693,34.266742",
     "geom:latitude":34.266742,
     "geom:longitude":134.141693,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Miki"
+    ],
+    "name:eng_x_variant":[
+        "Miki Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e09\u6728\u753a"
+    ],
     "qs:name":"\u4e09\u6728\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9999\u5ddd\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672715,
-        1108742893
+        1108742893,
+        85672715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056491,
-    "wof:geomhash":"657887d74862ffa63d4af5922b8e58ac",
+    "wof:geomhash":"53d50f9b4715d3d37fd48b45b44dc863",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890528177,
-    "wof:lastmodified":1566726307,
-    "wof:name":"\u4e09\u6728\u753a",
+    "wof:lastmodified":1601423027,
+    "wof:name":"Miki",
     "wof:parent_id":1108742893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.1416925,
-    34.2667425,
-    134.1416925,
-    34.2667425
+    134.141693,
+    34.266742,
+    134.141693,
+    34.266742
 ],
-  "geometry": {"coordinates":[134.1416925,34.2667425],"type":"Point"}
+  "geometry": {"coordinates":[134.141693,34.266742],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.8295685,32.5752285,130.8295685,32.5752285",
+    "geom:bbox":"130.829568,32.575229,130.829568,32.575229",
     "geom:latitude":32.575229,
     "geom:longitude":130.829568,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Misato"
+    ],
+    "name:eng_x_variant":[
+        "Misato Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7f8e\u91cc\u753a"
+    ],
     "qs:name":"\u7f8e\u91cc\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u718a\u672c\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743163
+        1108743163,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056737,
-    "wof:geomhash":"be496a9fc11471d91dcd08af609d1cd5",
+    "wof:geomhash":"234fab04102b8c07bf1e40bd5f0d0ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890533261,
-    "wof:lastmodified":1566726243,
-    "wof:name":"\u7f8e\u91cc\u753a",
+    "wof:lastmodified":1601423030,
+    "wof:name":"Misato",
     "wof:parent_id":1108743163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.8295685,
-    32.5752285,
-    130.8295685,
-    32.5752285
+    130.829568,
+    32.575229,
+    130.829568,
+    32.575229
 ],
-  "geometry": {"coordinates":[130.82956849999999,32.5752285],"type":"Point"}
+  "geometry": {"coordinates":[130.82956799999999,32.575229],"type":"Point"}
 }

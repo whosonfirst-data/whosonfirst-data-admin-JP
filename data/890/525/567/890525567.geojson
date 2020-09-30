@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"134.3884705,34.120083,134.3884705,34.120083",
+    "geom:bbox":"134.388471,34.120083,134.388471,34.120083",
     "geom:latitude":34.120083,
     "geom:longitude":134.388471,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ueitamachi"
+    ],
+    "name:eng_x_variant":[
+        "Ueitamachi Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e0a\u677f\u753a"
+    ],
     "qs:name":"\u4e0a\u677f\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5fb3\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        1108742875
+        1108742875,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056382,
-    "wof:geomhash":"6f5621ce81838fbfc470f62a47ce671c",
+    "wof:geomhash":"0c149ab70a8a7dfe2c7262e9b9951899",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890525567,
-    "wof:lastmodified":1566726437,
-    "wof:name":"\u4e0a\u677f\u753a",
+    "wof:lastmodified":1601423060,
+    "wof:name":"Ueitamachi",
     "wof:parent_id":1108742875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.3884705,
+    134.388471,
     34.120083,
-    134.3884705,
+    134.388471,
     34.120083
 ],
-  "geometry": {"coordinates":[134.38847050000001,34.120083],"type":"Point"}
+  "geometry": {"coordinates":[134.38847100000001,34.120083],"type":"Point"}
 }

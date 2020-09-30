@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.7930885,35.185909,136.7930885,35.185909",
+    "geom:bbox":"136.793089,35.185909,136.793089,35.185909",
     "geom:latitude":35.185909,
     "geom:longitude":136.793089,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Miwa"
+    ],
+    "name:eng_x_variant":[
+        "Miwa Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7f8e\u548c\u753a"
+    ],
     "qs:name":"\u7f8e\u548c\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u611b\u77e5\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742275
+        1108742275,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056607,
-    "wof:geomhash":"ec18012daa3479924bb0bd4106e3c2ec",
+    "wof:geomhash":"f7d1c5bd43f41e3d069c2bfa8235ddc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890530471,
-    "wof:lastmodified":1566726408,
-    "wof:name":"\u7f8e\u548c\u753a",
+    "wof:lastmodified":1601423030,
+    "wof:name":"Miwa",
     "wof:parent_id":1108742275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.7930885,
+    136.793089,
     35.185909,
-    136.7930885,
+    136.793089,
     35.185909
 ],
-  "geometry": {"coordinates":[136.79308850000001,35.185909],"type":"Point"}
+  "geometry": {"coordinates":[136.79308900000001,35.185909],"type":"Point"}
 }

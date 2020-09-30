@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.480186,35.6672255,139.480186,35.6672255",
+    "geom:bbox":"139.480186,35.667226,139.480186,35.667226",
     "geom:latitude":35.667226,
     "geom:longitude":139.480186,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Fuchu"
+    ],
+    "name:eng_x_variant":[
+        "Fuchu City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e9c\u4e2d\u5e02"
+    ],
     "qs:name":"\u5e9c\u4e2d\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u6771\u4eac\u90fd",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672817,
-        1108741735
+        1108741735,
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056564,
-    "wof:geomhash":"5d7cd141845099c84b36eb94d8b0efa9",
+    "wof:geomhash":"3e85f6c1fd7e5486677becb0dfeca994",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529675,
-    "wof:lastmodified":1566726393,
-    "wof:name":"\u5e9c\u4e2d\u5e02",
+    "wof:lastmodified":1601422994,
+    "wof:name":"Fuchu",
     "wof:parent_id":1108741735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     139.480186,
-    35.6672255,
+    35.667226,
     139.480186,
-    35.6672255
+    35.667226
 ],
-  "geometry": {"coordinates":[139.480186,35.6672255],"type":"Point"}
+  "geometry": {"coordinates":[139.480186,35.667226],"type":"Point"}
 }

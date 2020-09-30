@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.1942665,34.688945,135.1942665,34.688945",
+    "geom:bbox":"135.194266,34.688945,135.194266,34.688945",
     "geom:latitude":34.688945,
     "geom:longitude":135.194266,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Chuo"
+    ],
+    "name:eng_x_variant":[
+        "Chuo Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u592e\u533a"
+    ],
     "qs:name":"\u4e2d\u592e\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5175\u5eab\u770c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056750,
-    "wof:geomhash":"9653ce736e19b75e102210e9e572ff5a",
+    "wof:geomhash":"fb65e505481c8c520f5fd11dfa8bb75a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890533589,
-    "wof:lastmodified":1479154073,
-    "wof:name":"\u4e2d\u592e\u533a",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Chuo",
     "wof:parent_id":85672769,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -57,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.1942665,
+    135.194266,
     34.688945,
-    135.1942665,
+    135.194266,
     34.688945
 ],
-  "geometry": {"coordinates":[135.1942665,34.688945],"type":"Point"}
+  "geometry": {"coordinates":[135.194266,34.688945],"type":"Point"}
 }

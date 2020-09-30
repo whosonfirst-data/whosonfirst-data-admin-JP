@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.460956,34.3970655,132.460956,34.3970655",
+    "geom:bbox":"132.460956,34.397065,132.460956,34.397065",
     "geom:latitude":34.397065,
     "geom:longitude":132.460956,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Osuka"
+    ],
+    "name:eng_x_variant":[
+        "Osuka Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u9808\u8cc0\u753a"
+    ],
     "qs:name":"\u5927\u9808\u8cc0\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5e83\u5cf6\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        890519959
+        890519959,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056176,
-    "wof:geomhash":"6ba610da855a8003680ab4e9a73336f0",
+    "wof:geomhash":"30d97d348df4aa613c585860f7af2708",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890520923,
-    "wof:lastmodified":1566726381,
-    "wof:name":"\u5927\u9808\u8cc0\u753a",
+    "wof:lastmodified":1601423039,
+    "wof:name":"Osuka",
     "wof:parent_id":890519959,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     132.460956,
-    34.3970655,
+    34.397065,
     132.460956,
-    34.3970655
+    34.397065
 ],
-  "geometry": {"coordinates":[132.46095600000001,34.3970655],"type":"Point"}
+  "geometry": {"coordinates":[132.46095600000001,34.397065],"type":"Point"}
 }

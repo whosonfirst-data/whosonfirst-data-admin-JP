@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.1972755,36.11458,139.1972755,36.11458",
+    "geom:bbox":"139.197275,36.11458,139.197275,36.11458",
     "geom:latitude":36.11458,
     "geom:longitude":139.197275,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yorii"
+    ],
+    "name:eng_x_variant":[
+        "Yorii Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bc4\u5c45\u753a"
+    ],
     "qs:name":"\u5bc4\u5c45\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u57fc\u7389\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740521
+        1108740521,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056564,
-    "wof:geomhash":"51497d4171ce627490a2a39ef64053b3",
+    "wof:geomhash":"06a4d019addad943623489d3a146957d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890529679,
-    "wof:lastmodified":1566726402,
-    "wof:name":"\u5bc4\u5c45\u753a",
+    "wof:lastmodified":1601423075,
+    "wof:name":"Yorii",
     "wof:parent_id":1108740521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.1972755,
+    139.197275,
     36.11458,
-    139.1972755,
+    139.197275,
     36.11458
 ],
-  "geometry": {"coordinates":[139.19727549999999,36.11458],"type":"Point"}
+  "geometry": {"coordinates":[139.19727499999999,36.11458],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.5442605,33.243738,130.5442605,33.243738",
+    "geom:bbox":"130.544261,33.243738,130.544261,33.243738",
     "geom:latitude":33.243738,
     "geom:longitude":130.544261,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hirokawa"
+    ],
+    "name:eng_x_variant":[
+        "Hirokawa Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e83\u5ddd\u753a"
+    ],
     "qs:name":"\u5e83\u5ddd\u753a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u798f\u5ca1\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743069
+        1108743069,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056769,
-    "wof:geomhash":"431c290526350f9ed83d973c53a284ff",
+    "wof:geomhash":"19bd9a7087be93a19a617a6aae330f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890534055,
-    "wof:lastmodified":1566726259,
-    "wof:name":"\u5e83\u5ddd\u753a",
+    "wof:lastmodified":1601423004,
+    "wof:name":"Hirokawa",
     "wof:parent_id":1108743069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.5442605,
+    130.544261,
     33.243738,
-    130.5442605,
+    130.544261,
     33.243738
 ],
-  "geometry": {"coordinates":[130.54426050000001,33.243738],"type":"Point"}
+  "geometry": {"coordinates":[130.54426100000001,33.243738],"type":"Point"}
 }

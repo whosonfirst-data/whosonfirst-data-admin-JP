@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.878205,33.0906105,131.878205,33.0906105",
+    "geom:bbox":"131.878205,33.09061,131.878205,33.09061",
     "geom:latitude":33.09061,
     "geom:longitude":131.878205,
     "gn:country":"JP",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tsukumi"
+    ],
+    "name:eng_x_variant":[
+        "Tsukumi City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6d25\u4e45\u898b\u5e02"
+    ],
     "qs:name":"\u6d25\u4e45\u898b\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5927\u5206\u770c",
@@ -39,7 +48,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056357,
-    "wof:geomhash":"c2ab44fdbff5b06fb6678b04b1f23087",
+    "wof:geomhash":"b55fb0f36a62a7c18849c92cc278ea42",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890524919,
-    "wof:lastmodified":1566726504,
-    "wof:name":"\u6d25\u4e45\u898b\u5e02",
+    "wof:lastmodified":1601423060,
+    "wof:name":"Tsukumi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -58,9 +67,9 @@
 },
   "bbox": [
     131.878205,
-    33.0906105,
+    33.09061,
     131.878205,
-    33.0906105
+    33.09061
 ],
-  "geometry": {"coordinates":[131.87820500000001,33.0906105],"type":"Point"}
+  "geometry": {"coordinates":[131.87820500000001,33.09061],"type":"Point"}
 }

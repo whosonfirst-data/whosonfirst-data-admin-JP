@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.8827555,36.3015395,139.8827555,36.3015395",
+    "geom:bbox":"139.882756,36.301539,139.882756,36.301539",
     "geom:latitude":36.301539,
     "geom:longitude":139.882756,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yuki"
+    ],
+    "name:eng_x_variant":[
+        "Yuki City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7d50\u57ce\u5e02"
+    ],
     "qs:name":"\u7d50\u57ce\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u8328\u57ce\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890522707
+        890522707,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056597,
-    "wof:geomhash":"9ee6537153a64537a7427d8fe70ab81b",
+    "wof:geomhash":"b423d87c588fd4461be43d295eba26db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890530391,
-    "wof:lastmodified":1566726406,
-    "wof:name":"\u7d50\u57ce\u5e02",
+    "wof:lastmodified":1601423076,
+    "wof:name":"Yuki",
     "wof:parent_id":890522707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.8827555,
-    36.3015395,
-    139.8827555,
-    36.3015395
+    139.882756,
+    36.301539,
+    139.882756,
+    36.301539
 ],
-  "geometry": {"coordinates":[139.8827555,36.3015395],"type":"Point"}
+  "geometry": {"coordinates":[139.882756,36.301539],"type":"Point"}
 }

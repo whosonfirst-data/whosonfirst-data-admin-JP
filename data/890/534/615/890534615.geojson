@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.9208795,36.152014,139.9208795,36.152014",
+    "geom:bbox":"139.92088,36.152014,139.92088,36.152014",
     "geom:latitude":36.152014,
     "geom:longitude":139.92088,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shimotsuma"
+    ],
+    "name:eng_x_variant":[
+        "Shimotsuma City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e0b\u59bb\u5e02"
+    ],
     "qs:name":"\u4e0b\u59bb\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u8328\u57ce\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890524623
+        890524623,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056789,
-    "wof:geomhash":"dc78929a1059f54936c61796e14ef696",
+    "wof:geomhash":"81b78d7a072525dd41a70d12fbe797c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890534615,
-    "wof:lastmodified":1566726265,
-    "wof:name":"\u4e0b\u59bb\u5e02",
+    "wof:lastmodified":1601423050,
+    "wof:name":"Shimotsuma",
     "wof:parent_id":890524623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.9208795,
+    139.92088,
     36.152014,
-    139.9208795,
+    139.92088,
     36.152014
 ],
-  "geometry": {"coordinates":[139.92087950000001,36.152014],"type":"Point"}
+  "geometry": {"coordinates":[139.92088000000001,36.152014],"type":"Point"}
 }

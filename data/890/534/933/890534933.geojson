@@ -7,13 +7,22 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.7806725,35.009963,135.7806725,35.009963",
+    "geom:bbox":"135.780673,35.009963,135.780673,35.009963",
     "geom:latitude":35.009963,
     "geom:longitude":135.780673,
     "gp:adm0":23424856,
     "iso:country":"JP",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Sakyo"
+    ],
+    "name:eng_x_variant":[
+        "Sakyo Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5de6\u4eac\u533a"
+    ],
     "qs:name":"\u5de6\u4eac\u533a",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u4eac\u90fd\u5e9c",
@@ -37,7 +46,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056801,
-    "wof:geomhash":"5a7108a0e6733aa2b57c250984463cc5",
+    "wof:geomhash":"c51715850ef71a2a4067ec0150270cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":890534933,
-    "wof:lastmodified":1479154185,
-    "wof:name":"\u5de6\u4eac\u533a",
+    "wof:lastmodified":1601423045,
+    "wof:name":"Sakyo",
     "wof:parent_id":85672777,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -57,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.7806725,
+    135.780673,
     35.009963,
-    135.7806725,
+    135.780673,
     35.009963
 ],
-  "geometry": {"coordinates":[135.78067250000001,35.009963],"type":"Point"}
+  "geometry": {"coordinates":[135.78067300000001,35.009963],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.379669,36.8818355,138.379669,36.8818355",
+    "geom:bbox":"138.379669,36.881836,138.379669,36.881836",
     "geom:latitude":36.881836,
     "geom:longitude":138.379669,
     "gp:adm0":23424856,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Iiyama"
+    ],
+    "name:eng_x_variant":[
+        "Iiyama City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u98ef\u5c71\u5e02"
+    ],
     "qs:name":"\u98ef\u5c71\u5e02",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u9577\u91ce\u770c",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        890523293
+        890523293,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056142,
-    "wof:geomhash":"7cb1d9d9f1925012cf6b38b39cb62eea",
+    "wof:geomhash":"a91f7417d962facc5bc4496c05d8b5e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890520449,
-    "wof:lastmodified":1566726376,
-    "wof:name":"\u98ef\u5c71\u5e02",
+    "wof:lastmodified":1601423007,
+    "wof:name":"Iiyama",
     "wof:parent_id":890523293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     138.379669,
-    36.8818355,
+    36.881836,
     138.379669,
-    36.8818355
+    36.881836
 ],
-  "geometry": {"coordinates":[138.37966900000001,36.8818355],"type":"Point"}
+  "geometry": {"coordinates":[138.37966900000001,36.881836],"type":"Point"}
 }
