@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.8644165,43.034814,141.8644165,43.034814",
+    "geom:bbox":"141.864417,43.034814,141.864417,43.034814",
     "geom:latitude":43.034814,
     "geom:longitude":141.864417,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kuriyama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.8444165,43.014814,141.8844165,43.054814",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739623
+        1108739623,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056385,
-    "wof:geomhash":"9db45056dee6761ac84a1dbd748366ed",
+    "wof:geomhash":"667ef5525088cc00356a7a070e670086",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525625,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kuriyama",
     "wof:parent_id":1108739623,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.8644165,
+    141.864417,
     43.034814,
-    141.8644165,
+    141.864417,
     43.034814
 ],
-  "geometry": {"coordinates":[141.8644165,43.034814],"type":"Point"}
+  "geometry": {"coordinates":[141.864417,43.034814],"type":"Point"}
 }

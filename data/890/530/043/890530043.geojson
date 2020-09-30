@@ -11,12 +11,6 @@
     "geom:longitude":133.000144,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sera Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.980144,34.603602,133.020144,34.643602",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        1108742819
+        1108742819,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530043,
-    "wof:lastmodified":1601337576,
+    "wof:lastmodified":1601423047,
     "wof:name":"Sera",
     "wof:parent_id":1108742819,
     "wof:placetype":"locality",

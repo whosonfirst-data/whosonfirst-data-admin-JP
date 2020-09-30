@@ -11,12 +11,6 @@
     "geom:longitude":131.627883,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ato Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"131.607883,34.328618,131.647883,34.368618",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672689,
-        1108742825
+        1108742825,
+        85672689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890520743,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601422977,
     "wof:name":"Ato",
     "wof:parent_id":1108742825,
     "wof:placetype":"locality",

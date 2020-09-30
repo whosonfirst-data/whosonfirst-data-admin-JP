@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.0948335,34.783357,137.0948335,34.783357",
+    "geom:bbox":"137.094833,34.783357,137.094833,34.783357",
     "geom:latitude":34.783357,
     "geom:longitude":137.094833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kira Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.0748335,34.763357,137.1148335,34.803357",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        890520407
+        890520407,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056480,
-    "wof:geomhash":"5cf7f181e2a8ef990466cd35c31fa0ca",
+    "wof:geomhash":"89a76422d3d36828b8afe31dc17dcf04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527955,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kira",
     "wof:parent_id":890520407,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.09483349999996,
+    137.094833,
     34.783357,
-    137.09483349999996,
+    137.094833,
     34.783357
 ],
-  "geometry": {"coordinates":[137.09483349999996,34.783357],"type":"Point"}
+  "geometry": {"coordinates":[137.09483299999999,34.783357],"type":"Point"}
 }

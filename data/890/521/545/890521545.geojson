@@ -11,12 +11,6 @@
     "geom:longitude":139.530143,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Higashi Kurume City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.510143,35.743786,139.550143,35.783786",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672817,
-        890524699
+        890524699,
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521545,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423003,
     "wof:name":"Higashi Kurume",
     "wof:parent_id":890524699,
     "wof:placetype":"locality",

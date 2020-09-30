@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.02845,36.4631785,138.02845,36.4631785",
+    "geom:bbox":"138.02845,36.463178,138.02845,36.463178",
     "geom:latitude":36.463178,
     "geom:longitude":138.02845,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Omi Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"138.00845,36.4431785,138.04845,36.4831785",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742081
+        1108742081,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056751,
-    "wof:geomhash":"508cd0ceda9024a4e822bf9b981327d9",
+    "wof:geomhash":"c46a9b89d4d98da42c2e8612914acf4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533601,
-    "wof:lastmodified":1601337608,
+    "wof:lastmodified":1601423038,
     "wof:name":"Omi",
     "wof:parent_id":1108742081,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.02845,
-    36.4631785,
+    36.463178,
     138.02845,
-    36.4631785
+    36.463178
 ],
-  "geometry": {"coordinates":[138.02844999999999,36.4631785],"type":"Point"}
+  "geometry": {"coordinates":[138.02844999999999,36.463178],"type":"Point"}
 }

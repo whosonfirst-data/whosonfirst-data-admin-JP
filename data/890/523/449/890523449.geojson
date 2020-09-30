@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.6937925,34.175269,133.6937925,34.175269",
+    "geom:bbox":"133.693793,34.175269,133.693793,34.175269",
     "geom:latitude":34.175269,
     "geom:longitude":133.693793,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Mitoyo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.6737925,34.155269,133.7137925,34.195269",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672715,
-        890519687
+        890519687,
+        85672715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056303,
-    "wof:geomhash":"2a65bd7ee1cf858166eafa1ab3b75817",
+    "wof:geomhash":"02ea497a6df7c8550421a41fd5f20063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523449,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601423030,
     "wof:name":"Mitoyo",
     "wof:parent_id":890519687,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.6937925,
+    133.693793,
     34.175269,
-    133.6937925,
+    133.693793,
     34.175269
 ],
-  "geometry": {"coordinates":[133.6937925,34.175269],"type":"Point"}
+  "geometry": {"coordinates":[133.693793,34.175269],"type":"Point"}
 }

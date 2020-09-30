@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.9828805,33.68721,132.9828805,33.68721",
+    "geom:bbox":"132.98288,33.68721,132.98288,33.68721",
     "geom:latitude":33.68721,
     "geom:longitude":132.98288,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kumakogen Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.9628805,33.66721,133.0028805,33.70721",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672711,
-        1108742921
+        1108742921,
+        85672711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056716,
-    "wof:geomhash":"4f3c2ee5cc81f70136ae8392972bcb57",
+    "wof:geomhash":"9eebba97bb0d25c3879e4abe7bd9bfa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532717,
-    "wof:lastmodified":1601337577,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kumakogen",
     "wof:parent_id":1108742921,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.9828805,
+    132.98288,
     33.68721,
-    132.9828805,
+    132.98288,
     33.68721
 ],
-  "geometry": {"coordinates":[132.98288049999999,33.68721],"type":"Point"}
+  "geometry": {"coordinates":[132.98287999999999,33.68721],"type":"Point"}
 }

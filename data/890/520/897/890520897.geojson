@@ -11,12 +11,6 @@
     "geom:longitude":139.907112,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Iide Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.887112,37.90653,139.927112,37.94653",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108740145
+        1108740145,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890520897,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423007,
     "wof:name":"Iide",
     "wof:parent_id":1108740145,
     "wof:placetype":"locality",

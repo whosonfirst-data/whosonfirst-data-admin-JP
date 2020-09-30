@@ -11,12 +11,6 @@
     "geom:longitude":139.080219,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamikawa Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.060219,36.085358,139.100219,36.125358",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740505
+        1108740505,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525563,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423014,
     "wof:name":"Kamikawa",
     "wof:parent_id":1108740505,
     "wof:placetype":"locality",

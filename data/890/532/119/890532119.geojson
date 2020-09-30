@@ -11,12 +11,6 @@
     "geom:longitude":139.535636,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kiyose City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.515636,35.765671,139.555636,35.805671",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672817,
-        890520719
+        890520719,
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532119,
-    "wof:lastmodified":1601337596,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kiyose",
     "wof:parent_id":890520719,
     "wof:placetype":"locality",

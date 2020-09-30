@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.1960235,33.070255,131.1960235,33.070255",
+    "geom:bbox":"131.196023,33.070255,131.196023,33.070255",
     "geom:latitude":33.070255,
     "geom:longitude":131.196023,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ubuyama Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"131.1760235,33.050255,131.2160235,33.090255",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743185
+        1108743185,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056127,
-    "wof:geomhash":"a51af7aa33a931057ada3e9e3831ba81",
+    "wof:geomhash":"570718cfa12d0a311d53d2c3be29f5ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890520059,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423060,
     "wof:name":"Ubuyama",
     "wof:parent_id":1108743185,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.1960235,
+    131.196023,
     33.070255,
-    131.1960235,
+    131.196023,
     33.070255
 ],
-  "geometry": {"coordinates":[131.1960235,33.070255],"type":"Point"}
+  "geometry": {"coordinates":[131.196023,33.070255],"type":"Point"}
 }

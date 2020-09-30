@@ -11,12 +11,6 @@
     "geom:longitude":143.060433,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ohmu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.040433,44.50855,143.080433,44.54855",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739753
+        1108739753,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530643,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423037,
     "wof:name":"Ohmu",
     "wof:parent_id":1108739753,
     "wof:placetype":"locality",

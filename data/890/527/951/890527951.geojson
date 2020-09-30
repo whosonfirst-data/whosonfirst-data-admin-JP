@@ -11,12 +11,6 @@
     "geom:longitude":139.613152,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Itakura Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.593152,36.21818,139.633152,36.25818",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        1108740409
+        1108740409,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527951,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423008,
     "wof:name":"Itakura",
     "wof:parent_id":1108740409,
     "wof:placetype":"locality",

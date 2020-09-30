@@ -11,12 +11,6 @@
     "geom:longitude":138.594477,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kusatsu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.574477,36.603255,138.614477,36.643255",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        1108740391
+        1108740391,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529727,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kusatsu",
     "wof:parent_id":1108740391,
     "wof:placetype":"locality",

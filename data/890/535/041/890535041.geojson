@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"145.16098,44.0878005,145.16098,44.0878005",
+    "geom:bbox":"145.16098,44.087801,145.16098,44.087801",
     "geom:latitude":44.087801,
     "geom:longitude":145.16098,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Rausu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"145.14098,44.0678005,145.18098,44.1078005",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739849
+        1108739849,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056805,
-    "wof:geomhash":"08e6bb2aba7232abe39425cfa9776783",
+    "wof:geomhash":"1ab18a2edb9fd4977ed9fb29aa9f2904",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535041,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423043,
     "wof:name":"Rausu",
     "wof:parent_id":1108739849,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     145.16098,
-    44.0878005,
+    44.087801,
     145.16098,
-    44.0878005
+    44.087801
 ],
-  "geometry": {"coordinates":[145.16098,44.0878005],"type":"Point"}
+  "geometry": {"coordinates":[145.16098,44.087801],"type":"Point"}
 }

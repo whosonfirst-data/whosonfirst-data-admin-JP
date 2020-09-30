@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.546127,34.4857215,136.546127,34.4857215",
+    "geom:bbox":"136.546127,34.485721,136.546127,34.485721",
     "geom:latitude":34.485721,
     "geom:longitude":136.546127,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Taki Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.526127,34.4657215,136.566127,34.5057215",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672745,
-        1108742339
+        1108742339,
+        85672745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056682,
-    "wof:geomhash":"f20a25fec67dd6122b9fed209d66c863",
+    "wof:geomhash":"e75ae5a419ff4635f87180294e6e0890",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531961,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423056,
     "wof:name":"Taki",
     "wof:parent_id":1108742339,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     136.546127,
-    34.4857215,
+    34.485721,
     136.546127,
-    34.4857215
+    34.485721
 ],
-  "geometry": {"coordinates":[136.54612700000001,34.4857215],"type":"Point"}
+  "geometry": {"coordinates":[136.54612700000001,34.485721],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":135.94117,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasagi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.92117,34.733471,135.96117,34.773471",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672777,
-        1108742423
+        1108742423,
+        85672777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526275,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kasagi",
     "wof:parent_id":1108742423,
     "wof:placetype":"locality",

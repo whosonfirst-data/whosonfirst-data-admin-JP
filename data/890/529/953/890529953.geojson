@@ -11,12 +11,6 @@
     "geom:longitude":136.985929,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Higashiura Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.965929,34.942549,137.005929,34.982549",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        890520053
+        890520053,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529953,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423004,
     "wof:name":"Higashiura",
     "wof:parent_id":890520053,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.3163245,36.695293,138.3163245,36.695293",
+    "geom:bbox":"138.316325,36.695293,138.316325,36.695293",
     "geom:latitude":36.695293,
     "geom:longitude":138.316325,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Obuse Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.2963245,36.675293,138.3363245,36.715293",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742105
+        1108742105,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056567,
-    "wof:geomhash":"bd61d6b55c444ecaae807e3c94c42b83",
+    "wof:geomhash":"54e9668d498994b3dab77cad4cf46782",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529731,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423037,
     "wof:name":"Obuse",
     "wof:parent_id":1108742105,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.3163245,
+    138.316325,
     36.695293,
-    138.3163245,
+    138.316325,
     36.695293
 ],
-  "geometry": {"coordinates":[138.31632450000001,36.695293],"type":"Point"}
+  "geometry": {"coordinates":[138.31632500000001,36.695293],"type":"Point"}
 }

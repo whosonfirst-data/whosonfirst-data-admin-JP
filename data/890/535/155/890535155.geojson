@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.448116,42.8642665,141.448116,42.8642665",
+    "geom:bbox":"141.448116,42.864266,141.448116,42.864266",
     "geom:latitude":42.864266,
     "geom:longitude":141.448116,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Eniwa City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"141.428116,42.8442665,141.468116,42.8842665",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739525
+        1108739525,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056809,
-    "wof:geomhash":"ae45d30e19e03b058950488d01a6cc0d",
+    "wof:geomhash":"8c3191829592d59242e004ecfa92ef37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535155,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601422992,
     "wof:name":"Eniwa",
     "wof:parent_id":1108739525,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     141.448116,
-    42.8642665,
+    42.864266,
     141.448116,
-    42.8642665
+    42.864266
 ],
-  "geometry": {"coordinates":[141.448116,42.8642665],"type":"Point"}
+  "geometry": {"coordinates":[141.448116,42.864266],"type":"Point"}
 }

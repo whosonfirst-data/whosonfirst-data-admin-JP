@@ -11,12 +11,6 @@
     "geom:longitude":140.800094,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawauchi Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"140.780094,37.331601,140.820094,37.371601",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740257
+        1108740257,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533625,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawauchi",
     "wof:parent_id":1108740257,
     "wof:placetype":"locality",

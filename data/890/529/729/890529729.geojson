@@ -11,12 +11,6 @@
     "geom:longitude":139.921532,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yachiyo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.901532,36.131182,139.941532,36.171182",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890524623
+        890524623,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529729,
-    "wof:lastmodified":1601337579,
+    "wof:lastmodified":1601423071,
     "wof:name":"Yachiyo",
     "wof:parent_id":890524623,
     "wof:placetype":"locality",

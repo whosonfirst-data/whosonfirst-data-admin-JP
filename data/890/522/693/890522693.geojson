@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.349588,33.6670895,135.349588,33.6670895",
+    "geom:bbox":"135.349588,33.66709,135.349588,33.66709",
     "geom:latitude":33.66709,
     "geom:longitude":135.349588,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shirahama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.329588,33.6470895,135.369588,33.6870895",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        1108742663
+        1108742663,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056268,
-    "wof:geomhash":"8039665ce23a5f312e78168bca45179e",
+    "wof:geomhash":"9c5f76b48abadb162472f480305d4775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522693,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shirahama",
     "wof:parent_id":1108742663,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     135.349588,
-    33.6670895,
+    33.66709,
     135.349588,
-    33.6670895
+    33.66709
 ],
-  "geometry": {"coordinates":[135.34958800000001,33.6670895],"type":"Point"}
+  "geometry": {"coordinates":[135.34958800000001,33.66709],"type":"Point"}
 }

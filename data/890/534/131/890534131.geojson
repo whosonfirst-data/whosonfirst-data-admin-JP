@@ -11,12 +11,6 @@
     "geom:longitude":135.066639,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hidaka Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.046639,33.864952,135.086639,33.904952",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        1108742649
+        1108742649,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534131,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423003,
     "wof:name":"Hidaka",
     "wof:parent_id":1108742649,
     "wof:placetype":"locality",

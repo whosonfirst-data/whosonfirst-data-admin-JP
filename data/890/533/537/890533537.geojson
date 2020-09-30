@@ -11,12 +11,6 @@
     "geom:longitude":132.690292,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Izumo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"132.670292,35.3785,132.710292,35.4185",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        890524685
+        890524685,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533537,
-    "wof:lastmodified":1601337579,
+    "wof:lastmodified":1601423009,
     "wof:name":"Izumo",
     "wof:parent_id":890524685,
     "wof:placetype":"locality",

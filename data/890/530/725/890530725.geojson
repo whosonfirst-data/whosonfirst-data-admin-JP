@@ -11,12 +11,6 @@
     "geom:longitude":140.110111,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Inawashiro Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.090111,37.554582,140.130111,37.594582",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740199
+        1108740199,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530725,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423008,
     "wof:name":"Inawashiro",
     "wof:parent_id":1108740199,
     "wof:placetype":"locality",

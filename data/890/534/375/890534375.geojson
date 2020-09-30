@@ -11,12 +11,6 @@
     "geom:longitude":140.263996,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.243996,36.351861,140.283996,36.391861",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890524545
+        890524545,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534375,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kasama",
     "wof:parent_id":890524545,
     "wof:placetype":"locality",

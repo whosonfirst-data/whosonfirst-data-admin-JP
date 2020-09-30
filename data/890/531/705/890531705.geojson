@@ -11,12 +11,6 @@
     "geom:longitude":130.109195,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shima Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.089195,33.562734,130.129195,33.602734",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743025
+        1108743025,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531705,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shima",
     "wof:parent_id":1108743025,
     "wof:placetype":"locality",

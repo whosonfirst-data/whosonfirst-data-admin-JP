@@ -11,12 +11,6 @@
     "geom:longitude":130.680666,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hikawa Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.660666,32.524,130.700666,32.564",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743205
+        1108743205,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521175,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423004,
     "wof:name":"Hikawa",
     "wof:parent_id":1108743205,
     "wof:placetype":"locality",

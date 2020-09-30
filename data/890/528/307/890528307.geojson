@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.967415,35.0688845,136.967415,35.0688845",
+    "geom:bbox":"136.967415,35.068885,136.967415,35.068885",
     "geom:latitude":35.068885,
     "geom:longitude":136.967415,
     "gp:adm0":23424856,
@@ -34,11 +34,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85672731,
         102191569,
         85632429,
+        1108742239,
         102031499,
-        1108742239
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056503,
-    "wof:geomhash":"652fa4602df5b89f4600eb39a6e0692c",
+    "wof:geomhash":"6d63692e7acb4f75f2efab51319c91bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890528307,
-    "wof:lastmodified":1601068417,
+    "wof:lastmodified":1601422977,
     "wof:name":"Aza Kamatogi",
     "wof:parent_id":102031499,
     "wof:placetype":"neighbourhood",
@@ -70,9 +70,9 @@
 },
   "bbox": [
     136.967415,
-    35.0688845,
+    35.068885,
     136.967415,
-    35.0688845
+    35.068885
 ],
-  "geometry": {"coordinates":[136.96741499999999,35.0688845],"type":"Point"}
+  "geometry": {"coordinates":[136.96741499999999,35.068885],"type":"Point"}
 }

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.946937,40.5929925,139.946937,40.5929925",
+    "geom:bbox":"139.946937,40.592993,139.946937,40.592993",
     "geom:latitude":40.592993,
     "geom:longitude":139.946937,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fukaura Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.926937,40.5729925,139.966937,40.6129925",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        1108739881
+        1108739881,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056704,
-    "wof:geomhash":"c4ffba3a332ffb2fc0c58209e874df45",
+    "wof:geomhash":"6d7da73a88983409da70e92d5615df43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532427,
-    "wof:lastmodified":1601337596,
+    "wof:lastmodified":1601422994,
     "wof:name":"Fukaura",
     "wof:parent_id":1108739881,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     139.946937,
-    40.5929925,
+    40.592993,
     139.946937,
-    40.5929925
+    40.592993
 ],
-  "geometry": {"coordinates":[139.94693699999999,40.5929925],"type":"Point"}
+  "geometry": {"coordinates":[139.94693699999999,40.592993],"type":"Point"}
 }

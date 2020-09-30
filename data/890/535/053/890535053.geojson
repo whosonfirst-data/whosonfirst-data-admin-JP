@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.4069765,35.8379935,139.4069765,35.8379935",
+    "geom:bbox":"139.406977,35.837994,139.406977,35.837994",
     "geom:latitude":35.837994,
     "geom:longitude":139.406977,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Iruma City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.3869765,35.8179935,139.4269765,35.8579935",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        890520095
+        890520095,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056805,
-    "wof:geomhash":"5b7e1ae2947ca8484a2cd4ac7ee750bb",
+    "wof:geomhash":"0d46f3998fd4acdde92597a111d03737",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535053,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423008,
     "wof:name":"Iruma",
     "wof:parent_id":890520095,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.4069765,
-    35.8379935,
-    139.4069765,
-    35.8379935
+    139.406977,
+    35.837994,
+    139.406977,
+    35.837994
 ],
-  "geometry": {"coordinates":[139.40697650000001,35.8379935],"type":"Point"}
+  "geometry": {"coordinates":[139.40697700000001,35.837994],"type":"Point"}
 }

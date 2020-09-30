@@ -11,12 +11,6 @@
     "geom:longitude":141.144022,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Noboribetsu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"141.124022,42.47185,141.164022,42.51185",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890520239
+        890520239,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529803,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423036,
     "wof:name":"Noboribetsu",
     "wof:parent_id":890520239,
     "wof:placetype":"locality",

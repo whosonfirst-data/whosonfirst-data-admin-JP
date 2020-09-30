@@ -11,12 +11,6 @@
     "geom:longitude":132.477951,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawamoto Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.457951,34.941371,132.497951,34.981371",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        1108742725
+        1108742725,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523187,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawamoto",
     "wof:parent_id":1108742725,
     "wof:placetype":"locality",

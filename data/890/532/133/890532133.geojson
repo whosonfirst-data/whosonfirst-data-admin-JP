@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.910202,35.0240175,139.910202,35.0240175",
+    "geom:bbox":"139.910202,35.024017,139.910202,35.024017",
     "geom:latitude":35.024017,
     "geom:longitude":139.910202,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minamiboso City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.890202,35.0040175,139.930202,35.0440175",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741631
+        1108741631,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056688,
-    "wof:geomhash":"a6942c63ad8665b51e609b14a7314a8d",
+    "wof:geomhash":"ec9dfbe8ef65da030fb75f4dcef64fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532133,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423028,
     "wof:name":"Minamiboso",
     "wof:parent_id":1108741631,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     139.910202,
-    35.0240175,
+    35.024017,
     139.910202,
-    35.0240175
+    35.024017
 ],
-  "geometry": {"coordinates":[139.910202,35.0240175],"type":"Point"}
+  "geometry": {"coordinates":[139.910202,35.024017],"type":"Point"}
 }

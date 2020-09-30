@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.0924135,35.124033,133.0924135,35.124033",
+    "geom:bbox":"133.092413,35.124033,133.092413,35.124033",
     "geom:latitude":35.124033,
     "geom:longitude":133.092413,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Okuizumo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.0724135,35.104033,133.1124135,35.144033",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        1108742721
+        1108742721,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056732,
-    "wof:geomhash":"9643da15362a5348912e9d2ab53417db",
+    "wof:geomhash":"c1a4c8e1801ce609d9bb3abd31f884de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533145,
-    "wof:lastmodified":1601337585,
+    "wof:lastmodified":1601423038,
     "wof:name":"Okuizumo",
     "wof:parent_id":1108742721,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.0924135,
+    133.092413,
     35.124033,
-    133.0924135,
+    133.092413,
     35.124033
 ],
-  "geometry": {"coordinates":[133.09241349999999,35.124033],"type":"Point"}
+  "geometry": {"coordinates":[133.09241299999999,35.124033],"type":"Point"}
 }

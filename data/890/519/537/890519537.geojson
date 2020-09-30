@@ -11,12 +11,6 @@
     "geom:longitude":143.383728,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Monbetsu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"143.363728,44.295711,143.403728,44.335711",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890520155
+        890520155,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890519537,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423030,
     "wof:name":"Monbetsu",
     "wof:parent_id":890520155,
     "wof:placetype":"locality",

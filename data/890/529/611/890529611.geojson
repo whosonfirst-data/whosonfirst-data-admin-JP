@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.9221795,35.8536405,139.9221795,35.8536405",
+    "geom:bbox":"139.922179,35.85364,139.922179,35.85364",
     "geom:latitude":35.85364,
     "geom:longitude":139.922179,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nagareyama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.9021795,35.8336405,139.9421795,35.8736405",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741607
+        1108741607,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056562,
-    "wof:geomhash":"17a0af3afe0d2f16fc7307dc4c411342",
+    "wof:geomhash":"7b0a5c69c776d46d7a7595ef36b3958d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529611,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423031,
     "wof:name":"Nagareyama",
     "wof:parent_id":1108741607,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.9221795,
-    35.8536405,
-    139.9221795,
-    35.8536405
+    139.922179,
+    35.85364,
+    139.922179,
+    35.85364
 ],
-  "geometry": {"coordinates":[139.9221795,35.8536405],"type":"Point"}
+  "geometry": {"coordinates":[139.922179,35.85364],"type":"Point"}
 }

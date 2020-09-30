@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.5873245,31.220174,130.5873245,31.220174",
+    "geom:bbox":"130.587324,31.220174,130.587324,31.220174",
     "geom:latitude":31.220174,
     "geom:longitude":130.587324,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ibusuki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.5673245,31.200174,130.6073245,31.240174",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        890523807
+        890523807,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056804,
-    "wof:geomhash":"645fe402dd8d06961b89f6638d896a72",
+    "wof:geomhash":"7446ae15274fbe9dd57854da02c20d62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535025,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601423007,
     "wof:name":"Ibusuki",
     "wof:parent_id":890523807,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.5873245,
+    130.587324,
     31.220174,
-    130.5873245,
+    130.587324,
     31.220174
 ],
-  "geometry": {"coordinates":[130.58732449999999,31.220174],"type":"Point"}
+  "geometry": {"coordinates":[130.587324,31.220174],"type":"Point"}
 }

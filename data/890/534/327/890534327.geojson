@@ -11,12 +11,6 @@
     "geom:longitude":141.312203,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ninohe City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"141.292203,40.295006,141.332203,40.335006",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672839,
-        890520775
+        890520775,
+        85672839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534327,
-    "wof:lastmodified":1601337577,
+    "wof:lastmodified":1601423035,
     "wof:name":"Ninohe",
     "wof:parent_id":890520775,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":136.854422,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kiyosu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.834422,35.201797,136.874422,35.241797",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        890520661
+        890520661,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532739,
-    "wof:lastmodified":1601337596,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kiyosu",
     "wof:parent_id":890520661,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":130.667613,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kajiki Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.647613,31.732288,130.687613,31.772288",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        1108743315
+        1108743315,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531141,
-    "wof:lastmodified":1601337579,
+    "wof:lastmodified":1601423014,
     "wof:name":"Kajiki",
     "wof:parent_id":1108743315,
     "wof:placetype":"locality",

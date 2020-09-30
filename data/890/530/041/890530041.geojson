@@ -11,12 +11,6 @@
     "geom:longitude":132.206666,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Akiota Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.186666,34.598658,132.226666,34.638658",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        1108742813
+        1108742813,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530041,
-    "wof:lastmodified":1601337586,
+    "wof:lastmodified":1601422975,
     "wof:name":"Akiota",
     "wof:parent_id":1108742813,
     "wof:placetype":"locality",

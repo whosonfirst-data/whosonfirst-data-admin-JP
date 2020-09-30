@@ -11,12 +11,6 @@
     "geom:longitude":138.914909,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Otsuki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.894909,35.59875,138.934909,35.63875",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        890524367
+        890524367,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529821,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423039,
     "wof:name":"Otsuki",
     "wof:parent_id":890524367,
     "wof:placetype":"locality",

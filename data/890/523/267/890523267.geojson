@@ -11,12 +11,6 @@
     "geom:longitude":134.583311,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Taishi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.563311,34.812968,134.603311,34.852968",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        1108742545
+        1108742545,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523267,
-    "wof:lastmodified":1601337585,
+    "wof:lastmodified":1601423055,
     "wof:name":"Taishi",
     "wof:parent_id":1108742545,
     "wof:placetype":"locality",

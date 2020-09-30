@@ -11,12 +11,6 @@
     "geom:longitude":130.962444,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nakatane Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.942444,30.522861,130.982444,30.562861",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        1108743339
+        1108743339,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890528433,
-    "wof:lastmodified":1601337576,
+    "wof:lastmodified":1601423032,
     "wof:name":"Nakatane",
     "wof:parent_id":1108743339,
     "wof:placetype":"locality",

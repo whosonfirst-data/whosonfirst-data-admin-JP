@@ -11,12 +11,6 @@
     "geom:longitude":138.872833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawaguchi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.852833,37.251,138.892833,37.291",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        890520409
+        890520409,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532545,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawaguchi",
     "wof:parent_id":890520409,
     "wof:placetype":"locality",

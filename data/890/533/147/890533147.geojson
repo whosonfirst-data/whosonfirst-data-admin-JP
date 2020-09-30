@@ -11,12 +11,6 @@
     "geom:longitude":131.940083,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yoshiga Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"131.920083,34.358666,131.960083,34.398666",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        1108742735
+        1108742735,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533147,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423075,
     "wof:name":"Yoshiga",
     "wof:parent_id":1108742735,
     "wof:placetype":"locality",

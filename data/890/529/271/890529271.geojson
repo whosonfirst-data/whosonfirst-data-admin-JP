@@ -11,12 +11,6 @@
     "geom:longitude":130.557918,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ogori City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.537918,33.368524,130.577918,33.408524",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743011
+        1108743011,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529271,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423037,
     "wof:name":"Ogori",
     "wof:parent_id":1108743011,
     "wof:placetype":"locality",

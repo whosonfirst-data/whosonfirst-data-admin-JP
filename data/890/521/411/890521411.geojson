@@ -11,12 +11,6 @@
     "geom:longitude":128.985671,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tokunoshima Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"128.965671,27.709066,129.005671,27.749066",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        1108743357
+        1108743357,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521411,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601423058,
     "wof:name":"Tokunoshima",
     "wof:parent_id":1108743357,
     "wof:placetype":"locality",

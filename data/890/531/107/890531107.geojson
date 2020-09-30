@@ -11,12 +11,6 @@
     "geom:longitude":130.456573,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasuga City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.436573,33.512378,130.476573,33.552378",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        890520731
+        890520731,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531107,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kasuga",
     "wof:parent_id":890520731,
     "wof:placetype":"locality",

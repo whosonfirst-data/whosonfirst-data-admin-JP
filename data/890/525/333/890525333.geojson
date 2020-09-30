@@ -11,12 +11,6 @@
     "geom:longitude":137.854638,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hata Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.834638,36.173429,137.874638,36.213429",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108741975
+        1108741975,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525333,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423002,
     "wof:name":"Hata",
     "wof:parent_id":1108741975,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.7884215,35.126778,136.7884215,35.126778",
+    "geom:bbox":"136.788421,35.126778,136.788421,35.126778",
     "geom:latitude":35.126778,
     "geom:longitude":136.788421,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kanie Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.7684215,35.106778,136.8084215,35.146778",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742291
+        1108742291,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056491,
-    "wof:geomhash":"a06b67a455804d69fde760cec604b27c",
+    "wof:geomhash":"b13c2db97c2602b10d68b80a3d420eae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890528171,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kanie",
     "wof:parent_id":1108742291,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.7884215,
+    136.788421,
     35.126778,
-    136.7884215,
+    136.788421,
     35.126778
 ],
-  "geometry": {"coordinates":[136.7884215,35.126778],"type":"Point"}
+  "geometry": {"coordinates":[136.788421,35.126778],"type":"Point"}
 }

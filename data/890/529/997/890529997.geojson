@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.9182705,35.9428515,136.9182705,35.9428515",
+    "geom:bbox":"136.918271,35.942852,136.918271,35.942852",
     "geom:latitude":35.942852,
     "geom:longitude":136.918271,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Gujo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.8982705,35.9228515,136.9382705,35.9628515",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742131
+        1108742131,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056578,
-    "wof:geomhash":"d36ea242ac60f3eb64c35a02dae56062",
+    "wof:geomhash":"00586b1f0ee6ea128b126ea5d2710c77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529997,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601423000,
     "wof:name":"Gujo",
     "wof:parent_id":1108742131,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9182705,
-    35.9428515,
-    136.9182705,
-    35.9428515
+    136.918271,
+    35.942852,
+    136.918271,
+    35.942852
 ],
-  "geometry": {"coordinates":[136.91827050000001,35.9428515],"type":"Point"}
+  "geometry": {"coordinates":[136.918271,35.942852],"type":"Point"}
 }

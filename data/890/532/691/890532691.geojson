@@ -11,12 +11,6 @@
     "geom:longitude":136.579799,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Toin Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.559799,35.078703,136.599799,35.118703",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672745,
-        1108742329
+        1108742329,
+        85672745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532691,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423058,
     "wof:name":"Toin",
     "wof:parent_id":1108742329,
     "wof:placetype":"locality",

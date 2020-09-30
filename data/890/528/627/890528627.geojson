@@ -11,12 +11,6 @@
     "geom:longitude":135.97023,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Echizen Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.95023,35.94717,135.99023,35.98717",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672767,
-        1108741919
+        1108741919,
+        85672767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890528627,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601422992,
     "wof:name":"Echizen",
     "wof:parent_id":1108741919,
     "wof:placetype":"locality",

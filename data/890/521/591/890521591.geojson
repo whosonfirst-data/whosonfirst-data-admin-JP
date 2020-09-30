@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"143.442783,42.9303825,143.442783,42.9303825",
+    "geom:bbox":"143.442783,42.930383,143.442783,42.930383",
     "geom:latitude":42.930383,
     "geom:longitude":143.442783,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ikeda Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.422783,42.9103825,143.462783,42.9503825",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739819
+        1108739819,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056216,
-    "wof:geomhash":"add5f53f14df516007217f1b0e04b704",
+    "wof:geomhash":"89c411f11aeca105ec70764af2e87624",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521591,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423008,
     "wof:name":"Ikeda",
     "wof:parent_id":1108739819,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     143.442783,
-    42.9303825,
+    42.930383,
     143.442783,
-    42.9303825
+    42.930383
 ],
-  "geometry": {"coordinates":[143.44278299999999,42.9303825],"type":"Point"}
+  "geometry": {"coordinates":[143.44278299999999,42.930383],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":136.456203,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Inabe City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.436203,35.166988,136.476203,35.206988",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672745,
-        890524843
+        890524843,
+        85672745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523371,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423008,
     "wof:name":"Inabe",
     "wof:parent_id":890524843,
     "wof:placetype":"locality",

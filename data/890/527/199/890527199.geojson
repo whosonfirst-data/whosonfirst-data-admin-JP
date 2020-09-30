@@ -11,12 +11,6 @@
     "geom:longitude":132.1865,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kitahiroshima Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.1665,34.6925,132.2065,34.7325",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        1108742815
+        1108742815,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527199,
-    "wof:lastmodified":1601337580,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kitahiroshima",
     "wof:parent_id":1108742815,
     "wof:placetype":"locality",

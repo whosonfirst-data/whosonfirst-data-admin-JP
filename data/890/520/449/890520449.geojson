@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.379669,36.8818355,138.379669,36.8818355",
+    "geom:bbox":"138.379669,36.881836,138.379669,36.881836",
     "geom:latitude":36.881836,
     "geom:longitude":138.379669,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Iiyama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.359669,36.8618355,138.399669,36.9018355",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        890523293
+        890523293,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056142,
-    "wof:geomhash":"7cb1d9d9f1925012cf6b38b39cb62eea",
+    "wof:geomhash":"a91f7417d962facc5bc4496c05d8b5e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890520449,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423007,
     "wof:name":"Iiyama",
     "wof:parent_id":890523293,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.379669,
-    36.8818355,
+    36.881836,
     138.379669,
-    36.8818355
+    36.881836
 ],
-  "geometry": {"coordinates":[138.37966900000001,36.8818355],"type":"Point"}
+  "geometry": {"coordinates":[138.37966900000001,36.881836],"type":"Point"}
 }

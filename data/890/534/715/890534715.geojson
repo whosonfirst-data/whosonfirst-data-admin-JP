@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.9583825,35.005455,133.9583825,35.005455",
+    "geom:bbox":"133.958382,35.005455,133.958382,35.005455",
     "geom:latitude":35.005455,
     "geom:longitude":133.958382,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Misaki Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.9383825,34.985455,133.9783825,35.025455",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672675,
-        1108742781
+        1108742781,
+        85672675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056792,
-    "wof:geomhash":"d421ad343c668afdd46e71da5861200a",
+    "wof:geomhash":"567421dfac25a8a1189b435d37329fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534715,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423029,
     "wof:name":"Misaki",
     "wof:parent_id":1108742781,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.95838249999997,
+    133.958382,
     35.005455,
-    133.95838249999997,
+    133.958382,
     35.005455
 ],
-  "geometry": {"coordinates":[133.95838249999997,35.005455],"type":"Point"}
+  "geometry": {"coordinates":[133.958382,35.005455],"type":"Point"}
 }

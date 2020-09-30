@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.5522605,35.2871515,136.5522605,35.2871515",
+    "geom:bbox":"136.55226,35.287152,136.55226,35.287152",
     "geom:latitude":35.287152,
     "geom:longitude":136.55226,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yoro Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.5322605,35.2671515,136.5722605,35.3071515",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742143
+        1108742143,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056301,
-    "wof:geomhash":"6d0ff68042832f0365bf6cb31f60411d",
+    "wof:geomhash":"97ae7dbb0499773a8edeb54d52f246c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523389,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423075,
     "wof:name":"Yoro",
     "wof:parent_id":1108742143,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.5522605,
-    35.2871515,
-    136.5522605,
-    35.2871515
+    136.55226,
+    35.287152,
+    136.55226,
+    35.287152
 ],
-  "geometry": {"coordinates":[136.55226049999999,35.2871515],"type":"Point"}
+  "geometry": {"coordinates":[136.55225999999999,35.287152],"type":"Point"}
 }

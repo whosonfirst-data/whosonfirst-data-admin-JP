@@ -11,12 +11,6 @@
     "geom:longitude":139.718456,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kurihashi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.698456,36.09666,139.738456,36.13666",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        890523321
+        890523321,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529191,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kurihashi",
     "wof:parent_id":890523321,
     "wof:placetype":"locality",

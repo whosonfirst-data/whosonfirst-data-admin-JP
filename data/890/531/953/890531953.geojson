@@ -11,12 +11,6 @@
     "geom:longitude":135.711879,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Oji Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.691879,34.572519,135.731879,34.612519",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742597
+        1108742597,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531953,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423038,
     "wof:name":"Oji",
     "wof:parent_id":1108742597,
     "wof:placetype":"locality",

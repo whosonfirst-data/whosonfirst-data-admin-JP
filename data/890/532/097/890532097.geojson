@@ -11,12 +11,6 @@
     "geom:longitude":139.863937,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Noda City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.843937,35.979396,139.883937,36.019396",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741593
+        1108741593,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532097,
-    "wof:lastmodified":1601337605,
+    "wof:lastmodified":1601423036,
     "wof:name":"Noda",
     "wof:parent_id":1108741593,
     "wof:placetype":"locality",

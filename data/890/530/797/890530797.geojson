@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.6590915,44.2582315,141.6590915,44.2582315",
+    "geom:bbox":"141.659091,44.258232,141.659091,44.258232",
     "geom:latitude":44.258232,
     "geom:longitude":141.659091,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tomamae Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.6390915,44.2382315,141.6790915,44.2782315",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739693
+        1108739693,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056627,
-    "wof:geomhash":"93deedf2d84c17bbbab3ef4b25851fd5",
+    "wof:geomhash":"1358b2f575aefb9668662ab77a4d3aae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530797,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423058,
     "wof:name":"Tomamae",
     "wof:parent_id":1108739693,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.6590915,
-    44.2582315,
-    141.6590915,
-    44.2582315
+    141.659091,
+    44.258232,
+    141.659091,
+    44.258232
 ],
-  "geometry": {"coordinates":[141.65909149999999,44.2582315],"type":"Point"}
+  "geometry": {"coordinates":[141.65909099999999,44.258232],"type":"Point"}
 }

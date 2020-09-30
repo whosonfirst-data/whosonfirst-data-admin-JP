@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.3833365,36.765,140.3833365,36.765",
+    "geom:bbox":"140.383337,36.765,140.383337,36.765",
     "geom:latitude":36.765,
     "geom:longitude":140.383337,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Daigo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.3633365,36.745,140.4033365,36.785",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        1108740301
+        1108740301,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056554,
-    "wof:geomhash":"24b6fb9e29aefb02da055fe0f08fe870",
+    "wof:geomhash":"f560626265726a207f6236c486fc3a33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529403,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601422986,
     "wof:name":"Daigo",
     "wof:parent_id":1108740301,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.3833365,
+    140.383337,
     36.765,
-    140.3833365,
+    140.383337,
     36.765
 ],
-  "geometry": {"coordinates":[140.38333650000001,36.765],"type":"Point"}
+  "geometry": {"coordinates":[140.38333700000001,36.765],"type":"Point"}
 }

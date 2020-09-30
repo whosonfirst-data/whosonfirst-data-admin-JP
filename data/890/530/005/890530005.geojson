@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.3122155,34.209409,135.3122155,34.209409",
+    "geom:bbox":"135.312215,34.209409,135.312215,34.209409",
     "geom:latitude":34.209409,
     "geom:longitude":135.312215,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kinokawa City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"135.2922155,34.189409,135.3322155,34.229409",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        890520281
+        890520281,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056579,
-    "wof:geomhash":"d54aa18c5b4ca28ef416153c9c359ce9",
+    "wof:geomhash":"c428a8f138efe1376b039f604abc5577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530005,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kinokawa",
     "wof:parent_id":890520281,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.31221549999998,
+    135.312215,
     34.209409,
-    135.31221549999998,
+    135.312215,
     34.209409
 ],
-  "geometry": {"coordinates":[135.31221549999998,34.209409],"type":"Point"}
+  "geometry": {"coordinates":[135.31221500000001,34.209409],"type":"Point"}
 }

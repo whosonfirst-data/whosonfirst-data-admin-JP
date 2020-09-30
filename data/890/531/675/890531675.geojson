@@ -11,12 +11,6 @@
     "geom:longitude":140.052094,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawanishi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.032094,38.005372,140.072094,38.045372",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108741179
+        1108741179,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531675,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawanishi",
     "wof:parent_id":1108741179,
     "wof:placetype":"locality",

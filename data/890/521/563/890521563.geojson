@@ -11,12 +11,6 @@
     "geom:longitude":140.661679,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tojo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.641679,35.824952,140.681679,35.864952",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741647
+        1108741647,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521563,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423058,
     "wof:name":"Tojo",
     "wof:parent_id":1108741647,
     "wof:placetype":"locality",

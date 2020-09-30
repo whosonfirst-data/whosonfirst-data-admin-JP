@@ -11,12 +11,6 @@
     "geom:longitude":129.579666,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shikamachi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"129.559666,33.235,129.599666,33.275",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672857,
-        1108743133
+        1108743133,
+        85672857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534911,
-    "wof:lastmodified":1601337608,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shikamachi",
     "wof:parent_id":1108743133,
     "wof:placetype":"locality",

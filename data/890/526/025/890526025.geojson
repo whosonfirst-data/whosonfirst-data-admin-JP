@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.8419455,36.564297,137.8419455,36.564297",
+    "geom:bbox":"137.841946,36.564297,137.841946,36.564297",
     "geom:latitude":36.564297,
     "geom:longitude":137.841946,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Omachi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"137.8219455,36.544297,137.8619455,36.584297",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108741985
+        1108741985,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056398,
-    "wof:geomhash":"c12dee265e36a0b961fa4963b6553588",
+    "wof:geomhash":"d42525a5d729e363d924eae73dc2f2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526025,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423038,
     "wof:name":"Omachi",
     "wof:parent_id":1108741985,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.8419455,
+    137.841946,
     36.564297,
-    137.8419455,
+    137.841946,
     36.564297
 ],
-  "geometry": {"coordinates":[137.84194550000001,36.564297],"type":"Point"}
+  "geometry": {"coordinates":[137.84194600000001,36.564297],"type":"Point"}
 }

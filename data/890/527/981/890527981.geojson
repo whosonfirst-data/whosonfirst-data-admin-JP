@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.5631665,35.571505,138.5631665,35.571505",
+    "geom:bbox":"138.563166,35.571505,138.563166,35.571505",
     "geom:latitude":35.571505,
     "geom:longitude":138.563166,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Chuo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.5431665,35.551505,138.5831665,35.591505",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        1108741943
+        1108741943,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056481,
-    "wof:geomhash":"4e1829c9ac5ccfb4cf27324745b00abf",
+    "wof:geomhash":"5e33b82f4f2b79b26847bfd520d2197b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527981,
-    "wof:lastmodified":1601337576,
+    "wof:lastmodified":1601422985,
     "wof:name":"Chuo",
     "wof:parent_id":1108741943,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.5631665,
+    138.563166,
     35.571505,
-    138.5631665,
+    138.563166,
     35.571505
 ],
-  "geometry": {"coordinates":[138.56316649999999,35.571505],"type":"Point"}
+  "geometry": {"coordinates":[138.563166,35.571505],"type":"Point"}
 }

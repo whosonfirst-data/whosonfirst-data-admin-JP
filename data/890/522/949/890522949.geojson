@@ -11,12 +11,6 @@
     "geom:longitude":132.319319,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Miyajima Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.219319,34.192324,132.419319,34.392324",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        1108742797
+        1108742797,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522949,
-    "wof:lastmodified":1601337586,
+    "wof:lastmodified":1601423030,
     "wof:name":"Miyajima",
     "wof:parent_id":1108742797,
     "wof:placetype":"localadmin",

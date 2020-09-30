@@ -11,12 +11,6 @@
     "geom:longitude":134.399528,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ako City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"134.379528,34.730639,134.419528,34.770639",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        1108742519
+        1108742519,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525487,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601422975,
     "wof:name":"Ako",
     "wof:parent_id":1108742519,
     "wof:placetype":"locality",

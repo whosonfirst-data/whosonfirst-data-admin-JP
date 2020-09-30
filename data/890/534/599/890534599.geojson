@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.73153,45.0094985,141.73153,45.0094985",
+    "geom:bbox":"141.73153,45.009498,141.73153,45.009498",
     "geom:latitude":45.009498,
     "geom:longitude":141.73153,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Horonobe Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.71153,44.9894985,141.75153,45.0294985",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739721
+        1108739721,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056788,
-    "wof:geomhash":"455374dfd3be8c115e3c786253d5293d",
+    "wof:geomhash":"cd88a5bcee59f20a6cf60e1f9a7e6fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534599,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423005,
     "wof:name":"Horonobe",
     "wof:parent_id":1108739721,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     141.73153,
-    45.0094985,
+    45.009498,
     141.73153,
-    45.0094985
+    45.009498
 ],
-  "geometry": {"coordinates":[141.73152999999999,45.0094985],"type":"Point"}
+  "geometry": {"coordinates":[141.73152999999999,45.009498],"type":"Point"}
 }

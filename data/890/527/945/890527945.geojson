@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.130832,34.7863865,137.130832,34.7863865",
+    "geom:bbox":"137.130832,34.786386,137.130832,34.786386",
     "geom:latitude":34.786386,
     "geom:longitude":137.130832,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hazu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.110832,34.7663865,137.150832,34.8063865",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        890520407
+        890520407,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056480,
-    "wof:geomhash":"6e6b4a57a500a30b61a516c368e4f70d",
+    "wof:geomhash":"aae4cb734abed2880acba4cbe6b3035b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527945,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423002,
     "wof:name":"Hazu",
     "wof:parent_id":890520407,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     137.130832,
-    34.7863865,
+    34.786386,
     137.130832,
-    34.7863865
+    34.786386
 ],
-  "geometry": {"coordinates":[137.130832,34.7863865],"type":"Point"}
+  "geometry": {"coordinates":[137.130832,34.786386],"type":"Point"}
 }

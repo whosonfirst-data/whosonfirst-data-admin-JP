@@ -11,12 +11,6 @@
     "geom:longitude":139.131533,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Matsuda Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.111533,35.344415,139.151533,35.384415",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672805,
-        1108741809
+        1108741809,
+        85672805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529379,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423026,
     "wof:name":"Matsuda",
     "wof:parent_id":1108741809,
     "wof:placetype":"locality",

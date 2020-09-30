@@ -11,12 +11,6 @@
     "geom:longitude":139.182014,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Gosen City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.162014,37.69747,139.202014,37.73747",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        890524465
+        890524465,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533649,
-    "wof:lastmodified":1601337577,
+    "wof:lastmodified":1601422998,
     "wof:name":"Gosen",
     "wof:parent_id":890524465,
     "wof:placetype":"locality",

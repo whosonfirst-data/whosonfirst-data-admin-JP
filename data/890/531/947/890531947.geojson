@@ -11,12 +11,6 @@
     "geom:longitude":139.11269,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawaba Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"139.09269,36.68132,139.13269,36.72132",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        1108740401
+        1108740401,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531947,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawaba",
     "wof:parent_id":1108740401,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":138.847532,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tsuru city"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.827532,35.550842,138.867532,35.590842",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        890523273
+        890523273,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533959,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601423060,
     "wof:name":"Tsuru",
     "wof:parent_id":890523273,
     "wof:placetype":"locality",

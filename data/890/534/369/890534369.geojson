@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.476196,36.1342695,139.476196,36.1342695",
+    "geom:bbox":"139.476196,36.13427,139.476196,36.13427",
     "geom:latitude":36.13427,
     "geom:longitude":139.476196,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Gyoda City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.456196,36.1142695,139.496196,36.1542695",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740425
+        1108740425,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056780,
-    "wof:geomhash":"cc746f2da142d562e340180458861f70",
+    "wof:geomhash":"917dfcf620e9d48c10373746f859692f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534369,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423000,
     "wof:name":"Gyoda",
     "wof:parent_id":1108740425,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     139.476196,
-    36.1342695,
+    36.13427,
     139.476196,
-    36.1342695
+    36.13427
 ],
-  "geometry": {"coordinates":[139.47619599999999,36.1342695],"type":"Point"}
+  "geometry": {"coordinates":[139.47619599999999,36.13427],"type":"Point"}
 }

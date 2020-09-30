@@ -11,12 +11,6 @@
     "geom:longitude":134.268379,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Bizen City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"134.248379,34.7152,134.288379,34.7552",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672675,
-        890524715
+        890524715,
+        85672675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531123,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601422980,
     "wof:name":"Bizen",
     "wof:parent_id":890524715,
     "wof:placetype":"locality",

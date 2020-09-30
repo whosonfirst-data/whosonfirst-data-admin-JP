@@ -11,12 +11,6 @@
     "geom:longitude":140.431173,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamiyama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.411173,38.123944,140.451173,38.163944",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108740097
+        1108740097,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535027,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kamiyama",
     "wof:parent_id":1108740097,
     "wof:placetype":"locality",

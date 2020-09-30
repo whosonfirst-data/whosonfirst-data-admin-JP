@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.9343955,35.1707905,136.9343955,35.1707905",
+    "geom:bbox":"136.934395,35.170791,136.934395,35.170791",
     "geom:latitude":35.170791,
     "geom:longitude":136.934395,
     "gp:adm0":23424856,
@@ -34,11 +34,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85672731,
         102191569,
         85632429,
+        1108742239,
         102031499,
-        1108742239
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056497,
-    "wof:geomhash":"9f54d6956151ef3e42d7cb6e3b2725c0",
+    "wof:geomhash":"9c584c1a21011fe5fd67ada268a798d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890528293,
-    "wof:lastmodified":1601068417,
+    "wof:lastmodified":1601422977,
     "wof:name":"Aza Mamushiikegami",
     "wof:parent_id":102031499,
     "wof:placetype":"neighbourhood",
@@ -69,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9343955,
-    35.1707905,
-    136.9343955,
-    35.1707905
+    136.934395,
+    35.170791,
+    136.934395,
+    35.170791
 ],
-  "geometry": {"coordinates":[136.93439549999999,35.1707905],"type":"Point"}
+  "geometry": {"coordinates":[136.93439499999999,35.170791],"type":"Point"}
 }

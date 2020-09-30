@@ -11,12 +11,6 @@
     "geom:longitude":135.904483,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Wazuka Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.884483,34.776395,135.924483,34.816395",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672777,
-        1108742425
+        1108742425,
+        85672777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531441,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423062,
     "wof:name":"Wazuka",
     "wof:parent_id":1108742425,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.3056255,38.762438,140.3056255,38.762438",
+    "geom:bbox":"140.305625,38.762438,140.305625,38.762438",
     "geom:latitude":38.762438,
     "geom:longitude":140.305625,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shinjo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.2856255,38.742438,140.3256255,38.782438",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108740093
+        1108740093,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056478,
-    "wof:geomhash":"54fdaab3dd8c59a9f7c6033f238da9ac",
+    "wof:geomhash":"0f3da84ee12968e7cdb93256d8dbb5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527921,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shinjo",
     "wof:parent_id":1108740093,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.3056255,
+    140.305625,
     38.762438,
-    140.3056255,
+    140.305625,
     38.762438
 ],
-  "geometry": {"coordinates":[140.30562549999999,38.762438],"type":"Point"}
+  "geometry": {"coordinates":[140.30562499999999,38.762438],"type":"Point"}
 }

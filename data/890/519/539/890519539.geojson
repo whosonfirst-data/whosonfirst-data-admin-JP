@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.0087745,37.00459,139.0087745,37.00459",
+    "geom:bbox":"139.008774,37.00459,139.008774,37.00459",
     "geom:latitude":37.00459,
     "geom:longitude":139.008774,
     "gp:adm0":23424856,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        890520189
+        890520189,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056107,
-    "wof:geomhash":"2fd982aec5233377d26b4e19cdd79854",
+    "wof:geomhash":"3d71bc213563d866c735f37b40757d13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890519539,
-    "wof:lastmodified":1601068408,
+    "wof:lastmodified":1601423031,
     "wof:name":"Muikamachi",
     "wof:parent_id":890520189,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.00877449999996,
+    139.008774,
     37.00459,
-    139.00877449999996,
+    139.008774,
     37.00459
 ],
-  "geometry": {"coordinates":[139.00877449999996,37.00459],"type":"Point"}
+  "geometry": {"coordinates":[139.00877399999999,37.00459],"type":"Point"}
 }

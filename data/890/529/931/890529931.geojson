@@ -11,12 +11,6 @@
     "geom:longitude":140.065705,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nishigo Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"140.045705,37.090109,140.085705,37.130109",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672813,
-        1108740353
+        1108740353,
+        85672813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529931,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423036,
     "wof:name":"Nishigo",
     "wof:parent_id":1108740353,
     "wof:placetype":"locality",

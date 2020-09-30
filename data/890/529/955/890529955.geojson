@@ -11,12 +11,6 @@
     "geom:longitude":136.930589,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fuso Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.910589,35.360652,136.950589,35.400652",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742259
+        1108742259,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529955,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601422995,
     "wof:name":"Fuso",
     "wof:parent_id":1108742259,
     "wof:placetype":"locality",

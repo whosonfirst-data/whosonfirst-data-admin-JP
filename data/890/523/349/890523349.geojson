@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"144.149448,42.9923215,144.149448,42.9923215",
+    "geom:bbox":"144.149448,42.992322,144.149448,42.992322",
     "geom:latitude":42.992322,
     "geom:longitude":144.149448,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shiranuka Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"144.129448,42.9723215,144.169448,43.0123215",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739843
+        1108739843,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056299,
-    "wof:geomhash":"802a8608d4292db08342b15800098d9a",
+    "wof:geomhash":"e2618c9e0124fb7ca34019e0730298b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523349,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shiranuka",
     "wof:parent_id":1108739843,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     144.149448,
-    42.9923215,
+    42.992322,
     144.149448,
-    42.9923215
+    42.992322
 ],
-  "geometry": {"coordinates":[144.14944800000001,42.9923215],"type":"Point"}
+  "geometry": {"coordinates":[144.14944800000001,42.992322],"type":"Point"}
 }

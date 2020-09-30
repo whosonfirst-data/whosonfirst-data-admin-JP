@@ -11,12 +11,6 @@
     "geom:longitude":140.620536,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shiroishi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.600536,37.985428,140.640536,38.025428",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672843,
-        890520805
+        890520805,
+        85672843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531699,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shiroishi",
     "wof:parent_id":890520805,
     "wof:placetype":"locality",

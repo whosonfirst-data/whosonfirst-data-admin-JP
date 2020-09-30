@@ -11,12 +11,6 @@
     "geom:longitude":139.807891,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Mibu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.787891,36.432941,139.827891,36.472941",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672813,
-        1108740345
+        1108740345,
+        85672813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531889,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423027,
     "wof:name":"Mibu",
     "wof:parent_id":1108740345,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":140.716169,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Osaki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.696169,38.709666,140.736169,38.749666",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672843,
-        890524897
+        890524897,
+        85672843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525715,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423039,
     "wof:name":"Osaki",
     "wof:parent_id":890524897,
     "wof:placetype":"locality",

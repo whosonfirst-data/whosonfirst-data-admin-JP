@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.0205295,33.026655,133.0205295,33.026655",
+    "geom:bbox":"133.02053,33.026655,133.02053,33.026655",
     "geom:latitude":33.026655,
     "geom:longitude":133.02053,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kuroshio Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.0005295,33.006655,133.0405295,33.046655",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672717,
-        1108742997
+        1108742997,
+        85672717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056724,
-    "wof:geomhash":"23745ca73c718fab052e7407e5e944a9",
+    "wof:geomhash":"a939ff8daf707e326d6234806d9554ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532949,
-    "wof:lastmodified":1601337608,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kuroshio",
     "wof:parent_id":1108742997,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.0205295,
+    133.02053,
     33.026655,
-    133.0205295,
+    133.02053,
     33.026655
 ],
-  "geometry": {"coordinates":[133.02052950000001,33.026655],"type":"Point"}
+  "geometry": {"coordinates":[133.02053000000001,33.026655],"type":"Point"}
 }

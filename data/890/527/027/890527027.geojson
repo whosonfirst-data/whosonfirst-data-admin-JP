@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.3155165,37.350448,139.3155165,37.350448",
+    "geom:bbox":"139.315517,37.350448,139.315517,37.350448",
     "geom:latitude":37.350448,
     "geom:longitude":139.315517,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tadami Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.2955165,37.330448,139.3355165,37.370448",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740187
+        1108740187,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056442,
-    "wof:geomhash":"a0fdbe575d34b8763bd74c2ff02d559a",
+    "wof:geomhash":"7b0c3168ee096560e55c410c55a3d340",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527027,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423054,
     "wof:name":"Tadami",
     "wof:parent_id":1108740187,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.3155165,
+    139.315517,
     37.350448,
-    139.3155165,
+    139.315517,
     37.350448
 ],
-  "geometry": {"coordinates":[139.3155165,37.350448],"type":"Point"}
+  "geometry": {"coordinates":[139.315517,37.350448],"type":"Point"}
 }

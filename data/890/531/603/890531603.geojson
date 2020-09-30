@@ -11,12 +11,6 @@
     "geom:longitude":139.641723,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Oguni Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.621723,37.852685,139.661723,37.892685",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        890523743
+        890523743,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531603,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423037,
     "wof:name":"Oguni",
     "wof:parent_id":890523743,
     "wof:placetype":"locality",

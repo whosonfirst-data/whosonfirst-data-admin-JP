@@ -11,12 +11,6 @@
     "geom:longitude":140.672277,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nanae Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.652277,41.966291,140.692277,42.006291",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739541
+        1108739541,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521107,
-    "wof:lastmodified":1601337574,
+    "wof:lastmodified":1601423033,
     "wof:name":"Nanae",
     "wof:parent_id":1108739541,
     "wof:placetype":"locality",

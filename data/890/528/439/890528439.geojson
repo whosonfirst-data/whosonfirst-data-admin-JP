@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.5499705,32.266994,131.5499705,32.266994",
+    "geom:bbox":"131.549971,32.266994,131.549971,32.266994",
     "geom:latitude":32.266994,
     "geom:longitude":131.549971,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tsuno Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"131.5299705,32.246994,131.5699705,32.286994",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672707,
-        1108743287
+        1108743287,
+        85672707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056511,
-    "wof:geomhash":"fda8d58e48a9ba3e4a806f59676e2032",
+    "wof:geomhash":"547963c600d7a16d5596e7ef7fc6007a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890528439,
-    "wof:lastmodified":1601337605,
+    "wof:lastmodified":1601423060,
     "wof:name":"Tsuno",
     "wof:parent_id":1108743287,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.5499705,
+    131.549971,
     32.266994,
-    131.5499705,
+    131.549971,
     32.266994
 ],
-  "geometry": {"coordinates":[131.5499705,32.266994],"type":"Point"}
+  "geometry": {"coordinates":[131.549971,32.266994],"type":"Point"}
 }

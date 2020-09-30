@@ -11,12 +11,6 @@
     "geom:longitude":139.600021,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shobu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.580021,36.038181,139.620021,36.078181",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        890523321
+        890523321,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535281,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shobu",
     "wof:parent_id":890523321,
     "wof:placetype":"locality",

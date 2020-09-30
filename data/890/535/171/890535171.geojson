@@ -11,12 +11,6 @@
     "geom:longitude":134.412231,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamigori Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.392231,34.852553,134.432231,34.892553",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        1108742547
+        1108742547,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535171,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601423014,
     "wof:name":"Kamigori",
     "wof:parent_id":1108742547,
     "wof:placetype":"locality",

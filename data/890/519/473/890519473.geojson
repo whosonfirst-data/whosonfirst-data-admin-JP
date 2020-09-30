@@ -11,12 +11,6 @@
     "geom:longitude":133.555984,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Motoyama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.535984,33.780832,133.575984,33.820832",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672717,
-        1108742963
+        1108742963,
+        85672717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890519473,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423031,
     "wof:name":"Motoyama",
     "wof:parent_id":1108742963,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.3548425,38.5959725,140.3548425,38.5959725",
+    "geom:bbox":"140.354842,38.595973,140.354842,38.595973",
     "geom:latitude":38.595973,
     "geom:longitude":140.354842,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Oishida Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.3348425,38.5759725,140.3748425,38.6159725",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108740119
+        1108740119,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056558,
-    "wof:geomhash":"1dae2bfd5a861b9cb348382e52f63fb6",
+    "wof:geomhash":"09799cdaf717560437c121b91115489c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529503,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423038,
     "wof:name":"Oishida",
     "wof:parent_id":1108740119,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.3548425,
-    38.5959725,
-    140.3548425,
-    38.5959725
+    140.354842,
+    38.595973,
+    140.354842,
+    38.595973
 ],
-  "geometry": {"coordinates":[140.35484249999999,38.5959725],"type":"Point"}
+  "geometry": {"coordinates":[140.35484199999999,38.595973],"type":"Point"}
 }

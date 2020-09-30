@@ -11,12 +11,6 @@
     "geom:longitude":140.434799,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kikonai Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.414799,41.660348,140.454799,41.700348",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739539
+        1108739539,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527915,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kikonai",
     "wof:parent_id":1108739539,
     "wof:placetype":"locality",

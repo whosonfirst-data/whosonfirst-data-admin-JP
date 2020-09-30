@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.5998645,43.260956,140.5998645,43.260956",
+    "geom:bbox":"140.599864,43.260956,140.599864,43.260956",
     "geom:latitude":43.260956,
     "geom:longitude":140.599864,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kodaira Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.5798645,43.240956,140.6198645,43.280956",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739603
+        1108739603,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056594,
-    "wof:geomhash":"6c82078d9e61b1eabfd31fe398862a06",
+    "wof:geomhash":"5bd3f4cc6dfe985e4c259ddd561838a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530313,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423018,
     "wof:name":"Kodaira",
     "wof:parent_id":1108739603,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.5998645,
+    140.599864,
     43.260956,
-    140.5998645,
+    140.599864,
     43.260956
 ],
-  "geometry": {"coordinates":[140.5998645,43.260956],"type":"Point"}
+  "geometry": {"coordinates":[140.599864,43.260956],"type":"Point"}
 }

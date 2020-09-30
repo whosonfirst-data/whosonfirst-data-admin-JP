@@ -11,12 +11,6 @@
     "geom:longitude":137.047866,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nisshin City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"137.027866,35.103151,137.067866,35.143151",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742269
+        1108742269,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529645,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423036,
     "wof:name":"Nisshin",
     "wof:parent_id":1108742269,
     "wof:placetype":"locality",

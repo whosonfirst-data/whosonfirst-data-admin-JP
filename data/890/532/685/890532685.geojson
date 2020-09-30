@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.9528325,31.9759055,130.9528325,31.9759055",
+    "geom:bbox":"130.952832,31.975905,130.952832,31.975905",
     "geom:latitude":31.975905,
     "geom:longitude":130.952832,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kobayashi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.9328325,31.9559055,130.9728325,31.9959055",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672707,
-        890522719
+        890522719,
+        85672707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056714,
-    "wof:geomhash":"f0853970b6fa7a9068aa03a5403678ac",
+    "wof:geomhash":"6cfc96db46077323bfa151f1a29c540c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532685,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423018,
     "wof:name":"Kobayashi",
     "wof:parent_id":890522719,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.9528325,
-    31.9759055,
-    130.9528325,
-    31.9759055
+    130.952832,
+    31.975905,
+    130.952832,
+    31.975905
 ],
-  "geometry": {"coordinates":[130.9528325,31.9759055],"type":"Point"}
+  "geometry": {"coordinates":[130.952832,31.975905],"type":"Point"}
 }

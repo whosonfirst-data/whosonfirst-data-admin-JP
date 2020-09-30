@@ -11,12 +11,6 @@
     "geom:longitude":140.624485,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Toyoura Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.604485,42.572268,140.644485,42.612268",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739757
+        1108739757,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531903,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423059,
     "wof:name":"Toyoura",
     "wof:parent_id":1108739757,
     "wof:placetype":"locality",

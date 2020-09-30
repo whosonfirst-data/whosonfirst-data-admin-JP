@@ -11,12 +11,6 @@
     "geom:longitude":140.355958,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Onjuku Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.335958,35.164471,140.375958,35.204471",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741675
+        1108741675,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534945,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601423038,
     "wof:name":"Onjuku",
     "wof:parent_id":1108741675,
     "wof:placetype":"locality",

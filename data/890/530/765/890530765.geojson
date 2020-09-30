@@ -11,12 +11,6 @@
     "geom:longitude":143.197819,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamishihoro Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.177819,43.38168,143.217819,43.42168",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739795
+        1108739795,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530765,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kamishihoro",
     "wof:parent_id":1108739795,
     "wof:placetype":"locality",

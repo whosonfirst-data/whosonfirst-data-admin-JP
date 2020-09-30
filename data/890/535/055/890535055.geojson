@@ -11,12 +11,6 @@
     "geom:longitude":139.62902,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Wako city"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.60902,35.746641,139.64902,35.786641",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672817,
-        1108741721
+        1108741721,
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535055,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423061,
     "wof:name":"Wako",
     "wof:parent_id":1108741721,
     "wof:placetype":"locality",

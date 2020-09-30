@@ -11,12 +11,6 @@
     "geom:longitude":141.063686,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Misato Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.043686,38.521503,141.083686,38.561503",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672843,
-        1108740043
+        1108740043,
+        85672843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531547,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423030,
     "wof:name":"Misato",
     "wof:parent_id":1108740043,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":134.337215,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamiyama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.317215,33.952691,134.357215,33.992691",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        1108742857
+        1108742857,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529949,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kamiyama",
     "wof:parent_id":1108742857,
     "wof:placetype":"locality",

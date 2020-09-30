@@ -11,12 +11,6 @@
     "geom:longitude":134.509437,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Katsuura Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.489437,33.894083,134.529437,33.934083",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        890520451
+        890520451,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529127,
-    "wof:lastmodified":1601337579,
+    "wof:lastmodified":1601423016,
     "wof:name":"Katsuura",
     "wof:parent_id":890520451,
     "wof:placetype":"locality",

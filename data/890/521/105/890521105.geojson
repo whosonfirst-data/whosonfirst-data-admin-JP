@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.9141085,35.5735,136.9141085,35.5735",
+    "geom:bbox":"136.914108,35.5735,136.914108,35.5735",
     "geom:latitude":35.5735,
     "geom:longitude":136.914108,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Mino City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.8941085,35.5535,136.9341085,35.5935",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        890520151
+        890520151,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056188,
-    "wof:geomhash":"0678a14d07dc6f69f411d9788af8a5f7",
+    "wof:geomhash":"9e32ae6ef093819c54f7a2bd0b32aa05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521105,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423029,
     "wof:name":"Mino",
     "wof:parent_id":890520151,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9141085,
+    136.914108,
     35.5735,
-    136.9141085,
+    136.914108,
     35.5735
 ],
-  "geometry": {"coordinates":[136.9141085,35.5735],"type":"Point"}
+  "geometry": {"coordinates":[136.914108,35.5735],"type":"Point"}
 }

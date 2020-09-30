@@ -11,12 +11,6 @@
     "geom:longitude":135.34378,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Takarazuka City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"135.32378,34.796481,135.36378,34.836481",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        890524615
+        890524615,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531823,
-    "wof:lastmodified":1601337586,
+    "wof:lastmodified":1601423055,
     "wof:name":"Takarazuka",
     "wof:parent_id":890524615,
     "wof:placetype":"locality",

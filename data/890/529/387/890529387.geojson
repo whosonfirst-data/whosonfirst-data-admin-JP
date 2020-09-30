@@ -11,12 +11,6 @@
     "geom:longitude":139.145933,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yokoze Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.125933,35.924659,139.165933,35.964659",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740503
+        1108740503,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529387,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423074,
     "wof:name":"Yokoze",
     "wof:parent_id":1108740503,
     "wof:placetype":"locality",

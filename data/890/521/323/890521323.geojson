@@ -11,12 +11,6 @@
     "geom:longitude":135.361923,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kumatori Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.341923,34.36771,135.381923,34.40771",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672785,
-        1108742489
+        1108742489,
+        85672785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521323,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kumatori",
     "wof:parent_id":1108742489,
     "wof:placetype":"locality",

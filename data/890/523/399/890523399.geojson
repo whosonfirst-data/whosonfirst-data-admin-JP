@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.9064705,36.259105,136.9064705,36.259105",
+    "geom:bbox":"136.906471,36.259105,136.906471,36.259105",
     "geom:latitude":36.259105,
     "geom:longitude":136.906471,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shirakawa Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"136.8864705,36.239105,136.9264705,36.279105",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742183
+        1108742183,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056301,
-    "wof:geomhash":"0ffa18c226b79e8863df8cc54cab538c",
+    "wof:geomhash":"fb7c3944c0edb5d295f1a3a63ab94216",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523399,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shirakawa",
     "wof:parent_id":1108742183,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9064705,
+    136.906471,
     36.259105,
-    136.9064705,
+    136.906471,
     36.259105
 ],
-  "geometry": {"coordinates":[136.90647050000001,36.259105],"type":"Point"}
+  "geometry": {"coordinates":[136.90647100000001,36.259105],"type":"Point"}
 }

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"143.9668325,43.3848,143.9668325,43.3848",
+    "geom:bbox":"143.966833,43.3848,143.966833,43.3848",
     "geom:latitude":43.3848,
     "geom:longitude":143.966833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ashoro Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.9468325,43.3648,143.9868325,43.4048",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739823
+        1108739823,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056551,
-    "wof:geomhash":"f7a171028ebfac8a79f6ee717303f486",
+    "wof:geomhash":"b68a84b5ff597ad1f89666b583b6818b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529317,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601422977,
     "wof:name":"Ashoro",
     "wof:parent_id":1108739823,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    143.9668325,
+    143.966833,
     43.3848,
-    143.9668325,
+    143.966833,
     43.3848
 ],
-  "geometry": {"coordinates":[143.96683250000001,43.3848],"type":"Point"}
+  "geometry": {"coordinates":[143.96683300000001,43.3848],"type":"Point"}
 }

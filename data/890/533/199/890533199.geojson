@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.919989,35.1439145,136.919989,35.1439145",
+    "geom:bbox":"136.919989,35.143915,136.919989,35.143915",
     "geom:latitude":35.143915,
     "geom:longitude":136.919989,
     "gp:adm0":23424856,
@@ -34,11 +34,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85672731,
         102191569,
         85632429,
+        1108742239,
         102031499,
-        1108742239
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056734,
-    "wof:geomhash":"0421eeb04c5ec1c2b3f7074b580c984e",
+    "wof:geomhash":"1ccb2f93b95358b323530c059a31527b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890533199,
-    "wof:lastmodified":1601068417,
+    "wof:lastmodified":1601422978,
     "wof:name":"Aza Yamanohata",
     "wof:parent_id":102031499,
     "wof:placetype":"neighbourhood",
@@ -70,9 +70,9 @@
 },
   "bbox": [
     136.919989,
-    35.1439145,
+    35.143915,
     136.919989,
-    35.1439145
+    35.143915
 ],
-  "geometry": {"coordinates":[136.91998899999999,35.1439145],"type":"Point"}
+  "geometry": {"coordinates":[136.91998899999999,35.143915],"type":"Point"}
 }

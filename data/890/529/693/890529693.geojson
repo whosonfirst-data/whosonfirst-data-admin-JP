@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.8805855,34.338386,135.8805855,34.338386",
+    "geom:bbox":"135.880585,34.338386,135.880585,34.338386",
     "geom:latitude":34.338386,
     "geom:longitude":135.880585,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kurotaki Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"135.8605855,34.318386,135.9005855,34.358386",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742603
+        1108742603,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056565,
-    "wof:geomhash":"7b88b4342142037aedd4ee0be4b5768f",
+    "wof:geomhash":"f81a3792854e6006ccd6413c4020754b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529693,
-    "wof:lastmodified":1601337608,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kurotaki",
     "wof:parent_id":1108742603,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.8805855,
+    135.880585,
     34.338386,
-    135.8805855,
+    135.880585,
     34.338386
 ],
-  "geometry": {"coordinates":[135.8805855,34.338386],"type":"Point"}
+  "geometry": {"coordinates":[135.880585,34.338386],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":127.878205,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Motobu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"127.858205,26.673784,127.898205,26.713784",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672867,
-        1108743393
+        1108743393,
+        85672867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529607,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423031,
     "wof:name":"Motobu",
     "wof:parent_id":1108743393,
     "wof:placetype":"locality",

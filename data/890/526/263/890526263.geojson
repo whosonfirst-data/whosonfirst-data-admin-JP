@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.025487,45.3120755,141.025487,45.3120755",
+    "geom:bbox":"141.025487,45.312075,141.025487,45.312075",
     "geom:latitude":45.312075,
     "geom:longitude":141.025487,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Rebun Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.005487,45.2920755,141.045487,45.3320755",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739715
+        1108739715,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056408,
-    "wof:geomhash":"a7c562083ac7ae4bfc934b59421acd01",
+    "wof:geomhash":"13c3062cb913b42b659f31d6f21aa76d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526263,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423043,
     "wof:name":"Rebun",
     "wof:parent_id":1108739715,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     141.025487,
-    45.3120755,
+    45.312075,
     141.025487,
-    45.3120755
+    45.312075
 ],
-  "geometry": {"coordinates":[141.025487,45.3120755],"type":"Point"}
+  "geometry": {"coordinates":[141.025487,45.312075],"type":"Point"}
 }

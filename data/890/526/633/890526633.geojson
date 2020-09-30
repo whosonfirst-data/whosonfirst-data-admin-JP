@@ -11,12 +11,6 @@
     "geom:longitude":136.202895,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kohoku Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.182895,35.420043,136.222895,35.460043",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672789,
-        890520323
+        890520323,
+        85672789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526633,
-    "wof:lastmodified":1601337596,
+    "wof:lastmodified":1601423018,
     "wof:name":"Kohoku",
     "wof:parent_id":890520323,
     "wof:placetype":"locality",

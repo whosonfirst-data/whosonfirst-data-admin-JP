@@ -11,12 +11,6 @@
     "geom:longitude":141.765518,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yuni Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.745518,42.963553,141.785518,43.003553",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739617
+        1108739617,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525693,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423076,
     "wof:name":"Yuni",
     "wof:parent_id":1108739617,
     "wof:placetype":"locality",

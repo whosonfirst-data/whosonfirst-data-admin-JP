@@ -11,12 +11,6 @@
     "geom:longitude":129.990406,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Omura City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"129.970406,32.954683,130.010406,32.994683",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672857,
-        890524851
+        890524851,
+        85672857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530651,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423038,
     "wof:name":"Omura",
     "wof:parent_id":890524851,
     "wof:placetype":"locality",

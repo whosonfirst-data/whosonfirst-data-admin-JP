@@ -11,12 +11,6 @@
     "geom:longitude":127.77017,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kadena Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"127.75017,26.34917,127.79017,26.38917",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672867,
-        1108743407
+        1108743407,
+        85672867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525705,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423013,
     "wof:name":"Kadena",
     "wof:parent_id":1108743407,
     "wof:placetype":"locality",

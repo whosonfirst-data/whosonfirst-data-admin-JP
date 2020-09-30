@@ -11,12 +11,6 @@
     "geom:longitude":134.13138,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Wake Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.11138,34.851977,134.15138,34.891977",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672675,
-        1108742759
+        1108742759,
+        85672675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521397,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423061,
     "wof:name":"Wake",
     "wof:parent_id":1108742759,
     "wof:placetype":"locality",

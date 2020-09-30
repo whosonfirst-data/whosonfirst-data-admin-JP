@@ -11,12 +11,6 @@
     "geom:longitude":137.862412,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Otari Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"137.842412,36.750166,137.882412,36.790166",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742099
+        1108742099,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529959,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423039,
     "wof:name":"Otari",
     "wof:parent_id":1108742099,
     "wof:placetype":"locality",

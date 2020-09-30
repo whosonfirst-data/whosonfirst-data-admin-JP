@@ -11,12 +11,6 @@
     "geom:longitude":138.925644,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Chichibu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.905644,35.980923,138.945644,36.020923",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740509
+        1108740509,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531129,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601422983,
     "wof:name":"Chichibu",
     "wof:parent_id":1108740509,
     "wof:placetype":"locality",

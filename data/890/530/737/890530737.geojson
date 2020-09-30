@@ -11,12 +11,6 @@
     "geom:longitude":139.291493,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Oiso Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.271493,35.285925,139.311493,35.325925",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672805,
-        1108741801
+        1108741801,
+        85672805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530737,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423038,
     "wof:name":"Oiso",
     "wof:parent_id":1108741801,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":139.361164,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ota City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.341164,36.286272,139.381164,36.326272",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        890524369
+        890524369,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529815,
-    "wof:lastmodified":1601337585,
+    "wof:lastmodified":1601423039,
     "wof:name":"Ota",
     "wof:parent_id":890524369,
     "wof:placetype":"locality",

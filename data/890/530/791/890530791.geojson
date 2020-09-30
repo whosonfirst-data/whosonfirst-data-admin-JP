@@ -11,12 +11,6 @@
     "geom:longitude":138.48627,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nanbu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.46627,35.21938,138.50627,35.25938",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        1108741951
+        1108741951,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530791,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423033,
     "wof:name":"Nanbu",
     "wof:parent_id":1108741951,
     "wof:placetype":"locality",

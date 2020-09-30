@@ -11,12 +11,6 @@
     "geom:longitude":133.474488,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ibara City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.454488,34.625908,133.494488,34.665908",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672675,
-        890524769
+        890524769,
+        85672675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533597,
-    "wof:lastmodified":1601337577,
+    "wof:lastmodified":1601423007,
     "wof:name":"Ibara",
     "wof:parent_id":890524769,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":137.595794,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nagiso Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.575794,35.558255,137.615794,35.598255",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742071
+        1108742071,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531101,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423032,
     "wof:name":"Nagiso",
     "wof:parent_id":1108742071,
     "wof:placetype":"locality",

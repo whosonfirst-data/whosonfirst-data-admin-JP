@@ -11,12 +11,6 @@
     "geom:longitude":133.194658,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yasugi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.174658,35.360733,133.214658,35.400733",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        890520827
+        890520827,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535045,
-    "wof:lastmodified":1601337586,
+    "wof:lastmodified":1601423072,
     "wof:name":"Yasugi",
     "wof:parent_id":890520827,
     "wof:placetype":"locality",

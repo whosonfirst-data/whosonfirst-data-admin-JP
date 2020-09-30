@@ -11,12 +11,6 @@
     "geom:longitude":130.479984,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Chikugo City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.459984,33.219692,130.499984,33.259692",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        890520411
+        890520411,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530743,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601422983,
     "wof:name":"Chikugo",
     "wof:parent_id":890520411,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.8070405,35.3709955,136.8070405,35.3709955",
+    "geom:bbox":"136.80704,35.370995,136.80704,35.370995",
     "geom:latitude":35.370995,
     "geom:longitude":136.80704,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasamatsu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.7870405,35.3509955,136.8270405,35.3909955",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        890519905
+        890519905,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056597,
-    "wof:geomhash":"4c123bf8f6dafcbcd2828b11cfb173d4",
+    "wof:geomhash":"9079af195e09385015fbba0b8241240f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530381,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kasamatsu",
     "wof:parent_id":890519905,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.8070405,
-    35.3709955,
-    136.8070405,
-    35.3709955
+    136.80704,
+    35.370995,
+    136.80704,
+    35.370995
 ],
-  "geometry": {"coordinates":[136.8070405,35.3709955],"type":"Point"}
+  "geometry": {"coordinates":[136.80704,35.370995],"type":"Point"}
 }

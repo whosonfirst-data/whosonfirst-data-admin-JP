@@ -11,12 +11,6 @@
     "geom:longitude":138.362833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sakuho Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.342833,36.111833,138.382833,36.151833",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        890520709
+        890520709,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534243,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423045,
     "wof:name":"Sakuho",
     "wof:parent_id":890520709,
     "wof:placetype":"locality",

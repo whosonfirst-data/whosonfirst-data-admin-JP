@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.24706,36.0359635,138.24706,36.0359635",
+    "geom:bbox":"138.24706,36.035964,138.24706,36.035964",
     "geom:latitude":36.035964,
     "geom:longitude":138.24706,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Chino City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.22706,36.0159635,138.26706,36.0559635",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        890523301
+        890523301,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056625,
-    "wof:geomhash":"e8c684adf6933fd6fdbb924903a0e015",
+    "wof:geomhash":"6e07bfd230787f0fdffc99a9d2f4a74a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530747,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601422983,
     "wof:name":"Chino",
     "wof:parent_id":890523301,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.24706,
-    36.0359635,
+    36.035964,
     138.24706,
-    36.0359635
+    36.035964
 ],
-  "geometry": {"coordinates":[138.24706,36.0359635],"type":"Point"}
+  "geometry": {"coordinates":[138.24706,36.035964],"type":"Point"}
 }

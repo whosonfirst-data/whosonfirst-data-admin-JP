@@ -11,12 +11,6 @@
     "geom:longitude":139.795382,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Soka City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.775382,35.81842,139.815382,35.85842",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740445
+        1108740445,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531713,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423053,
     "wof:name":"Soka",
     "wof:parent_id":1108740445,
     "wof:placetype":"locality",

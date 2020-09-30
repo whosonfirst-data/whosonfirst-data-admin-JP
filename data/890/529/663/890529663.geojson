@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.5476285,33.509688,132.5476285,33.509688",
+    "geom:bbox":"132.547629,33.509688,132.547629,33.509688",
     "geom:latitude":33.509688,
     "geom:longitude":132.547629,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ozu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"132.5276285,33.489688,132.5676285,33.529688",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672711,
-        890524373
+        890524373,
+        85672711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056564,
-    "wof:geomhash":"971d8cf64dd485b61c8c04b3ccf0d3d7",
+    "wof:geomhash":"f53e1f9e31edb632e41cc5ec632b0444",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529663,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423039,
     "wof:name":"Ozu",
     "wof:parent_id":890524373,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.5476285,
+    132.547629,
     33.509688,
-    132.5476285,
+    132.547629,
     33.509688
 ],
-  "geometry": {"coordinates":[132.5476285,33.509688],"type":"Point"}
+  "geometry": {"coordinates":[132.547629,33.509688],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":133.312833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Okinoshima Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.292833,36.193809,133.332833,36.233809",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        1108742743
+        1108742743,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532217,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423038,
     "wof:name":"Okinoshima",
     "wof:parent_id":1108742743,
     "wof:placetype":"locality",

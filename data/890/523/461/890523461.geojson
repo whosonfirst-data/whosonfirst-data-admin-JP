@@ -11,12 +11,6 @@
     "geom:longitude":140.711345,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kamisu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.691345,35.849577,140.731345,35.889577",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        1108740291
+        1108740291,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523461,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kamisu",
     "wof:parent_id":1108740291,
     "wof:placetype":"locality",

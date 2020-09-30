@@ -11,12 +11,6 @@
     "geom:longitude":143.022861,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Memuro Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.002861,42.961897,143.042861,43.001897",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739805
+        1108739805,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523343,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423027,
     "wof:name":"Memuro",
     "wof:parent_id":1108739805,
     "wof:placetype":"locality",

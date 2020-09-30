@@ -11,12 +11,6 @@
     "geom:longitude":139.427833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.407833,35.606884,139.447833,35.646884",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672817,
-        890519671
+        890519671,
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521649,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423056,
     "wof:name":"Tama",
     "wof:parent_id":890519671,
     "wof:placetype":"locality",

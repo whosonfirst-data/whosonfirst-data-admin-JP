@@ -11,12 +11,6 @@
     "geom:longitude":130.423421,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasuya Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.403421,33.587185,130.443421,33.627185",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108742999
+        1108742999,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523221,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kasuya",
     "wof:parent_id":1108742999,
     "wof:placetype":"locality",

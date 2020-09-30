@@ -11,12 +11,6 @@
     "geom:longitude":136.921148,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Taketoyo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.901148,34.836354,136.941148,34.876354",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742305
+        1108742305,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531035,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423056,
     "wof:name":"Taketoyo",
     "wof:parent_id":1108742305,
     "wof:placetype":"locality",

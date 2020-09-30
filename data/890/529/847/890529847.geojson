@@ -11,12 +11,6 @@
     "geom:longitude":137.039909,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tahara City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"137.019909,34.567833,137.059909,34.607833",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742271
+        1108742271,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529847,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423054,
     "wof:name":"Tahara",
     "wof:parent_id":1108742271,
     "wof:placetype":"locality",

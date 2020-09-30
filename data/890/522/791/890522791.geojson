@@ -11,12 +11,6 @@
     "geom:longitude":140.79842,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kazuno City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.77842,40.165,140.81842,40.205",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672825,
-        890522711
+        890522711,
+        85672825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522791,
-    "wof:lastmodified":1601337608,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kazuno",
     "wof:parent_id":890522711,
     "wof:placetype":"locality",

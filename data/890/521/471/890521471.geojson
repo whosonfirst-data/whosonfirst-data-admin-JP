@@ -11,12 +11,6 @@
     "geom:longitude":130.286178,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Makurazaki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.266178,31.251508,130.306178,31.291508",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        890519777
+        890519777,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521471,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423025,
     "wof:name":"Makurazaki",
     "wof:parent_id":890519777,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":137.009038,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kasugai City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.989038,35.25805,137.029038,35.29805",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        890520733
+        890520733,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525933,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kasugai",
     "wof:parent_id":890520733,
     "wof:placetype":"locality",

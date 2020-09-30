@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.9414335,36.4538735,137.9414335,36.4538735",
+    "geom:bbox":"137.941433,36.453874,137.941433,36.453874",
     "geom:latitude":36.453874,
     "geom:longitude":137.941433,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ikusaka Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"137.9214335,36.4338735,137.9614335,36.4738735",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742083
+        1108742083,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056607,
-    "wof:geomhash":"f02a767ef2ef4143b71b9bbbab8df042",
+    "wof:geomhash":"b49d918643b231de8adeb05dbddf9c66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530483,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423008,
     "wof:name":"Ikusaka",
     "wof:parent_id":1108742083,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.9414335,
-    36.4538735,
-    137.9414335,
-    36.4538735
+    137.941433,
+    36.453874,
+    137.941433,
+    36.453874
 ],
-  "geometry": {"coordinates":[137.94143349999999,36.4538735],"type":"Point"}
+  "geometry": {"coordinates":[137.94143299999999,36.453874],"type":"Point"}
 }

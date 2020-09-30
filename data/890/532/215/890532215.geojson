@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.441726,35.3788765,133.441726,35.3788765",
+    "geom:bbox":"133.441726,35.378876,133.441726,35.378876",
     "geom:latitude":35.378876,
     "geom:longitude":133.441726,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hoki Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.421726,35.3588765,133.461726,35.3988765",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672685,
-        1108742707
+        1108742707,
+        85672685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056691,
-    "wof:geomhash":"d19ea653a5957d58bdf6b7b9b82cb800",
+    "wof:geomhash":"ff0f6995158171b987bafa4d37e58bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532215,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423004,
     "wof:name":"Hoki",
     "wof:parent_id":1108742707,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     133.441726,
-    35.3788765,
+    35.378876,
     133.441726,
-    35.3788765
+    35.378876
 ],
-  "geometry": {"coordinates":[133.44172599999999,35.3788765],"type":"Point"}
+  "geometry": {"coordinates":[133.44172599999999,35.378876],"type":"Point"}
 }

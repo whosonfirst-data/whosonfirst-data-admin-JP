@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.428333,37.4947495,140.428333,37.4947495",
+    "geom:bbox":"140.428333,37.494749,140.428333,37.494749",
     "geom:latitude":37.494749,
     "geom:longitude":140.428333,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Motomiya City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.408333,37.4747495,140.448333,37.5147495",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740165
+        1108740165,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056455,
-    "wof:geomhash":"81165f1c02505df96d9f824ddb0c132e",
+    "wof:geomhash":"43c3a96489a3fe241ec0d23e0670d30e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527373,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423031,
     "wof:name":"Motomiya",
     "wof:parent_id":1108740165,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     140.428333,
-    37.4947495,
+    37.494749,
     140.428333,
-    37.4947495
+    37.494749
 ],
-  "geometry": {"coordinates":[140.42833300000001,37.4947495],"type":"Point"}
+  "geometry": {"coordinates":[140.42833300000001,37.494749],"type":"Point"}
 }

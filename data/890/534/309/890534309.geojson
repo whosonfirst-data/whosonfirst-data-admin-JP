@@ -11,12 +11,6 @@
     "geom:longitude":131.400947,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Taketa City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"131.380947,32.941938,131.420947,32.981938",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672723,
-        890524613
+        890524613,
+        85672723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534309,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423056,
     "wof:name":"Taketa",
     "wof:parent_id":890524613,
     "wof:placetype":"locality",

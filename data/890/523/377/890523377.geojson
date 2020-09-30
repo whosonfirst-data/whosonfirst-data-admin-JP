@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.845279,34.6243485,138.845279,34.6243485",
+    "geom:bbox":"138.845279,34.624349,138.845279,34.624349",
     "geom:latitude":34.624349,
     "geom:longitude":138.845279,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minamiizu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.825279,34.6043485,138.865279,34.6443485",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672753,
-        1108742217
+        1108742217,
+        85672753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056300,
-    "wof:geomhash":"7647854363cd31181bb5fa67fbaf45b5",
+    "wof:geomhash":"51d2cb0bace93c2acbdbca97a0960028",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523377,
-    "wof:lastmodified":1601337580,
+    "wof:lastmodified":1601423028,
     "wof:name":"Minamiizu",
     "wof:parent_id":1108742217,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.845279,
-    34.6243485,
+    34.624349,
     138.845279,
-    34.6243485
+    34.624349
 ],
-  "geometry": {"coordinates":[138.845279,34.6243485],"type":"Point"}
+  "geometry": {"coordinates":[138.845279,34.624349],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":131.385154,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Saito City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"131.365154,32.094348,131.405154,32.134348",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672707,
-        890524631
+        890524631,
+        85672707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890519541,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423045,
     "wof:name":"Saito",
     "wof:parent_id":890524631,
     "wof:placetype":"locality",

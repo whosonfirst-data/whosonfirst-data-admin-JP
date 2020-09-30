@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.488349,34.9873425,133.488349,34.9873425",
+    "geom:bbox":"133.488349,34.987342,133.488349,34.987342",
     "geom:latitude":34.987342,
     "geom:longitude":133.488349,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Niimi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.468349,34.9673425,133.508349,35.0073425",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672675,
-        890524759
+        890524759,
+        85672675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056788,
-    "wof:geomhash":"f39012fd0298b1ddd7e7ad0d90d172b9",
+    "wof:geomhash":"8f545f9cb45cf0f24e1c436a27e7bc0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534611,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423035,
     "wof:name":"Niimi",
     "wof:parent_id":890524759,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     133.488349,
-    34.9873425,
+    34.987342,
     133.488349,
-    34.9873425
+    34.987342
 ],
-  "geometry": {"coordinates":[133.488349,34.9873425],"type":"Point"}
+  "geometry": {"coordinates":[133.488349,34.987342],"type":"Point"}
 }

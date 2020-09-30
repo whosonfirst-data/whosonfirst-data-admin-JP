@@ -11,12 +11,6 @@
     "geom:longitude":142.536694,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Toma Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"142.516694,43.805175,142.556694,43.845175",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739645
+        1108739645,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523233,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423058,
     "wof:name":"Toma",
     "wof:parent_id":1108739645,
     "wof:placetype":"locality",

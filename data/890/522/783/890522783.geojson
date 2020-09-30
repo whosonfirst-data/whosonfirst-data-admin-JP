@@ -11,12 +11,6 @@
     "geom:longitude":139.272913,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ogose Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.252913,35.951333,139.292913,35.991333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740485
+        1108740485,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522783,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601423037,
     "wof:name":"Ogose",
     "wof:parent_id":1108740485,
     "wof:placetype":"locality",

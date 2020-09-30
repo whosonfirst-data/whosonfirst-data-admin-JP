@@ -11,12 +11,6 @@
     "geom:longitude":130.815355,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kosa Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.795355,32.626916,130.835355,32.666916",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743199
+        1108743199,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521597,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423018,
     "wof:name":"Kosa",
     "wof:parent_id":1108743199,
     "wof:placetype":"locality",

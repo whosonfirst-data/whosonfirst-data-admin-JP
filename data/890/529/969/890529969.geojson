@@ -11,12 +11,6 @@
     "geom:longitude":138.30614,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hara Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"138.28614,35.959825,138.32614,35.999825",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        890523301
+        890523301,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529969,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423002,
     "wof:name":"Hara",
     "wof:parent_id":890523301,
     "wof:placetype":"locality",

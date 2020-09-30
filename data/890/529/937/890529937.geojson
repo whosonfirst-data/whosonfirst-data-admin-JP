@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.724833,37.1401045,136.724833,37.1401045",
+    "geom:bbox":"136.724833,37.140104,136.724833,37.140104",
     "geom:latitude":37.140104,
     "geom:longitude":136.724833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shiga Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.704833,37.1201045,136.744833,37.1601045",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672741,
-        1108741891
+        1108741891,
+        85672741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056576,
-    "wof:geomhash":"31f90c4922f47595934f05c3ec7fa37e",
+    "wof:geomhash":"51da4048d1ad20d776db10fcec84530c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529937,
-    "wof:lastmodified":1601337590,
+    "wof:lastmodified":1601423049,
     "wof:name":"Shiga",
     "wof:parent_id":1108741891,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     136.724833,
-    37.1401045,
+    37.140104,
     136.724833,
-    37.1401045
+    37.140104
 ],
-  "geometry": {"coordinates":[136.72483299999999,37.1401045],"type":"Point"}
+  "geometry": {"coordinates":[136.72483299999999,37.140104],"type":"Point"}
 }

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.448776,37.7005665,139.448776,37.7005665",
+    "geom:bbox":"139.448776,37.700567,139.448776,37.700567",
     "geom:latitude":37.700567,
     "geom:longitude":139.448776,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Aga Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.428776,37.6805665,139.468776,37.7205665",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        1108741847
+        1108741847,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056200,
-    "wof:geomhash":"24251268cf4149bdad3060e8a9bb7571",
+    "wof:geomhash":"639948570fe12922c327d6301becb0b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521331,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601422974,
     "wof:name":"Aga",
     "wof:parent_id":1108741847,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     139.448776,
-    37.7005665,
+    37.700567,
     139.448776,
-    37.7005665
+    37.700567
 ],
-  "geometry": {"coordinates":[139.44877600000001,37.7005665],"type":"Point"}
+  "geometry": {"coordinates":[139.44877600000001,37.700567],"type":"Point"}
 }

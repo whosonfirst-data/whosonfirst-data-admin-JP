@@ -11,12 +11,6 @@
     "geom:longitude":135.670123,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Heguri Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.650123,34.589523,135.690123,34.629523",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742569
+        1108742569,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534639,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423002,
     "wof:name":"Heguri",
     "wof:parent_id":1108742569,
     "wof:placetype":"locality",

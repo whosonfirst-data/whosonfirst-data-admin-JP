@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.0896245,41.327068,141.0896245,41.327068",
+    "geom:bbox":"141.089624,41.327068,141.089624,41.327068",
     "geom:latitude":41.327068,
     "geom:longitude":141.089624,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ohata Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.9896245,41.227068,141.1896245,41.427068",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        890519907
+        890519907,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056765,
-    "wof:geomhash":"a5947bb82e1ba48565d1f86229b92506",
+    "wof:geomhash":"0b37e88b4b0db8eedc5a80b64b369457",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533965,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601423037,
     "wof:name":"Ohata",
     "wof:parent_id":890519907,
     "wof:placetype":"localadmin",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.08962449999999,
+    141.089624,
     41.327068,
-    141.08962449999999,
+    141.089624,
     41.327068
 ],
-  "geometry": {"coordinates":[141.08962449999999,41.327068],"type":"Point"}
+  "geometry": {"coordinates":[141.08962399999999,41.327068],"type":"Point"}
 }

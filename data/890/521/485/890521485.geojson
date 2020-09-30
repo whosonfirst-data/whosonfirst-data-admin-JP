@@ -11,12 +11,6 @@
     "geom:longitude":134.666946,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Anan City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"134.646946,33.897302,134.686946,33.937302",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        890524497
+        890524497,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521485,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601422975,
     "wof:name":"Anan",
     "wof:parent_id":890524497,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":139.932861,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Aizuwakamatsu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.912861,37.474609,139.952861,37.514609",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        890520413
+        890520413,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532433,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601422975,
     "wof:name":"Aizuwakamatsu",
     "wof:parent_id":890520413,
     "wof:placetype":"locality",

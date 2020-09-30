@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.3830075,41.6011245,140.3830075,41.6011245",
+    "geom:bbox":"140.383007,41.601124,140.383007,41.601124",
     "geom:latitude":41.601124,
     "geom:longitude":140.383007,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shiriuchi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.3630075,41.5811245,140.4030075,41.6211245",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739537
+        1108739537,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056292,
-    "wof:geomhash":"8b09bd36b17efaaff58cf916ff5ef37f",
+    "wof:geomhash":"a1e6a95f8e0a394c044e2a014e34e710",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523209,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shiriuchi",
     "wof:parent_id":1108739537,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.3830075,
-    41.6011245,
-    140.3830075,
-    41.6011245
+    140.383007,
+    41.601124,
+    140.383007,
+    41.601124
 ],
-  "geometry": {"coordinates":[140.38300749999999,41.6011245],"type":"Point"}
+  "geometry": {"coordinates":[140.38300699999999,41.601124],"type":"Point"}
 }

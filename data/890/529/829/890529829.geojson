@@ -11,12 +11,6 @@
     "geom:longitude":140.2237,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sakura City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.2037,35.701848,140.2437,35.741848",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        890520809
+        890520809,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529829,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423045,
     "wof:name":"Sakura",
     "wof:parent_id":890520809,
     "wof:placetype":"locality",

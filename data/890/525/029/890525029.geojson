@@ -11,12 +11,6 @@
     "geom:longitude":136.666831,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Anpachi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.646831,35.312072,136.686831,35.352072",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742153
+        1108742153,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525029,
-    "wof:lastmodified":1601337586,
+    "wof:lastmodified":1601422976,
     "wof:name":"Anpachi",
     "wof:parent_id":1108742153,
     "wof:placetype":"locality",

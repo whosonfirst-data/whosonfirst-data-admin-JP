@@ -11,12 +11,6 @@
     "geom:longitude":141.991081,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yubari City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"141.971081,43.050392,142.011081,43.090392",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890523913
+        890523913,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529901,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423076,
     "wof:name":"Yubari",
     "wof:parent_id":890523913,
     "wof:placetype":"locality",

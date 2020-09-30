@@ -11,12 +11,6 @@
     "geom:longitude":140.886096,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hirauchi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.866096,40.896836,140.906096,40.936836",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        1108739869
+        1108739869,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523337,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423004,
     "wof:name":"Hirauchi",
     "wof:parent_id":1108739869,
     "wof:placetype":"locality",

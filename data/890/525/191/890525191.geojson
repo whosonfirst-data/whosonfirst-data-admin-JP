@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.3115385,36.031535,139.3115385,36.031535",
+    "geom:bbox":"139.311539,36.031535,139.311539,36.031535",
     "geom:latitude":36.031535,
     "geom:longitude":139.311539,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Arashiyama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.2915385,36.011535,139.3315385,36.051535",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740489
+        1108740489,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056369,
-    "wof:geomhash":"b06330dbe84be21f07fac2c2cd68eaae",
+    "wof:geomhash":"778e9de2451aea113fab80de374181ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525191,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601422976,
     "wof:name":"Arashiyama",
     "wof:parent_id":1108740489,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.3115385,
+    139.311539,
     36.031535,
-    139.3115385,
+    139.311539,
     36.031535
 ],
-  "geometry": {"coordinates":[139.31153850000001,36.031535],"type":"Point"}
+  "geometry": {"coordinates":[139.31153900000001,36.031535],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":135.658149,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shimamoto Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.638149,34.861706,135.678149,34.901706",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672785,
-        1108742479
+        1108742479,
+        85672785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521775,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shimamoto",
     "wof:parent_id":1108742479,
     "wof:placetype":"locality",

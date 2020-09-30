@@ -11,12 +11,6 @@
     "geom:longitude":134.586467,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Komatsushima City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"134.566467,33.965596,134.606467,34.005596",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        890524671
+        890524671,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522669,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423018,
     "wof:name":"Komatsushima",
     "wof:parent_id":890524671,
     "wof:placetype":"locality",

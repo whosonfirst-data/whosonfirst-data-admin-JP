@@ -11,12 +11,6 @@
     "geom:longitude":136.645202,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawagoe Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.625202,34.953469,136.665202,34.993469",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672745,
-        890524307
+        890524307,
+        85672745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532689,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawagoe",
     "wof:parent_id":890524307,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":137.844166,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Matsukawa Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"137.824166,36.394928,137.864166,36.434928",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742095
+        1108742095,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534643,
-    "wof:lastmodified":1601337593,
+    "wof:lastmodified":1601423026,
     "wof:name":"Matsukawa",
     "wof:parent_id":1108742095,
     "wof:placetype":"locality",

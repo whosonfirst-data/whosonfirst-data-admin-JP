@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.1260845,41.8658315,140.1260845,41.8658315",
+    "geom:bbox":"140.126084,41.865831,140.126084,41.865831",
     "geom:latitude":41.865831,
     "geom:longitude":140.126084,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Esashi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.1060845,41.8458315,140.1460845,41.8858315",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739553
+        1108739553,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056804,
-    "wof:geomhash":"4f6e76a40734cc757b21eb47ac5ef1d7",
+    "wof:geomhash":"94483fed294ece2f4be96ea3750d2495",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535021,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601422992,
     "wof:name":"Esashi",
     "wof:parent_id":1108739553,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.1260845,
-    41.8658315,
-    140.1260845,
-    41.8658315
+    140.126084,
+    41.865831,
+    140.126084,
+    41.865831
 ],
-  "geometry": {"coordinates":[140.12608449999999,41.8658315],"type":"Point"}
+  "geometry": {"coordinates":[140.12608399999999,41.865831],"type":"Point"}
 }

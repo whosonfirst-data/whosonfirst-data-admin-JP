@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.7382055,34.566365,135.7382055,34.566365",
+    "geom:bbox":"135.738205,34.566365,135.738205,34.566365",
     "geom:latitude":34.566365,
     "geom:longitude":135.738205,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawai Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.7182055,34.546365,135.7582055,34.586365",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742599
+        1108742599,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056383,
-    "wof:geomhash":"e82c80d9e2b15272b3695b5f2f3d568c",
+    "wof:geomhash":"47c2d50b86671038166b1a9402e7899d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525593,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawai",
     "wof:parent_id":1108742599,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.7382055,
+    135.738205,
     34.566365,
-    135.7382055,
+    135.738205,
     34.566365
 ],
-  "geometry": {"coordinates":[135.73820549999999,34.566365],"type":"Point"}
+  "geometry": {"coordinates":[135.73820499999999,34.566365],"type":"Point"}
 }

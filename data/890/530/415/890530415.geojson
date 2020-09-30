@@ -11,12 +11,6 @@
     "geom:longitude":143.737392,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kunneppu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.717392,43.706998,143.757392,43.746998",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739735
+        1108739735,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530415,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kunneppu",
     "wof:parent_id":1108739735,
     "wof:placetype":"locality",

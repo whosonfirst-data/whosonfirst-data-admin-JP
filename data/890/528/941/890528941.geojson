@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.442547,31.3773135,130.442547,31.3773135",
+    "geom:bbox":"130.442547,31.377313,130.442547,31.377313",
     "geom:latitude":31.377313,
     "geom:longitude":130.442547,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minamikyushu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.422547,31.3573135,130.462547,31.3973135",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        890533891
+        890533891,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056533,
-    "wof:geomhash":"824b372d4607c3aa225028661970b2f5",
+    "wof:geomhash":"d2987fa678e9144867f33255f2cab2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890528941,
-    "wof:lastmodified":1601337580,
+    "wof:lastmodified":1601423028,
     "wof:name":"Minamikyushu",
     "wof:parent_id":890533891,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     130.442547,
-    31.3773135,
+    31.377313,
     130.442547,
-    31.3773135
+    31.377313
 ],
-  "geometry": {"coordinates":[130.44254699999999,31.3773135],"type":"Point"}
+  "geometry": {"coordinates":[130.44254699999999,31.377313],"type":"Point"}
 }

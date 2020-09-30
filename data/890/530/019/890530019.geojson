@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.2635955,32.729386,130.2635955,32.729386",
+    "geom:bbox":"130.263596,32.729386,130.263596,32.729386",
     "geom:latitude":32.729386,
     "geom:longitude":130.263596,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Unzen City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.2435955,32.709386,130.2835955,32.749386",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672857,
-        890524199
+        890524199,
+        85672857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056580,
-    "wof:geomhash":"fa88536941990c6af41b3ccbd67b9b46",
+    "wof:geomhash":"c4fe0819411fe389262cb1d564412170",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530019,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423060,
     "wof:name":"Unzen",
     "wof:parent_id":890524199,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.2635955,
+    130.263596,
     32.729386,
-    130.2635955,
+    130.263596,
     32.729386
 ],
-  "geometry": {"coordinates":[130.26359550000001,32.729386],"type":"Point"}
+  "geometry": {"coordinates":[130.26359600000001,32.729386],"type":"Point"}
 }

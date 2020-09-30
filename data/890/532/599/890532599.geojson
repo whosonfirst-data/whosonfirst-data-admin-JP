@@ -11,12 +11,6 @@
     "geom:longitude":141.256563,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Yokohama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.236563,41.021922,141.276563,41.061922",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        1108739905
+        1108739905,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532599,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423074,
     "wof:name":"Yokohama",
     "wof:parent_id":1108739905,
     "wof:placetype":"locality",

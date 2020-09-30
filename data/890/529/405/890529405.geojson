@@ -11,12 +11,6 @@
     "geom:longitude":132.4533,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fuchu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.4333,34.373453,132.4733,34.413453",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        890519959
+        890519959,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529405,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601422994,
     "wof:name":"Fuchu",
     "wof:parent_id":890519959,
     "wof:placetype":"locality",

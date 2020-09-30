@@ -11,12 +11,6 @@
     "geom:longitude":136.430616,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Komono Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.410616,34.999458,136.450616,35.039458",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672745,
-        1108742331
+        1108742331,
+        85672745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529761,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423018,
     "wof:name":"Komono",
     "wof:parent_id":1108742331,
     "wof:placetype":"locality",

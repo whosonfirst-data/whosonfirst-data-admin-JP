@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.8617465,37.295837,139.8617465,37.295837",
+    "geom:bbox":"139.861747,37.295837,139.861747,37.295837",
     "geom:latitude":37.295837,
     "geom:longitude":139.861747,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shimogo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.8417465,37.275837,139.8817465,37.315837",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740181
+        1108740181,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056409,
-    "wof:geomhash":"ae753de556620cbcd84e1d38167051d1",
+    "wof:geomhash":"f035e0c9fffb36ebeaac5adc551b3c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526307,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shimogo",
     "wof:parent_id":1108740181,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.8617465,
+    139.861747,
     37.295837,
-    139.8617465,
+    139.861747,
     37.295837
 ],
-  "geometry": {"coordinates":[139.86174650000001,37.295837],"type":"Point"}
+  "geometry": {"coordinates":[139.86174700000001,37.295837],"type":"Point"}
 }

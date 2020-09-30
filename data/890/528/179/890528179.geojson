@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.5753555,35.8895995,137.5753555,35.8895995",
+    "geom:bbox":"137.575356,35.8896,137.575356,35.8896",
     "geom:latitude":35.8896,
     "geom:longitude":137.575356,
     "gp:adm0":23424856,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742079
+        1108742079,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056491,
-    "wof:geomhash":"02440ef0b35defeaf28a8ef5b9eef159",
+    "wof:geomhash":"32bfae52bcf075dcfa676fd1b1de8ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890528179,
-    "wof:lastmodified":1601068403,
+    "wof:lastmodified":1601423030,
     "wof:name":"Mitake",
     "wof:parent_id":1108742079,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.5753555,
-    35.8895995,
-    137.5753555,
-    35.8895995
+    137.575356,
+    35.8896,
+    137.575356,
+    35.8896
 ],
-  "geometry": {"coordinates":[137.5753555,35.8895995],"type":"Point"}
+  "geometry": {"coordinates":[137.575356,35.8896],"type":"Point"}
 }

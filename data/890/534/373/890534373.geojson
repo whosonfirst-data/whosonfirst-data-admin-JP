@@ -11,12 +11,6 @@
     "geom:longitude":140.880775,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kyogoku Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.860775,42.823247,140.900775,42.863247",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739587
+        1108739587,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534373,
-    "wof:lastmodified":1601337577,
+    "wof:lastmodified":1601423020,
     "wof:name":"Kyogoku",
     "wof:parent_id":1108739587,
     "wof:placetype":"locality",

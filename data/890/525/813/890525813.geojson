@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.3006395,33.768944,135.3006395,33.768944",
+    "geom:bbox":"135.300639,33.768944,135.300639,33.768944",
     "geom:latitude":33.768944,
     "geom:longitude":135.300639,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minabe Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.2806395,33.748944,135.3206395,33.788944",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        1108742657
+        1108742657,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056391,
-    "wof:geomhash":"cf8d91787a16cd64d945c4a9c950a820",
+    "wof:geomhash":"f717c9594122e0e0576af915f312ad2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525813,
-    "wof:lastmodified":1601337574,
+    "wof:lastmodified":1601423027,
     "wof:name":"Minabe",
     "wof:parent_id":1108742657,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.3006395,
+    135.300639,
     33.768944,
-    135.3006395,
+    135.300639,
     33.768944
 ],
-  "geometry": {"coordinates":[135.30063949999999,33.768944],"type":"Point"}
+  "geometry": {"coordinates":[135.30063899999999,33.768944],"type":"Point"}
 }

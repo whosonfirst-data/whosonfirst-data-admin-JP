@@ -11,12 +11,6 @@
     "geom:longitude":140.43188,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tako Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.41188,35.72066,140.45188,35.76066",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672797,
-        1108741655
+        1108741655,
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531835,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423056,
     "wof:name":"Tako",
     "wof:parent_id":1108741655,
     "wof:placetype":"locality",

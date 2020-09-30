@@ -11,12 +11,6 @@
     "geom:longitude":139.592208,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sekikawa Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"139.572208,38.062869,139.612208,38.102869",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672849,
-        1108741859
+        1108741859,
+        85672849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525161,
-    "wof:lastmodified":1601337605,
+    "wof:lastmodified":1601423047,
     "wof:name":"Sekikawa",
     "wof:parent_id":1108741859,
     "wof:placetype":"locality",

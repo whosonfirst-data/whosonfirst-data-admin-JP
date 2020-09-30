@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"134.9103065,34.7669815,134.9103065,34.7669815",
+    "geom:bbox":"134.910306,34.766981,134.910306,34.766981",
     "geom:latitude":34.766981,
     "geom:longitude":134.910306,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Inami Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"134.8903065,34.7469815,134.9303065,34.7869815",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        1108742533
+        1108742533,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056733,
-    "wof:geomhash":"e64770ddc750e302512ad4d844450404",
+    "wof:geomhash":"f2486f70c22f8c9bf18cce49e717ea0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533177,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601423008,
     "wof:name":"Inami",
     "wof:parent_id":1108742533,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.91030649999996,
-    34.7669815,
-    134.91030649999996,
-    34.7669815
+    134.910306,
+    34.766981,
+    134.910306,
+    34.766981
 ],
-  "geometry": {"coordinates":[134.91030649999996,34.7669815],"type":"Point"}
+  "geometry": {"coordinates":[134.91030599999999,34.766981],"type":"Point"}
 }

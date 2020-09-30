@@ -11,12 +11,6 @@
     "geom:longitude":138.802969,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Koshu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.782969,35.700733,138.822969,35.740733",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        1108741939
+        1108741939,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529989,
-    "wof:lastmodified":1601337598,
+    "wof:lastmodified":1601423018,
     "wof:name":"Koshu",
     "wof:parent_id":1108741939,
     "wof:placetype":"locality",

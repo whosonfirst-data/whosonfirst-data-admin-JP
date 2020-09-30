@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.6212825,33.436895,130.6212825,33.436895",
+    "geom:bbox":"130.621283,33.436895,130.621283,33.436895",
     "geom:latitude":33.436895,
     "geom:longitude":130.621283,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Chikuzen Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.6012825,33.416895,130.6412825,33.456895",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743061
+        1108743061,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056392,
-    "wof:geomhash":"5b88d31f2610692047ab2cb980d1d037",
+    "wof:geomhash":"e4b654a3479e812a90558c3e44f66000",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525851,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601422983,
     "wof:name":"Chikuzen",
     "wof:parent_id":1108743061,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.6212825,
+    130.621283,
     33.436895,
-    130.6212825,
+    130.621283,
     33.436895
 ],
-  "geometry": {"coordinates":[130.62128250000001,33.436895],"type":"Point"}
+  "geometry": {"coordinates":[130.62128300000001,33.436895],"type":"Point"}
 }

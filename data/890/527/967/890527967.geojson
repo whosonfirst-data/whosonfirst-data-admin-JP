@@ -11,12 +11,6 @@
     "geom:longitude":137.655814,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Toyone Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"137.635814,35.202895,137.675814,35.242895",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672731,
-        1108742313
+        1108742313,
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527967,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423059,
     "wof:name":"Toyone",
     "wof:parent_id":1108742313,
     "wof:placetype":"locality",

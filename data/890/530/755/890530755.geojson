@@ -11,12 +11,6 @@
     "geom:longitude":142.377502,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Furano City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"142.357502,43.327152,142.397502,43.367152",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890523935
+        890523935,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530755,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601422995,
     "wof:name":"Furano",
     "wof:parent_id":890523935,
     "wof:placetype":"locality",

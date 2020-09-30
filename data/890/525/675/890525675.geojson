@@ -11,12 +11,6 @@
     "geom:longitude":129.661921,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Emukae Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"129.641921,33.327314,129.681921,33.367314",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672857,
-        890524393
+        890524393,
+        85672857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525675,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601422992,
     "wof:name":"Emukae",
     "wof:parent_id":890524393,
     "wof:placetype":"locality",

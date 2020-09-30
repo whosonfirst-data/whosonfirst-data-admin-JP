@@ -11,12 +11,6 @@
     "geom:longitude":132.437697,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ohnan Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.417697,34.840793,132.457697,34.880793",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672679,
-        1108742729
+        1108742729,
+        85672679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525027,
-    "wof:lastmodified":1601337604,
+    "wof:lastmodified":1601423037,
     "wof:name":"Ohnan",
     "wof:parent_id":1108742729,
     "wof:placetype":"locality",

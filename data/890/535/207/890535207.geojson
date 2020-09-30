@@ -11,12 +11,6 @@
     "geom:longitude":138.923149,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kanra Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.903149,36.215048,138.943149,36.255048",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        1108740383
+        1108740383,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890535207,
-    "wof:lastmodified":1601337597,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kanra",
     "wof:parent_id":1108740383,
     "wof:placetype":"locality",

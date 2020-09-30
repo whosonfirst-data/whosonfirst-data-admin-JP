@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.125881,35.3405845,139.125881,35.3405845",
+    "geom:bbox":"139.125881,35.340584,139.125881,35.340584",
     "geom:latitude":35.340584,
     "geom:longitude":139.125881,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kaisei Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"139.105881,35.3205845,139.145881,35.3605845",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672805,
-        1108741813
+        1108741813,
+        85672805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056214,
-    "wof:geomhash":"e846098a4158c0d20b69d92f891d1e53",
+    "wof:geomhash":"d488d8b853d3ec92ed7790b79885df47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521565,
-    "wof:lastmodified":1601337605,
+    "wof:lastmodified":1601423014,
     "wof:name":"Kaisei",
     "wof:parent_id":1108741813,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     139.125881,
-    35.3405845,
+    35.340584,
     139.125881,
-    35.3405845
+    35.340584
 ],
-  "geometry": {"coordinates":[139.12588099999999,35.3405845],"type":"Point"}
+  "geometry": {"coordinates":[139.12588099999999,35.340584],"type":"Point"}
 }

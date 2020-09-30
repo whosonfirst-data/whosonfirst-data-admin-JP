@@ -11,12 +11,6 @@
     "geom:longitude":134.829147,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Asago City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"134.809147,35.28,134.849147,35.32",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672769,
-        890522915
+        890522915,
+        85672769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523467,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601422977,
     "wof:name":"Asago",
     "wof:parent_id":890522915,
     "wof:placetype":"locality",

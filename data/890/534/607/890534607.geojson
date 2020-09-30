@@ -11,12 +11,6 @@
     "geom:longitude":143.800048,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Saroma Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"143.780048,44.075475,143.820048,44.115475",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739739
+        1108739739,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534607,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423047,
     "wof:name":"Saroma",
     "wof:parent_id":1108739739,
     "wof:placetype":"locality",

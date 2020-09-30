@@ -11,12 +11,6 @@
     "geom:longitude":135.980186,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Mihama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.960186,35.671321,136.000186,35.711321",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672767,
-        1108741921
+        1108741921,
+        85672767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525803,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423027,
     "wof:name":"Mihama",
     "wof:parent_id":1108741921,
     "wof:placetype":"locality",

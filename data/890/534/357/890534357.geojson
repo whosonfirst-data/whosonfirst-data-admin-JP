@@ -11,12 +11,6 @@
     "geom:longitude":139.395046,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Zama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.375046,35.471424,139.415046,35.511424",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672805,
-        890524293
+        890524293,
+        85672805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534357,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423077,
     "wof:name":"Zama",
     "wof:parent_id":890524293,
     "wof:placetype":"locality",

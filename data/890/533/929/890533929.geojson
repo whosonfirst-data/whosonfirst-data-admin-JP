@@ -11,12 +11,6 @@
     "geom:longitude":136.785278,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ginan Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"136.765278,35.354494,136.805278,35.394494",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742141
+        1108742141,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533929,
-    "wof:lastmodified":1601337588,
+    "wof:lastmodified":1601422997,
     "wof:name":"Ginan",
     "wof:parent_id":1108742141,
     "wof:placetype":"locality",

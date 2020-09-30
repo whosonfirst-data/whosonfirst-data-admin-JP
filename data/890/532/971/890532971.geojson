@@ -11,12 +11,6 @@
     "geom:longitude":140.768257,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shibata Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.748257,38.039299,140.788257,38.079299",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672843,
-        1108740011
+        1108740011,
+        85672843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532971,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423049,
     "wof:name":"Shibata",
     "wof:parent_id":1108740011,
     "wof:placetype":"locality",

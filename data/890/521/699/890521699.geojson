@@ -11,12 +11,6 @@
     "geom:longitude":130.508823,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sue Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"130.488823,33.574174,130.528823,33.614174",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743035
+        1108743035,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521699,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423054,
     "wof:name":"Sue",
     "wof:parent_id":1108743035,
     "wof:placetype":"locality",

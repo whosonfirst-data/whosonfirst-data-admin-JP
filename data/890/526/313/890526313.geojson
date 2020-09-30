@@ -11,12 +11,6 @@
     "geom:longitude":133.816051,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Miyoshi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.796051,33.861674,133.836051,33.901674",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672729,
-        890524147
+        890524147,
+        85672729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526313,
-    "wof:lastmodified":1601337574,
+    "wof:lastmodified":1601423030,
     "wof:name":"Miyoshi",
     "wof:parent_id":890524147,
     "wof:placetype":"locality",

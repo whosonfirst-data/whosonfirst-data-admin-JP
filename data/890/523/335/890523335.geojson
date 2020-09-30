@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.9668155,33.240341,130.9668155,33.240341",
+    "geom:bbox":"130.966815,33.240341,130.966815,33.240341",
     "geom:latitude":33.240341,
     "geom:longitude":130.966815,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hita City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.9468155,33.220341,130.9868155,33.260341",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672723,
-        890533887
+        890533887,
+        85672723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056298,
-    "wof:geomhash":"35e0f65afb30362506f4fd97e77ae911",
+    "wof:geomhash":"1baf72d88b82ee1615b7a4f2b96f3cc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523335,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423004,
     "wof:name":"Hita",
     "wof:parent_id":890533887,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.96681549999997,
+    130.966815,
     33.240341,
-    130.96681549999997,
+    130.966815,
     33.240341
 ],
-  "geometry": {"coordinates":[130.96681549999997,33.240341],"type":"Point"}
+  "geometry": {"coordinates":[130.966815,33.240341],"type":"Point"}
 }

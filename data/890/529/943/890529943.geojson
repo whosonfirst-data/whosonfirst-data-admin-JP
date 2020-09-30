@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.238262,45.2044845,141.238262,45.2044845",
+    "geom:bbox":"141.238262,45.204484,141.238262,45.204484",
     "geom:latitude":45.204484,
     "geom:longitude":141.238262,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Rishirifuji Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"141.218262,45.1844845,141.258262,45.2244845",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739719
+        1108739719,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056576,
-    "wof:geomhash":"6e877f62fc1bd020359daa13f511c297",
+    "wof:geomhash":"12c56f6b9b1106d14cd67cebba8f9e68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529943,
-    "wof:lastmodified":1601337579,
+    "wof:lastmodified":1601423044,
     "wof:name":"Rishirifuji",
     "wof:parent_id":1108739719,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     141.238262,
-    45.2044845,
+    45.204484,
     141.238262,
-    45.2044845
+    45.204484
 ],
-  "geometry": {"coordinates":[141.23826199999999,45.2044845],"type":"Point"}
+  "geometry": {"coordinates":[141.23826199999999,45.204484],"type":"Point"}
 }

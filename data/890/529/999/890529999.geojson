@@ -11,12 +11,6 @@
     "geom:longitude":139.013104,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Izunokuni City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.993104,35.006745,139.033104,35.046745",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672753,
-        890524849
+        890524849,
+        85672753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529999,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423009,
     "wof:name":"Izunokuni",
     "wof:parent_id":890524849,
     "wof:placetype":"locality",

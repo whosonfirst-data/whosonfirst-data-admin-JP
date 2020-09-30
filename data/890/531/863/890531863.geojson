@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.84209,32.8224075,129.84209,32.8224075",
+    "geom:bbox":"129.84209,32.822407,129.84209,32.822407",
     "geom:latitude":32.822407,
     "geom:longitude":129.84209,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Togitsu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"129.82209,32.8024075,129.86209,32.8424075",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672857,
-        1108743139
+        1108743139,
+        85672857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056678,
-    "wof:geomhash":"0b0baa893a1152d1fc107748b67d19f6",
+    "wof:geomhash":"8f3b223faf3ed7e8f01af8c175df8b66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531863,
-    "wof:lastmodified":1601337592,
+    "wof:lastmodified":1601423058,
     "wof:name":"Togitsu",
     "wof:parent_id":1108743139,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     129.84209,
-    32.8224075,
+    32.822407,
     129.84209,
-    32.8224075
+    32.822407
 ],
-  "geometry": {"coordinates":[129.84209000000001,32.8224075],"type":"Point"}
+  "geometry": {"coordinates":[129.84209000000001,32.822407],"type":"Point"}
 }

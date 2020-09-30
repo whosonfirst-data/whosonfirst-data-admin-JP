@@ -11,12 +11,6 @@
     "geom:longitude":136.553878,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Nomi City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"136.533878,36.43415,136.573878,36.47415",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672741,
-        890519927
+        890519927,
+        85672741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529987,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601423036,
     "wof:name":"Nomi",
     "wof:parent_id":890519927,
     "wof:placetype":"locality",

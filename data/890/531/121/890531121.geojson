@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"142.539367,43.5304665,142.539367,43.5304665",
+    "geom:bbox":"142.539367,43.530467,142.539367,43.530467",
     "geom:latitude":43.530467,
     "geom:longitude":142.539367,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Biei Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"142.519367,43.5104665,142.559367,43.5504665",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739657
+        1108739657,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056642,
-    "wof:geomhash":"3788447ef0f70445fbbf87303d8b4f66",
+    "wof:geomhash":"f61a5c64f23b9d159a01e4927dc900dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531121,
-    "wof:lastmodified":1601337601,
+    "wof:lastmodified":1601422980,
     "wof:name":"Biei",
     "wof:parent_id":1108739657,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     142.539367,
-    43.5304665,
+    43.530467,
     142.539367,
-    43.5304665
+    43.530467
 ],
-  "geometry": {"coordinates":[142.539367,43.5304665],"type":"Point"}
+  "geometry": {"coordinates":[142.539367,43.530467],"type":"Point"}
 }

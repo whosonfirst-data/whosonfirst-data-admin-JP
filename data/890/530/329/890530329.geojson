@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.361361,41.2264165,140.361361,41.2264165",
+    "geom:bbox":"140.361361,41.226416,140.361361,41.226416",
     "geom:latitude":41.226416,
     "geom:longitude":140.361361,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sotogahama Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.341361,41.2064165,140.381361,41.2464165",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        1108739897
+        1108739897,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056594,
-    "wof:geomhash":"f07c29ab5b556a68e34fb39f964e00f1",
+    "wof:geomhash":"63bfc14938f006f85ea266c4f22e4ded",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530329,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423054,
     "wof:name":"Sotogahama",
     "wof:parent_id":1108739897,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     140.361361,
-    41.2264165,
+    41.226416,
     140.361361,
-    41.2264165
+    41.226416
 ],
-  "geometry": {"coordinates":[140.36136099999999,41.2264165],"type":"Point"}
+  "geometry": {"coordinates":[140.36136099999999,41.226416],"type":"Point"}
 }

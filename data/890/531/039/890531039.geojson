@@ -11,12 +11,6 @@
     "geom:longitude":133.445949,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tosa City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.425949,33.436937,133.465949,33.476937",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672717,
-        890535319
+        890535319,
+        85672717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531039,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423059,
     "wof:name":"Tosa",
     "wof:parent_id":890535319,
     "wof:placetype":"locality",

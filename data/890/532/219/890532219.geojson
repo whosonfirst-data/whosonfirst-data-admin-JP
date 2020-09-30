@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.9047355,33.223866,132.9047355,33.223866",
+    "geom:bbox":"132.904735,33.223866,132.904735,33.223866",
     "geom:latitude":33.223866,
     "geom:longitude":132.904735,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shimanto Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"132.8847355,33.203866,132.9247355,33.243866",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672717,
-        1108742991
+        1108742991,
+        85672717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056692,
-    "wof:geomhash":"47d5bfaebc63ab6451d93ebec212973e",
+    "wof:geomhash":"6876640daea4762cf50e40da943f5a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532219,
-    "wof:lastmodified":1601337582,
+    "wof:lastmodified":1601423050,
     "wof:name":"Shimanto",
     "wof:parent_id":1108742991,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.9047355,
+    132.904735,
     33.223866,
-    132.9047355,
+    132.904735,
     33.223866
 ],
-  "geometry": {"coordinates":[132.90473549999999,33.223866],"type":"Point"}
+  "geometry": {"coordinates":[132.90473499999999,33.223866],"type":"Point"}
 }

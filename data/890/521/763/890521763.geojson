@@ -11,12 +11,6 @@
     "geom:longitude":138.930077,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Shinto Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"138.910077,36.450678,138.950077,36.490678",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672871,
-        1108740363
+        1108740363,
+        85672871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521763,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423051,
     "wof:name":"Shinto",
     "wof:parent_id":1108740363,
     "wof:placetype":"locality",

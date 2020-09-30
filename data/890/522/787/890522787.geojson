@@ -11,12 +11,6 @@
     "geom:longitude":138.589782,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fujinomiya City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"138.569782,35.3285,138.609782,35.3685",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672753,
-        1108742191
+        1108742191,
+        85672753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522787,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601422994,
     "wof:name":"Fujinomiya",
     "wof:parent_id":1108742191,
     "wof:placetype":"locality",

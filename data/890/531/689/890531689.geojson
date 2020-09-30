@@ -11,12 +11,6 @@
     "geom:longitude":140.636616,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Ono Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.616616,37.252276,140.656616,37.292276",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740247
+        1108740247,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531689,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423039,
     "wof:name":"Ono",
     "wof:parent_id":1108740247,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.2436715,38.404185,140.2436715,38.404185",
+    "geom:bbox":"140.243672,38.404185,140.243672,38.404185",
     "geom:latitude":38.404185,
     "geom:longitude":140.243672,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sagae City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.2236715,38.384185,140.2636715,38.424185",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672853,
-        1108740095
+        1108740095,
+        85672853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056298,
-    "wof:geomhash":"e85048e8a55f6bf9ecde47c003fb2041",
+    "wof:geomhash":"c69aa7c36a6d76242a7a5e45227780b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523345,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423045,
     "wof:name":"Sagae",
     "wof:parent_id":1108740095,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.2436715,
+    140.243672,
     38.404185,
-    140.2436715,
+    140.243672,
     38.404185
 ],
-  "geometry": {"coordinates":[140.2436715,38.404185],"type":"Point"}
+  "geometry": {"coordinates":[140.243672,38.404185],"type":"Point"}
 }

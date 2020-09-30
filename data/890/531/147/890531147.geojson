@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"142.2599745,44.7285045,142.2599745,44.7285045",
+    "geom:bbox":"142.259974,44.728504,142.259974,44.728504",
     "geom:latitude":44.728504,
     "geom:longitude":142.259974,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Otoineppu Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"142.2399745,44.7085045,142.2799745,44.7485045",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        1108739681
+        1108739681,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056643,
-    "wof:geomhash":"41a5ac6a651db8ddb0e6d0e10378c1a7",
+    "wof:geomhash":"139dfcd5cfd93ba1b97a269ad599e119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531147,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601423039,
     "wof:name":"Otoineppu",
     "wof:parent_id":1108739681,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    142.2599745,
-    44.7285045,
-    142.2599745,
-    44.7285045
+    142.259974,
+    44.728504,
+    142.259974,
+    44.728504
 ],
-  "geometry": {"coordinates":[142.2599745,44.7285045],"type":"Point"}
+  "geometry": {"coordinates":[142.259974,44.728504],"type":"Point"}
 }

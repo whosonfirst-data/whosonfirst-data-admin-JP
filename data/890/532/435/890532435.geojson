@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.703666,35.7892055,137.703666,35.7892055",
+    "geom:bbox":"137.703666,35.789206,137.703666,35.789206",
     "geom:latitude":35.789206,
     "geom:longitude":137.703666,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Agematsu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.683666,35.7692055,137.723666,35.8092055",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742069
+        1108742069,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056704,
-    "wof:geomhash":"719b0070f78813ce2b449c62b5f1335b",
+    "wof:geomhash":"01bbaa698ded873becd5c477787840a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532435,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601422974,
     "wof:name":"Agematsu",
     "wof:parent_id":1108742069,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     137.703666,
-    35.7892055,
+    35.789206,
     137.703666,
-    35.7892055
+    35.789206
 ],
-  "geometry": {"coordinates":[137.703666,35.7892055],"type":"Point"}
+  "geometry": {"coordinates":[137.703666,35.789206],"type":"Point"}
 }

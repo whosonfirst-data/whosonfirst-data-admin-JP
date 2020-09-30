@@ -11,12 +11,6 @@
     "geom:longitude":133.320046,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fukuyama City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"133.300046,34.457941,133.340046,34.497941",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672671,
-        890524463
+        890524463,
+        85672671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530753,
-    "wof:lastmodified":1601337599,
+    "wof:lastmodified":1601422995,
     "wof:name":"Fukuyama",
     "wof:parent_id":890524463,
     "wof:placetype":"locality",

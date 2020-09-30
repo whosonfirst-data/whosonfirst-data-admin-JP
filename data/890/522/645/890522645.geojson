@@ -11,12 +11,6 @@
     "geom:longitude":137.241576,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Gero City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"137.221576,35.7875,137.261576,35.8275",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742133
+        1108742133,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890522645,
-    "wof:lastmodified":1601337575,
+    "wof:lastmodified":1601422997,
     "wof:name":"Gero",
     "wof:parent_id":1108742133,
     "wof:placetype":"locality",

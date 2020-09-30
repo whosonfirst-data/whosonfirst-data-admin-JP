@@ -11,12 +11,6 @@
     "geom:longitude":133.549166,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kofu Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.529166,35.324333,133.569166,35.364333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672685,
-        1108742713
+        1108742713,
+        85672685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525137,
-    "wof:lastmodified":1601337595,
+    "wof:lastmodified":1601423018,
     "wof:name":"Kofu",
     "wof:parent_id":1108742713,
     "wof:placetype":"locality",

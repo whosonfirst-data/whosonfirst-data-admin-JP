@@ -11,12 +11,6 @@
     "geom:longitude":138.361747,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Koumi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.341747,36.014131,138.381747,36.054131",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108741993
+        1108741993,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534379,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423018,
     "wof:name":"Koumi",
     "wof:parent_id":1108741993,
     "wof:placetype":"locality",

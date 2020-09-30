@@ -11,12 +11,6 @@
     "geom:longitude":138.612442,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Sakae Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"138.592442,36.769216,138.632442,36.809216",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742109
+        1108742109,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523397,
-    "wof:lastmodified":1601337594,
+    "wof:lastmodified":1601423045,
     "wof:name":"Sakae",
     "wof:parent_id":1108742109,
     "wof:placetype":"locality",

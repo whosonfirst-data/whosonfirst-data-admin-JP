@@ -11,12 +11,6 @@
     "geom:longitude":131.617666,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Saiki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"131.597666,32.824166,131.637666,32.864166",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672723,
-        890519563
+        890519563,
+        85672723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890531655,
-    "wof:lastmodified":1601337578,
+    "wof:lastmodified":1601423045,
     "wof:name":"Saiki",
     "wof:parent_id":890519563,
     "wof:placetype":"locality",

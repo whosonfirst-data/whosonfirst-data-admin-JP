@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.63351,42.6911495,141.63351,42.6911495",
+    "geom:bbox":"141.63351,42.69115,141.63351,42.69115",
     "geom:latitude":42.69115,
     "geom:longitude":141.63351,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tomakomai City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"141.61351,42.6711495,141.65351,42.7111495",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672761,
-        890519529
+        890519529,
+        85672761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056705,
-    "wof:geomhash":"ecbc5f6c160061fcf16bebc6feb4e8c6",
+    "wof:geomhash":"7920df47a67157a032db9d860c4632ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890532439,
-    "wof:lastmodified":1601337602,
+    "wof:lastmodified":1601423058,
     "wof:name":"Tomakomai",
     "wof:parent_id":890519529,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     141.63351,
-    42.6911495,
+    42.69115,
     141.63351,
-    42.6911495
+    42.69115
 ],
-  "geometry": {"coordinates":[141.63351,42.6911495],"type":"Point"}
+  "geometry": {"coordinates":[141.63351,42.69115],"type":"Point"}
 }

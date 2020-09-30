@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.7287815,35.8243345,139.7287815,35.8243345",
+    "geom:bbox":"139.728781,35.824334,139.728781,35.824334",
     "geom:latitude":35.824334,
     "geom:longitude":139.728781,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hatogaya City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"139.7087815,35.8043345,139.7487815,35.8443345",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672807,
-        1108740423
+        1108740423,
+        85672807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056734,
-    "wof:geomhash":"1ae9183d6ea60cdde766ea1ef4acb574",
+    "wof:geomhash":"9ede7286ebbcfde71351614723d24552",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533211,
-    "wof:lastmodified":1601337607,
+    "wof:lastmodified":1601423002,
     "wof:name":"Hatogaya",
     "wof:parent_id":1108740423,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.72878149999997,
-    35.8243345,
-    139.72878149999997,
-    35.8243345
+    139.728781,
+    35.824334,
+    139.728781,
+    35.824334
 ],
-  "geometry": {"coordinates":[139.72878149999997,35.8243345],"type":"Point"}
+  "geometry": {"coordinates":[139.728781,35.824334],"type":"Point"}
 }

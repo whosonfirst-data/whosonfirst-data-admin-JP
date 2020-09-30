@@ -11,12 +11,6 @@
     "geom:longitude":140.689833,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kitaibaraki City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"140.669833,36.780488,140.709833,36.820488",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672801,
-        890523305
+        890523305,
+        85672801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521235,
-    "wof:lastmodified":1601337580,
+    "wof:lastmodified":1601423017,
     "wof:name":"Kitaibaraki",
     "wof:parent_id":890523305,
     "wof:placetype":"locality",

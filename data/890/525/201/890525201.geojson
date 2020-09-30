@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.1907045,32.084052,130.1907045,32.084052",
+    "geom:bbox":"130.190705,32.084052,130.190705,32.084052",
     "geom:latitude":32.084052,
     "geom:longitude":130.190705,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Akune City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"130.1707045,32.064052,130.2107045,32.104052",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672861,
-        890524489
+        890524489,
+        85672861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056370,
-    "wof:geomhash":"54f5419f1b5557ebe68bcc07b975f1ed",
+    "wof:geomhash":"1c7b56f8969d7bb0904583a401836b69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890525201,
-    "wof:lastmodified":1601337606,
+    "wof:lastmodified":1601422975,
     "wof:name":"Akune",
     "wof:parent_id":890524489,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.1907045,
+    130.190705,
     32.084052,
-    130.1907045,
+    130.190705,
     32.084052
 ],
-  "geometry": {"coordinates":[130.19070450000001,32.084052],"type":"Point"}
+  "geometry": {"coordinates":[130.19070500000001,32.084052],"type":"Point"}
 }

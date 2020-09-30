@@ -11,12 +11,6 @@
     "geom:longitude":135.47533,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Toyonaka City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"135.45533,34.755451,135.49533,34.795451",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672785,
-        890520427
+        890520427,
+        85672785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533957,
-    "wof:lastmodified":1601337603,
+    "wof:lastmodified":1601423059,
     "wof:name":"Toyonaka",
     "wof:parent_id":890520427,
     "wof:placetype":"locality",

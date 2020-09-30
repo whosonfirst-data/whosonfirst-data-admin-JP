@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.945068,35.0503625,136.945068,35.0503625",
+    "geom:bbox":"136.945068,35.050362,136.945068,35.050362",
     "geom:latitude":35.050362,
     "geom:longitude":136.945068,
     "gp:adm0":23424856,
@@ -34,11 +34,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85672731,
         102191569,
         85632429,
+        1108742239,
         102031499,
-        1108742239
+        85672731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056367,
-    "wof:geomhash":"3523f7ffe381c13536cd3c086051df35",
+    "wof:geomhash":"a8c655a4d54fee35c871ce45908e7d72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890525149,
-    "wof:lastmodified":1601068417,
+    "wof:lastmodified":1601422977,
     "wof:name":"Aza Ibaradaniyama",
     "wof:parent_id":102031499,
     "wof:placetype":"neighbourhood",
@@ -70,9 +70,9 @@
 },
   "bbox": [
     136.945068,
-    35.0503625,
+    35.050362,
     136.945068,
-    35.0503625
+    35.050362
 ],
-  "geometry": {"coordinates":[136.94506799999999,35.0503625],"type":"Point"}
+  "geometry": {"coordinates":[136.94506799999999,35.050362],"type":"Point"}
 }

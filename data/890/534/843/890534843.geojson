@@ -11,12 +11,6 @@
     "geom:longitude":140.577584,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kunimi Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"140.557584,37.886807,140.597584,37.926807",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672835,
-        1108740169
+        1108740169,
+        85672835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890534843,
-    "wof:lastmodified":1601337583,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kunimi",
     "wof:parent_id":1108740169,
     "wof:placetype":"locality",

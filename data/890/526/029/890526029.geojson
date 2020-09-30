@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.748054,35.5033035,138.748054,35.5033035",
+    "geom:bbox":"138.748054,35.503304,138.748054,35.503304",
     "geom:latitude":35.503304,
     "geom:longitude":138.748054,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Fujikawaguchiko Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"138.728054,35.4833035,138.768054,35.5233035",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672821,
-        1108741969
+        1108741969,
+        85672821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056399,
-    "wof:geomhash":"3f5befdb82ff303bcb22dead6ebbb308",
+    "wof:geomhash":"66badef0e940a5b0e446bb6afe691b07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526029,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601422994,
     "wof:name":"Fujikawaguchiko",
     "wof:parent_id":1108741969,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.748054,
-    35.5033035,
+    35.503304,
     138.748054,
-    35.5033035
+    35.503304
 ],
-  "geometry": {"coordinates":[138.748054,35.5033035],"type":"Point"}
+  "geometry": {"coordinates":[138.748054,35.503304],"type":"Point"}
 }

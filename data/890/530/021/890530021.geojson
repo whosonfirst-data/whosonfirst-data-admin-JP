@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.0738955,32.8815865,131.0738955,32.8815865",
+    "geom:bbox":"131.073895,32.881586,131.073895,32.881586",
     "geom:latitude":32.881586,
     "geom:longitude":131.073895,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minamiaso Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"131.0538955,32.8615865,131.0938955,32.9015865",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672703,
-        1108743159
+        1108743159,
+        85672703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056580,
-    "wof:geomhash":"5dffadcf86722211ad82db013245a6ca",
+    "wof:geomhash":"01447b10cf6f455b7824d237cf8fd583",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890530021,
-    "wof:lastmodified":1601337581,
+    "wof:lastmodified":1601423028,
     "wof:name":"Minamiaso",
     "wof:parent_id":1108743159,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.0738955,
-    32.8815865,
-    131.0738955,
-    32.8815865
+    131.073895,
+    32.881586,
+    131.073895,
+    32.881586
 ],
-  "geometry": {"coordinates":[131.07389549999999,32.8815865],"type":"Point"}
+  "geometry": {"coordinates":[131.07389499999999,32.881586],"type":"Point"}
 }

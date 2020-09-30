@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.014802,35.9282515,138.014802,35.9282515",
+    "geom:bbox":"138.014802,35.928252,138.014802,35.928252",
     "geom:latitude":35.928252,
     "geom:longitude":138.014802,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Minowa Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.994802,35.9082515,138.034802,35.9482515",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672749,
-        1108742027
+        1108742027,
+        85672749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056747,
-    "wof:geomhash":"8320f9075cff1b65e9e47a7d8ead9faf",
+    "wof:geomhash":"f5ff3b4010da7eb0eb873cd294eb8619",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890533501,
-    "wof:lastmodified":1601337600,
+    "wof:lastmodified":1601423029,
     "wof:name":"Minowa",
     "wof:parent_id":1108742027,
     "wof:placetype":"locality",
@@ -78,9 +72,9 @@
 },
   "bbox": [
     138.014802,
-    35.9282515,
+    35.928252,
     138.014802,
-    35.9282515
+    35.928252
 ],
-  "geometry": {"coordinates":[138.014802,35.9282515],"type":"Point"}
+  "geometry": {"coordinates":[138.014802,35.928252],"type":"Point"}
 }

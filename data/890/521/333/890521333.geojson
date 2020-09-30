@@ -11,12 +11,6 @@
     "geom:longitude":137.095306,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Imizu City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"137.075306,36.713236,137.115306,36.753236",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672759,
-        890519731
+        890519731,
+        85672759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521333,
-    "wof:lastmodified":1601337587,
+    "wof:lastmodified":1601423008,
     "wof:name":"Imizu",
     "wof:parent_id":890519731,
     "wof:placetype":"locality",

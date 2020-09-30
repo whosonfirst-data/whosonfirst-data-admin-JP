@@ -11,12 +11,6 @@
     "geom:longitude":137.065617,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Kawabe Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"137.045617,35.470359,137.085617,35.510359",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672735,
-        1108742169
+        1108742169,
+        85672735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890527973,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423016,
     "wof:name":"Kawabe",
     "wof:parent_id":1108742169,
     "wof:placetype":"locality",

@@ -11,12 +11,6 @@
     "geom:longitude":135.625019,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Daito City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"135.605019,34.689726,135.645019,34.729726",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672785,
-        1108742469
+        1108742469,
+        85672785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529715,
-    "wof:lastmodified":1601337584,
+    "wof:lastmodified":1601422986,
     "wof:name":"Daito",
     "wof:parent_id":1108742469,
     "wof:placetype":"locality",

@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.6986005,33.786913,133.6986005,33.786913",
+    "geom:bbox":"133.6986,33.786913,133.6986,33.786913",
     "geom:latitude":33.786913,
     "geom:longitude":133.6986,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Otoyo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"133.6786005,33.766913,133.7186005,33.806913",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672717,
-        1108742965
+        1108742965,
+        85672717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056300,
-    "wof:geomhash":"9eae43db1b9e8da34dc790fdc52d67ca",
+    "wof:geomhash":"117a5f19eaaf7cfe0c1d42e1259107f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890523383,
-    "wof:lastmodified":1601337585,
+    "wof:lastmodified":1601423039,
     "wof:name":"Otoyo",
     "wof:parent_id":1108742965,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.6986005,
+    133.6986,
     33.786913,
-    133.6986005,
+    133.6986,
     33.786913
 ],
-  "geometry": {"coordinates":[133.6986005,33.786913],"type":"Point"}
+  "geometry": {"coordinates":[133.6986,33.786913],"type":"Point"}
 }

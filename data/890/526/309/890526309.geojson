@@ -11,12 +11,6 @@
     "geom:longitude":135.87132,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Tenkawa Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"135.85132,34.214415,135.89132,34.254415",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742613
+        1108742613,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890526309,
-    "wof:lastmodified":1601337585,
+    "wof:lastmodified":1601423057,
     "wof:name":"Tenkawa",
     "wof:parent_id":1108742613,
     "wof:placetype":"locality",

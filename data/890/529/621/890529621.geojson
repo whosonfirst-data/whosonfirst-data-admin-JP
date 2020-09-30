@@ -11,12 +11,6 @@
     "geom:longitude":135.757541,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Koryo Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.737541,34.540016,135.777541,34.580016",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672779,
-        1108742599
+        1108742599,
+        85672779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890529621,
-    "wof:lastmodified":1601337589,
+    "wof:lastmodified":1601423018,
     "wof:name":"Koryo",
     "wof:parent_id":1108742599,
     "wof:placetype":"locality",

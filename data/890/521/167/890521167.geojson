@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.2157735,33.923514,135.2157735,33.923514",
+    "geom:bbox":"135.215773,33.923514,135.215773,33.923514",
     "geom:latitude":33.923514,
     "geom:longitude":135.215773,
     "gp:adm0":23424856,
     "iso:country":"JP",
-    "label:eng_x_preferred_longname":[
-        "Hidakagawa Town"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "town"
-    ],
     "lbl:bbox":"135.1957735,33.903514,135.2357735,33.943514",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -46,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672795,
-        1108742659
+        1108742659,
+        85672795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +50,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056192,
-    "wof:geomhash":"0efd9c7625dcd69eb1a73424dd3f2e96",
+    "wof:geomhash":"2322f5446818b0a507995b1840c4e26b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +61,7 @@
         }
     ],
     "wof:id":890521167,
-    "wof:lastmodified":1601337591,
+    "wof:lastmodified":1601423003,
     "wof:name":"Hidakagawa",
     "wof:parent_id":1108742659,
     "wof:placetype":"locality",
@@ -77,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.21577349999998,
+    135.215773,
     33.923514,
-    135.21577349999998,
+    135.215773,
     33.923514
 ],
-  "geometry": {"coordinates":[135.21577349999998,33.923514],"type":"Point"}
+  "geometry": {"coordinates":[135.21577300000001,33.923514],"type":"Point"}
 }
