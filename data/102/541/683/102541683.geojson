@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"135.364444444,33.6622222222,135.364444444,33.6622222222",
+    "geom:bbox":"135.364444,33.662222,135.364444,33.662222",
     "geom:latitude":33.662222,
     "geom:longitude":135.364444,
     "iso:country":"JP",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Nanki-Shirahama Airport"
+    ],
+    "name:eng_x_variant":[
+        "SHM",
+        "RJBD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0646\u06a9\u06cc\u2013\u0634\u06cc\u0631\u0627\u0647\u0627\u0645\u0627"
@@ -72,7 +76,7 @@
         "wd:id":"Q1064050"
     },
     "wof:country":"JP",
-    "wof:geomhash":"e73c5db3ff10dfd3283e85dbf3bfb9e6",
+    "wof:geomhash":"f325130c7d7e1c0ceaf5feb15415310d",
     "wof:hierarchy":[
         {
             "campus_id":102541683,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102541683,
-    "wof:lastmodified":1566724947,
+    "wof:lastmodified":1631733561,
     "wof:name":"\u5357\u7d00\u767d\u6d5c\u7a7a\u6e2f",
     "wof:parent_id":85672795,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    135.36444444444,
-    33.662222222222,
-    135.36444444444,
-    33.662222222222
+    135.364444,
+    33.662222,
+    135.364444,
+    33.662222
 ],
-  "geometry": {"coordinates":[135.36444444444001,33.662222222222],"type":"Point"}
+  "geometry": {"coordinates":[135.36444399999999,33.662222],"type":"Point"}
 }
