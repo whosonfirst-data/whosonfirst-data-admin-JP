@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0435\u043c\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09ae\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043c\u0438"
     ],
@@ -77,6 +80,12 @@
     ],
     "name:glg_x_preferred":[
         "Kemi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u092e\u0940"
     ],
     "name:hun_x_preferred":[
         "Kemi"
@@ -153,6 +162,9 @@
     "name:vep_x_preferred":[
         "Kemi"
     ],
+    "name:vie_x_preferred":[
+        "Kemi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -165,7 +177,7 @@
         "gn:id":9291515
     },
     "wof:country":"JP",
-    "wof:geomhash":"37a11ffac83b1e2e924067e6de7bc843",
+    "wof:geomhash":"f200467e32c7ca1da01b5959931b3ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +188,7 @@
         }
     ],
     "wof:id":1360014095,
-    "wof:lastmodified":1566726157,
+    "wof:lastmodified":1636412947,
     "wof:name":"Kemi",
     "wof:parent_id":1108742629,
     "wof:placetype":"locality",
@@ -186,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.19411000000002,
+    135.19411,
     34.16728,
-    135.19411000000002,
+    135.19411,
     34.16728
 ],
-  "geometry": {"coordinates":[135.19411000000002,34.16728],"type":"Point"}
+  "geometry": {"coordinates":[135.19410999999999,34.16728],"type":"Point"}
 }

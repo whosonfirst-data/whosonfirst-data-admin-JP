@@ -40,6 +40,9 @@
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043a\u0430"
     ],
@@ -55,8 +58,14 @@
     "name:deu_x_preferred":[
         "Oka"
     ],
+    "name:ell_x_preferred":[
+        "\u038c\u03ba\u03b1"
+    ],
     "name:eus_x_preferred":[
         "Oka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Oka"
@@ -73,6 +82,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e7\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Oka"
     ],
@@ -81,6 +93,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u056f\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Oka"
     ],
     "name:jpn_x_preferred":[
         "\u5ca1"
@@ -97,6 +112,9 @@
     ],
     "name:pol_x_preferred":[
         "Oka"
+    ],
+    "name:por_x_preferred":[
+        "Oca"
     ],
     "name:ron_x_preferred":[
         "Oka"
@@ -119,8 +137,17 @@
     "name:swe_x_preferred":[
         "Oka"
     ],
+    "name:tur_x_preferred":[
+        "Oka"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Oka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -134,7 +161,7 @@
         "gn:id":11336142
     },
     "wof:country":"JP",
-    "wof:geomhash":"8f8d6e12b86f4516511ce4da0d3d8bde",
+    "wof:geomhash":"51dc0b4533fc683edaf78777965ec9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +172,7 @@
         }
     ],
     "wof:id":1292974783,
-    "wof:lastmodified":1566725445,
+    "wof:lastmodified":1636412928,
     "wof:name":"Oka",
     "wof:parent_id":1108743173,
     "wof:placetype":"locality",
@@ -155,10 +182,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.61803999999998,
+    130.61804,
     33.06858,
-    130.61803999999998,
+    130.61804,
     33.06858
 ],
-  "geometry": {"coordinates":[130.61803999999998,33.06858],"type":"Point"}
+  "geometry": {"coordinates":[130.61804000000001,33.06858],"type":"Point"}
 }

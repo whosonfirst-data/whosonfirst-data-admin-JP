@@ -42,6 +42,12 @@
     "name:fra_x_preferred":[
         "Sakata"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e7\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Szakata"
+    ],
     "name:jpn_x_preferred":[
         "\u5742\u7530"
     ],
@@ -73,7 +79,7 @@
         "gn:id":8569349
     },
     "wof:country":"JP",
-    "wof:geomhash":"151f0282a3d19bf11a56f0240fd6ad1b",
+    "wof:geomhash":"d577add5629c398bb814c006f8d7d958",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1259728315,
-    "wof:lastmodified":1566726775,
+    "wof:lastmodified":1636412961,
     "wof:name":"Sakata",
     "wof:parent_id":1108740463,
     "wof:placetype":"locality",
@@ -95,9 +101,9 @@
 },
   "bbox": [
     139.5747,
-    36.01414000000001,
+    36.01414,
     139.5747,
-    36.01414000000001
+    36.01414
 ],
-  "geometry": {"coordinates":[139.57470000000001,36.01414000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.57470000000001,36.01414],"type":"Point"}
 }

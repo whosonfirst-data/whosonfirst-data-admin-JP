@@ -49,7 +49,13 @@
     "name:glg_x_preferred":[
         "Arima"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d9\u05de\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Arima"
+    ],
+    "name:hun_x_preferred":[
         "Arima"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +94,7 @@
         "gn:id":8576713
     },
     "wof:country":"JP",
-    "wof:geomhash":"8eb33c5e72d125ef2fff2226a63b5888",
+    "wof:geomhash":"44564bdea137b992df2290256adb9f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1243328599,
-    "wof:lastmodified":1566726599,
+    "wof:lastmodified":1636412959,
     "wof:name":"Arima",
     "wof:parent_id":890523797,
     "wof:placetype":"locality",
@@ -109,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.57863999999998,
-    35.57507000000001,
-    139.57863999999998,
-    35.57507000000001
+    139.57864,
+    35.57507,
+    139.57864,
+    35.57507
 ],
-  "geometry": {"coordinates":[139.57863999999998,35.57507000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.57864000000001,35.57507],"type":"Point"}
 }

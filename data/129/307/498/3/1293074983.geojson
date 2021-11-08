@@ -95,11 +95,14 @@
         "Tara"
     ],
     "name:jpn_x_preferred":[
-        "\u7530\u826f"
+        "\u30bf\u30e9"
     ],
     "name:jpn_x_variant":[
         "\u305f\u3089",
-        "\u30bf\u30e9"
+        "\u7530\u826f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub77c"
     ],
     "name:lat_x_preferred":[
         "Tara"
@@ -146,6 +149,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -158,7 +164,7 @@
         "gn:id":11338491
     },
     "wof:country":"JP",
-    "wof:geomhash":"99d25fc456bf552073a49660d0bcc9c4",
+    "wof:geomhash":"09ad1088967247e5e7c72a6f0b369693",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1293074983,
-    "wof:lastmodified":1566725313,
+    "wof:lastmodified":1636412925,
     "wof:name":"Tara",
     "wof:parent_id":1108743169,
     "wof:placetype":"locality",
@@ -179,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.53611999999998,
+    130.53612,
     33.00609,
-    130.53611999999998,
+    130.53612,
     33.00609
 ],
-  "geometry": {"coordinates":[130.53611999999998,33.00609],"type":"Point"}
+  "geometry": {"coordinates":[130.53612000000001,33.00609],"type":"Point"}
 }

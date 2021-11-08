@@ -60,6 +60,12 @@
     "name:fra_x_preferred":[
         "Gedo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Gedo"
+    ],
     "name:ita_x_preferred":[
         "Ghedo"
     ],
@@ -131,7 +137,7 @@
         "gn:id":11109445
     },
     "wof:country":"JP",
-    "wof:geomhash":"e014d42148536772665ae07c291086d4",
+    "wof:geomhash":"8894e32e61b2140872d70b152ff608e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1277080115,
-    "wof:lastmodified":1566725493,
+    "wof:lastmodified":1636412929,
     "wof:name":"Gedo",
     "wof:parent_id":1108741631,
     "wof:placetype":"locality",
@@ -152,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.96056000000002,
+    139.96056,
     35.00443,
-    139.96056000000002,
+    139.96056,
     35.00443
 ],
-  "geometry": {"coordinates":[139.96056000000002,35.00443],"type":"Point"}
+  "geometry": {"coordinates":[139.96055999999999,35.00443],"type":"Point"}
 }

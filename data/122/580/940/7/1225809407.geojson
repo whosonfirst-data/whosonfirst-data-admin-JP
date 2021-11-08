@@ -64,11 +64,12 @@
         "Naga"
     ],
     "name:jpn_x_preferred":[
-        "\u6c38"
+        "\u30ca\u304c"
     ],
     "name:jpn_x_variant":[
         "\u306a\u304c",
-        "\u30ca\u30ac"
+        "\u30ca\u30ac",
+        "\u6c38"
     ],
     "name:kor_x_preferred":[
         "\ub098\uac00"
@@ -85,6 +86,9 @@
     "name:pol_x_preferred":[
         "Naga"
     ],
+    "name:por_x_preferred":[
+        "Naga"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u0430"
     ],
@@ -94,8 +98,26 @@
     "name:tgl_x_preferred":[
         "Naga"
     ],
+    "name:tur_x_preferred":[
+        "Naga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Naga"
+    ],
     "name:war_x_preferred":[
         "Naga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u90a3\u7259"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u90a3\u7259"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -120,7 +142,7 @@
         }
     ],
     "wof:id":1225809407,
-    "wof:lastmodified":1566726863,
+    "wof:lastmodified":1636412963,
     "wof:name":"Naga",
     "wof:parent_id":890524677,
     "wof:placetype":"locality",
