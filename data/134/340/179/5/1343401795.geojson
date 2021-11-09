@@ -78,6 +78,9 @@
     "name:fra_x_preferred":[
         "Edo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Edo"
     ],
@@ -147,7 +150,7 @@
         "gn:id":10987471
     },
     "wof:country":"JP",
-    "wof:geomhash":"1594925f70e2b959dd491c4d4dcfe596",
+    "wof:geomhash":"b2704011c80899b7d0fb00d86edc998f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":1343401795,
-    "wof:lastmodified":1566725029,
+    "wof:lastmodified":1636412921,
     "wof:name":"Edo",
     "wof:parent_id":1108740423,
     "wof:placetype":"locality",
@@ -168,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.75226999999998,
-    35.81999000000001,
-    139.75226999999998,
-    35.81999000000001
+    139.75227,
+    35.81999,
+    139.75227,
+    35.81999
 ],
-  "geometry": {"coordinates":[139.75226999999998,35.81999000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.75227000000001,35.81999],"type":"Point"}
 }

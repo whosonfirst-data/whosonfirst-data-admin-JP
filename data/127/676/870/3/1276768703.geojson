@@ -32,11 +32,36 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
-        "\u548c\u898b"
+        "\u30ef\u30df\u5ddd"
     ],
     "name:jpn_x_variant":[
         "\u308f\u307f",
-        "\u30ef\u30df"
+        "\u30ef\u30df",
+        "\u548c\u898b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\ubbf8"
+    ],
+    "name:nld_x_preferred":[
+        "Wami"
+    ],
+    "name:pol_x_preferred":[
+        "Wami"
+    ],
+    "name:por_x_preferred":[
+        "Wami"
+    ],
+    "name:swe_x_preferred":[
+        "Wami"
+    ],
+    "name:tur_x_preferred":[
+        "Wami"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0645\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Wami"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +75,7 @@
         "gn:id":11079577
     },
     "wof:country":"JP",
-    "wof:geomhash":"06ef5d3d1bf3fb7560c75706e95c81a9",
+    "wof:geomhash":"2c13b02686e043958d828916c9592ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +86,7 @@
         }
     ],
     "wof:id":1276768703,
-    "wof:lastmodified":1566725594,
+    "wof:lastmodified":1636412931,
     "wof:name":"Wami",
     "wof:parent_id":1108741677,
     "wof:placetype":"locality",
@@ -71,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.84226999999998,
+    139.84227,
     35.11505,
-    139.84226999999998,
+    139.84227,
     35.11505
 ],
-  "geometry": {"coordinates":[139.84226999999998,35.11505],"type":"Point"}
+  "geometry": {"coordinates":[139.84227000000001,35.11505],"type":"Point"}
 }

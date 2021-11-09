@@ -40,8 +40,14 @@
     "name:deu_x_preferred":[
         "Masaka"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Masaka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05e7\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Masaka"
@@ -97,7 +103,7 @@
         "gn:id":2112003
     },
     "wof:country":"JP",
-    "wof:geomhash":"6fd5773880df450cb1eaee3f99393000",
+    "wof:geomhash":"fb9d8c360a0882213703bebd2d5fd146",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1310418561,
-    "wof:lastmodified":1566726028,
+    "wof:lastmodified":1636412944,
     "wof:name":"Masaka",
     "wof:parent_id":1108740073,
     "wof:placetype":"locality",
@@ -118,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.08333000000002,
+    140.08333,
     39.96667,
-    140.08333000000002,
+    140.08333,
     39.96667
 ],
-  "geometry": {"coordinates":[140.08333000000002,39.96667],"type":"Point"}
+  "geometry": {"coordinates":[140.08332999999999,39.96667],"type":"Point"}
 }

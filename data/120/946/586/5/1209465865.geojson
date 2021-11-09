@@ -37,7 +37,19 @@
     "name:deu_x_preferred":[
         "Mio"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bf"
+    ],
     "name:fra_x_preferred":[
+        "Mio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05de\u05d9\u05e7\u05dc\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u092f\u0913"
+    ],
+    "name:ind_x_preferred":[
         "Mio"
     ],
     "name:jpn_x_preferred":[
@@ -49,6 +61,15 @@
     "name:swe_x_preferred":[
         "Mio"
     ],
+    "name:tur_x_preferred":[
+        "Mio"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632429
@@ -58,7 +79,7 @@
         "gn:id":9631733
     },
     "wof:country":"JP",
-    "wof:geomhash":"db6d65886ffc5eefb1cf3252af7afe81",
+    "wof:geomhash":"d01a934b1fbbcbb408e10efef21c701f",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1209465865,
-    "wof:lastmodified":1566725714,
+    "wof:lastmodified":1636412932,
     "wof:name":"Mio",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",
@@ -76,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.99066000000002,
+    135.99066,
     34.37638,
-    135.99066000000002,
+    135.99066,
     34.37638
 ],
-  "geometry": {"coordinates":[135.99066000000002,34.37638],"type":"Point"}
+  "geometry": {"coordinates":[135.99065999999999,34.37638],"type":"Point"}
 }

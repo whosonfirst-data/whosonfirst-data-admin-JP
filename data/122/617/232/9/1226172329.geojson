@@ -31,7 +31,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09df\u09be\u0995\u09cb"
+    ],
     "name:ceb_x_preferred":[
+        "Yako"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03ba\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u06a9\u0648"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Yako"
+    ],
+    "name:ind_x_preferred":[
         "Yako"
     ],
     "name:jpn_x_preferred":[
@@ -40,11 +61,20 @@
     "name:jpn_x_variant":[
         "\u3084\u3053"
     ],
+    "name:kor_x_preferred":[
+        "\uc57c\ucf54"
+    ],
     "name:swe_x_preferred":[
+        "Yako"
+    ],
+    "name:tur_x_preferred":[
         "Yako"
     ],
     "name:und_x_variant":[
         "Yago"
+    ],
+    "name:vie_x_preferred":[
+        "Yako"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +88,7 @@
         "gn:id":1848741
     },
     "wof:country":"JP",
-    "wof:geomhash":"d255339c7b261b2ccd68051959a581e8",
+    "wof:geomhash":"54b638dc885f156d18b81d5af70e3231",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1226172329,
-    "wof:lastmodified":1566726797,
+    "wof:lastmodified":1636412962,
     "wof:name":"Yako",
     "wof:parent_id":1108743387,
     "wof:placetype":"locality",
@@ -79,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.11458000000002,
+    128.11458,
     26.67313,
-    128.11458000000002,
+    128.11458,
     26.67313
 ],
-  "geometry": {"coordinates":[128.11458000000002,26.67313],"type":"Point"}
+  "geometry": {"coordinates":[128.11457999999999,26.67313],"type":"Point"}
 }

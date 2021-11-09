@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Muta"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Muta"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u057f\u0561"
     ],
@@ -70,7 +76,7 @@
         "gn:id":10210969
     },
     "wof:country":"JP",
-    "wof:geomhash":"d12b1966ef885b6cd699f9c25184c47c",
+    "wof:geomhash":"0b07abec7dc8e8b89a36283ba49a90ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1226609403,
-    "wof:lastmodified":1566726834,
+    "wof:lastmodified":1636412963,
     "wof:name":"Muta",
     "wof:parent_id":1108743157,
     "wof:placetype":"locality",
@@ -91,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.51796000000002,
+    130.51796,
     32.14569,
-    130.51796000000002,
+    130.51796,
     32.14569
 ],
-  "geometry": {"coordinates":[130.51796000000002,32.14569],"type":"Point"}
+  "geometry": {"coordinates":[130.51795999999999,32.14569],"type":"Point"}
 }

@@ -49,6 +49,12 @@
     "name:fra_x_preferred":[
         "Matsumoto"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05e1\u05d5\u05de\u05d5\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Matsumoto"
+    ],
     "name:ind_x_preferred":[
         "Matsumoto"
     ],
@@ -85,7 +91,7 @@
         "gn:id":11029725
     },
     "wof:country":"JP",
-    "wof:geomhash":"bc65b911690bfc9aee9a615125cdfa6d",
+    "wof:geomhash":"8efb1f49c4318740e1af5cd09df11f9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1293924275,
-    "wof:lastmodified":1566725403,
+    "wof:lastmodified":1636412927,
     "wof:name":"Matsumoto",
     "wof:parent_id":1108740421,
     "wof:placetype":"locality",
@@ -107,9 +113,9 @@
 },
   "bbox": [
     139.62793,
-    35.83394000000001,
+    35.83394,
     139.62793,
-    35.83394000000001
+    35.83394
 ],
-  "geometry": {"coordinates":[139.62792999999999,35.83394000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.62792999999999,35.83394],"type":"Point"}
 }

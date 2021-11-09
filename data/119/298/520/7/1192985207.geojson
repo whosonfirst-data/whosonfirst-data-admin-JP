@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09a8\u09cd\u09a8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Tanna"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:fra_x_preferred":[
         "Tanna"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0928\u094d\u0928\u093e"
     ],
     "name:hun_x_preferred":[
         "Tanna"
@@ -75,8 +81,14 @@
     "name:swe_x_preferred":[
         "Tanna"
     ],
+    "name:tur_x_preferred":[
+        "Tanna"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Tanna"
@@ -93,7 +105,7 @@
         "gn:id":1895934
     },
     "wof:country":"JP",
-    "wof:geomhash":"18f77fb1e183207c7b8e55fbd0f5dc72",
+    "wof:geomhash":"085618b15083260c682d57b822bbf678",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1192985207,
-    "wof:lastmodified":1566725855,
+    "wof:lastmodified":1636412934,
     "wof:name":"Tanna",
     "wof:parent_id":1108743135,
     "wof:placetype":"locality",
@@ -114,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.66666999999998,
+    128.66667,
     32.67167,
-    128.66666999999998,
+    128.66667,
     32.67167
 ],
-  "geometry": {"coordinates":[128.66666999999998,32.67167],"type":"Point"}
+  "geometry": {"coordinates":[128.66667000000001,32.67167],"type":"Point"}
 }
