@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000025,
+    "geom:area":0.0,
     "geom:area_square_m":252539.794406,
-    "geom:bbox":"135.428466797,34.6422469862,135.433959961,34.6467662465",
-    "geom:latitude":34.644507,
+    "geom:bbox":"135.431213,34.644508,135.431213,34.644508",
+    "geom:latitude":34.644508,
     "geom:longitude":135.431213,
     "gn:id":"",
     "iso:country":"JP",
@@ -62,8 +62,10 @@
     "qs:woe_lau":28457173,
     "qs:woe_local":15015370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672785,
@@ -78,7 +80,10 @@
         "qs_pg:id":64619
     },
     "wof:country":"JP",
-    "wof:geomhash":"cc9f3cc8c29f0c6537037423958ca3fd",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3dc4dd9e0d581eb7041d3012f5630893",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +98,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725145,
+    "wof:lastmodified":1640891939,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031439,
     "wof:placetype":"neighbourhood",
@@ -103,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.4284667970001,
-    34.64224698620056,
-    135.4339599610003,
-    34.64676624650005
+    135.431213,
+    34.644508,
+    135.431213,
+    34.644508
 ],
-  "geometry": {"coordinates":[[[135.43395996100031,34.64224698620056],[135.42846679700023,34.64224698620056],[135.42846679700011,34.64224704780008],[135.42846679700023,34.64536668275124],[135.42846679700011,34.64676624650005],[135.42961812793516,34.64676624650005],[135.43280863006527,34.64676624650005],[135.43395996100014,34.64676624650005],[135.43395996100026,34.64536668275124],[135.43395996100014,34.64224704780008],[135.43395996100031,34.64224698620056]]],"type":"Polygon"}
+  "geometry": {"coordinates":[135.43121300000001,34.644508],"type":"Point"}
 }

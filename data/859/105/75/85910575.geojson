@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.0,
     "geom:area_square_m":61538.851617,
-    "geom:bbox":"139.724121094,35.6840715253,139.726867676,35.6863024015",
-    "geom:latitude":35.685187,
+    "geom:bbox":"139.725494,35.685188,139.725494,35.685188",
+    "geom:latitude":35.685188,
     "geom:longitude":139.725494,
     "gn:id":"",
     "iso:country":"JP",
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414098,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1088130
     },
     "wof:country":"JP",
-    "wof:geomhash":"72e20d5d2b7db2a3acedfb501b9a439e",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9d62fe71f157abfd3874724974e028b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725135,
+    "wof:lastmodified":1640891935,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.7241210940001,
-    35.68407152531277,
-    139.7268676760001,
-    35.68630240150001
+    139.725494,
+    35.685188,
+    139.725494,
+    35.685188
 ],
-  "geometry": {"coordinates":[[[139.7268676760001,35.68407152617795],[139.72412109400011,35.68407152531277],[139.72412109400011,35.68630239368768],[139.72629786678925,35.68630239787483],[139.7268676760001,35.68630240150001],[139.7268676760001,35.68560084485924],[139.7268676760001,35.68407152617795]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.725494,35.685188],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.0,
     "geom:area_square_m":64924.624504,
-    "geom:bbox":"135.497131348,34.6975902537,135.500309469,34.6998483773",
-    "geom:latitude":34.698732,
-    "geom:longitude":135.498549,
+    "geom:bbox":"135.498488,34.699033,135.498488,34.699033",
+    "geom:latitude":34.699033,
+    "geom:longitude":135.498488,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":34.699033,
@@ -62,8 +62,10 @@
     "qs:woe_lau":28457558,
     "qs:woe_local":15015370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672785,
@@ -78,7 +80,10 @@
         "qs_pg:id":1277045
     },
     "wof:country":"JP",
-    "wof:geomhash":"5c5d2ea71fde4cb93128aea3a9a3de24",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"897b6769ddb59b3c5c839cb9eea3a5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +98,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725298,
+    "wof:lastmodified":1640892043,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031439,
     "wof:placetype":"neighbourhood",
@@ -103,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.49713134800015,
-    34.69759025373358,
-    135.50030946916087,
-    34.69984837730003
+    135.498488,
+    34.699033,
+    135.498488,
+    34.699033
 ],
-  "geometry": {"coordinates":[[[135.4998779300002,34.69759025389399],[135.49850463900009,34.69759025373358],[135.49713134800015,34.69759025416133],[135.49713134800015,34.69871932193367],[135.49713134800015,34.69984837489405],[135.49821694852216,34.69984837505444],[135.49850463900009,34.69984837730003],[135.49987793000003,34.69984837730003],[135.49987793000003,34.69949844828253],[135.50028502788689,34.69933339389992],[135.50030946916087,34.69924420735511],[135.49987793000008,34.69871932300303],[135.4998779300002,34.69759025389399]]],"type":"Polygon"}
+  "geometry": {"coordinates":[135.49848800000001,34.699033],"type":"Point"}
 }

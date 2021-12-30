@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000003,
+    "geom:area":0.0,
     "geom:area_square_m":25957.779009,
-    "geom:bbox":"139.689102173,35.6476676691,139.691162109,35.6494850964",
-    "geom:latitude":35.648717,
-    "geom:longitude":139.690338,
+    "geom:bbox":"139.690475,35.648926,139.690475,35.648926",
+    "geom:latitude":35.648926,
+    "geom:longitude":139.690475,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.648926,
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414250,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1088213
     },
     "wof:country":"JP",
-    "wof:geomhash":"622325fc8f371c4b81d177bb1642e6fc",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"23d9011d5dd05035204318b12374c78a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725206,
+    "wof:lastmodified":1640891978,
     "wof:name":"\uff13\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.68910217250027,
-    35.64766766905868,
-    139.69116210900006,
-    35.64948509635026
+    139.690475,
+    35.648926,
+    139.690475,
+    35.648926
 ],
-  "geometry": {"coordinates":[[[139.69116210900006,35.64836915740004],[139.69116210900006,35.64766766905868],[139.68945198971556,35.64836915740004],[139.68910217250027,35.64851265189215],[139.68910217250027,35.64864009384816],[139.68978881800018,35.64948509635026],[139.69116210900006,35.64948509586283],[139.69116210900006,35.64836915740004]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.69047499999999,35.648926],"type":"Point"}
 }
