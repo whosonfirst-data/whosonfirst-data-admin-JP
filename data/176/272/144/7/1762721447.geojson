@@ -1,0 +1,149 @@
+{
+  "id": 1762721447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005346,
+    "geom:area_square_m":53633633.179542,
+    "geom:bbox":"139.735794,35.738731,139.858002,35.817532",
+    "geom:latitude":35.778962,
+    "geom:longitude":139.795224,
+    "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Adachi Ku"
+    ],
+    "lbl:latitude":35.778747,
+    "lbl:longitude":139.79431,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Adachi",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Adatiku",
+    "meso:hasc_id":"JP.FS.AD",
+    "meso:local_id":"13121",
+    "meso:mps_x":139.79431,
+    "meso:mps_y":35.778747,
+    "meso:name_alt":"Adachi",
+    "meso:name_en":"Adachi Ku",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.778747,
+    "mps:longitude":139.79431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":6.0,
+    "name:cat_x_preferred":[
+        "Adachi"
+    ],
+    "name:deu_x_preferred":[
+        "Adachi"
+    ],
+    "name:eng_x_preferred":[
+        "Adachi"
+    ],
+    "name:eng_x_variant":[
+        "Adatiku",
+        "Adachi Ku"
+    ],
+    "name:fra_x_preferred":[
+        "Adachi"
+    ],
+    "name:glg_x_preferred":[
+        "Adachi"
+    ],
+    "name:ind_x_preferred":[
+        "Adachi"
+    ],
+    "name:ita_x_preferred":[
+        "Adachi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8db3\u7acb\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub2e4\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Adachi"
+    ],
+    "name:pol_x_preferred":[
+        "Adachi"
+    ],
+    "name:por_x_preferred":[
+        "Adachi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0430\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Adachi"
+    ],
+    "name:vie_x_preferred":[
+        "Adachi"
+    ],
+    "src:geom":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wikipedia",
+    "src:population_date":2016,
+    "statoids:area_km":"382",
+    "statoids:as_of_date":"2000-10-01",
+    "statoids:capital":"",
+    "statoids:country":"JP",
+    "statoids:hasc":"JP.FS",
+    "statoids:name":"Adachi",
+    "statoids:population":"69792",
+    "statoids:statoid":"JP.FS.AD",
+    "statoids:timezone":"9",
+    "statoids:type":"county",
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"JP.FS.AD"
+    },
+    "wof:coterminous":[
+        1108741723
+    ],
+    "wof:country":"JP",
+    "wof:created":1479151053,
+    "wof:geomhash":"d290919997f2621b16798cc4616c0963",
+    "wof:hierarchy":[
+        {
+            "borough_id":1762721447,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741723,
+            "locality_id":102031307,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1762721447,
+    "wof:lastmodified":1641421460,
+    "wof:name":"Adachi",
+    "wof:parent_id":102031307,
+    "wof:placetype":"borough",
+    "wof:population":674067,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:shortcode":"AD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.735794,
+    35.738731,
+    139.858002,
+    35.817532
+],
+  "geometry": {"coordinates":[[[139.737808,35.780533],[139.746399,35.784134],[139.74679599999999,35.786865],[139.75349399999999,35.786465],[139.75590500000001,35.7896],[139.76049800000001,35.797867],[139.750809,35.807732],[139.75050400000001,35.809265],[139.75340299999999,35.8106],[139.755402,35.812134],[139.75559999999999,35.812733],[139.7612,35.812801],[139.76769999999999,35.817532],[139.772797,35.815666],[139.78239400000001,35.807198],[139.796097,35.805599],[139.804596,35.8088],[139.81559799999999,35.809067],[139.820999,35.811531],[139.82110599999999,35.815067],[139.82510400000001,35.811531],[139.82020600000001,35.802067],[139.821594,35.796467],[139.82719399999999,35.793598],[139.83419799999999,35.797466],[139.83880600000001,35.8008],[139.845001,35.798466],[139.846802,35.796532],[139.845001,35.795132],[139.84620699999999,35.785801],[139.858002,35.770535],[139.85730000000001,35.765064],[139.8535,35.765533],[139.851395,35.769264],[139.849503,35.769669],[139.84300200000001,35.767933],[139.838898,35.766201],[139.83749399999999,35.763802],[139.83239699999999,35.763866],[139.83090200000001,35.758865],[139.826706,35.757668],[139.82659899999999,35.761799],[139.82560699999999,35.761932],[139.82359299999999,35.756332],[139.821304,35.755798],[139.819794,35.759998],[139.81390400000001,35.759731],[139.81480400000001,35.753201],[139.820404,35.743332],[139.81449900000001,35.738731],[139.81080600000001,35.741066],[139.79969800000001,35.738865],[139.79130599999999,35.741531],[139.788895,35.7472],[139.791,35.750534],[139.78660600000001,35.753201],[139.75799599999999,35.754868],[139.74850499999999,35.757732],[139.750595,35.760666],[139.76020800000001,35.767067],[139.75730899999999,35.769733],[139.74679599999999,35.766998],[139.735794,35.771267],[139.737808,35.780533]]],"type":"Polygon"}
+}

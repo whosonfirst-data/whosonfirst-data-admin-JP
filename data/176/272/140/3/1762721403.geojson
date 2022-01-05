@@ -1,0 +1,136 @@
+{
+  "id": 1762721403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001118,
+    "geom:area_square_m":11226400.917996,
+    "geom:bbox":"139.730301,35.668667,139.783096,35.705265",
+    "geom:latitude":35.687723,
+    "geom:longitude":139.754622,
+    "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Chiyoda"
+    ],
+    "lbl:latitude":35.686235,
+    "lbl:longitude":139.752422,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Chiyoda",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Tiyodaku",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13101",
+    "meso:mps_x":139.752422,
+    "meso:mps_y":35.686235,
+    "meso:name_alt":"Chiyoda",
+    "meso:name_en":"Chiyoda Ku",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.686235,
+    "mps:longitude":139.752422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":6.0,
+    "name:ces_x_preferred":[
+        "\u010cijoda"
+    ],
+    "name:dan_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:deu_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:eng_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:eng_x_variant":[
+        "Tiyodaku",
+        "Chiyoda Ku"
+    ],
+    "name:fra_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:ita_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5343\u4ee3\u7530\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc694\ub2e4"
+    ],
+    "name:nld_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:pol_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0451\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cijoda"
+    ],
+    "name:spa_x_preferred":[
+        "Chiyoda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0439\u043e\u0434\u0430"
+    ],
+    "src:geom":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wikipedia",
+    "src:population_date":2016,
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:coterminous":[
+        1108741679
+    ],
+    "wof:country":"JP",
+    "wof:created":1479151040,
+    "wof:geomhash":"d249e7d4b5dacdbbbece9474255bd495",
+    "wof:hierarchy":[
+        {
+            "borough_id":1762721403,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741679,
+            "locality_id":102031307,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1762721403,
+    "wof:lastmodified":1641421462,
+    "wof:name":"Chiyoda",
+    "wof:parent_id":102031307,
+    "wof:placetype":"borough",
+    "wof:population":59441,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744595
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.730301,
+    35.668667,
+    139.783096,
+    35.705265
+],
+  "geometry": {"coordinates":[[[139.745407,35.702667],[139.74679599999999,35.703201],[139.75720200000001,35.701664],[139.76490799999999,35.699867],[139.76739499999999,35.699932],[139.76679999999999,35.701534],[139.76899700000001,35.703331],[139.770096,35.705265],[139.77310199999999,35.705067],[139.77319299999999,35.701733],[139.780396,35.700268],[139.78010599999999,35.697865],[139.78280599999999,35.697666],[139.783096,35.696331],[139.78259299999999,35.694664],[139.76930200000001,35.688801],[139.770996,35.684334],[139.762497,35.672665],[139.758804,35.669868],[139.75810200000001,35.668667],[139.75430299999999,35.669868],[139.753006,35.670132],[139.748199,35.669868],[139.747299,35.669868],[139.74679599999999,35.670467],[139.74380500000001,35.6712],[139.737503,35.677132],[139.73539700000001,35.6786],[139.731506,35.681599],[139.730301,35.687065],[139.734497,35.691334],[139.745407,35.702667]]],"type":"Polygon"}
+}
