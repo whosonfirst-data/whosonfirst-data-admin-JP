@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000011,
+    "geom:area":0.0,
     "geom:area_square_m":111647.830172,
-    "geom:bbox":"139.632913736,35.6253456177,139.63680062,35.6289809943",
-    "geom:latitude":35.627163,
-    "geom:longitude":139.634857,
+    "geom:bbox":"139.634749,35.627224,139.634749,35.627224",
+    "geom:latitude":35.627224,
+    "geom:longitude":139.634749,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.627224,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Yoga 4 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414391,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1065267
     },
     "wof:country":"JP",
-    "wof:geomhash":"a7480b7312832fc6f63bd7149671c95c",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"70b1cd5760b789f844499531101dfab3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725291,
+    "wof:lastmodified":1640894361,
     "wof:name":"\uff14\u4e01\u76ee",
     "wof:parent_id":102031397,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.63291373596064,
-    35.62534561769526,
-    139.63680062003965,
-    35.62898099432654
+    139.634749,
+    35.627224,
+    139.634749,
+    35.627224
 ],
-  "geometry": {"coordinates":[[[139.63623046900022,35.62898099432654],[139.63680061642054,35.62827954005046],[139.63649818247455,35.62716331470044],[139.63680062003965,35.62604706039315],[139.63623046900034,35.62534561769526],[139.63485717800029,35.62590878226872],[139.63348388700018,35.62534561769526],[139.63291373596064,35.62604706039315],[139.63321617352585,35.62716331470044],[139.63291373957969,35.62827954005046],[139.63348388700018,35.62898099432654],[139.63485717800029,35.628417806158],[139.63623046900022,35.62898099432654]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.634749,35.627224],"type":"Point"}
 }

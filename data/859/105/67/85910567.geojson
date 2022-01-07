@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000037,
+    "geom:area":0.0,
     "geom:area_square_m":369153.629653,
-    "geom:bbox":"139.715881348,35.6907639426,139.724121094,35.6974557983",
-    "geom:latitude":35.693738,
-    "geom:longitude":139.720459,
+    "geom:bbox":"139.721287,35.692619,139.721287,35.692619",
+    "geom:latitude":35.692619,
+    "geom:longitude":139.721287,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.692619,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Haramachi 3 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414081,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":485707
     },
     "wof:country":"JP",
-    "wof:geomhash":"c7414dac3eb0ee2367f14b8e4b60e3de",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"4a62aa4d0a10a871fb14867aaa8369a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725134,
+    "wof:lastmodified":1640894328,
     "wof:name":"\uff13\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.71588134800004,
-    35.69076394259365,
-    139.7241210940001,
-    35.69745579828678
+    139.721287,
+    35.692619,
+    139.721287,
+    35.692619
 ],
-  "geometry": {"coordinates":[[[139.72137451200024,35.69522524495727],[139.72412109400011,35.69522524180016],[139.72412109400011,35.69299462430011],[139.72412109400011,35.6907639431128],[139.72137451200024,35.69076394259365],[139.71862793000025,35.6907639431128],[139.71862793000025,35.69299462300009],[139.7158813480001,35.6929946251667],[139.7158813480001,35.69452367819845],[139.71588134800004,35.69522525090008],[139.71645110654276,35.69522524708668],[139.71862793000037,35.69522524495727],[139.71862793000014,35.69745579828678],[139.72137451200024,35.69745579828678],[139.72137451200024,35.69522524495727]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.72128699999999,35.692619],"type":"Point"}
 }

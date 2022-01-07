@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000008,
+    "geom:area":0.0,
     "geom:area_square_m":80580.628734,
-    "geom:bbox":"139.728240967,35.666222341,139.73236084,35.6689798396",
-    "geom:latitude":35.667504,
-    "geom:longitude":139.730507,
+    "geom:bbox":"139.730954,35.667348,139.730954,35.667348",
+    "geom:latitude":35.667348,
+    "geom:longitude":139.730954,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.667348,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Akasaka 9 Chome"
@@ -63,9 +63,10 @@
     "qs:woe_lau":1107355,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
@@ -82,9 +83,10 @@
     },
     "wof:country":"JP",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"260c336b94221f1b13661873b5a62cf6",
+    "wof:geomhash":"df6d461b467bdb06a836b9dc3c602065",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +101,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344400,
+    "wof:lastmodified":1640894325,
     "wof:name":"\uff19\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -109,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.72824096700003,
-    35.66622234100005,
-    139.73236084036017,
-    35.66897983963722
+    139.730954,
+    35.667348,
+    139.730954,
+    35.667348
 ],
-  "geometry": {"coordinates":[[[139.73098754900008,35.66622234100005],[139.72961425799997,35.66622234100005],[139.72961425799997,35.66733802976294],[139.72852592735399,35.66733802990016],[139.72824096700003,35.66733803250004],[139.72824096700003,35.66845370840007],[139.72852592682563,35.66845370840007],[139.7286036019604,35.66874053959326],[139.7291868233267,35.66897983963722],[139.72961425729574,35.66845370782789],[139.73236084036017,35.66845370761686],[139.73236084000001,35.66622234100005],[139.73098754900008,35.66622234100005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.730954,35.667348],"type":"Point"}
 }

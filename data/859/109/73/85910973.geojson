@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.0,
     "geom:area_square_m":61628.328411,
-    "geom:bbox":"139.71862793,35.6260470504,139.721374512,35.6282795556",
+    "geom:bbox":"139.720001,35.627163,139.720001,35.627163",
     "geom:latitude":35.627163,
     "geom:longitude":139.720001,
     "gn:id":"",
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414235,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1119773
     },
     "wof:country":"JP",
-    "wof:geomhash":"8f352d17fcb2d024f1ff96102d527b5c",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"01c0616324da8b6345722b1e45ae2d31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725225,
+    "wof:lastmodified":1640891993,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031379,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.71862793000008,
-    35.62604705037538,
-    139.72137451200007,
-    35.62827955560006
+    139.720001,
+    35.627163,
+    139.720001,
+    35.627163
 ],
-  "geometry": {"coordinates":[[[139.72080435732352,35.62604706111274],[139.71919809009415,35.62604705037538],[139.7191980780961,35.62604706465854],[139.71862793000008,35.62604706600004],[139.71862793000025,35.62674850065848],[139.71862793000025,35.62827954652954],[139.72080437644598,35.6282795542002],[139.72137451200007,35.62827955560006],[139.72137451200007,35.62716331633949],[139.72137451200007,35.62604706600004],[139.72080435732352,35.62604706111274]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.720001,35.627163],"type":"Point"}
 }

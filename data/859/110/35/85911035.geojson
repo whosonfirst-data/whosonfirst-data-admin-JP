@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000026,
+    "geom:area":0.0,
     "geom:area_square_m":261854.696747,
-    "geom:bbox":"139.693338613,35.6372088836,139.699401855,35.6439052379",
-    "geom:latitude":35.640547,
-    "geom:longitude":139.695859,
+    "geom:bbox":"139.69645,35.640957,139.69645,35.640957",
+    "geom:latitude":35.640957,
+    "geom:longitude":139.69645,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.640957,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Kamimeguro 2 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":1110072,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1088214
     },
     "wof:country":"JP",
-    "wof:geomhash":"f88bb3bc56da5c88a020f88bc3b9fd13",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0318a4a16317a5167961868867e9aee5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725204,
+    "wof:lastmodified":1640894339,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.6933386132464,
-    35.63720888358348,
-    139.69940185516674,
-    35.64390523790004
+    139.69645,
+    35.640957,
+    139.69645,
+    35.640957
 ],
-  "geometry": {"coordinates":[[[139.69665527300015,35.64390523790004],[139.69665527188681,35.64167318369537],[139.69940185500013,35.64167318460008],[139.69940185508352,35.64097170812512],[139.69940185516674,35.63944106206687],[139.69722534821841,35.63944106480086],[139.69665527300015,35.63873959668874],[139.69665527300015,35.63720888358348],[139.69390869099999,35.63720888506683],[139.69390869099999,35.63873959668874],[139.6933386132464,35.63944105340029],[139.69364095219476,35.6405571307002],[139.69333861957847,35.64167316902542],[139.69390869099999,35.64237464733944],[139.69390869099993,35.64390522888681],[139.695800193862,35.64390522831633],[139.69665527300015,35.64390523790004]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.69645,35.640957],"type":"Point"}
 }

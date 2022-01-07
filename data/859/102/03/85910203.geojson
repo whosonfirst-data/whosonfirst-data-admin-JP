@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.0,
     "geom:area_square_m":55547.382953,
-    "geom:bbox":"139.770812988,35.6773785442,139.774129434,35.6796096072",
-    "geom:latitude":35.678649,
-    "geom:longitude":139.772645,
+    "geom:bbox":"139.771966,35.678986,139.771966,35.678986",
+    "geom:latitude":35.678986,
+    "geom:longitude":139.771966,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.678986,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Kyobashi 1 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28413968,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":237838
     },
     "wof:country":"JP",
-    "wof:geomhash":"967c804b142f73345bef2f04ef892ad7",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6a8d340760826d489c807ab341a236e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725132,
+    "wof:lastmodified":1640894326,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.7708129880001,
-    35.67737854416266,
-    139.77412943400157,
-    35.67960960721963
+    139.771966,
+    35.678986,
+    139.771966,
+    35.678986
 ],
-  "geometry": {"coordinates":[[[139.7708129880001,35.67960960721963],[139.77218627900021,35.67960960678354],[139.77355957000009,35.67960960686089],[139.77412942131946,35.67960960206909],[139.77382738058276,35.67849408552514],[139.77412943400157,35.67737854416266],[139.77355957000009,35.67737855089347],[139.77247121096872,35.67737855162505],[139.77218627900015,35.67737855390003],[139.77218627900015,35.6784940894],[139.77081298807286,35.6784940894],[139.77081298809054,35.6788448555349],[139.7708129880001,35.67960960721963]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.77196599999999,35.678986],"type":"Point"}
 }

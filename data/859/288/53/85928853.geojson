@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000243,
+    "geom:area":0.0,
     "geom:area_square_m":2437418.975884,
-    "geom:bbox":"139.873265846,35.6751471242,139.888916016,35.6963023703",
-    "geom:latitude":35.685843,
-    "geom:longitude":139.881196,
+    "geom:bbox":"139.881226,35.684517,139.881226,35.684517",
+    "geom:latitude":35.684517,
+    "geom:longitude":139.881226,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.684517,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Ichinoe 8 Chome"
@@ -63,9 +63,10 @@
     "qs:woe_lau":28414742,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
@@ -85,9 +86,10 @@
     },
     "wof:country":"JP",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"02004b510970a8e6dad269a02bdbca94",
+    "wof:geomhash":"8c57df54e2e50ef70762051e18b48bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +104,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344416,
+    "wof:lastmodified":1640894330,
     "wof:name":"\uff18\u4e01\u76ee",
     "wof:parent_id":102031725,
     "wof:placetype":"neighbourhood",
@@ -112,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.87326584639015,
-    35.67514712420027,
-    139.88891601600017,
-    35.69630237025015
+    139.881226,
+    35.684517,
+    139.881226,
+    35.684517
 ],
-  "geometry": {"coordinates":[[[139.88175762776945,35.69619586575665],[139.88342285175031,35.69414554564518],[139.88891601600017,35.69076379497547],[139.88891601600017,35.68853320740003],[139.88891601600005,35.68407153310005],[139.88891601600017,35.67960929747514],[139.88704723260679,35.67960929747514],[139.87979786283609,35.67514712420027],[139.8779296872504,35.67514712420027],[139.87680867320597,35.67560711996209],[139.87518310525024,35.67960954700042],[139.87518310525024,35.68407147075037],[139.87326584639015,35.68879235478322],[139.87347242992183,35.69159009260872],[139.87901358012675,35.69613860964036],[139.88067626950004,35.69630237025015],[139.88175762776945,35.69619586575665]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.881226,35.684517],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000009,
+    "geom:area":0.0,
     "geom:area_square_m":92425.988133,
-    "geom:bbox":"139.638069892,35.63274434,139.641723633,35.6360927397",
-    "geom:latitude":35.634214,
-    "geom:longitude":139.640166,
+    "geom:bbox":"139.64035,35.633862,139.64035,35.633862",
+    "geom:latitude":35.633862,
+    "geom:longitude":139.64035,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.633862,
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414362,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":372043
     },
     "wof:country":"JP",
-    "wof:geomhash":"72ad3f87d841523c106c2b7c00d8e15d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"634df0f10825bf250d0305c827c71de1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725274,
+    "wof:lastmodified":1640892023,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031397,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.63806989162316,
-    35.63274434001744,
-    139.64172363300008,
-    35.63609273967525
+    139.64035,
+    35.633862,
+    139.64035,
+    35.633862
 ],
-  "geometry": {"coordinates":[[[139.64172363300008,35.63274434021248],[139.63897704820511,35.63274434001744],[139.63806989162316,35.63386046817543],[139.63897705424506,35.6349766441628],[139.63988415970266,35.63609273967525],[139.64081652429763,35.63609273967525],[139.64172363077324,35.63497664109032],[139.64172363300008,35.63274434021248]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.64035000000001,35.633862],"type":"Point"}
 }

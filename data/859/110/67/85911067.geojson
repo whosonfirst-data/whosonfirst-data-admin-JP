@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000012,
+    "geom:area":0.0,
     "geom:area_square_m":123218.667214,
-    "geom:bbox":"139.707641602,35.6372088832,139.710388184,35.6416731846",
-    "geom:latitude":35.639441,
+    "geom:bbox":"139.709015,35.639526,139.709015,35.639526",
+    "geom:latitude":35.639526,
     "geom:longitude":139.709015,
     "gn:id":"",
     "iso:country":"JP",
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414264,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":228701
     },
     "wof:country":"JP",
-    "wof:geomhash":"bce7222c05788e5615364d79730ea7f4",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"a1e4cc591ca13fb9c6965dc10da8fded",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725204,
+    "wof:lastmodified":1640891975,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.70764160200002,
-    35.63720888321267,
-    139.71038818400018,
-    35.64167318460008
+    139.709015,
+    35.639526,
+    139.709015,
+    35.639526
 ],
-  "geometry": {"coordinates":[[[139.71038818400018,35.63944106120019],[139.71038818400007,35.63720888321267],[139.70821168968172,35.63720888555365],[139.70764160200002,35.63720889100004],[139.70764160200002,35.63944106900009],[139.70764160200002,35.64014252771697],[139.70764160200002,35.64167317560141],[139.70981812179929,35.64167317971305],[139.71038818400001,35.64167318460008],[139.71038818400018,35.64097170827878],[139.71038818400018,35.63944106120019]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.70901499999999,35.639526],"type":"Point"}
 }

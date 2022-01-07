@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000011,
+    "geom:area":0.0,
     "geom:area_square_m":111353.048623,
-    "geom:bbox":"139.763946533,35.7036915926,139.768066406,35.7074925367",
-    "geom:latitude":35.705451,
-    "geom:longitude":139.76577,
+    "geom:bbox":"139.765875,35.70519,139.765875,35.70519",
+    "geom:latitude":35.70519,
+    "geom:longitude":139.765875,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.70519,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":15.5,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Yushima 2 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414124,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1088154
     },
     "wof:country":"JP",
-    "wof:geomhash":"99a99e7259d748973175d4e8a1f66f1e",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1fec27ef8801fe9453d2a307f0d19ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725243,
+    "wof:lastmodified":1640894349,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.76394653299997,
-    35.7036915926379,
-    139.76806640600006,
-    35.70749253673362
+    139.765875,
+    35.70519,
+    139.765875,
+    35.70519
 ],
-  "geometry": {"coordinates":[[[139.76531982400024,35.70749253646282],[139.76531982400019,35.70637740662528],[139.76806640600006,35.70637740738351],[139.76806640600006,35.70526226103537],[139.76806640600006,35.70414710063766],[139.76533682781087,35.70414710210004],[139.76531982400019,35.70413453835275],[139.76472034003007,35.7036915926379],[139.76394653300014,35.70400922903738],[139.76394653299997,35.70414710210004],[139.76394653300014,35.70526226070008],[139.76394653300014,35.70637740630029],[139.76394653300014,35.70749253673362],[139.76531982400024,35.70749253646282]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.76587499999999,35.70519],"type":"Point"}
 }

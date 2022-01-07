@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000009,
+    "geom:area":0.0,
     "geom:area_square_m":92309.078447,
-    "geom:bbox":"139.778482785,35.6610579069,139.782226771,35.6645170381",
-    "geom:latitude":35.662757,
-    "geom:longitude":139.780322,
+    "geom:bbox":"139.780613,35.663058,139.780613,35.663058",
+    "geom:latitude":35.663058,
+    "geom:longitude":139.780613,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.663058,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Tsukishima 3 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28413970,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":220352
     },
     "wof:country":"JP",
-    "wof:geomhash":"bb6c6b6e14310228cc70e2f7e0a51559",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e712619c24329ee02fe9bc309e5e248d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725132,
+    "wof:lastmodified":1640894326,
     "wof:name":"\uff13\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.7784827854844,
-    35.66105790688725,
-    139.78222677092185,
-    35.6645170380842
+    139.780613,
+    35.663058,
+    139.780613,
+    35.663058
 ],
-  "geometry": {"coordinates":[[[139.78222677092185,35.6645170380842],[139.78193320716002,35.66343304320038],[139.78208428930566,35.66287517050017],[139.78179931599999,35.66252441750508],[139.78179931599999,35.66175941930004],[139.78179931599999,35.66105790688725],[139.78042602500022,35.66162132323798],[139.77905273400017,35.66105790688734],[139.77848278548441,35.66175941564794],[139.77878495296818,35.66287516920023],[139.77848279401104,35.66399090157526],[139.77905273400012,35.66399090799155],[139.78014105435079,35.66399090968548],[139.78042602500022,35.66434166434671],[139.78111267075008,35.66405994545059],[139.78222677092185,35.6645170380842]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.78061299999999,35.663058],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000031,
+    "geom:area":0.0,
     "geom:area_square_m":307872.863949,
-    "geom:bbox":"139.674682617,35.6595278559,139.682922363,35.6639909044",
-    "geom:latitude":35.661983,
-    "geom:longitude":139.678253,
+    "geom:bbox":"139.678535,35.661143,139.678535,35.661143",
+    "geom:latitude":35.661143,
+    "geom:longitude":139.678535,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.661143,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Komaba 4 Chome"
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414254,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1088217
     },
     "wof:country":"JP",
-    "wof:geomhash":"853298e45af9933e1d29622cbc91dea8",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1269755d66033dc3810fc0644d408e90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725205,
+    "wof:lastmodified":1640894340,
     "wof:name":"\uff14\u4e01\u76ee",
     "wof:parent_id":102031397,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.67468261700014,
-    35.65952785588678,
-    139.68292236300016,
-    35.66399090437791
+    139.678535,
+    35.661143,
+    139.678535,
+    35.661143
 ],
-  "geometry": {"coordinates":[[[139.68292236300016,35.66399090230117],[139.68292236300016,35.66175941150023],[139.68017578100017,35.66175941020029],[139.68017578100023,35.6595278589573],[139.67742919900013,35.65952785588678],[139.67468261700014,35.6595278589573],[139.67468261700014,35.66175941150023],[139.67468261700014,35.66399090351264],[139.67742919900013,35.66399090299342],[139.68017578100017,35.66399090437791],[139.68292236300016,35.66399090230117]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.67853500000001,35.661143],"type":"Point"}
 }

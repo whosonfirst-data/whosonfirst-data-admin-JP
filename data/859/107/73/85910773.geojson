@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000012,
+    "geom:area":0.0,
     "geom:area_square_m":123032.857184,
-    "geom:bbox":"139.817504883,35.6974558004,139.820251465,35.7019167329",
-    "geom:latitude":35.699686,
+    "geom:bbox":"139.818878,35.699738,139.818878,35.699738",
+    "geom:latitude":35.699738,
     "geom:longitude":139.818878,
     "gn:id":"",
     "iso:country":"JP",
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414160,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":230642
     },
     "wof:country":"JP",
-    "wof:geomhash":"7d815daa8eb0a54c2d3763cc8296f08f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c89095f05ceb551cde8608ea8205a0be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725230,
+    "wof:lastmodified":1640891998,
     "wof:name":"\uff14\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.81750488300003,
-    35.69745580036673,
-    139.82025146500007,
-    35.70191673290005
+    139.818878,
+    35.699738,
+    139.818878,
+    35.699738
 ],
-  "geometry": {"coordinates":[[[139.82025146500007,35.69968629461442],[139.82025146500007,35.69745580036673],[139.81807463255126,35.69745580161266],[139.81750488300003,35.69745580730002],[139.81750488300003,35.69968629792493],[139.81750488300003,35.70191673290005],[139.81807460052994,35.70191673135426],[139.82025146500007,35.7019167238869],[139.82025146500007,35.69968629461442]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.81887800000001,35.699738],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000012,
+    "geom:area":0.0,
     "geom:area_square_m":125147.717637,
-    "geom:bbox":"139.70489502,35.5680454483,139.708782537,35.5724486104",
-    "geom:latitude":35.570652,
-    "geom:longitude":139.70672,
+    "geom:bbox":"139.706268,35.571331,139.706268,35.571331",
+    "geom:latitude":35.571331,
+    "geom:longitude":139.706268,
     "gn:id":"",
     "iso:country":"JP",
     "lbl:latitude":35.571331,
@@ -63,8 +63,10 @@
     "qs:woe_lau":28414276,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672817,
@@ -79,7 +81,10 @@
         "qs_pg:id":1269264
     },
     "wof:country":"JP",
-    "wof:geomhash":"3a1d5508dbe609464b9d314080668afd",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"4e8b1f9c552dae6dd1151e34efd48b13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +99,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1566725183,
+    "wof:lastmodified":1640891956,
     "wof:name":"\uff14\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
@@ -104,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.70489502000004,
-    35.56804544825647,
-    139.70878253659237,
-    35.57244861041677
+    139.706268,
+    35.571331,
+    139.706268,
+    35.571331
 ],
-  "geometry": {"coordinates":[[[139.70764160200002,35.56824060864147],[139.70758868656213,35.56804544825647],[139.70642705617354,35.5683310633412],[139.70489502000015,35.57021456150025],[139.70489502000004,35.57244860661564],[139.70764160200002,35.57244861041677],[139.7087824968811,35.57244860834341],[139.70878253659237,35.57244855330042],[139.70764160200002,35.56824060864147]]],"type":"Polygon"}
+  "geometry": {"coordinates":[139.70626799999999,35.571331],"type":"Point"}
 }

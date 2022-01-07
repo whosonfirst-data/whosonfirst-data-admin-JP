@@ -1,0 +1,101 @@
+{
+  "id": 1762721405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001003,
+    "geom:area_square_m":10073280.550097,
+    "geom:bbox":"139.758102,35.646,139.792801,35.696331",
+    "geom:latitude":35.671375,
+    "geom:longitude":139.777069,
+    "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Chuo"
+    ],
+    "lbl:latitude":35.668049,
+    "lbl:longitude":139.776745,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
+    "meso:admin_1":"Tokyo To",
+    "meso:gadm_admin":"Ch\u016b\u014d",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Tyuuooku",
+    "meso:hasc_id":"NO DATA",
+    "meso:local_id":"13102",
+    "meso:mps_x":139.775361,
+    "meso:mps_y":35.668812,
+    "meso:name_alt":"Chuo",
+    "meso:name_en":"Chuo Ku",
+    "meso:source":"GSIJ",
+    "mps:latitude":35.668812,
+    "mps:longitude":139.775361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":10.0,
+    "name:eng_x_preferred":[
+        "Ch\u016b\u014d"
+    ],
+    "name:eng_x_variant":[
+        "Tyuuooku",
+        "Ch\u016b\u014d",
+        "Chuo Ku"
+    ],
+    "name:fra_x_preferred":[
+        "Ch\u016b\u014d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u592e\u533a"
+    ],
+    "src:geom":"meso",
+    "src:lbl_centroid":"whosonfirst",
+    "src:population":"wikipedia",
+    "src:population_date":2016,
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        102031307,
+        1108741681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:coterminous":[
+        1108741681
+    ],
+    "wof:country":"JP",
+    "wof:created":1479151040,
+    "wof:geomhash":"79d572591047afefeddb70adb13b06ff",
+    "wof:hierarchy":[
+        {
+            "borough_id":1762721405,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741681,
+            "locality_id":102031307,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1762721405,
+    "wof:lastmodified":1641507168,
+    "wof:name":"Ch\u016b\u014d",
+    "wof:parent_id":102031307,
+    "wof:placetype":"borough",
+    "wof:population":147620,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108744597
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.758102,
+    35.646,
+    139.792801,
+    35.696331
+],
+  "geometry": {"coordinates":[[[139.783096,35.696331],[139.788895,35.694664],[139.79040499999999,35.689266],[139.792801,35.685799],[139.78869599999999,35.678265],[139.787903,35.669868],[139.78950499999999,35.656933],[139.772705,35.646],[139.76959199999999,35.649265],[139.773605,35.652668],[139.77230800000001,35.654064],[139.76840200000001,35.650398],[139.767303,35.655266],[139.769699,35.654266],[139.77070599999999,35.654934],[139.767303,35.658134],[139.76449600000001,35.656067],[139.75990300000001,35.6586],[139.76289399999999,35.665401],[139.75810200000001,35.668667],[139.758804,35.669868],[139.762497,35.672665],[139.770996,35.684334],[139.76930200000001,35.688801],[139.78259299999999,35.694664],[139.783096,35.696331]]],"type":"Polygon"}
+}

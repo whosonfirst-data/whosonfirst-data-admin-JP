@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"139.6037665,35.428183,139.6037665,35.428183",
+    "geom:bbox":"139.603767,35.428183,139.603767,35.428183",
     "geom:latitude":35.428183,
     "geom:longitude":139.603767,
     "gp:adm0":23424856,
@@ -15,7 +15,8 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":15.0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
     "qs:name":"\uff11\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
@@ -41,7 +42,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056251,
-    "wof:geomhash":"8df7e0821216e8b5020eed24ee9da40f",
+    "wof:geomhash":"43ba097d15e305a0a5138a478445dfe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":890522273,
-    "wof:lastmodified":1566726455,
+    "wof:lastmodified":1640902085,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031239,
     "wof:placetype":"neighbourhood",
@@ -63,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.6037665,
+    139.603767,
     35.428183,
-    139.6037665,
+    139.603767,
     35.428183
 ],
-  "geometry": {"coordinates":[139.60376650000001,35.428183],"type":"Point"}
+  "geometry": {"coordinates":[139.603767,35.428183],"type":"Point"}
 }
