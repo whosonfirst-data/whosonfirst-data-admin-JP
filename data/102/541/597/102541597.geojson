@@ -1,0 +1,123 @@
+{
+  "id": 102541597,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2005-02-17",
+    "date:inception_upper": "2005-02-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2005-02-17",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "136.804993,34.858398,136.804993,34.858398",
+    "geom:latitude": 34.858398,
+    "geom:longitude": 136.804993,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار ناغويا"
+    ],
+    "name:deu_x_preferred": [
+      "Flughafen Nagoya"
+    ],
+    "name:eng_x_preferred": [
+      "Nagoya Airfield"
+    ],
+    "name:eng_x_variant": [
+      "NGO",
+      "RJGG"
+    ],
+    "name:epo_x_preferred": [
+      "Nagoja Flughaveno"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه صحرایی ناگویا"
+    ],
+    "name:ind_x_preferred": [
+      "Lapangan Udara Nagoya"
+    ],
+    "name:ita_x_preferred": [
+      "Nagoya Airfield"
+    ],
+    "name:jap_x_preferred": [
+      "中部国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "나고야 비행장"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Nagoya"
+    ],
+    "name:spa_x_preferred": [
+      "Nagoya Airfield"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи мовнтн‌дил"
+    ],
+    "name:tur_x_preferred": [
+      "Nagoya Havalimanı"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay Nagoya"
+    ],
+    "oa:elevation_ft": "15",
+    "oa:type": "large_airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424856,
+      "planet_id": 1,
+      "state_id": 2345851
+    },
+    "wof:belongsto": [
+      85916311,
+      102191569,
+      85632429,
+      102031313,
+      1108742261,
+      85672731
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 28298951,
+      "iata:code": "NGO",
+      "icao:code": "RJGG",
+      "oa:id": "5576",
+      "wd:id": "Q20455647",
+      "wk:page": "Ch%C5%ABbu_Centrair_International_Airport"
+    },
+    "wof:country": "",
+    "wof:created": 1651701615,
+    "wof:geomhash": "c252d31b80bcb511ae1d9555bf1d044b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102541597,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 1108742261,
+        "locality_id": 102031313,
+        "neighbourhood_id": 85916311,
+        "region_id": 85672731
+      }
+    ],
+    "wof:id": 102541597,
+    "wof:lastmodified": 1651701615,
+    "wof:name": "Chubu Centrair International Airport",
+    "wof:parent_id": 85916311,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-jp",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    136.804993,
+    34.858398,
+    136.804993,
+    34.858398
+  ],
+  "geometry": {"coordinates":[136.804993,34.858398],"type":"Point"}
+}
