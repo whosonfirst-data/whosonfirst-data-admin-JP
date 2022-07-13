@@ -21,7 +21,7 @@
         "KIX",
         "RJBB"
     ],
-    "name:jap_x_preferred":[
+    "name:jpn_x_preferred":[
         "\u95a2\u897f\u56fd\u969b\u7a7a\u6e2f"
     ],
     "src:geom":"woedb",
@@ -36,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672785,
         1108742491,
+        85672785,
         1108745407
     ],
     "wof:breaches":[],
@@ -47,8 +47,8 @@
         "iata:code":"KIX",
         "icao":"RJBB",
         "icao:code":"RJBB",
-        "wikidata":"Q193682",
-        "wikipedia":"Kansai_International_Airport"
+        "wd:id":"Q193682",
+        "wk:page":"Kansai_International_Airport"
     },
     "wof:country":"JP",
     "wof:geomhash":"453e51a04e5393229c449a3980714d21",
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":102541661,
-    "wof:lastmodified":1631733561,
+    "wof:lastmodified":1657665774,
     "wof:name":"Kansai International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
