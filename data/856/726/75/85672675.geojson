@@ -49,8 +49,14 @@
     "name:aze_x_preferred":[
         "Okayama"
     ],
+    "name:aze_x_variant":[
+        "Okayama prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u041e\u043a\u0430\u044f\u043c\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Okayama"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0410\u043a\u0430\u044f\u043c\u0430"
@@ -65,7 +71,8 @@
         "Prefectura dOkayama"
     ],
     "name:cat_x_variant":[
-        "Prefectura d'Okayama"
+        "Prefectura d'Okayama",
+        "prefectura d'Okayama"
     ],
     "name:cdo_x_preferred":[
         "Okayama-g\u00e2ing"
@@ -78,6 +85,9 @@
     ],
     "name:ces_x_variant":[
         "prefektura Okajama"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043a\u0430\u044f\u043c\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u06a9\u0627\u06cc\u0627\u0645\u0627"
@@ -121,6 +131,9 @@
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture d'Okayama",
+        "Okayama"
+    ],
+    "name:frr_x_preferred":[
         "Okayama"
     ],
     "name:gle_x_preferred":[
@@ -183,6 +196,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0c95\u0caf\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10d8\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
+    ],
     "name:khm_x_preferred":[
         "\u1781\u17c1\u178f\u17d2\u178f\u17a2\u17bc\u1780\u17b6\u1799\u17c9\u17b6\u1798\u17c9\u17b6"
     ],
@@ -207,6 +223,9 @@
     "name:mkd_x_preferred":[
         "\u041e\u043a\u0430\u0458\u0430\u043c\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe3\uabc0\uabe5\uabcc\uabe5\uabc3\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Okayama"
     ],
@@ -216,8 +235,14 @@
     "name:nld_x_preferred":[
         "Okayama"
     ],
+    "name:nno_x_preferred":[
+        "Okayama prefektur"
+    ],
     "name:nob_x_preferred":[
         "Okayama"
+    ],
+    "name:nob_x_variant":[
+        "Okayama prefektur"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0648\u06a9\u0627\u06cc\u0627\u0645\u0627"
@@ -243,6 +268,9 @@
     "name:slk_x_preferred":[
         "Okajama"
     ],
+    "name:slv_x_preferred":[
+        "Okajama"
+    ],
     "name:sme_x_preferred":[
         "Okayama prefektuvra"
     ],
@@ -266,6 +294,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0b95\u0bbe\u0baf\u0bae\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043a\u0430\u044f\u043c\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c15\u0c2f\u0c3e\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -435,7 +466,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894882,
+    "wof:lastmodified":1690937664,
     "wof:name":"Okayama",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

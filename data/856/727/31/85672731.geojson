@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u062a\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u062a\u0634\u0649"
+    ],
     "name:ast_x_preferred":[
         "prefeutura d'Aichi"
     ],
@@ -49,8 +52,14 @@
     "name:aze_x_preferred":[
         "Ayti"
     ],
+    "name:aze_x_variant":[
+        "Ay\u00e7i prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u0439\u0442\u0438"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Aichi"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0410\u0439\u0442\u044b"
@@ -78,6 +87,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Ai\u010di"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0442\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u06cc\u0686\u06cc"
@@ -123,7 +135,8 @@
         "pr\u00e9fecture d'Aichi"
     ],
     "name:fra_x_variant":[
-        "Aichi"
+        "Aichi",
+        "Pr\u00e9fecture d'Aichi"
     ],
     "name:frr_x_preferred":[
         "Prefektuur Aichi"
@@ -207,6 +220,9 @@
     "name:mkd_x_preferred":[
         "\u0410\u0458\u0447\u0438"
     ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe5\uabe2\uabc6\uabe4 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u0439\u0447\u0438"
     ],
@@ -225,14 +241,29 @@
     "name:nno_x_preferred":[
         "Aichi"
     ],
+    "name:nno_x_variant":[
+        "Aichi prefektur"
+    ],
     "name:nob_x_preferred":[
         "Aichi"
+    ],
+    "name:nob_x_variant":[
+        "Aichi prefektur"
     ],
     "name:nor_x_preferred":[
         "Aichi Prefektur"
     ],
     "name:nov_x_preferred":[
         "Aichi Prefecture"
+    ],
+    "name:nov_x_variant":[
+        "Aichi Prefekture"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b06\u0b07\u0b1a\u0b3f \u0b30\u0b3e\u0b1c\u0b4d\u0b2f"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0439\u0442\u0438"
     ],
     "name:pam_x_preferred":[
         "Aichi Prefecture"
@@ -290,6 +321,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bc7\u0baa\u0bbf\u0b95\u0bcd\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0439\u0442\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2f\u0c3f\u0c1a\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -459,7 +493,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894886,
+    "wof:lastmodified":1690937679,
     "wof:name":"Aichi",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

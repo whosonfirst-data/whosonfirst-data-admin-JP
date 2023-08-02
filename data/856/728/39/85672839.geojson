@@ -52,8 +52,17 @@
     "name:bak_x_preferred":[
         "\u0418\u0432\u0430\u0442\u044d"
     ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Iwat\u00e9"
+    ],
+    "name:bcl_x_preferred":[
+        "Prepekturang Iwate"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0406\u0432\u0430\u0442\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0406\u0432\u0430\u0442\u044d"
     ],
     "name:ben_x_preferred":[
         "\u0987\u0993\u09af\u09bc\u09be\u09a4\u09c7 \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -65,7 +74,8 @@
         "Prefectura dIwate"
     ],
     "name:cat_x_variant":[
-        "Prefectura d'Iwate"
+        "Prefectura d'Iwate",
+        "prefectura d'Iwate"
     ],
     "name:cdo_x_preferred":[
         "Iwate-g\u00e2ing"
@@ -75,6 +85,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Iwate"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u0430\u0442\u044d"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0648\u0627\u062a\u06ce"
@@ -124,7 +137,8 @@
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture d'Iwate",
-        "Iwate"
+        "Iwate",
+        "Pr\u00e9fecture d'Iwate"
     ],
     "name:gan_x_preferred":[
         "\u5ca9\u624b\u53bf"
@@ -222,6 +236,9 @@
     "name:mkd_x_preferred":[
         "\u0418\u0432\u0430\u0442\u0435"
     ],
+    "name:mni_x_preferred":[
+        "\uabcf\uabcb\uabe5\uabc7\uabe6 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0432\u0430\u0442\u044d"
     ],
@@ -234,8 +251,14 @@
     "name:nld_x_preferred":[
         "Iwate"
     ],
+    "name:nno_x_preferred":[
+        "Iwate prefektur"
+    ],
     "name:nob_x_preferred":[
         "Iwate"
+    ],
+    "name:nob_x_variant":[
+        "Iwate prefektur"
     ],
     "name:nov_x_preferred":[
         "Iwate Prefekture"
@@ -297,6 +320,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0432\u0430\u0442\u044d"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c35\u0c3e\u0c1f\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
     ],
@@ -347,6 +373,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5ca9\u624b\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5ca9\u624b\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -473,7 +502,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894884,
+    "wof:lastmodified":1690937671,
     "wof:name":"Iwate",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

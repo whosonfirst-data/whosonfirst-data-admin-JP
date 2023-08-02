@@ -50,6 +50,9 @@
     "name:bak_x_preferred":[
         "\u042f\u043c\u0430\u0433\u0430\u0442\u0430"
     ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Yamagata"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u042f\u043c\u0430\u0433\u0430\u0442\u0430"
     ],
@@ -77,6 +80,9 @@
     "name:ces_x_variant":[
         "prefektura Jamagata"
     ],
+    "name:che_x_preferred":[
+        "\u042f\u043c\u0430\u0433\u0430\u0442\u0430"
+    ],
     "name:ckb_x_preferred":[
         "\u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03b1\u03bc\u03b1\u03b3\u03ba\u03ac\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u0393\u03b9\u03b1\u03bc\u03ac\u03b3\u03ba\u03b1\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Yamagata Prefecture"
@@ -150,6 +159,9 @@
     "name:hun_x_preferred":[
         "Jamagata prefekt\u00fara"
     ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0574\u0561\u0563\u0561\u0569\u0561"
+    ],
     "name:ilo_x_preferred":[
         "Prepektura ti Yamagata"
     ],
@@ -201,6 +213,9 @@
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043c\u0430\u0433\u0430\u0442\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabcc\uabe5\uabc3\uabe5\uabd2\uabe5\uabc7\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u042f\u043c\u0430\u0433\u0430\u0442\u0430-\u043a\u044d\u043d"
     ],
@@ -213,8 +228,14 @@
     "name:nld_x_preferred":[
         "Yamagata"
     ],
+    "name:nno_x_preferred":[
+        "Yamagata prefektur"
+    ],
     "name:nob_x_preferred":[
         "Yamagata"
+    ],
+    "name:nob_x_variant":[
+        "Yamagata prefektur"
     ],
     "name:nov_x_preferred":[
         "Yamagata Prefekture"
@@ -246,6 +267,9 @@
     "name:slk_x_preferred":[
         "Jamagata"
     ],
+    "name:slv_x_preferred":[
+        "Jamagata"
+    ],
     "name:sme_x_preferred":[
         "Yamagata prefektuvra"
     ],
@@ -269,6 +293,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baf\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043c\u0430\u0433\u0430\u0442\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c2e\u0c17\u0c3e\u0c24\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -303,6 +330,9 @@
     "name:urd_x_variant":[
         "\u06cc\u0627\u0645\u0627\u06af\u0627\u062a\u0627 \u067e\u0631\u0641\u06a9\u062a\u0631\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Yamagata"
+    ],
     "name:vie_x_preferred":[
         "Yamagata"
     ],
@@ -312,11 +342,17 @@
     "name:wuu_x_preferred":[
         "\u5c71\u5f62\u53bf"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10d0\u10db\u10d0\u10d2\u10d0\u10e2\u10d0\u10e8 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
+    ],
     "name:yue_x_preferred":[
         "\u5c71\u5f62\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u5c71\u5f62\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5c71\u5f62\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -444,7 +480,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894884,
+    "wof:lastmodified":1690937671,
     "wof:name":"Yamagata",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

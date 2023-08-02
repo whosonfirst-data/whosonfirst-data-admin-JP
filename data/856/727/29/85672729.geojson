@@ -49,6 +49,9 @@
     "name:bak_x_preferred":[
         "\u0422\u043e\u043a\u0443\u0441\u0438\u043c\u0430"
     ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Tokushima"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0422\u0430\u043a\u0443\u0441\u0456\u043c\u0430"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Toku\u0161ima"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u043e\u043a\u0443\u0441\u0438\u043c\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u06c6\u06a9\u0648\u0634\u06cc\u0645\u0627"
@@ -164,6 +170,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0ccb\u0c95\u0cc1\u0cb6\u0cbf\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10d9\u10e3\u10e1\u10d8\u10db\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub3c4\ucfe0\uc2dc\ub9c8 \ud604"
     ],
@@ -185,6 +194,9 @@
     "name:mkd_x_preferred":[
         "\u0422\u043e\u043a\u0443\u0448\u0438\u043c\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe3\uabc0\uabe8\uabc1\uabe4\uabc3\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Tokushima"
     ],
@@ -194,8 +206,14 @@
     "name:nld_x_preferred":[
         "Tokushima"
     ],
+    "name:nno_x_preferred":[
+        "Tokushima prefektur"
+    ],
     "name:nob_x_preferred":[
         "Tokushima"
+    ],
+    "name:nob_x_variant":[
+        "Tokushima prefektur"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0679\u0648\u06a9\u0648\u0634\u06cc\u0645\u0627"
@@ -227,6 +245,9 @@
     "name:spa_x_preferred":[
         "Prefectura de Tokushima"
     ],
+    "name:sqi_x_preferred":[
+        "Prefektura Tokushima"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u043a\u0443\u0448\u0438\u043c\u0430"
     ],
@@ -241,6 +262,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0b95\u0bc1\u0bb7\u0bbf\u0bae\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u043e\u043a\u0443\u0441\u0438\u043c\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4a\u0c15\u0c42\u0c37\u0c3f\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -275,11 +299,17 @@
     "name:war_x_preferred":[
         "Tokushima"
     ],
+    "name:wuu_x_preferred":[
+        "\u5fb7\u5c9b\u53bf"
+    ],
     "name:yue_x_preferred":[
         "\u5fb7\u5cf6\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c9b\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5fb7\u5cf6\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -405,7 +435,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894885,
+    "wof:lastmodified":1690937677,
     "wof:name":"Tokushima",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

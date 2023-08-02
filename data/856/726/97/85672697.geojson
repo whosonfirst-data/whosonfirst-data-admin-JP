@@ -52,6 +52,9 @@
     "name:bak_x_preferred":[
         "\u0424\u0443\u043a\u0443\u043e\u043a\u0430"
     ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Fukuoka"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0424\u0443\u043a\u0443\u043e\u043a\u0430"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Fukuoka"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0443\u043a\u0443\u043e\u043a\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u0626\u06c6\u06a9\u0627"
@@ -118,6 +124,9 @@
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture de Fukuoka",
+        "Fukuoka"
+    ],
+    "name:frr_x_preferred":[
         "Fukuoka"
     ],
     "name:gle_x_preferred":[
@@ -178,6 +187,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cc1\u0c95\u0cc1\u0c95\u0cbe\u0c95\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e3\u10d9\u10e3\u10dd\u10d9\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud6c4\ucfe0\uc624\uce74\ucf04"
     ],
@@ -203,6 +215,9 @@
     "name:mkd_x_preferred":[
         "\u0424\u0443\u043a\u0443\u043e\u043a\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabd0\uabe8\uabc0\uabe8\uabd1\uabe3\uabc0\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Fukuoka"
     ],
@@ -212,14 +227,26 @@
     "name:nld_x_preferred":[
         "Fukuoka"
     ],
+    "name:nno_x_preferred":[
+        "Fukuoka prefektur"
+    ],
     "name:nob_x_preferred":[
         "Fukuoka"
+    ],
+    "name:nob_x_variant":[
+        "Fukuoka prefektur"
     ],
     "name:nor_x_preferred":[
         "Fukuoka Prefektur"
     ],
     "name:nov_x_preferred":[
         "Fukuoka Prefecture"
+    ],
+    "name:nov_x_variant":[
+        "Fukuoka Prefekture"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0443\u043a\u0443\u043e\u043a\u00e6"
     ],
     "name:pam_x_preferred":[
         "Fukuoka Prefecture"
@@ -281,6 +308,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0b92\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u0443\u043a\u0443\u043e\u043a\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c41\u0c15\u0c41\u0c35\u0c4b\u0c15\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
     ],
@@ -311,11 +341,17 @@
     "name:war_x_preferred":[
         "Fukuoka"
     ],
+    "name:wuu_x_preferred":[
+        "\u798f\u5188\u53bf"
+    ],
     "name:yue_x_preferred":[
         "\u798f\u5ca1\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u798f\u5188\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u798f\u5ca1\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -441,7 +477,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894882,
+    "wof:lastmodified":1690937664,
     "wof:name":"Fukuoka",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

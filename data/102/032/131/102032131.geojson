@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0632\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Niiza"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u06cc\u200c\u0627\u06cc\u0632\u0627"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:ceb_x_preferred":[
         "Niiza"
+    ],
+    "name:ces_x_preferred":[
+        "Niiza"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0438\u0434\u0437\u0430"
     ],
     "name:dan_x_preferred":[
         "Niiza"
@@ -62,6 +71,9 @@
         "Niiza"
     ],
     "name:fra_x_preferred":[
+        "Niiza"
+    ],
+    "name:gle_x_preferred":[
         "Niiza"
     ],
     "name:glg_x_preferred":[
@@ -165,6 +177,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bc0\u0b9c\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0438\u0434\u0437\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c40\u0c1c\u0c3e"
     ],
@@ -177,6 +192,9 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e34\u0e0b\u0e0b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e35\u0e0b\u0e30"
+    ],
     "name:tum_x_preferred":[
         "Niiza"
     ],
@@ -188,6 +206,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0632\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Niiza"
     ],
     "name:vie_x_preferred":[
         "Niiza"
@@ -232,8 +253,8 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        1108740461,
-        85672807
+        85672807,
+        1108740461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +279,7 @@
         }
     ],
     "wof:id":102032131,
-    "wof:lastmodified":1607634503,
+    "wof:lastmodified":1690937630,
     "wof:name":"Niiza",
     "wof:parent_id":1108740461,
     "wof:placetype":"locality",

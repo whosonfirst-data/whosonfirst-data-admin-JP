@@ -40,14 +40,23 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u0627\u062c\u0627\u0648\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0646\u0627\u0642\u0627\u0648\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Kanaqava"
     ],
+    "name:aze_x_variant":[
+        "Kanaqava prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Kanagawa"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
@@ -69,6 +78,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Kanagawa"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u0627\u0646\u0627\u06af\u0627\u0648\u0627"
@@ -120,6 +132,9 @@
         "pr\u00e9fecture de Kanagawa",
         "Kanagawa"
     ],
+    "name:frr_x_preferred":[
+        "Kanagawa"
+    ],
     "name:gle_x_preferred":[
         "Maoracht Kanagawa"
     ],
@@ -137,6 +152,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e0\u05d0\u05d2\u05d5\u05d5\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e0\u05d0\u05d2\u05d0\u05d5\u05d5\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0928\u093e\u0917\u093e\u0935\u093e \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
@@ -210,6 +228,9 @@
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabe5\uabc5\uabe5\uabd2\uabe5\uabcb\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
     ],
@@ -222,8 +243,14 @@
     "name:nld_x_preferred":[
         "Kanagawa"
     ],
+    "name:nno_x_preferred":[
+        "Kanagawa prefektur"
+    ],
     "name:nob_x_preferred":[
         "Kanagawa"
+    ],
+    "name:nob_x_variant":[
+        "Kanagawa prefektur"
     ],
     "name:nor_x_preferred":[
         "Kanagawa Prefektur"
@@ -233,6 +260,9 @@
     ],
     "name:nov_x_variant":[
         "Kanagawa Prefecture"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u00e6"
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Kanagawa"
@@ -267,6 +297,9 @@
     "name:slv_x_preferred":[
         "prefektura Kanagawa"
     ],
+    "name:slv_x_variant":[
+        "prefektura Kanagava"
+    ],
     "name:sme_x_preferred":[
         "Kanagawa prefektuvra"
     ],
@@ -296,6 +329,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0ba9\u0b95\u0bb5\u0bbe  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0ba9\u0b95\u0bb5\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c28\u0c17\u0c3e\u0c35\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -467,7 +506,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894883,
+    "wof:lastmodified":1690937668,
     "wof:name":"Kanagawa",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

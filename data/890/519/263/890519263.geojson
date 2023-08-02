@@ -22,7 +22,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u064a\u0633\u0648"
+    ],
     "name:ast_x_preferred":[
+        "\u014ciso"
+    ],
+    "name:cat_x_preferred":[
         "\u014ciso"
     ],
     "name:ceb_x_preferred":[
@@ -37,10 +43,16 @@
     "name:eng_x_preferred":[
         "\u014ciso"
     ],
+    "name:eng_x_variant":[
+        "Oiso"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u06cc\u0633\u0648"
     ],
     "name:fra_x_preferred":[
+        "\u014ciso"
+    ],
+    "name:gle_x_preferred":[
         "\u014ciso"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +70,9 @@
     "name:kor_x_variant":[
         "\uc624\uc774\uc18c\uc815"
     ],
+    "name:mlg_x_preferred":[
+        "\u014ciso"
+    ],
     "name:msa_x_preferred":[
         "\u014ciso"
     ],
@@ -65,6 +80,9 @@
         "\u1021\u102d\u102f\u1038\u1021\u102d\u1006\u102d\u102f\u1019\u103c\u102d\u102f\u1037\u104a \u1001\u102b\u1014\u102c\u1002\u102b\u101d\u102b"
     ],
     "name:nld_x_preferred":[
+        "\u014ciso"
+    ],
+    "name:pol_x_preferred":[
         "\u014ciso"
     ],
     "name:por_x_preferred":[
@@ -76,8 +94,14 @@
     "name:spa_x_preferred":[
         "\u014ciso"
     ],
+    "name:swe_x_preferred":[
+        "\u014ciso"
+    ],
     "name:tgl_x_preferred":[
         "Oiso"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e2d\u0e34\u0e42\u0e0b\u0e30"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0457\u0441\u043e"
@@ -114,7 +138,7 @@
         }
     ],
     "wof:id":890519263,
-    "wof:lastmodified":1566726355,
+    "wof:lastmodified":1690937852,
     "wof:name":"\u014ciso",
     "wof:parent_id":85672805,
     "wof:placetype":"locality",
