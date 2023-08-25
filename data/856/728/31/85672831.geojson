@@ -52,11 +52,15 @@
     "name:bak_x_preferred":[
         "\u0410\u043e\u043c\u043e\u0440\u0438"
     ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Aomori"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0430\u043c\u043e\u0440\u044b"
     ],
     "name:bel_x_variant":[
-        "\u043f\u0440\u044d\u0444\u0435\u043a\u0440\u0443\u0442\u0430 \u0410\u043e\u043c\u0430\u0440\u044b"
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0440\u0443\u0442\u0430 \u0410\u043e\u043c\u0430\u0440\u044b",
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0410\u043e\u043c\u0430\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0986\u0993\u09ae\u09cb\u09b0\u09bf \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -78,6 +82,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Aomori"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043e\u043c\u043e\u0440\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0626\u06c6\u0645\u06c6\u0631\u06cc"
@@ -193,6 +200,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10dd\u10db\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u17a2\u17b6\u17a2\u17bc\u1798\u17c9\u17bc\u179a\u17b8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc624\ubaa8\ub9ac \ud604"
     ],
@@ -213,6 +223,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043e\u043c\u043e\u0440\u0438"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe5\uabd1\uabe3\uabc3\uabe3\uabd4\uabe4 \uabc2\uabdd\uabc8\uabe5\uabe2"
     ],
     "name:mon_x_preferred":[
         "\u0410\u043e\u043c\u043e\u0440\u0438 \u0430\u0439\u043c\u0430\u0433"
@@ -241,8 +254,14 @@
     "name:nob_x_preferred":[
         "Aomori"
     ],
+    "name:nob_x_variant":[
+        "Aomori prefektur"
+    ],
     "name:nov_x_preferred":[
         "Aomori Prefecture"
+    ],
+    "name:nov_x_variant":[
+        "Aomori Prefekture"
     ],
     "name:pam_x_preferred":[
         "Aomori Prefecture"
@@ -264,6 +283,9 @@
     ],
     "name:sco_x_preferred":[
         "Aomori Prefectur"
+    ],
+    "name:sgs_x_preferred":[
+        "Aomor\u0117 prefekt\u016bra"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0d94\u0db8\u0ddc\u0dbb\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -297,6 +319,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bae\u0bb0\u0bc0 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043e\u043c\u043e\u0440\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c14\u0c2e\u0c4b\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c3f\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -472,7 +497,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1636412923,
+    "wof:lastmodified":1690937670,
     "wof:name":"Aomori",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

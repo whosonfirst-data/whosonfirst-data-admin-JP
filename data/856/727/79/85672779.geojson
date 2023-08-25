@@ -46,8 +46,14 @@
     "name:aze_x_preferred":[
         "Nara"
     ],
+    "name:aze_x_variant":[
+        "Nara prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u041d\u0430\u0440\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Nara"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0440\u0430"
@@ -72,6 +78,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Nara"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0440\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u0631\u0627"
@@ -117,6 +126,9 @@
     "name:fra_x_variant":[
         "Nara"
     ],
+    "name:frr_x_preferred":[
+        "Nara"
+    ],
     "name:gle_x_preferred":[
         "Maoracht Nara"
     ],
@@ -143,6 +155,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0580\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0561\u0580\u0561 \u057a\u0580\u0565\u0586\u0565\u056f\u057f\u0578\u0582\u0580\u0561"
     ],
     "name:ilo_x_preferred":[
         "Nara"
@@ -198,6 +213,9 @@
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0440\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabc5\uabe5\uabd4\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Nara"
     ],
@@ -207,8 +225,14 @@
     "name:nld_x_preferred":[
         "Nara"
     ],
+    "name:nno_x_preferred":[
+        "Nara prefektur"
+    ],
     "name:nob_x_preferred":[
         "Nara"
+    ],
+    "name:nob_x_variant":[
+        "Nara prefektur"
     ],
     "name:pam_x_preferred":[
         "Nara Prefecture"
@@ -230,6 +254,9 @@
     ],
     "name:sco_x_preferred":[
         "Nara Prefectur"
+    ],
+    "name:sgs_x_preferred":[
+        "Naras prefekt\u016bra"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dcf\u0dbb\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -260,6 +287,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0bb0\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0bbe\u0bb0\u0bbe \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u0440\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -305,6 +338,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5948\u826f\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5948\u826f\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -431,7 +467,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1636412925,
+    "wof:lastmodified":1690937680,
     "wof:name":"Nara",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

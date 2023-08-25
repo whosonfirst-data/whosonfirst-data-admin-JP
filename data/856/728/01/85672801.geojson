@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0628\u0627\u0631\u0627\u0643\u0649"
+    ],
     "name:ast_x_preferred":[
         "prefeutura d'Ibaraki"
     ],
@@ -49,8 +52,14 @@
     "name:aze_x_preferred":[
         "\u0130baraki"
     ],
+    "name:aze_x_variant":[
+        "\u0130baraki prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Ibaraki"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0406\u0431\u0430\u0440\u0430\u043a\u0456"
@@ -75,6 +84,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Ibaraki"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc"
@@ -123,6 +135,9 @@
         "pr\u00e9fecture d'Ibaraki",
         "Ibaraki"
     ],
+    "name:frr_x_preferred":[
+        "Ibaraki"
+    ],
     "name:gle_x_preferred":[
         "Maoracht Ibaraki"
     ],
@@ -149,6 +164,9 @@
     ],
     "name:hun_x_preferred":[
         "Ibaraki prefekt\u00fara"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0562\u0561\u0580\u0561\u056f\u056b"
     ],
     "name:ilo_x_preferred":[
         "Prepektura ti Ibaraki"
@@ -210,6 +228,9 @@
     "name:mkd_x_preferred":[
         "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
     ],
+    "name:mni_x_preferred":[
+        "\uabcf\uabd5\uabe5\uabd4\uabe5\uabc0\uabe4 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
     ],
@@ -227,6 +248,9 @@
     ],
     "name:nob_x_preferred":[
         "Ibaraki"
+    ],
+    "name:nob_x_variant":[
+        "Ibaraki prefektur"
     ],
     "name:nor_x_preferred":[
         "Ibaraki Prefektur"
@@ -297,6 +321,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0baa\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0baa\u0bbf\u0bb0\u0bc7\u0baa\u0bbf\u0b95\u0bcd\u0b9f\u0bc2\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0431\u0430\u0440\u0430\u043a\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c2c\u0c30\u0c3e\u0c15\u0c3f \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
     ],
@@ -327,11 +354,17 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0628\u0627\u0631\u0627\u06a9\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Ibaraki prefekturasi"
+    ],
     "name:vie_x_preferred":[
         "Ibaraki"
     ],
     "name:war_x_preferred":[
         "Ibaraki"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8328\u57ce\u53bf"
     ],
     "name:yue_x_preferred":[
         "\u8328\u57ce\u7e23"
@@ -467,7 +500,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894884,
+    "wof:lastmodified":1690937671,
     "wof:name":"Ibaraki",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

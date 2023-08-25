@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0645\u0627\u062a\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Hamamatsu"
+    ],
     "name:azb_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0645\u0627\u062a\u0633\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Hamamatsu"
     ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u043c\u0430\u043c\u0430\u0446\u0443"
@@ -48,6 +54,9 @@
     ],
     "name:ces_x_preferred":[
         "Hamamacu"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u043c\u0430\u043c\u0430\u0446\u0443"
     ],
     "name:cym_x_preferred":[
         "Hamamatsu"
@@ -112,6 +121,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0574\u0561\u0574\u0561\u0581\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Hamamatsu"
     ],
     "name:ind_x_preferred":[
         "Hamamatsu"
@@ -182,6 +194,12 @@
     "name:nob_x_preferred":[
         "Hamamatsu"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u043c\u0430\u043c\u0430\u0446\u0443"
+    ],
+    "name:pms_x_preferred":[
+        "Hamamatsu"
+    ],
     "name:pnb_x_preferred":[
         "\u06c1\u0627\u0645\u0627\u0645\u0627\u062a\u0633\u0648"
     ],
@@ -211,6 +229,9 @@
     ],
     "name:slv_x_preferred":[
         "Hamamatsu"
+    ],
+    "name:slv_x_variant":[
+        "Hamamacu"
     ],
     "name:spa_x_preferred":[
         "Hamamatsu"
@@ -245,6 +266,9 @@
     "name:tha_x_preferred":[
         "\u0e2e\u0e30\u0e21\u0e30\u0e21\u0e30\u0e2a\u0e36"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e32\u0e21\u0e32\u0e21\u0e31\u0e15\u0e2a\u0e36"
+    ],
     "name:tum_x_preferred":[
         "Hamamatsu"
     ],
@@ -260,6 +284,12 @@
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0645\u0627\u0645\u0627\u062a\u0633\u0648"
     ],
+    "name:uzb_x_preferred":[
+        "Hamamatsu"
+    ],
+    "name:vec_x_preferred":[
+        "Hamamatsu"
+    ],
     "name:vie_x_preferred":[
         "Hamamatsu"
     ],
@@ -269,11 +299,17 @@
     "name:wol_x_preferred":[
         "Hamamatsu"
     ],
+    "name:wuu_x_preferred":[
+        "\u6ee8\u677e\u5e02"
+    ],
     "name:yue_x_preferred":[
         "\u6ff1\u677e"
     ],
     "name:zho_x_preferred":[
         "\u6ee8\u677e\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6ff1\u677e\u5e02"
     ],
     "qs_pg:aaroncc":"JP",
     "qs_pg:gn_country":"JP",
@@ -314,7 +350,7 @@
         }
     ],
     "wof:id":1125867833,
-    "wof:lastmodified":1566726506,
+    "wof:lastmodified":1690938027,
     "wof:name":"Hamamatsu",
     "wof:parent_id":890520513,
     "wof:placetype":"locality",

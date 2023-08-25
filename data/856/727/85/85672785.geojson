@@ -52,8 +52,14 @@
     "name:aze_x_preferred":[
         "Osaka"
     ],
+    "name:aze_x_variant":[
+        "Osaka prefekturas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u041e\u0441\u0430\u043a\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Osaka"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u0441\u0430\u043a\u0430"
@@ -71,7 +77,8 @@
         "Prefectura d'Osaka"
     ],
     "name:cat_x_variant":[
-        "prefectura d'Osaka"
+        "prefectura d'Osaka",
+        "prefectura d'\u014csaka"
     ],
     "name:cdo_x_preferred":[
         "\u014csaka-h\u016b"
@@ -82,8 +89,14 @@
     "name:ces_x_preferred":[
         "Prefektura \u00d3saka"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0430\u043a\u0430"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0633\u0627\u06a9\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Osaka prefektligi"
     ],
     "name:cym_x_preferred":[
         "Osaka"
@@ -135,6 +148,9 @@
     "name:fra_x_variant":[
         "Osaka"
     ],
+    "name:frr_x_preferred":[
+        "\u014csaka"
+    ],
     "name:gle_x_preferred":[
         "Maoracht Osaka"
     ],
@@ -149,6 +165,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e1\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05e1\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0938\u093e\u0915\u093e \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
@@ -189,6 +208,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb8\u0cbe\u0c95\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17b6\u178e\u17b6\u1781\u17c1\u178f\u17d2\u178f\u17a2\u17bc\u179f\u17b6\u1780\u17b6"
     ],
@@ -217,6 +239,9 @@
     "name:mkd_x_preferred":[
         "\u041e\u0441\u0430\u043a\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe3\uabc1\uabe5\uabc0\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Osaka"
     ],
@@ -229,14 +254,26 @@
     "name:nld_x_preferred":[
         "Osaka"
     ],
+    "name:nno_x_preferred":[
+        "Osaka prefektur"
+    ],
     "name:nob_x_preferred":[
         "Osaka"
+    ],
+    "name:nob_x_variant":[
+        "Osaka prefektur"
     ],
     "name:nor_x_preferred":[
         "Osaka Prefektur"
     ],
     "name:nov_x_preferred":[
         "Osaka Prefecture"
+    ],
+    "name:nov_x_variant":[
+        "Osaka Prefekture"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0441\u0430\u043a\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0648\u0633\u0627\u06a9\u0627"
@@ -255,6 +292,9 @@
     ],
     "name:sco_x_preferred":[
         "Osaka Prefectur"
+    ],
+    "name:sgs_x_preferred":[
+        "Osakas prefekt\u016bra"
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0dc3\u0dcf\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -288,6 +328,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b92\u0b9a\u0bbe\u0b95\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0430\u043a\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c38\u0c3e\u0c15\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -454,7 +497,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894887,
+    "wof:lastmodified":1690937682,
     "wof:name":"Osaka",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

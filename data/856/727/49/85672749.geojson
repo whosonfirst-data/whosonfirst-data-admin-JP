@@ -49,6 +49,12 @@
     "name:aze_x_preferred":[
         "Naqano"
     ],
+    "name:aze_x_variant":[
+        "Naqano prefekturas\u0131"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Nagano"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041d\u0430\u0433\u0430\u043d\u0430"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Nagano"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u043d\u043e"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u06af\u0627\u0646\u06c6"
@@ -115,6 +124,9 @@
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture de Nagano",
+        "Nagano"
+    ],
+    "name:frr_x_preferred":[
         "Nagano"
     ],
     "name:gle_x_preferred":[
@@ -205,6 +217,9 @@
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0433\u0430\u043d\u043e"
     ],
+    "name:mni_x_preferred":[
+        "\uabc5\uabe5\uabd2\uabe5\uabc5\uabe3 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Nagano"
     ],
@@ -214,8 +229,14 @@
     "name:nld_x_preferred":[
         "Nagano"
     ],
+    "name:nno_x_preferred":[
+        "Nagano prefektur"
+    ],
     "name:nob_x_preferred":[
         "Nagano"
+    ],
+    "name:nob_x_variant":[
+        "Nagano prefektur"
     ],
     "name:nor_x_preferred":[
         "Nagano Prefektur"
@@ -225,6 +246,9 @@
     ],
     "name:nov_x_variant":[
         "Nagano Prefecture"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u043d\u043e"
     ],
     "name:pam_x_preferred":[
         "Prepektura ning Nagano"
@@ -286,6 +310,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0b95\u0ba9\u0bcb \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u043d\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c17\u0c3e\u0c28\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
     ],
@@ -329,7 +356,8 @@
         "\u9577\u91ce\u53bf"
     ],
     "name:zho_x_variant":[
-        "\u957f\u91ce\u53bf"
+        "\u957f\u91ce\u53bf",
+        "\u9577\u91ce\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JPN",
@@ -456,7 +484,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1614894887,
+    "wof:lastmodified":1690937682,
     "wof:name":"Nagano",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

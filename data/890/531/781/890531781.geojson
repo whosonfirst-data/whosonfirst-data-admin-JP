@@ -25,14 +25,32 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u062a\u0633\u0648\u0628\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0633\u0648\u0628\u0627\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Matsubara"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a4\u09b8\u09c1\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09ce\u09b8\u09c1\u09ac\u09be\u09b0\u09be"
     ],
     "name:bre_x_preferred":[
         "Matsubara"
     ],
+    "name:cat_x_preferred":[
+        "Matsubara"
+    ],
     "name:ceb_x_preferred":[
         "Matsubara-shi"
+    ],
+    "name:ces_x_preferred":[
+        "Macubara"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u0431\u0430\u0440\u0430"
     ],
     "name:dan_x_preferred":[
         "Matsubara"
@@ -61,6 +79,9 @@
     "name:fra_x_preferred":[
         "Matsubara"
     ],
+    "name:gle_x_preferred":[
+        "Matsubara"
+    ],
     "name:glg_x_preferred":[
         "Matsubara"
     ],
@@ -69,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0924\u094d\u0938\u0941\u092c\u093e\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Macubara"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0581\u0578\u0582\u0562\u0561\u0580\u0561"
@@ -151,6 +175,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0b9f\u0bcd\u0b9a\u0bc2\u0baa\u0bb0\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0442\u0441\u0443\u0431\u0430\u0440\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c38\u0c4d\u0c24\u0c41\u0c2c\u0c30"
     ],
@@ -163,6 +190,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e30\u0e2a\u0e36\u0e1a\u0e30\u0e23\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e31\u0e15\u0e2a\u0e36\u0e1a\u0e32\u0e23\u0e30"
+    ],
     "name:tur_x_preferred":[
         "Matsubara"
     ],
@@ -171,6 +201,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u0628\u0627\u0631\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Matsubara"
     ],
     "name:vie_x_preferred":[
         "Matsubara"
@@ -216,7 +249,7 @@
         }
     ],
     "wof:id":890531781,
-    "wof:lastmodified":1566726435,
+    "wof:lastmodified":1690937929,
     "wof:name":"Matsubara",
     "wof:parent_id":890523771,
     "wof:placetype":"locality",

@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0646\u0628\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u043f\u0430\u0432\u0435\u0442 \u0421\u0430\u043d\u044c\u0431\u0443"
+    ],
     "name:ceb_x_preferred":[
         "Sambu-gun"
     ],
     "name:deu_x_preferred":[
         "Sanbu Bezirk"
     ],
+    "name:deu_x_variant":[
+        "Sanbu"
+    ],
     "name:eng_x_preferred":[
         "Sambu District"
+    ],
+    "name:eng_x_variant":[
+        "Sanbu district"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Sanbu"
     ],
     "name:jpn_x_preferred":[
         "\u5c71\u6b66\u90e1"
@@ -38,8 +50,14 @@
     "name:nld_x_preferred":[
         "Sanbu District"
     ],
+    "name:pol_x_preferred":[
+        "Sanbu"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u044c\u0431\u0443"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e0b\u0e31\u0e21\u0e1a\u0e38"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0432\u0456\u0442 \u0421\u0430\u043c\u0431\u0443"
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":890521751,
-    "wof:lastmodified":1566726318,
+    "wof:lastmodified":1690937798,
     "wof:name":"\u5927\u7db2\u767d\u91cc\u753a",
     "wof:parent_id":1108741649,
     "wof:placetype":"locality",

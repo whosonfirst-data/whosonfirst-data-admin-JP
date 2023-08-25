@@ -40,6 +40,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0643\u064a\u0646\u0627\u0648\u0627"
+    ],
     "name:ast_x_preferred":[
         "prefeutura d'Okinawa"
     ],
@@ -48,6 +54,12 @@
     ],
     "name:aze_x_preferred":[
         "Okinava"
+    ],
+    "name:aze_x_variant":[
+        "Okinava prefekturas\u0131"
+    ],
+    "name:ban_x_preferred":[
+        "Pr\u00e9f\u00e9ktur Okinawa"
     ],
     "name:bcl_x_preferred":[
         "Prepektura kan Okinawa"
@@ -78,6 +90,15 @@
     ],
     "name:ces_x_preferred":[
         "Prefektura Okinawa"
+    ],
+    "name:ces_x_variant":[
+        "prefektura Okinawa"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043a\u0438\u043d\u0430\u0432\u0430"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a3k\u13a2\u13be\u13e9"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u06a9\u06cc\u0646\u0627\u0648\u0627"
@@ -139,7 +160,8 @@
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture d'Okinawa",
-        "Okinawa"
+        "Okinawa",
+        "Pr\u00e9fecture d'Okinawa"
     ],
     "name:gle_x_preferred":[
         "Maoracht Okinawa"
@@ -152,6 +174,9 @@
     ],
     "name:hak_x_preferred":[
         "Tsh\u00fbng-sh\u00een-yen"
+    ],
+    "name:haw_x_preferred":[
+        "Pelipekika Okinawa"
     ],
     "name:hbs_x_preferred":[
         "Prefektura Okinava"
@@ -234,6 +259,12 @@
     "name:mkd_x_preferred":[
         "\u041e\u043a\u0438\u043d\u0430\u0432\u0430"
     ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe3\uabc0\uabe4\uabc5\uabe5\uabcb\uabe5 \uabc2\uabdd\uabc8\uabe5\uabe2"
+    ],
+    "name:mon_x_preferred":[
+        "\u041e\u043a\u0438\u043d\u0430\u0432\u0430"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Okinawa"
     ],
@@ -249,11 +280,20 @@
     "name:nld_x_preferred":[
         "Okinawa"
     ],
+    "name:nno_x_preferred":[
+        "Okinawa prefektur"
+    ],
     "name:nob_x_preferred":[
         "Okinawa"
     ],
+    "name:nob_x_variant":[
+        "Okinawa prefektur"
+    ],
     "name:nor_x_preferred":[
         "Okinawa Prefektur"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u043a\u0438\u043d\u0430\u0432\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0648\u06a9\u06cc\u0646\u0627\u0648\u0627"
@@ -273,8 +313,14 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u0438\u043d\u0430\u0432\u0430"
     ],
+    "name:ryu_x_preferred":[
+        "\u6c96\u7e04\u770c"
+    ],
     "name:sco_x_preferred":[
         "Okinawa Prefectur"
+    ],
+    "name:sgs_x_preferred":[
+        "Okinavas prefekt\u016bra"
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0d9a\u0dd2\u0db1\u0dcf\u0dc0\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -311,6 +357,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b93\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043a\u0438\u043d\u0430\u0432\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c15\u0c3f\u0c28\u0c3e\u0c35\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -501,7 +550,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1636412923,
+    "wof:lastmodified":1690937668,
     "wof:name":"Okinawa",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

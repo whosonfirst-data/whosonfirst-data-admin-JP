@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.765838988,33.8455426219,132.765838988,33.8455426219",
+    "geom:bbox":"132.765839,33.845543,132.765839,33.845543",
     "geom:latitude":33.845543,
     "geom:longitude":132.765839,
     "iso:country":"JP",
@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u062a\u0633\u0648\u064a\u0627\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0633\u0648\u064a\u0627\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Matsuyama"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u062a\u0633\u0648\u06cc\u0627\u0645\u0627\u060c \u0627\u0647\u06cc\u0645\u0647"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:aze_x_preferred":[
         "Matsuyama"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u044f\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a4\u09b8\u09c1\u09af\u09bc\u09be\u09ae\u09be"
@@ -47,6 +56,9 @@
     ],
     "name:ces_x_preferred":[
         "Macujama"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u044f\u043c\u0430"
     ],
     "name:cym_x_preferred":[
         "Matsuyama"
@@ -147,6 +159,9 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0924\u094d\u0938\u0941\u092f\u093e\u092e\u093e"
     ],
+    "name:mlg_x_preferred":[
+        "Matsuyama"
+    ],
     "name:mri_x_preferred":[
         "Matsuyama"
     ],
@@ -167,6 +182,9 @@
     ],
     "name:nob_x_preferred":[
         "Matsuyama"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u044f\u043c\u00e6"
     ],
     "name:pol_x_preferred":[
         "Matsuyama"
@@ -251,6 +269,9 @@
     ],
     "name:war_x_preferred":[
         "Matsuyama"
+    ],
+    "name:wuu_x_preferred":[
+        "\u677e\u5c71\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u677e\u5c71"
@@ -366,7 +387,7 @@
     },
     "wof:country":"JP",
     "wof:created":1499130949,
-    "wof:geomhash":"936a82c61e1effb8d0a81c0ec955819a",
+    "wof:geomhash":"428c13602525453178b15d8cdf85355b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -377,7 +398,7 @@
         }
     ],
     "wof:id":1141908655,
-    "wof:lastmodified":1566726954,
+    "wof:lastmodified":1690938035,
     "wof:name":"Matsuyama",
     "wof:parent_id":1108742909,
     "wof:placetype":"locality",
@@ -387,10 +408,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.76583898837453,
-    33.84554262189664,
-    132.76583898837453,
-    33.84554262189664
+    132.765839,
+    33.845543,
+    132.765839,
+    33.845543
 ],
-  "geometry": {"coordinates":[132.76583898837453,33.84554262189664],"type":"Point"}
+  "geometry": {"coordinates":[132.765839,33.845543],"type":"Point"}
 }
