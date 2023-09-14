@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.151055,
-    "geom:area_square_m":373263526066.430298,
+    "geom:area_square_m":373263526066.337769,
     "geom:bbox":"122.934586,20.42289,153.987061,45.522888",
     "geom:latitude":37.529345,
     "geom:longitude":137.94476,
@@ -14,6 +14,9 @@
     "iso:country":"JP",
     "itu:country_code":[
         "81"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "JP"
@@ -1409,7 +1412,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"81",
     "statoids:ds":"J",
     "statoids:fifa":"JPN",
@@ -1467,7 +1471,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"b03b2b60e1cc7a3e70f667247c31222a",
+    "wof:geomhash":"02ae7e89d1e2646fa5bb51c8110b4e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1481,12 +1485,12 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1690937661,
+    "wof:lastmodified":1694639574,
     "wof:name":"Japan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":127110047,
-    "wof:population_rank":17,
+    "wof:population":126264931,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:shortcode":"JP",
     "wof:superseded_by":[],
