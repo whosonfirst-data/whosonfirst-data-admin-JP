@@ -66,7 +66,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07541"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147403,
     "wof:geomhash":"36cd7e76b29784df9097ca511b8016ab",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108740251,
-    "wof:lastmodified":1694492417,
+    "wof:lastmodified":1695886145,
     "wof:name":"Hirono",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

@@ -60,7 +60,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151620,
     "wof:geomhash":"7d3e35dbca13fead5d28addf6a154354",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108743211,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nishiki",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

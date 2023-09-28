@@ -54,7 +54,10 @@
         85672861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"46501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151662,
     "wof:geomhash":"a42e9e6d12ca79532bf74663aaa3f4bf",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743339,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886726,
     "wof:name":"Nakatane",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

@@ -89,7 +89,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04404"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146706,
     "wof:geomhash":"511026a4186ad1c254883e6d321ac0c3",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108740023,
-    "wof:lastmodified":1694492426,
+    "wof:lastmodified":1695886170,
     "wof:name":"Shichigahama",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

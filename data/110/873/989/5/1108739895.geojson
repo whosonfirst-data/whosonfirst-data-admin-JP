@@ -63,7 +63,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02384"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146329,
     "wof:geomhash":"a5c34d316dc5346f48ad5d37ce5ede7f",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108739895,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886741,
     "wof:name":"Tsuruta",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

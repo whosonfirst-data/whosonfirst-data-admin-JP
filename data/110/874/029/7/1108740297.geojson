@@ -54,7 +54,10 @@
         85672801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"08310"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147550,
     "wof:geomhash":"f6671cfbf4cf5fcfd9eaa960eb1b6465",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740297,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886736,
     "wof:name":"Shirosato",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

@@ -75,7 +75,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07465"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147318,
     "wof:geomhash":"a68f15ee83ef2ecbf3143567169b2f56",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108740221,
-    "wof:lastmodified":1694492417,
+    "wof:lastmodified":1695886145,
     "wof:name":"Nakajima",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"26465"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151336,
     "wof:geomhash":"24c26c1b4886f25bc37fc40e4436bacd",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742437,
-    "wof:lastmodified":1694492697,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yosano",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

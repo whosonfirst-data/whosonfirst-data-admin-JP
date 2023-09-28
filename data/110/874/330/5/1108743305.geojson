@@ -238,8 +238,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.KS.KG"
+        "hasc:id":"JP.KS.KG",
+        "meso:local_id":"46201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151646,
     "wof:geomhash":"522623c268f48f92b87f907e2325495f",
@@ -252,7 +254,7 @@
         }
     ],
     "wof:id":1108743305,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886436,
     "wof:name":"Kagoshima",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

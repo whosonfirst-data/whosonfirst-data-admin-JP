@@ -69,7 +69,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01346"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145335,
     "wof:geomhash":"48b2105665ff6ec85bb8cc065c2d349b",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108739549,
-    "wof:lastmodified":1694492429,
+    "wof:lastmodified":1695886177,
     "wof:name":"Yakumo",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

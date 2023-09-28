@@ -54,7 +54,10 @@
         85672685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31372"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151439,
     "wof:geomhash":"72c7df512784e69c29f8a7f709b02e7b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742699,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Hokuei",
     "wof:parent_id":85672685,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01462"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145681,
     "wof:geomhash":"e704f528c32b886063cb9424f8623f84",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739665,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Minamifurano",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

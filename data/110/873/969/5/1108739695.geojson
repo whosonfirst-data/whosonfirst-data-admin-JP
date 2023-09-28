@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01484"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145756,
     "wof:geomhash":"7460b0de84afa28174a54942b1eace41",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739695,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Haboro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"09361"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147685,
     "wof:geomhash":"c5fe945c8d5bd6ab44cda98c77340e82",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740345,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Mibu",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

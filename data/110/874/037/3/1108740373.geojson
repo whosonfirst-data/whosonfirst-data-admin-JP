@@ -103,8 +103,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.ME.UN"
+        "hasc:id":"JP.ME.UN",
+        "meso:local_id":"10366"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147764,
     "wof:geomhash":"1c4328ba3a7bc6d47b4055dc0031ece2",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1108740373,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886151,
     "wof:name":"Ueno",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

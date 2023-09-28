@@ -93,7 +93,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06402"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147073,
     "wof:geomhash":"670b8b7976d770e57f64f418bcea833e",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108740143,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886145,
     "wof:name":"Shirataka",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

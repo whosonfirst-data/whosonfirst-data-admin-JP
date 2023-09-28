@@ -81,7 +81,10 @@
         85672675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33606"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151473,
     "wof:geomhash":"632080d15244f8ef956d153641d1c6ec",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108742771,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886159,
     "wof:name":"Kagamino",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

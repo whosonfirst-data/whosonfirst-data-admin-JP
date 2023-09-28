@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01585"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145968,
     "wof:geomhash":"bea9c8988e1a31e15cac03001075c69e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739769,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886705,
     "wof:name":"Abira",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

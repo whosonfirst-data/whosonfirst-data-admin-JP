@@ -70,7 +70,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01331"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145290,
     "wof:geomhash":"51ec5efba8228ff6585300e7ed9bafb1",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108739535,
-    "wof:lastmodified":1694492429,
+    "wof:lastmodified":1695886176,
     "wof:name":"Masaki",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

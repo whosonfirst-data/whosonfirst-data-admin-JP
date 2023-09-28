@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03322"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146522,
     "wof:geomhash":"5fb5fcab0ac7b7219373fe122753e0c7",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739963,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886743,
     "wof:name":"Yahaba",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

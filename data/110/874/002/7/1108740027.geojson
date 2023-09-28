@@ -54,7 +54,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04421"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146719,
     "wof:geomhash":"8d996123e744f6bce2a300dc3a1613d9",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740027,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886738,
     "wof:name":"Taiwa",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

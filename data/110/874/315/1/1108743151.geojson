@@ -54,7 +54,10 @@
         85672857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"42391"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151601,
     "wof:geomhash":"0be74c839d72e58d8e814f0c99766ed0",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743151,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886733,
     "wof:name":"Saza",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

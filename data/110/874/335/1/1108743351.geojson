@@ -69,7 +69,10 @@
         85672861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"46525"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151666,
     "wof:geomhash":"2e1fca036c0df3925b859356d56dfeab",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108743351,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Setouchi",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

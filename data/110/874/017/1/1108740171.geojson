@@ -54,7 +54,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07308"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147180,
     "wof:geomhash":"049b4196d434766f6e393242d71c3799",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740171,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Kawamata",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

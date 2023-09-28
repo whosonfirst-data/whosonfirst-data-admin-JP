@@ -54,7 +54,10 @@
         85672801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"08443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147576,
     "wof:geomhash":"791c6e4f972aac4c6d079e0b25557af1",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740307,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886706,
     "wof:name":"Ami",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

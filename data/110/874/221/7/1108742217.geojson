@@ -84,7 +84,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22304"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151226,
     "wof:geomhash":"b416f0ce0421a439a1708c31f0f807e5",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108742217,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886145,
     "wof:name":"Minamiizu",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

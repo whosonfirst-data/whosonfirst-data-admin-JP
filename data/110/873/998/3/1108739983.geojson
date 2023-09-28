@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03485"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146577,
     "wof:geomhash":"f757721a6cdbacb1ff60d0e71b10898e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739983,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886708,
     "wof:name":"Fudai",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

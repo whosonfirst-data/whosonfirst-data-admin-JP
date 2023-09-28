@@ -93,8 +93,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.HK.NC"
+        "hasc:id":"JP.HK.NC",
+        "meso:local_id":"01223"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145248,
     "wof:geomhash":"8066dd916b6c10bf770db81da3dd7500",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":1108739521,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886727,
     "wof:name":"Nemuro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

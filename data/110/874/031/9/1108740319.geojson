@@ -211,8 +211,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.TC.UT"
+        "hasc:id":"JP.TC.UT",
+        "meso:local_id":"09201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147615,
     "wof:geomhash":"981970319bd8d611d0e19d61cb603053",
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":1108740319,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886149,
     "wof:name":"Utsunomiya",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

@@ -272,8 +272,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.CH.AB",
+        "meso:local_id":"12222",
         "wd:id":"Q243859"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151018,
     "wof:geomhash":"575ca01827ddddb7c01758afde25bdbf",
@@ -286,7 +288,7 @@
         }
     ],
     "wof:id":1108741609,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886141,
     "wof:name":"Abiko",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

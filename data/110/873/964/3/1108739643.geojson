@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01452"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145613,
     "wof:geomhash":"cc4ed1fb965878e1736de901e262f392",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739643,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886737,
     "wof:name":"Takasu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

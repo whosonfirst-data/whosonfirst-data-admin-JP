@@ -235,8 +235,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.KM.KU"
+        "hasc:id":"JP.KM.KU",
+        "meso:local_id":"43201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151602,
     "wof:geomhash":"76fe46364639ff4c855fff46c877a645",
@@ -249,7 +251,7 @@
         }
     ],
     "wof:id":1108743155,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886153,
     "wof:name":"Kumamoto",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

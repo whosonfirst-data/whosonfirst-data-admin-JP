@@ -63,7 +63,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01694"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146201,
     "wof:geomhash":"c62c1a27e89da2de5c95f77403ada6da",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108739849,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886731,
     "wof:name":"Rausu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

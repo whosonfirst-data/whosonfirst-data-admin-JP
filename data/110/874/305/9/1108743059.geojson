@@ -54,7 +54,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40421"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151573,
     "wof:geomhash":"fe79760c21027f89f7c16bf2acdcc8ce",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743059,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Keisen",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

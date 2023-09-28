@@ -54,7 +54,10 @@
         85672807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"11346"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479148101,
     "wof:geomhash":"6a3d8d3c349bd12031405079f7faa578",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740493,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Kawajima",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

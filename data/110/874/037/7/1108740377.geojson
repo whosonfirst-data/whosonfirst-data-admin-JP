@@ -87,7 +87,10 @@
         85672871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"10367"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147770,
     "wof:geomhash":"50f9a2c4f9296dfddd0cb97ee0fb40ca",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108740377,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886716,
     "wof:name":"Kanna",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

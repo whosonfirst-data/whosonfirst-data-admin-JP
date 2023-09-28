@@ -54,7 +54,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07564"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147461,
     "wof:geomhash":"1e38d538b2d470a48e0ae541b67b59b7",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740271,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Iitate",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

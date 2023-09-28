@@ -226,8 +226,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.OY.OY"
+        "hasc:id":"JP.OY.OY",
+        "meso:local_id":"33100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151466,
     "wof:geomhash":"a3b81e24c96c0deb10216b3dda73faa8",
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":1108742747,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886143,
     "wof:name":"Okayama",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

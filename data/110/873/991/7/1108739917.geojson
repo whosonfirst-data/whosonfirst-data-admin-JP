@@ -55,7 +55,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02424"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146391,
     "wof:geomhash":"075b32d48f895cf9a055295607f41c53",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739917,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886711,
     "wof:name":"Higashidori",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

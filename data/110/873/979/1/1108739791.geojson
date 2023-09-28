@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01631"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146024,
     "wof:geomhash":"865d8943d7364170fb2f2a6268bf8ea5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739791,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886731,
     "wof:name":"Otofuke",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

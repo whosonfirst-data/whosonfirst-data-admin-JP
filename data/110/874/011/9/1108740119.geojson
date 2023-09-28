@@ -55,7 +55,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06341"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146997,
     "wof:geomhash":"c4dada41c3688604a4ec8b2f26bfc93b",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740119,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Oishida",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

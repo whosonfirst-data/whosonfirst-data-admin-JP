@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02405"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146354,
     "wof:geomhash":"23e24dee8e51103fe324a046c3ae5723",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739903,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886732,
     "wof:name":"Rokunohe",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

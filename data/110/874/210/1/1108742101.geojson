@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20521"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151183,
     "wof:geomhash":"28f18f7c7eeabd185f74417cb07dd6f1",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742101,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886732,
     "wof:name":"Sakaki",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20306"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151148,
     "wof:geomhash":"ecea0383169a05e8a214ec31f49640b5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742001,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Minamiaiki",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

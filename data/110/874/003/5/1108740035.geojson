@@ -64,7 +64,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04424"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146738,
     "wof:geomhash":"1ad2ad0234658d52413afdc9353f42f7",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108740035,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Ohira",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

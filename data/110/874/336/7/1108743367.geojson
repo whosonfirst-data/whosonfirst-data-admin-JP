@@ -567,7 +567,10 @@
         85672861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"46534"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151670,
     "wof:geomhash":"2f3a98719ae0bb1f4ff02033c62edf4b",
@@ -580,7 +583,7 @@
         }
     ],
     "wof:id":1108743367,
-    "wof:lastmodified":1694492414,
+    "wof:lastmodified":1695886138,
     "wof:name":"China",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

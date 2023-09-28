@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01425"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145532,
     "wof:geomhash":"ee2f86f18441af11677e129cc97879b2",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739615,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kamisunagawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

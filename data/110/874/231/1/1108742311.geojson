@@ -70,7 +70,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23562"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151253,
     "wof:geomhash":"c0cf0880de7301e3680244b5aa2a4221",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108742311,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886740,
     "wof:name":"Toei",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

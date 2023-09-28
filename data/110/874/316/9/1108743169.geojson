@@ -54,7 +54,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43367"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151606,
     "wof:geomhash":"81c6964abafb2f3bccb093e02e72f54a",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743169,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886727,
     "wof:name":"Nankan",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

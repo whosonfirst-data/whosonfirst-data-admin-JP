@@ -99,7 +99,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07408"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147247,
     "wof:geomhash":"dc238c006b27b7a31e9263ad983a504c",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108740199,
-    "wof:lastmodified":1694492425,
+    "wof:lastmodified":1695886166,
     "wof:name":"Inawashiro",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

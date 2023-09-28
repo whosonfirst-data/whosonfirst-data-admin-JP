@@ -100,8 +100,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.AO.AM"
+        "hasc:id":"JP.AO.AM",
+        "meso:local_id":"02201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146250,
     "wof:geomhash":"bd92a9a30a76f306a80d9dabf0b90e52",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1108739865,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886438,
     "wof:name":"Aomori",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23427"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151248,
     "wof:geomhash":"c5eee9944fa5445d2c7589675d2d8a20",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742293,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886740,
     "wof:name":"Tobishima",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

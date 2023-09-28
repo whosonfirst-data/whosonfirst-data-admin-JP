@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01455"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145633,
     "wof:geomhash":"495e24873beeb1e16c5d6a7eced84e23",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739647,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886731,
     "wof:name":"Pippu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

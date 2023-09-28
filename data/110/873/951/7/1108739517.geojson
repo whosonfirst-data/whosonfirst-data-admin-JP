@@ -56,8 +56,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.HK.KC"
+        "hasc:id":"JP.HK.KC",
+        "meso:local_id":"01206"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145234,
     "wof:geomhash":"c3690a0a77b85f11d60d29ad17486a20",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108739517,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kushiro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

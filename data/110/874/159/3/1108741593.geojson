@@ -251,8 +251,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.CH.ND",
+        "meso:local_id":"12208",
         "wd:id":"Q328619"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151014,
     "wof:geomhash":"772dde5044ef2746d745c38f7293bd44",
@@ -265,7 +267,7 @@
         }
     ],
     "wof:id":1108741593,
-    "wof:lastmodified":1694492414,
+    "wof:lastmodified":1695886139,
     "wof:name":"Noda",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

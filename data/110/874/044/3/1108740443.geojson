@@ -251,8 +251,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.ST.AG",
+        "meso:local_id":"11219",
         "wd:id":"Q163888"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147960,
     "wof:geomhash":"884b87ac0a5d3668c550fb899d6dd131",
@@ -265,7 +267,7 @@
         }
     ],
     "wof:id":1108740443,
-    "wof:lastmodified":1694492424,
+    "wof:lastmodified":1695886164,
     "wof:name":"Ageo",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

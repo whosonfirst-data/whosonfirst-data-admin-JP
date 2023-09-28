@@ -54,7 +54,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04581"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146770,
     "wof:geomhash":"969fbe8eb7e058af677eed73d6d0faf9",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740045,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886730,
     "wof:name":"Onagawa",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

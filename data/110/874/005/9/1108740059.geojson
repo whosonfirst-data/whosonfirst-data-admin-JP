@@ -54,7 +54,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05303"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146814,
     "wof:geomhash":"39b6fe5ba3e5399b0a05cd2688b04aeb",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740059,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886719,
     "wof:name":"Kosaka",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

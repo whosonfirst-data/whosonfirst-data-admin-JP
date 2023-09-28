@@ -54,7 +54,10 @@
         85672785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"27361"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151359,
     "wof:geomhash":"5f9e2e4fb0487b90fafd6b84bdcbe6ca",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742489,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886720,
     "wof:name":"Kumatori",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

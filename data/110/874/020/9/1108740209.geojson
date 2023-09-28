@@ -69,7 +69,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07445"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147278,
     "wof:geomhash":"cf22c0b68d6758cbd91dce1f1de4c94a",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108740209,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kaneyama",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

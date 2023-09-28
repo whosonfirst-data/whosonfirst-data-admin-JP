@@ -90,7 +90,10 @@
         85672797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"12463"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151039,
     "wof:geomhash":"86b74686ba2e697b405667d09f70a827",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108741677,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886141,
     "wof:name":"Kyonan",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

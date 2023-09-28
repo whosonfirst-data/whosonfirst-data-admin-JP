@@ -57,7 +57,10 @@
         85672807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"11343"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479148095,
     "wof:geomhash":"5fd0affb274c63c6759f651d22695efa",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108740491,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886728,
     "wof:name":"Ogawa",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

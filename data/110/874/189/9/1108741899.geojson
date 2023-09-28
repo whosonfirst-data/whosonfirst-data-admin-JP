@@ -189,7 +189,10 @@
         85672741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"17463"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151119,
     "wof:geomhash":"88e7c0b45f7d05f2d355dde8e7f55e96",
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1108741899,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886153,
     "wof:name":"Noto",
     "wof:parent_id":85672741,
     "wof:placetype":"county",

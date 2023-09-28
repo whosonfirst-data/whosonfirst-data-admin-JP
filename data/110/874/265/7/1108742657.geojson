@@ -54,7 +54,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30391"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151427,
     "wof:geomhash":"41e31e3eaa9e273f5f11955fdf05a066",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742657,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Minabe",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

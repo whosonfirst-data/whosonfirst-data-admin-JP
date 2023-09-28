@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02323"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146293,
     "wof:geomhash":"92ca932c8430d337c85dfbea54b4aab4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739881,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886708,
     "wof:name":"Fukaura",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

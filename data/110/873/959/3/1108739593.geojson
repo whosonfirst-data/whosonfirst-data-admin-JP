@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01402"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145467,
     "wof:geomhash":"6a544ac3249cef994164e92f04ec68c4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739593,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886713,
     "wof:name":"Iwanai",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

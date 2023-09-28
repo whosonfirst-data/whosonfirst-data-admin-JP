@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01370"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145380,
     "wof:geomhash":"a6347cd8b153d8db8e8b07a4f1506193",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739563,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Imakane",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

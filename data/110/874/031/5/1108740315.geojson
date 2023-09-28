@@ -202,8 +202,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.FI.SK"
+        "hasc:id":"JP.FI.SK",
+        "meso:local_id":"08546"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147601,
     "wof:geomhash":"c9770c2cbd134df9127f38d831ab705e",
@@ -216,7 +218,7 @@
         }
     ],
     "wof:id":1108740315,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886150,
     "wof:name":"Sakai",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

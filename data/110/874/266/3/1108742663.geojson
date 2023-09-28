@@ -54,7 +54,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151429,
     "wof:geomhash":"a8e995378761a874e914153621a07ada",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742663,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shirahama",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

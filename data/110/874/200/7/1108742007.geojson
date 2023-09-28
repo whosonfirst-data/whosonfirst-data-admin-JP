@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20321"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151150,
     "wof:geomhash":"095de4770757c2c12e308007cb69534a",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742007,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886716,
     "wof:name":"Karuizawa",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

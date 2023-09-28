@@ -75,7 +75,10 @@
         85672745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"24442"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151262,
     "wof:geomhash":"b28c9ca2bc422867d61eac21f4d5de4c",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108742341,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886152,
     "wof:name":"Meiwa",
     "wof:parent_id":85672745,
     "wof:placetype":"county",

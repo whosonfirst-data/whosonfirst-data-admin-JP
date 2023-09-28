@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20452"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151180,
     "wof:geomhash":"409d83dae08a5c9d5ee764561e6de953",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742091,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886708,
     "wof:name":"Chikuhoku",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

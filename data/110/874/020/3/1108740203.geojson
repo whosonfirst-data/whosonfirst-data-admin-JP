@@ -54,7 +54,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07422"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147259,
     "wof:geomhash":"4c2f9ab21e34beebfe83321c054d3672",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740203,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yugawa",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

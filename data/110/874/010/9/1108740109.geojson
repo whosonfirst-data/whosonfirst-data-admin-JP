@@ -66,7 +66,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06302"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146965,
     "wof:geomhash":"983e8784c774348173552c03db8d7dab",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108740109,
-    "wof:lastmodified":1694492424,
+    "wof:lastmodified":1695886165,
     "wof:name":"Nakayama",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

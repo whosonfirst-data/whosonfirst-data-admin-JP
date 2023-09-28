@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03441"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146547,
     "wof:geomhash":"e3abf54e520a26ee78587a342bb4d41f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739971,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886737,
     "wof:name":"Sumita",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

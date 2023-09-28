@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01432"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145575,
     "wof:geomhash":"bc5d84573eea10610016079fa533dd29",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739629,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shintotsukawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

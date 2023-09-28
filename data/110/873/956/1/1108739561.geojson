@@ -63,7 +63,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01367"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145374,
     "wof:geomhash":"dfe68909556ed36d28f5a1f2f7f6093c",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108739561,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Okushiri",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

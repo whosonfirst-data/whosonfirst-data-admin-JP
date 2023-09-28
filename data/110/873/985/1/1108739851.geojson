@@ -54,7 +54,10 @@
         85688125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01695"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146207,
     "wof:geomhash":"a4ad02ee2a6dd031dbd12e1840fe626f",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108739851,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"shikotan-mura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

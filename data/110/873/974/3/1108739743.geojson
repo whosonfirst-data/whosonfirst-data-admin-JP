@@ -55,7 +55,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01559"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145900,
     "wof:geomhash":"89db5ed8fdb28654fc5b5916b90ca361",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739743,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yubetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

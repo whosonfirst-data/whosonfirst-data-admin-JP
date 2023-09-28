@@ -69,7 +69,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20602"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151194,
     "wof:geomhash":"d51921e1a7a066aeec4a7564b45de115",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108742123,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886161,
     "wof:name":"Sakae",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

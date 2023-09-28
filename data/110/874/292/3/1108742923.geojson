@@ -67,7 +67,10 @@
         85672711
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"38401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151523,
     "wof:geomhash":"3b5da3ddf5db20b9542c23d5524cac34",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108742923,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Matsumae",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01664"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146156,
     "wof:geomhash":"804e62ee0928b2eae2c843dbcd24d666",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739837,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886733,
     "wof:name":"Shibecha",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

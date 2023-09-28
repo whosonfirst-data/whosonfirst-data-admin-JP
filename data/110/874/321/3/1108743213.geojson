@@ -54,7 +54,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43505"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151621,
     "wof:geomhash":"30c22a5af69a336a525bc6b0ca2e09d5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743213,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886739,
     "wof:name":"Taragi",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

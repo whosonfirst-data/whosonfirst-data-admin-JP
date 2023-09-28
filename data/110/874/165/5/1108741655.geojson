@@ -57,7 +57,10 @@
         85672797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"12409"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151032,
     "wof:geomhash":"5618f88a3800ed48b9a8cbd3b534b054",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108741655,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shibayama",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

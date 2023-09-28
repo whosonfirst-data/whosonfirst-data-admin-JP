@@ -99,7 +99,10 @@
         85672867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"47324"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151681,
     "wof:geomhash":"c43a1c8237628cfdd3b7ac489b1524a5",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108743405,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886154,
     "wof:name":"Yomitan",
     "wof:parent_id":85672867,
     "wof:placetype":"county",

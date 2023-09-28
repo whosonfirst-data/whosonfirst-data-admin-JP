@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01643"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146092,
     "wof:geomhash":"87e6181c9f086c9f5a9628248b7df654",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739815,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Makubetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

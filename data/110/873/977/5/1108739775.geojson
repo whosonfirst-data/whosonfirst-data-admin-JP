@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01602"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145986,
     "wof:geomhash":"daeb8bd56a89c6e89db93d249aaf8dd5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739775,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886707,
     "wof:name":"Biratori",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

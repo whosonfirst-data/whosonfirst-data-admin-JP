@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01646"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479150760,
     "wof:geomhash":"919b106d123b778146da6f62b1478044",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740847,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Honbetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01512"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145789,
     "wof:geomhash":"b7eb732207b2702ed1d957c6c6b4dd7d",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739705,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886710,
     "wof:name":"Hamatonbetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

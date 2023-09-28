@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01665"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146162,
     "wof:geomhash":"29107fb10c9d340cd53c1e0051964f9b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739839,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886738,
     "wof:name":"Teshikaga",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -58,7 +58,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30390"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151427,
     "wof:geomhash":"91e46febdafe0e5b1772ea1347608e0f",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108742655,
-    "wof:lastmodified":1694492426,
+    "wof:lastmodified":1695886169,
     "wof:name":"Inami",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

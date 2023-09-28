@@ -55,7 +55,10 @@
         85672777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"26407"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151334,
     "wof:geomhash":"1dd7890dc344c086a9db60516db1c583",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108742433,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Kyotanba",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

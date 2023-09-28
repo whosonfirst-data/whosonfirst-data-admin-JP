@@ -54,7 +54,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40602"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151578,
     "wof:geomhash":"78d8544e02a01d9dc296cf8b18bc371b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743073,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886736,
     "wof:name":"Soeda",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

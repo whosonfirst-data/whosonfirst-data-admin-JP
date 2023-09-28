@@ -90,7 +90,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22325"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151228,
     "wof:geomhash":"fd9173a224052f898de5ef21c5feaea4",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108742223,
-    "wof:lastmodified":1694492425,
+    "wof:lastmodified":1695886166,
     "wof:name":"Kannami",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"10345"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147758,
     "wof:geomhash":"d64e48005a246ab71db7dce1b8ce0595",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740371,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yoshioka",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

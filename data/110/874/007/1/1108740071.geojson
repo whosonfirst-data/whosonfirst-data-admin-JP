@@ -55,7 +55,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05361"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146851,
     "wof:geomhash":"a7f4981fcfdce86e974096817d6b900c",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740071,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Gojome",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

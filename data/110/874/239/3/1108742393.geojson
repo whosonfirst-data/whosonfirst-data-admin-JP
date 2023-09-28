@@ -463,8 +463,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.KY.KT"
+        "hasc:id":"JP.KY.KT",
+        "meso:local_id":"26100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151277,
     "wof:geomhash":"c9844d9f431a53fc789701f6e77d083c",
@@ -477,7 +479,7 @@
         }
     ],
     "wof:id":1108742393,
-    "wof:lastmodified":1694492426,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kyoto",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

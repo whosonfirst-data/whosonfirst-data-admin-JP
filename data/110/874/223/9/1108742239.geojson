@@ -430,8 +430,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.AI.NG"
+        "hasc:id":"JP.AI.NG",
+        "meso:local_id":"23100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151232,
     "wof:geomhash":"5032968734ca8e007337472910b5cdad",
@@ -444,7 +446,7 @@
         }
     ],
     "wof:id":1108742239,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886162,
     "wof:name":"Nagoya",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

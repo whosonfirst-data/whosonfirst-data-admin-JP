@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01409"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145513,
     "wof:geomhash":"5ad1c54a60357a6bedf424de3999aea8",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739609,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886705,
     "wof:name":"Akaigawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

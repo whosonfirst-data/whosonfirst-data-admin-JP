@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01692"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146188,
     "wof:geomhash":"0660ac8ee193a4f7f33cd947db498c3f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739847,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886726,
     "wof:name":"Nakashibetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

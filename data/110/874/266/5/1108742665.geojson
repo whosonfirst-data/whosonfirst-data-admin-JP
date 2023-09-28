@@ -54,7 +54,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30404"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151429,
     "wof:geomhash":"b01a3456032f9d513829a5cb3b17a7d9",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742665,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kamitonda",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

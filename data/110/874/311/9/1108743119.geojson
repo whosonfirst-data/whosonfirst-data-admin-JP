@@ -72,7 +72,10 @@
         85672695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"41401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151592,
     "wof:geomhash":"753e052b5f3e14e05dbd1cf8c15bfc4b",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108743119,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886707,
     "wof:name":"Arita",
     "wof:parent_id":85672695,
     "wof:placetype":"county",

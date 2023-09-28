@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02412"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146379,
     "wof:geomhash":"1d8c540a40118c1c58db55ddc72a9e04",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739913,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Oirase",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

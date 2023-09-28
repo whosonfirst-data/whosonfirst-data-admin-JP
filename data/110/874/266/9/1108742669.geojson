@@ -93,7 +93,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30421"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151431,
     "wof:geomhash":"3eb34d72e5e8486ea3396949929659d8",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108742669,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886148,
     "wof:name":"Nachikatsuura",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

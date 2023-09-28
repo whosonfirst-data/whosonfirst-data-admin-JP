@@ -54,7 +54,10 @@
         85672735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"21504"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151213,
     "wof:geomhash":"4cd9141c178ddcb5cd30237e8a325ed8",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742171,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886710,
     "wof:name":"Hichiso",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

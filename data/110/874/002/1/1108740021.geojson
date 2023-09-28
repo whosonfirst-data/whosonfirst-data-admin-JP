@@ -102,7 +102,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146700,
     "wof:geomhash":"3bb75c9f7874cd30452930ad756dd6c0",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108740021,
-    "wof:lastmodified":1694492426,
+    "wof:lastmodified":1695886170,
     "wof:name":"Matsushima",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

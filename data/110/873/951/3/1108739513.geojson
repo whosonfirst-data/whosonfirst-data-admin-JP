@@ -220,8 +220,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.HK.HK"
+        "hasc:id":"JP.HK.HK",
+        "meso:local_id":"01202"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145219,
     "wof:geomhash":"e387c7dd7caffb32fe6386dea65acb56",
@@ -234,7 +236,7 @@
         }
     ],
     "wof:id":1108739513,
-    "wof:lastmodified":1694492430,
+    "wof:lastmodified":1695886180,
     "wof:name":"Hakodate",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20412"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151164,
     "wof:geomhash":"d8196d080f4c8f625897e3685f0b85b7",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742055,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886742,
     "wof:name":"Urugi",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

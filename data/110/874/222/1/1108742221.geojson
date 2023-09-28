@@ -87,7 +87,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22306"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151227,
     "wof:geomhash":"9fd7b9c214f61973c9d5edeed20808ee",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108742221,
-    "wof:lastmodified":1694492425,
+    "wof:lastmodified":1695886166,
     "wof:name":"Nishiizu",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

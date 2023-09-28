@@ -91,7 +91,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40608"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151580,
     "wof:geomhash":"d4beaa19987400c8606e0ffcd1f1fd4e",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108743081,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886731,
     "wof:name":"Oto",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

@@ -61,7 +61,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01399"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145448,
     "wof:geomhash":"6509f11068f4b310ed872f83c84853c2",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108739587,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kyogoku",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

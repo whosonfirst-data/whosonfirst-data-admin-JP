@@ -55,7 +55,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07362"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147205,
     "wof:geomhash":"1a49e35ceb13d50cd5fba3101f8c2994",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740181,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shimogo",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

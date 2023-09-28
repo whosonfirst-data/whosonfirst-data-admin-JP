@@ -87,7 +87,10 @@
         85672735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"21401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151209,
     "wof:geomhash":"a1cbc1cb001fcfa1243a9eb1adea98e7",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108742155,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886162,
     "wof:name":"Ibigawa",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

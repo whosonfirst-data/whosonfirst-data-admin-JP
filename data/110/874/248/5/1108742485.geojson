@@ -456,7 +456,10 @@
         85672785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"27322"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151357,
     "wof:geomhash":"6ee311fe85a133e3710b4fba0645a540",
@@ -469,7 +472,7 @@
         }
     ],
     "wof:id":1108742485,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886159,
     "wof:name":"Nose",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"47303"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151677,
     "wof:geomhash":"1ae7418ec04c5736456c3f4738969af6",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743389,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886711,
     "wof:name":"Higashison",
     "wof:parent_id":85672867,
     "wof:placetype":"county",

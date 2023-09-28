@@ -222,8 +222,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.EH.MT"
+        "hasc:id":"JP.EH.MT",
+        "meso:local_id":"38201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151520,
     "wof:geomhash":"06689f73dc9ad47f9d9277fc38643aec",
@@ -236,7 +238,7 @@
         }
     ],
     "wof:id":1108742909,
-    "wof:lastmodified":1694492427,
+    "wof:lastmodified":1695886171,
     "wof:name":"Matsuyama",
     "wof:parent_id":85672711,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40343"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151561,
     "wof:geomhash":"f933ebe8cc493d1b4b22ee2d4c9b4621",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743033,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shime",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

@@ -129,7 +129,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07407"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147241,
     "wof:geomhash":"5c83202dc245fc227a3f3fa4a1b03dbc",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108740197,
-    "wof:lastmodified":1694492424,
+    "wof:lastmodified":1695886166,
     "wof:name":"Bandai",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

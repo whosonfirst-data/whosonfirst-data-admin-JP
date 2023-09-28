@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01519"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145831,
     "wof:geomhash":"14ca98e7393d39931eb7115111fc7b3d",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739719,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886732,
     "wof:name":"Rishirifuji",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

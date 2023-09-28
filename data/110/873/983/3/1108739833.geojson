@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01663"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146150,
     "wof:geomhash":"4e5b16f913a735aee0b23f4299fc63e0",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739833,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Hamanaka",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03381"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146535,
     "wof:geomhash":"bba049ef3cb49cfc801f8427a210c3b4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739967,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kanegasaki",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

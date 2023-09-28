@@ -90,7 +90,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02426"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146405,
     "wof:geomhash":"6ba440f431c5981282a252c9fec97f63",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108739921,
-    "wof:lastmodified":1694492429,
+    "wof:lastmodified":1695886179,
     "wof:name":"Sai",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

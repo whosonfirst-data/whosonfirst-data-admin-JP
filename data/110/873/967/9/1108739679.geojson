@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01469"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145712,
     "wof:geomhash":"ccc75b29b65ff24ec6da1c1a3aa3f93b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739679,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886707,
     "wof:name":"Bifuka",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

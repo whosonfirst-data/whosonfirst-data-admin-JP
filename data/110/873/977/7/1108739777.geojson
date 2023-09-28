@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01604"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145992,
     "wof:geomhash":"b563e7987e4e09419f543ebee949eaa4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739777,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886727,
     "wof:name":"Niikappu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

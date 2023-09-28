@@ -139,8 +139,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.MZ.MG"
+        "hasc:id":"JP.MZ.MG",
+        "meso:local_id":"45201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151633,
     "wof:geomhash":"998de92003dcd5d8d77fec7c309df7e6",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1108743259,
-    "wof:lastmodified":1694492421,
+    "wof:lastmodified":1695886155,
     "wof:name":"Miyazaki",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

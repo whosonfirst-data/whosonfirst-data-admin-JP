@@ -475,8 +475,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.OS.OS"
+        "hasc:id":"JP.OS.OS",
+        "meso:local_id":"27100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151336,
     "wof:geomhash":"2345b362db02046d5d1dfe9d8692539d",
@@ -489,7 +491,7 @@
         }
     ],
     "wof:id":1108742439,
-    "wof:lastmodified":1694492417,
+    "wof:lastmodified":1695886146,
     "wof:name":"Osaka",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

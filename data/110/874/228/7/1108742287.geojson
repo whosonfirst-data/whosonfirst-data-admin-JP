@@ -88,7 +88,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23362"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151246,
     "wof:geomhash":"a9f2b795ecdbdb9b1d2ed69c26492602",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108742287,
-    "wof:lastmodified":1694492417,
+    "wof:lastmodified":1695886146,
     "wof:name":"Fuso",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

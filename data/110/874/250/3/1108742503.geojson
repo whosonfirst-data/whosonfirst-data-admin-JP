@@ -319,8 +319,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.HG.KB"
+        "hasc:id":"JP.HG.KB",
+        "meso:local_id":"28100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151363,
     "wof:geomhash":"84b2f68df0c83f8b3812e63cb906ca9a",
@@ -333,7 +335,7 @@
         }
     ],
     "wof:id":1108742503,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886147,
     "wof:name":"Kobe",
     "wof:parent_id":85672769,
     "wof:placetype":"county",

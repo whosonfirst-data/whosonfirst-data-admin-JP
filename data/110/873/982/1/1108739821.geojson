@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01645"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146106,
     "wof:geomhash":"d5f3adc42d58ae2487e303520e102f02",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739821,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886741,
     "wof:name":"Toyokoro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01431"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145567,
     "wof:geomhash":"857503fdfa942efa53d2bcd2b7c76a3f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739627,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886742,
     "wof:name":"Urausu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",
