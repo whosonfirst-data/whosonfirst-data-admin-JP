@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01610"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146017,
     "wof:geomhash":"ccfece20653c8f3f76b8db12e20939a7",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739787,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shinhidaka",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

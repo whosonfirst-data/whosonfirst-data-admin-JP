@@ -78,7 +78,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01545"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145857,
     "wof:geomhash":"64f726031ef7eb7eba86e2e8fa14b2af",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108739729,
-    "wof:lastmodified":1694492430,
+    "wof:lastmodified":1695886181,
     "wof:name":"Shari",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

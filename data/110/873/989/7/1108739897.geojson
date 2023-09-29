@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02387"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146335,
     "wof:geomhash":"5c2baf5991cbb4227142618c2e0fb054",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739897,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886726,
     "wof:name":"Nakadomari",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

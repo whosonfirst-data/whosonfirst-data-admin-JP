@@ -54,7 +54,10 @@
         85672857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"42383"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151600,
     "wof:geomhash":"c8a993f18b5ebc868a3696a0af30d388",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743149,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886730,
     "wof:name":"Ojika",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

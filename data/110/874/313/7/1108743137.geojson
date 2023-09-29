@@ -54,7 +54,10 @@
         85672857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"42307"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151597,
     "wof:geomhash":"0c5f0b4013364e15ff6ba5941a7a24e4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743137,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Nagayo",
     "wof:parent_id":85672857,
     "wof:placetype":"county",

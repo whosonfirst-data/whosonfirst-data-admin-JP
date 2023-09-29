@@ -84,7 +84,10 @@
         85672675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33423"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151470,
     "wof:geomhash":"f0b1a91593140452c2f2a01b4a5d5f4a",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108742761,
-    "wof:lastmodified":1694492424,
+    "wof:lastmodified":1695886165,
     "wof:name":"Hayashima",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

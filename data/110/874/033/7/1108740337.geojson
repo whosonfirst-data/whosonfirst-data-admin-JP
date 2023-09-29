@@ -54,7 +54,10 @@
         85672813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"09343"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147666,
     "wof:geomhash":"28a5c330a9ab2408d32021271bf48f37",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740337,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Motegi",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

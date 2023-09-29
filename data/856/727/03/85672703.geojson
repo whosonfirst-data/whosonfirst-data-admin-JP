@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.710729,
-    "geom:area_square_m":7402095577.842426,
+    "geom:area_square_m":7402095501.027433,
     "geom:bbox":"129.963196,32.094868,131.328598,33.194733",
     "geom:latitude":32.618628,
     "geom:longitude":130.75376,
@@ -435,6 +435,7 @@
         "gn:id":1858419,
         "gp:id":2345870,
         "hasc:id":"JP.KM",
+        "iso:code":"JP-43",
         "iso:id":"JP-43",
         "loc:id":"n81042380",
         "qs_pg:id":1164994,
@@ -442,11 +443,12 @@
         "wd:id":"Q130308",
         "wk:page":"Kumamoto Prefecture"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82440f80fd169f9a732483c35bc37cb9",
+    "wof:geomhash":"badf4202256072d9649f5a2a94dc588b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -461,7 +463,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1690937675,
+    "wof:lastmodified":1695884515,
     "wof:name":"Kumamoto",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

@@ -54,7 +54,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43432"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151612,
     "wof:geomhash":"4b8031f395977e1f36ac8c831e904ae5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743189,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nishihara",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

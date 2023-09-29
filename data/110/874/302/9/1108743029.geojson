@@ -60,7 +60,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40341"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151560,
     "wof:geomhash":"b7e5e7e74ef07d934785a153747cbcf8",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108743029,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886743,
     "wof:name":"Umi",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

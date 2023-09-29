@@ -93,7 +93,10 @@
         85672817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"13303"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151062,
     "wof:geomhash":"dcefaab12be8d30447e90380fd5fc6f7",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108741755,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886155,
     "wof:name":"Mizuho",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

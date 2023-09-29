@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03302"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146496,
     "wof:geomhash":"32c671c7b03af948dccdaa7b26599bae",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739955,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kuzumaki",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

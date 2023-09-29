@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01544"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145849,
     "wof:geomhash":"f1ccb13bce7c4434cf9ff327db162ebc",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739725,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886741,
     "wof:name":"Tsubetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

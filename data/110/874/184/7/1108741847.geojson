@@ -114,7 +114,10 @@
         85672849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"15385"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151100,
     "wof:geomhash":"a2d16fe4f587de848f117a4f0cba7f5f",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108741847,
-    "wof:lastmodified":1694492427,
+    "wof:lastmodified":1695886173,
     "wof:name":"Aga",
     "wof:parent_id":85672849,
     "wof:placetype":"county",

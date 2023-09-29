@@ -54,7 +54,10 @@
         85672777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"26463"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151335,
     "wof:geomhash":"73e5cafeac9d49daf7491253c391e38b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742435,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886713,
     "wof:name":"Ine",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

@@ -133,7 +133,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40448"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151574,
     "wof:geomhash":"4b0f847a2400d5bdfc8eaf329c1e80d6",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1108743063,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886140,
     "wof:name":"Toho",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

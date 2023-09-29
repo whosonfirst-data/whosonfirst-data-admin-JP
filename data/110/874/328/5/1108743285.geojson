@@ -54,7 +54,10 @@
         85672707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"45405"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151640,
     "wof:geomhash":"780b6afd8c9127ba13b8ecc0057b06c0",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743285,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886718,
     "wof:name":"Kawaminami",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

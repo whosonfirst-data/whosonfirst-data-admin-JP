@@ -55,7 +55,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145461,
     "wof:geomhash":"f85637b4347be1971b83447f983769cf",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739591,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Kyowa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

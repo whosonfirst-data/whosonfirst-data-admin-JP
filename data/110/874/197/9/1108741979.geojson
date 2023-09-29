@@ -245,8 +245,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.NN.UD",
+        "meso:local_id":"20203",
         "wd:id":"Q844852"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151142,
     "wof:geomhash":"2c7a04223df475ffdf3866774374fa48",
@@ -259,7 +261,7 @@
         }
     ],
     "wof:id":1108741979,
-    "wof:lastmodified":1694492421,
+    "wof:lastmodified":1695886157,
     "wof:name":"Ueda",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

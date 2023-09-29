@@ -54,7 +54,10 @@
         85672807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"11363"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479148138,
     "wof:geomhash":"ef2d6190952d4187d15668f259f0e7a3",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740507,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Nagatoro",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

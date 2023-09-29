@@ -54,7 +54,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30304"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151420,
     "wof:geomhash":"8ad2b9ca8f3a95f32ca5210b74554a7f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742633,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886718,
     "wof:name":"Kimino",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

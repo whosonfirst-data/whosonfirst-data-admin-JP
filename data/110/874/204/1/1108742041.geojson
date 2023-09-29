@@ -63,7 +63,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20403"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151160,
     "wof:geomhash":"b389ca67c45fb67d23b0f45a66a80025",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108742041,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886150,
     "wof:name":"Takamori",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

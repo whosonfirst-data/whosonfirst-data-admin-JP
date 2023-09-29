@@ -97,7 +97,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01454"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145626,
     "wof:geomhash":"e17b8d1b302627f96d18edd2f6ca44a7",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108739645,
-    "wof:lastmodified":1694492429,
+    "wof:lastmodified":1695886177,
     "wof:name":"Toma",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

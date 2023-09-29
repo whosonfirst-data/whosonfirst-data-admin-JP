@@ -87,7 +87,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146758,
     "wof:geomhash":"715b1c37c0a8154ec2d1fffd9b5d2ce7",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108740041,
-    "wof:lastmodified":1694492425,
+    "wof:lastmodified":1695886167,
     "wof:name":"Wakuya",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

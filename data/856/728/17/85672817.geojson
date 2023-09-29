@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216289,
-    "geom:area_square_m":2187366704.487367,
+    "geom:area_square_m":2187366274.035761,
     "geom:bbox":"136.069527,20.42274,153.986866,35.898132",
     "geom:latitude":35.076926,
     "geom:longitude":139.559184,
@@ -1023,12 +1023,14 @@
         "gn:id":1850144,
         "gp:id":2345889,
         "hasc:id":"JP.TK",
+        "iso:code":"JP-13",
         "iso:id":"JP-13",
         "loc:id":"n79034998",
         "qs_pg:id":184386,
         "wd:id":"Q1490",
         "wk:page":"Tokyo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         102031307
     ],
@@ -1036,7 +1038,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92706dfa2624e227c089257414260b29",
+    "wof:geomhash":"138a7862f54916a2fb2ade6433b6b2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1051,7 +1053,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1690937669,
+    "wof:lastmodified":1695884514,
     "wof:name":"Tokyo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

@@ -54,7 +54,10 @@
         85672785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"27301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151356,
     "wof:geomhash":"89dd873f835b585a22efb14c2d2265e4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742479,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shimamoto",
     "wof:parent_id":85672785,
     "wof:placetype":"county",

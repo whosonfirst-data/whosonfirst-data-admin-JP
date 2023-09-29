@@ -55,7 +55,10 @@
         85672871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"10524"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147882,
     "wof:geomhash":"7c1904bbe2059dcb66dfc1ef401d7490",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740417,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Oizumi",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

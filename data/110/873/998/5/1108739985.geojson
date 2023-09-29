@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146583,
     "wof:geomhash":"e3d27f36e73091080e375955b7dd8852",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739985,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886716,
     "wof:name":"Karumai",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

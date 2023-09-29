@@ -99,7 +99,10 @@
         85672807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"11100"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147894,
     "wof:geomhash":"19015c8f7b1464f13a17d4639b402cb4",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108740421,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886732,
     "wof:name":"Saitama",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

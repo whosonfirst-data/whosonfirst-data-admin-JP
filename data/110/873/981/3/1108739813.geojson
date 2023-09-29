@@ -60,7 +60,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01642"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146086,
     "wof:geomhash":"6ea9b3d70615d07d0e417431014107ab",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108739813,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886711,
     "wof:name":"Hiroo",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

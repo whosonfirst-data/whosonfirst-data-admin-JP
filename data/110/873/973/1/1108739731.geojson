@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01546"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145863,
     "wof:geomhash":"8ba75f3461d7e22da31a887b7df41845",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739731,
-    "wof:lastmodified":1694492430,
+    "wof:lastmodified":1695886180,
     "wof:name":"Kiyosato",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -421,8 +421,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.KN.YH"
+        "hasc:id":"JP.KN.YH",
+        "meso:local_id":"14100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151075,
     "wof:geomhash":"8e9d0214df078ca703e7c10005ad8f38",
@@ -435,7 +437,7 @@
         }
     ],
     "wof:id":1108741785,
-    "wof:lastmodified":1694492428,
+    "wof:lastmodified":1695886175,
     "wof:name":"Yokohama",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

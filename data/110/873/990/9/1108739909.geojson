@@ -55,7 +55,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02408"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146366,
     "wof:geomhash":"45a58f5bfbb24c9d1a3aa66e45cc8992",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739909,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886740,
     "wof:name":"Tohoku",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

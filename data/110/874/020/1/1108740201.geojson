@@ -84,7 +84,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07421"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147253,
     "wof:geomhash":"6230395b0a0e9ee81f412db9ebaa57f0",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108740201,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886161,
     "wof:name":"Aizubange",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

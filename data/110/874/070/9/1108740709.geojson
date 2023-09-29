@@ -72,7 +72,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01471"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479150716,
     "wof:geomhash":"8484fe6a49711ce8a58c12de74dfba61",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108740709,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886145,
     "wof:name":"Nakagawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

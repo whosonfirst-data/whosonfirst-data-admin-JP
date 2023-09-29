@@ -55,7 +55,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03461"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146553,
     "wof:geomhash":"40be84f618a18eb93aa7109ec42c4e7f",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739973,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886731,
     "wof:name":"Otsuchi",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

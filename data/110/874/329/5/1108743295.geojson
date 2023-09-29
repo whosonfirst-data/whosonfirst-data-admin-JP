@@ -55,7 +55,10 @@
         85672707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"45430"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151643,
     "wof:geomhash":"13e5e1bdd75664070930f375558f13a5",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108743295,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shiiba",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

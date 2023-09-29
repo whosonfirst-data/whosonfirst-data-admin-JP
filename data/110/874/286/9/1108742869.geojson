@@ -57,7 +57,10 @@
         85672729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"36402"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151503,
     "wof:geomhash":"8c629631ac5b1cb85bfca4dfe196e0c3",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108742869,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886718,
     "wof:name":"Kitajima",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

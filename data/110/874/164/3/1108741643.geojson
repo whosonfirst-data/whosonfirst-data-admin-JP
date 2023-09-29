@@ -55,7 +55,10 @@
         85672797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"12342"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151028,
     "wof:geomhash":"7faa1256959d891ee8f22393894d7581",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108741643,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886720,
     "wof:name":"Kozaki",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146958,
     "wof:geomhash":"688a90c7c94be36dec3bc26239b9f96c",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740107,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886743,
     "wof:name":"Yamanobe",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

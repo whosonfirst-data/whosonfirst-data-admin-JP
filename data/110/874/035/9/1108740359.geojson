@@ -211,8 +211,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.GM.MB"
+        "hasc:id":"JP.GM.MB",
+        "meso:local_id":"10201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147721,
     "wof:geomhash":"9dab0829252d1f496b3c40d9ff2b4aad",
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":1108740359,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886437,
     "wof:name":"Maebashi",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

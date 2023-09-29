@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01632"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146030,
     "wof:geomhash":"83559d0d65f894f2cb6401d79ebda1e2",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739793,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shihoro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

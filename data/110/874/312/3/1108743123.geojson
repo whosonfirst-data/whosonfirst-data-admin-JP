@@ -61,7 +61,10 @@
         85672695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"41424"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151593,
     "wof:geomhash":"e3363783aeb6a528d8cef9ce7ca7fd14",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108743123,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886720,
     "wof:name":"Kohoku",
     "wof:parent_id":85672695,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32343"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151452,
     "wof:geomhash":"a20985c1510553be462d185e86e7887c",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742721,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886730,
     "wof:name":"Okuizumo",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

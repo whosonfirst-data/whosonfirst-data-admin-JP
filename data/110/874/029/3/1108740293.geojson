@@ -100,8 +100,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.OS.IB"
+        "hasc:id":"JP.OS.IB",
+        "meso:local_id":"08302"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147538,
     "wof:geomhash":"19b87901dc2606d4a84abd855f9d8f9a",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1108740293,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Ibaraki",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

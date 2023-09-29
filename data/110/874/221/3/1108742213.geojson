@@ -87,7 +87,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151224,
     "wof:geomhash":"7c469fe75f20a690438c5afebcd42af6",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108742213,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886145,
     "wof:name":"Higashiizu",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

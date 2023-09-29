@@ -60,7 +60,10 @@
         85672849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"15342"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151098,
     "wof:geomhash":"ceffe8dd8f0b7835062b82f32371ef25",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108741843,
-    "wof:lastmodified":1694492427,
+    "wof:lastmodified":1695886173,
     "wof:name":"Yahiko",
     "wof:parent_id":85672849,
     "wof:placetype":"county",

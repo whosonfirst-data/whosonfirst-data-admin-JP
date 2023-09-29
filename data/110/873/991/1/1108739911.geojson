@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02411"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146373,
     "wof:geomhash":"c22075b2509fe117ab8fed4ebea9f36e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739911,
-    "wof:lastmodified":1694492691,
+    "wof:lastmodified":1695886732,
     "wof:name":"Rokkasho",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

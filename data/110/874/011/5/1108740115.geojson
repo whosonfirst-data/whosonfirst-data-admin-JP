@@ -109,8 +109,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.CH.AS"
+        "hasc:id":"JP.CH.AS",
+        "meso:local_id":"06323"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146984,
     "wof:geomhash":"508a63b918cf78c1eca39676cc7bf44b",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1108740115,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886162,
     "wof:name":"Asahi",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01637"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146060,
     "wof:geomhash":"d9a15ade74478be53cc99c78b6ffd71b",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739805,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886722,
     "wof:name":"Memuro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05348"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146833,
     "wof:geomhash":"188e5cba59b77cd6c0bf95a332dd34c0",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740065,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886724,
     "wof:name":"Mitane",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

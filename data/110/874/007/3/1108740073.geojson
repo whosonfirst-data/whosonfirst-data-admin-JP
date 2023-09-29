@@ -55,7 +55,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05363"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146857,
     "wof:geomhash":"e1499c5bcd1f362548bce80bb380218d",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740073,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Hachirogata",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

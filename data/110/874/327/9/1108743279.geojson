@@ -54,7 +54,10 @@
         85672707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"45402"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151639,
     "wof:geomhash":"1d24f03b357b1246f7992e6d872cfa04",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743279,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886736,
     "wof:name":"Shintomi",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

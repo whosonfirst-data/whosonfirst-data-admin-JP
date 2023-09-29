@@ -109,8 +109,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.SZ.SK"
+        "hasc:id":"JP.SZ.SK",
+        "meso:local_id":"22100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151217,
     "wof:geomhash":"07dc943e74d1c829aaf8507138dfd9ae",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1108742185,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886436,
     "wof:name":"Shizuoka",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

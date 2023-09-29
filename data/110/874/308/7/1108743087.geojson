@@ -87,7 +87,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40621"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151583,
     "wof:geomhash":"d983126b9aff84206be8d33763b11edd",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108743087,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886140,
     "wof:name":"Kanda",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

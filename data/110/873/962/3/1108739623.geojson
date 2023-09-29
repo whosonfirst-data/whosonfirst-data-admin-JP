@@ -57,7 +57,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01429"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145555,
     "wof:geomhash":"b2af72ce8a446d57ddb8a5ababc877e0",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108739623,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kuriyama",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

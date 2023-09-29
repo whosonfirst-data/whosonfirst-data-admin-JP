@@ -54,7 +54,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151615,
     "wof:geomhash":"c0dd7d34f98fb94db6b78e21dfc3261d",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743197,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886722,
     "wof:name":"Mashiki",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

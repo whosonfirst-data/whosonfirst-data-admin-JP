@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20303"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151146,
     "wof:geomhash":"6d45aa11fe0c9eae4ab71fcfc673b82e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108741993,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886720,
     "wof:name":"Koumi",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

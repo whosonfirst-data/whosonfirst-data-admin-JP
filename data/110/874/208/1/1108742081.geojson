@@ -69,7 +69,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20446"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151177,
     "wof:geomhash":"f603b4fa36e79c2a961361b2171edac1",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108742081,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886730,
     "wof:name":"Omi",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

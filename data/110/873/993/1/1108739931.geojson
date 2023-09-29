@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146423,
     "wof:geomhash":"f4c02ca7d94c877a7192c35129ebf30f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739931,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886738,
     "wof:name":"Takko",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

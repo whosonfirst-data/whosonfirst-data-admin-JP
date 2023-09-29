@@ -74,7 +74,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32588"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151465,
     "wof:geomhash":"f2ef5d3218bad554f73e67d46675779a",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108742745,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886730,
     "wof:name":"Okinoshima",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

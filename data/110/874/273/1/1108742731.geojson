@@ -54,7 +54,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151460,
     "wof:geomhash":"523c85ff715bdd27dbc3ea4ee77b1432",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742731,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886742,
     "wof:name":"Tsuwano",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

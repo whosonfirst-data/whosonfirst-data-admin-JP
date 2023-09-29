@@ -236,8 +236,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.ST.WR",
+        "meso:local_id":"11223",
         "wd:id":"Q673010"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147979,
     "wof:geomhash":"04af5c23e892e1eb7216100fee1784cf",
@@ -250,7 +252,7 @@
         }
     ],
     "wof:id":1108740451,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886159,
     "wof:name":"Warabi",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

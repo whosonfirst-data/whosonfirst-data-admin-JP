@@ -54,7 +54,10 @@
         85672813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"09344"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147672,
     "wof:geomhash":"1bb2aa20ac87b7c856dfef3ea812dafd",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740341,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Ichikai",
     "wof:parent_id":85672813,
     "wof:placetype":"county",

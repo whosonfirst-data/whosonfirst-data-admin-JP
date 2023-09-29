@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01424"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145526,
     "wof:geomhash":"5fe29ddf8026507e518aa9d6e2030d17",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739613,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Naie",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -66,7 +66,10 @@
         85672767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"18501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151128,
     "wof:geomhash":"711fdd1d7c2c90014dcee8ffa2a9de52",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108741929,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886742,
     "wof:name":"Wakasa",
     "wof:parent_id":85672767,
     "wof:placetype":"county",

@@ -94,7 +94,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01564"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145931,
     "wof:geomhash":"eddffba9d9b56a258584ae29fcf653bc",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108739755,
-    "wof:lastmodified":1694492430,
+    "wof:lastmodified":1695886181,
     "wof:name":"Ozora",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

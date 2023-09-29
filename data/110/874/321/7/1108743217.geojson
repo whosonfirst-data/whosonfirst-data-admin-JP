@@ -54,7 +54,10 @@
         85672703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"43507"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151622,
     "wof:geomhash":"afd36e92fa9ff2289d4483df9ff26cec",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743217,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Mizukami",
     "wof:parent_id":85672703,
     "wof:placetype":"county",

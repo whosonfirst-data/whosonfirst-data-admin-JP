@@ -54,7 +54,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23442"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151249,
     "wof:geomhash":"6ee9a2b319b85a72530edf5ef00c0253",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742297,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886711,
     "wof:name":"Higashiura",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

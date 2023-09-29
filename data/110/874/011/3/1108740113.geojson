@@ -60,7 +60,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06322"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146977,
     "wof:geomhash":"6dad25c7aaba9f2d81c88981dd747820",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108740113,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nishikawa",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

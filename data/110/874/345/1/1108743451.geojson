@@ -92,7 +92,10 @@
         85672817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"UNK"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151700,
     "wof:geomhash":"c58b2900e38dfe2f1a4de000a8510c9d",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108743451,
-    "wof:lastmodified":1694492428,
+    "wof:lastmodified":1695886174,
     "wof:name":"Koto",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

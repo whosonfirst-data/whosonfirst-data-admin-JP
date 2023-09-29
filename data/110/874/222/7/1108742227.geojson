@@ -84,7 +84,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22342"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151229,
     "wof:geomhash":"898394f0bba9bec6fa83b7aa444a3cc9",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108742227,
-    "wof:lastmodified":1694492425,
+    "wof:lastmodified":1695886166,
     "wof:name":"Nagaizumi",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

@@ -60,7 +60,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07466"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147324,
     "wof:geomhash":"95a644491d4dcb74be4e8e5436ab2c62",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108740223,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886743,
     "wof:name":"Yabuki",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

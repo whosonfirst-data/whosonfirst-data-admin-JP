@@ -54,7 +54,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07561"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147455,
     "wof:geomhash":"88299641389d098331d846b7ffd68f53",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740269,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886735,
     "wof:name":"Shinchi",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

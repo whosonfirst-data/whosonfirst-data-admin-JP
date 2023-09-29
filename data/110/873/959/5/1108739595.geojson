@@ -69,7 +69,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01403"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145474,
     "wof:geomhash":"281851875b78200389d3a512b6742b12",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108739595,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886739,
     "wof:name":"Tomari",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

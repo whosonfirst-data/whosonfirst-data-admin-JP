@@ -81,7 +81,10 @@
         85672675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33623"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151474,
     "wof:geomhash":"37dd669e7defaa0222ead3b83049a1eb",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108742775,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886160,
     "wof:name":"Nagi",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

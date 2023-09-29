@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01543"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145843,
     "wof:geomhash":"499cee6b447c3d11d16638138e025f3d",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739723,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886707,
     "wof:name":"Bihoro",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

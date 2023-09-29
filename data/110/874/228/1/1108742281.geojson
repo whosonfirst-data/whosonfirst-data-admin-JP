@@ -54,7 +54,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23342"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151245,
     "wof:geomhash":"3fc01fb0bc344d9c749d0a53c7ee1317",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742281,
-    "wof:lastmodified":1694492695,
+    "wof:lastmodified":1695886742,
     "wof:name":"Toyoyama",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

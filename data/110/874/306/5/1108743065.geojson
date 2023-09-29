@@ -54,7 +54,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40503"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151575,
     "wof:geomhash":"d262ff6a6d348145406206f133ade04f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743065,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886737,
     "wof:name":"Tachiarai",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

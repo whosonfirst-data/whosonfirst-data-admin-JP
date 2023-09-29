@@ -55,7 +55,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07461"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147300,
     "wof:geomhash":"06228d371b3a87ebb4c542f08bd343b0",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740217,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nishigo",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

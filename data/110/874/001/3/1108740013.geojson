@@ -54,7 +54,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04341"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146681,
     "wof:geomhash":"a0753853e9f88eaff62793c5c38f004c",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740013,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Marumori",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

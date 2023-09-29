@@ -67,7 +67,10 @@
         85672685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31390"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151448,
     "wof:geomhash":"a02ce2a73ed0333ea1ac49ec4af0d801",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108742707,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Hoki",
     "wof:parent_id":85672685,
     "wof:placetype":"county",

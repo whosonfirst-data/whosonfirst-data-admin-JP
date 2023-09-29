@@ -69,7 +69,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32526"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151463,
     "wof:geomhash":"068b4d42766b3412aaacb58747d81b6b",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108742739,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886144,
     "wof:name":"Nishinoshima",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

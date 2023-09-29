@@ -60,7 +60,10 @@
         85672689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"35321"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151492,
     "wof:geomhash":"505a84c05d9553bde3ffcec2f0d5a680",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108742833,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886160,
     "wof:name":"Waki",
     "wof:parent_id":85672689,
     "wof:placetype":"county",

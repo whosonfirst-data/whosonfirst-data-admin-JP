@@ -54,7 +54,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05366"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146863,
     "wof:geomhash":"5acb3a7349237ffd31d49574a1e57f52",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740075,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Ikawa",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

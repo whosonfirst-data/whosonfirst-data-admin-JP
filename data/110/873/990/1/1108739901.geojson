@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02402"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146347,
     "wof:geomhash":"d874397ad3e4b7916974e2b83ee2b44e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739901,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shichinohe",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

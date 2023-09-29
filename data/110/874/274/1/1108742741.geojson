@@ -54,7 +54,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32527"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151464,
     "wof:geomhash":"a53dbd48492c16d3db2bd1a587f1f0b8",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742741,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886708,
     "wof:name":"Chibu",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

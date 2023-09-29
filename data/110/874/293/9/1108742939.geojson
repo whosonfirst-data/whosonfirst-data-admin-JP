@@ -278,8 +278,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.KC.KC"
+        "hasc:id":"JP.KC.KC",
+        "meso:local_id":"39201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151528,
     "wof:geomhash":"47ef39edd5f1736c0da62afabae91aac",
@@ -292,7 +294,7 @@
         }
     ],
     "wof:id":1108742939,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886151,
     "wof:name":"Kochi",
     "wof:parent_id":85672717,
     "wof:placetype":"county",

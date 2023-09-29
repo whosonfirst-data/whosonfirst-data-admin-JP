@@ -72,7 +72,10 @@
         85672797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"12347"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151029,
     "wof:geomhash":"35f521ad3052e0a4a7cd3be7b688b01a",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108741645,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886738,
     "wof:name":"Tako",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01334"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145308,
     "wof:geomhash":"5db81d9c4ef38583b3473530ccabd327",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739539,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886718,
     "wof:name":"Kikonai",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"11327"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479148076,
     "wof:geomhash":"09b904a724c4f61747d5a0b7c74c4775",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740485,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886728,
     "wof:name":"Ogose",
     "wof:parent_id":85672807,
     "wof:placetype":"county",

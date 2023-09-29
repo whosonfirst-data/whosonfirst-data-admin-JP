@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01607"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145999,
     "wof:geomhash":"36bcb2312e60e7a8a12c580dfbb06ec4",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739779,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886742,
     "wof:name":"Urakawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

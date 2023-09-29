@@ -69,7 +69,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01345"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145328,
     "wof:geomhash":"6d67b80ffecd434ac124d6080d13eb4e",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108739545,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886724,
     "wof:name":"Mori",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

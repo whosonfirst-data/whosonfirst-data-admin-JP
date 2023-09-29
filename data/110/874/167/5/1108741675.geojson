@@ -90,7 +90,10 @@
         85672797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"12443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151038,
     "wof:geomhash":"fc63e44929f0f358bb5aeab13bab9379",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108741675,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886141,
     "wof:name":"Onjuku",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

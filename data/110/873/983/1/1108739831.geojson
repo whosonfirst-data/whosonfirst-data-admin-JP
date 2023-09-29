@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01662"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146144,
     "wof:geomhash":"4e1172da5caaa3a0db28f1b49500386a",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739831,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886705,
     "wof:name":"Akkeshi",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

@@ -87,7 +87,10 @@
         85672729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"36387"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151501,
     "wof:geomhash":"66e3f11a7ec8e921741ca223d0d01278",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108742863,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Minami",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

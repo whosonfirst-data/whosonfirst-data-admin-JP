@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02343"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146298,
     "wof:geomhash":"4d05f7e9092516228115e7743754cc65",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739883,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886727,
     "wof:name":"Nishimeya",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

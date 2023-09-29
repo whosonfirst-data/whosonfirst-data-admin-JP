@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01404"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145480,
     "wof:geomhash":"7e568dff563cfae735f427d4d03cecae",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739597,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kamoenai",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

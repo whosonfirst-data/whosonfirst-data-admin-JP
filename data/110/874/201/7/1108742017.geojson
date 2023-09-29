@@ -54,7 +54,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20350"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151153,
     "wof:geomhash":"5015f28ae058056e80f17f7b9bc68687",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742017,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886725,
     "wof:name":"Nagawa",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

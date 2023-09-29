@@ -55,7 +55,10 @@
         85672789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"25425"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151275,
     "wof:geomhash":"0b602d6bfa6ec5916c0543e496222889",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108742383,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886706,
     "wof:name":"Aisho",
     "wof:parent_id":85672789,
     "wof:placetype":"county",

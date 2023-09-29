@@ -54,7 +54,10 @@
         85672801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"08309"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147544,
     "wof:geomhash":"3152a5ef2981f4b7fce8722ced299b88",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740295,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Oarai",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

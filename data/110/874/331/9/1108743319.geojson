@@ -174,7 +174,10 @@
         85672861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"46304"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151652,
     "wof:geomhash":"5ebb92e6b2175ccea12376b71e559953",
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1108743319,
-    "wof:lastmodified":1694492414,
+    "wof:lastmodified":1695886139,
     "wof:name":"Toshima",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

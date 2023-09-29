@@ -54,7 +54,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23425"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151248,
     "wof:geomhash":"70935204294aa3fd4d27f34df1bee47c",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742291,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886715,
     "wof:name":"Kanie",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

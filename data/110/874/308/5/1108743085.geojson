@@ -57,7 +57,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40610"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151582,
     "wof:geomhash":"248cfa3f29e9235035476e95ea0d57d3",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108743085,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Fukuchi",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

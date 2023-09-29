@@ -54,7 +54,10 @@
         85672871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"10443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147832,
     "wof:geomhash":"d0945b48f15d8b8474e21e4217a232cc",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740399,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886716,
     "wof:name":"Katashina",
     "wof:parent_id":85672871,
     "wof:placetype":"county",

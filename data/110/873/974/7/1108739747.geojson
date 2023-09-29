@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01560"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145906,
     "wof:geomhash":"fd65c341c6a7238d4acd71c84e35dd25",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739747,
-    "wof:lastmodified":1694492694,
+    "wof:lastmodified":1695886737,
     "wof:name":"Takinoue",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

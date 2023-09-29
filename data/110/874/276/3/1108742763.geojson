@@ -55,7 +55,10 @@
         85672675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33445"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151471,
     "wof:geomhash":"69bda8d90b809ca9ebcf80a22176a9ba",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108742763,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886733,
     "wof:name":"Satosho",
     "wof:parent_id":85672675,
     "wof:placetype":"county",

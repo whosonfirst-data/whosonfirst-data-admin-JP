@@ -57,7 +57,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01550"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145882,
     "wof:geomhash":"4f2c5ed867adf578fc5f7c4999ea6c58",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108739737,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Oketo",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

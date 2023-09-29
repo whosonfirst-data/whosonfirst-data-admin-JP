@@ -82,8 +82,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.FO.MY"
+        "hasc:id":"JP.FO.MY",
+        "meso:local_id":"40625"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151583,
     "wof:geomhash":"f05e74bffd6dd66162b8a455037d3737",
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1108743089,
-    "wof:lastmodified":1694492415,
+    "wof:lastmodified":1695886140,
     "wof:name":"Miyako",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

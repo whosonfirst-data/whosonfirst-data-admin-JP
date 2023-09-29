@@ -67,7 +67,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07545"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147429,
     "wof:geomhash":"b574167868d93d148cb013cd19d0e612",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108740259,
-    "wof:lastmodified":1694492690,
+    "wof:lastmodified":1695886729,
     "wof:name":"Okuma",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

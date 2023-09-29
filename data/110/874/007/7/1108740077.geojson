@@ -58,7 +58,10 @@
         85672825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"05368"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146875,
     "wof:geomhash":"86fb77bf96824e446aa229ed9272dd1c",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108740077,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Ogata",
     "wof:parent_id":85672825,
     "wof:placetype":"county",

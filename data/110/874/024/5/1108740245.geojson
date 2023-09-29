@@ -60,7 +60,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07521"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147390,
     "wof:geomhash":"5607305ea08df759de3855a0c2a75682",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108740245,
-    "wof:lastmodified":1694492687,
+    "wof:lastmodified":1695886723,
     "wof:name":"Miharu",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

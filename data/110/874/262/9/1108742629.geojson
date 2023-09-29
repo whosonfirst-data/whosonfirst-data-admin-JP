@@ -115,8 +115,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.WK.WK"
+        "hasc:id":"JP.WK.WK",
+        "meso:local_id":"30201"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151418,
     "wof:geomhash":"cf00d2e7132527a881995d5473141678",
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1108742629,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886743,
     "wof:name":"Wakayama",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

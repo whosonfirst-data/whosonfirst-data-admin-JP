@@ -55,7 +55,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40646"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151584,
     "wof:geomhash":"c0edd48277c0d1eabcdd751debdabee6",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108743095,
-    "wof:lastmodified":1694492685,
+    "wof:lastmodified":1695886720,
     "wof:name":"Koge",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

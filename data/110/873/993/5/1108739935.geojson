@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02446"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146435,
     "wof:geomhash":"8ede1c586473ecf8975fda69b3e49c02",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739935,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886710,
     "wof:name":"Hashikami",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

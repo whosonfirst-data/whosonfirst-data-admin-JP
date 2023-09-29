@@ -66,7 +66,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02445"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146429,
     "wof:geomhash":"1fdcb4ab6d7c4823ce9c649044b4fc43",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108739933,
-    "wof:lastmodified":1694492429,
+    "wof:lastmodified":1695886179,
     "wof:name":"Nanbu",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

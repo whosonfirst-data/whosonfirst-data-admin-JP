@@ -177,7 +177,10 @@
         85672861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"46505"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151664,
     "wof:geomhash":"f7a2bb7cd51e3cf7ab42d815dc2d8809",
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":1108743343,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886158,
     "wof:name":"Yakushima",
     "wof:parent_id":85672861,
     "wof:placetype":"county",

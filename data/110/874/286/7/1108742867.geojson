@@ -54,7 +54,10 @@
         85672729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"36401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151502,
     "wof:geomhash":"1c3d9d411c55aaab516b46850cf8ebb1",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742867,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886722,
     "wof:name":"Matsushige",
     "wof:parent_id":85672729,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"45421"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151642,
     "wof:geomhash":"25fc50981ec4b1c97da9702a381d8b83",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743289,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886714,
     "wof:name":"Kadogawa",
     "wof:parent_id":85672707,
     "wof:placetype":"county",

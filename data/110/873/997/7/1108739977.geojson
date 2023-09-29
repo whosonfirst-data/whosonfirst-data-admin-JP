@@ -55,7 +55,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03483"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146565,
     "wof:geomhash":"b95fdfa9bbebff11e27d4b65da0fb9be",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108739977,
-    "wof:lastmodified":1694492683,
+    "wof:lastmodified":1695886713,
     "wof:name":"Iwaizumi",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

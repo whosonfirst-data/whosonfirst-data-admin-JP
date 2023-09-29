@@ -67,7 +67,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147167,
     "wof:geomhash":"bc438559caefbc2567e950b7cdf27d03",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108740167,
-    "wof:lastmodified":1694492423,
+    "wof:lastmodified":1695886163,
     "wof:name":"Koori",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

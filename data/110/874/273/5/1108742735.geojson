@@ -57,7 +57,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32505"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151462,
     "wof:geomhash":"f1364a3cbc0b7c9c16362f44a5fb9611",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108742735,
-    "wof:lastmodified":1694492697,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yoshika",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

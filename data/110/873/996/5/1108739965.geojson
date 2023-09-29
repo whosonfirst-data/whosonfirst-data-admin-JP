@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03366"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146529,
     "wof:geomhash":"18f162d231e195a5e46e6f109682cb20",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739965,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nishiwaga",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

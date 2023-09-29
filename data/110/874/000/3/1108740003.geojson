@@ -73,7 +73,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146643,
     "wof:geomhash":"8675d7e533889f862695db9056e7c56d",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108740003,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886148,
     "wof:name":"Zao",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

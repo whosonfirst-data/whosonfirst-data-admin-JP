@@ -115,7 +115,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23501"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151252,
     "wof:geomhash":"c04c1d719a85696c9606907c7cbfcd04",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108742307,
-    "wof:lastmodified":1694492426,
+    "wof:lastmodified":1695886171,
     "wof:name":"Kota",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

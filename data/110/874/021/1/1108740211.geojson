@@ -55,7 +55,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07446"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147284,
     "wof:geomhash":"8fd3dab29f435f81703ba74716a6efc3",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108740211,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886736,
     "wof:name":"Showa",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

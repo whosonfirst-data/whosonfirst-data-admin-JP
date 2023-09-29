@@ -54,7 +54,10 @@
         85672835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"07364"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147211,
     "wof:geomhash":"40bc4801235b4eea20a83c329fb1ea61",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740185,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886711,
     "wof:name":"Hinoemata",
     "wof:parent_id":85672835,
     "wof:placetype":"county",

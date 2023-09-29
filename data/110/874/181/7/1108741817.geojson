@@ -123,7 +123,10 @@
         85672805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"14382"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151089,
     "wof:geomhash":"905a5ac343e46d05ff0241b8f9cbfe6d",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108741817,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886155,
     "wof:name":"Hakone",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

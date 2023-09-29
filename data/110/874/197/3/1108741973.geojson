@@ -84,7 +84,10 @@
         85672821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"19443"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151141,
     "wof:geomhash":"fadc8e0924eb3c71b0acad1184a41692",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108741973,
-    "wof:lastmodified":1694492422,
+    "wof:lastmodified":1695886157,
     "wof:name":"Tabayama",
     "wof:parent_id":85672821,
     "wof:placetype":"county",

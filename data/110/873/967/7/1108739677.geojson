@@ -60,7 +60,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01468"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145706,
     "wof:geomhash":"e3c6ac3697182901a7df1111f75381b9",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108739677,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shimokawa",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

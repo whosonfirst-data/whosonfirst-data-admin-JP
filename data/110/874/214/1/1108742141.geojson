@@ -64,7 +64,10 @@
         85672735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"21303"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151199,
     "wof:geomhash":"0b36d8ebe4a29fe3d551ae8c88b610ac",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108742141,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886716,
     "wof:name":"Kasamatsu",
     "wof:parent_id":85672735,
     "wof:placetype":"county",

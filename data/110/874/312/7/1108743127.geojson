@@ -174,7 +174,10 @@
         85672695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"41441"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151595,
     "wof:geomhash":"20501920808f9f8f2a426df0f4dd941e",
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1108743127,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886437,
     "wof:name":"Tara",
     "wof:parent_id":85672695,
     "wof:placetype":"county",

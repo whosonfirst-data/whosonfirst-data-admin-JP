@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02401"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146341,
     "wof:geomhash":"af2a0655eb883c8a721c071330404ddd",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739899,
-    "wof:lastmodified":1694492689,
+    "wof:lastmodified":1695886727,
     "wof:name":"Noheji",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

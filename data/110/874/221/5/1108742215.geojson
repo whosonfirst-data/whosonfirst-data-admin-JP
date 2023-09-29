@@ -54,7 +54,10 @@
         85672753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22302"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151225,
     "wof:geomhash":"358a8f91a4a20d6657de50c3938f64e6",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742215,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Kawazu",
     "wof:parent_id":85672753,
     "wof:placetype":"county",

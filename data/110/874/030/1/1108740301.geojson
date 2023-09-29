@@ -81,7 +81,10 @@
         85672801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"08364"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147563,
     "wof:geomhash":"1ac28a915f1090ab474a031334b590bc",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108740301,
-    "wof:lastmodified":1694492419,
+    "wof:lastmodified":1695886151,
     "wof:name":"Daigo",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

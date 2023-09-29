@@ -625,7 +625,10 @@
         85672731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"23302"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151243,
     "wof:geomhash":"f0ad7380915bc26201541a4b56df3c30",
@@ -638,7 +641,7 @@
         }
     ],
     "wof:id":1108742277,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886142,
     "wof:name":"Togo",
     "wof:parent_id":85672731,
     "wof:placetype":"county",

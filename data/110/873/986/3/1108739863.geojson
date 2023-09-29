@@ -56,7 +56,10 @@
         85688125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01700"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146243,
     "wof:geomhash":"c6b7fe1d64550cf08eec2d2d078ca3de",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108739863,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886733,
     "wof:name":"Shibetoro",
     "wof:parent_id":-1,
     "wof:placetype":"county",

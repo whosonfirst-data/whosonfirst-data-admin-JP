@@ -54,7 +54,10 @@
         85672801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"08542"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147594,
     "wof:geomhash":"3845e042ecacdbcf3f6b56c245ffebaa",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740313,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886709,
     "wof:name":"Goka",
     "wof:parent_id":85672801,
     "wof:placetype":"county",

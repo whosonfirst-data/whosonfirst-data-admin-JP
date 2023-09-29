@@ -54,7 +54,10 @@
         85672831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"02425"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146398,
     "wof:geomhash":"72abf72a01c68474f245ff51b7453866",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739919,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Kazamaura",
     "wof:parent_id":85672831,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01513"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145795,
     "wof:geomhash":"819d9c4adf228e027ccbc29e49295cf7",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739707,
-    "wof:lastmodified":1694492688,
+    "wof:lastmodified":1695886726,
     "wof:name":"Nakatonbetsu",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

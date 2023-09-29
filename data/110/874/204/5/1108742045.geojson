@@ -78,7 +78,10 @@
         85672749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"20407"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151162,
     "wof:geomhash":"dbbe8f9ed0fc3cbaa99150d409639e69",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108742045,
-    "wof:lastmodified":1694492679,
+    "wof:lastmodified":1695886705,
     "wof:name":"Achi",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

@@ -109,8 +109,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"JP.NN.MT"
+        "hasc:id":"JP.NN.MT",
+        "meso:local_id":"20202"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151141,
     "wof:geomhash":"81d0ae64fd5a2eca1d0f4410263a33bb",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1108741975,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886437,
     "wof:name":"Matsumoto",
     "wof:parent_id":85672749,
     "wof:placetype":"county",

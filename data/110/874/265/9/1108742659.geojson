@@ -54,7 +54,10 @@
         85672795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"30392"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151428,
     "wof:geomhash":"1be11adf928674077c3a20f6f7c74d94",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742659,
-    "wof:lastmodified":1694492681,
+    "wof:lastmodified":1695886710,
     "wof:name":"Hidakagawa",
     "wof:parent_id":85672795,
     "wof:placetype":"county",

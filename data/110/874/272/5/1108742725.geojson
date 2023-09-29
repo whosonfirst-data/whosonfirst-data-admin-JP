@@ -54,7 +54,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32441"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151453,
     "wof:geomhash":"4fba8085fb9d5d1bd967572042fc0520",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742725,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886717,
     "wof:name":"Kawamoto",
     "wof:parent_id":85672679,
     "wof:placetype":"county",

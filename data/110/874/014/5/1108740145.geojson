@@ -54,7 +54,10 @@
         85672853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"06403"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479147080,
     "wof:geomhash":"d753e62fc00e28c4fd08c2a76333ea4a",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108740145,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886712,
     "wof:name":"Iide",
     "wof:parent_id":85672853,
     "wof:placetype":"county",

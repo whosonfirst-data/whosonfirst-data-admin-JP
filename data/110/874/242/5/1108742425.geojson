@@ -54,7 +54,10 @@
         85672777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"26365"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151332,
     "wof:geomhash":"986fbc91822f290e7ac515f6a2d410fa",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108742425,
-    "wof:lastmodified":1694492696,
+    "wof:lastmodified":1695886742,
     "wof:name":"Wazuka",
     "wof:parent_id":85672777,
     "wof:placetype":"county",

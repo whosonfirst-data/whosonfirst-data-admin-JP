@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01634"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146042,
     "wof:geomhash":"e3df7363e97699c21ee97311b7c781a2",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739797,
-    "wof:lastmodified":1694492692,
+    "wof:lastmodified":1695886734,
     "wof:name":"Shikaoi",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

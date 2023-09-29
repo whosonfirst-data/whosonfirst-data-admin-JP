@@ -335,8 +335,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"JP.CH.CB",
+        "meso:local_id":"12100",
         "wd:id":"Q170616"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479148208,
     "wof:geomhash":"9eaf8d856f229e489ea77fc8cd7ee263",
@@ -349,7 +351,7 @@
         }
     ],
     "wof:id":1108740531,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886148,
     "wof:name":"Chiba",
     "wof:parent_id":85672797,
     "wof:placetype":"county",

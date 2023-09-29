@@ -54,7 +54,10 @@
         85672697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40601"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151577,
     "wof:geomhash":"a182b48933b2579d2bae1a6565a1cdef",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108743071,
-    "wof:lastmodified":1694492684,
+    "wof:lastmodified":1695886718,
     "wof:name":"Kawara",
     "wof:parent_id":85672697,
     "wof:placetype":"county",

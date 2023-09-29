@@ -69,7 +69,10 @@
         85672805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"14361"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151081,
     "wof:geomhash":"c0b7a96634b909dda0f943af4b4c099f",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108741805,
-    "wof:lastmodified":1694492420,
+    "wof:lastmodified":1695886152,
     "wof:name":"Nakai",
     "wof:parent_id":85672805,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"03301"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146490,
     "wof:geomhash":"89335b238982a117f78b0bbcee0104af",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739953,
-    "wof:lastmodified":1694492693,
+    "wof:lastmodified":1695886736,
     "wof:name":"Shizukuishi",
     "wof:parent_id":85672839,
     "wof:placetype":"county",

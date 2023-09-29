@@ -69,7 +69,10 @@
         85672817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"13305"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151062,
     "wof:geomhash":"d8d066805d40b17cb1ec84d47a7a00fa",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108741757,
-    "wof:lastmodified":1694492682,
+    "wof:lastmodified":1695886711,
     "wof:name":"Hinode",
     "wof:parent_id":85672817,
     "wof:placetype":"county",

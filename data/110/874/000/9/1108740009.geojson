@@ -72,7 +72,10 @@
         85672843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"04322"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479146662,
     "wof:geomhash":"d17db4e817915d40d11534653d6bbae1",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108740009,
-    "wof:lastmodified":1694492418,
+    "wof:lastmodified":1695886148,
     "wof:name":"Murata",
     "wof:parent_id":85672843,
     "wof:placetype":"county",

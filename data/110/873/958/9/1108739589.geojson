@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01400"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145454,
     "wof:geomhash":"a9a9e19c59b8f16e5ca8b93c40ff0e96",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739589,
-    "wof:lastmodified":1694492686,
+    "wof:lastmodified":1695886721,
     "wof:name":"Kutchan",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

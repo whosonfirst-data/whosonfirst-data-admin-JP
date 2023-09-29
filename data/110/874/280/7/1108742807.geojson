@@ -69,7 +69,10 @@
         85672671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"34304"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151484,
     "wof:geomhash":"269ab534dddbca2f325d87ec2efd752c",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108742807,
-    "wof:lastmodified":1694492416,
+    "wof:lastmodified":1695886144,
     "wof:name":"Kaita",
     "wof:parent_id":85672671,
     "wof:placetype":"county",

@@ -54,7 +54,10 @@
         85672761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"01555"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479145894,
     "wof:geomhash":"0b60b2040684b239d4bbeb121c3b6bf9",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108739741,
-    "wof:lastmodified":1694492680,
+    "wof:lastmodified":1695886708,
     "wof:name":"Engaru",
     "wof:parent_id":85672761,
     "wof:placetype":"county",

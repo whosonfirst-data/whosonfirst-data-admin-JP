@@ -139,7 +139,10 @@
         85672679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"32449"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"JP",
     "wof:created":1479151460,
     "wof:geomhash":"fb466f48dc64b88b3dcf776b68a0d4a6",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1108742729,
-    "wof:lastmodified":1694492417,
+    "wof:lastmodified":1695886146,
     "wof:name":"Onan",
     "wof:parent_id":85672679,
     "wof:placetype":"county",
