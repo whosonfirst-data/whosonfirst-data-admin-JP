@@ -10,7 +10,9 @@
     "geom:latitude":35.6379,
     "geom:longitude":139.888886,
     "gn:population":143758,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.864796,35.608214,139.904796,35.648214",
     "lbl:latitude":35.638465,
     "lbl:longitude":139.889615,
     "lbl:max_zoom":14.0,
@@ -61,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Urayasu"
+    ],
+    "name:eng_x_variant":[
+        "Urayasu City"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0627\u06cc\u0627\u0633\u0648\u060c \u0686\u06cc\u0628\u0627"
@@ -226,7 +231,18 @@
     "qs:level":"locality",
     "qs:loc":"Urayasu",
     "qs:loc_lc":"1849186",
+    "qs:name":"\u6d66\u5b89\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5343\u8449\u770c",
+    "qs:photos":421,
+    "qs:photos_1k":85,
+    "qs:photos_9k":135,
+    "qs:photos_9r":22,
+    "qs:photos_all":30503,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -243,9 +259,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1849186,
+        "gp:id":1116236,
         "qs_pg:id":351297,
         "wd:id":"Q319729",
         "wk:page":"Urayasu Station (Chiba)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1186834
+        ]
     },
     "wof:coterminous":[
         1108741615
@@ -265,7 +287,7 @@
         }
     ],
     "wof:id":102031269,
-    "wof:lastmodified":1690937540,
+    "wof:lastmodified":1706240248,
     "wof:name":"Urayasu",
     "wof:parent_id":1108741615,
     "wof:placetype":"locality",
@@ -273,7 +295,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890535163
+    ],
     "wof:tags":[]
 },
   "bbox": [

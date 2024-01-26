@@ -9,7 +9,9 @@
     "geom:bbox":"138.884512,35.083955,138.916605,35.115415",
     "geom:latitude":35.098463,
     "geom:longitude":138.902302,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"138.879098,35.094068,138.919098,35.134068",
     "lbl:latitude":35.098035,
     "lbl:longitude":138.905204,
     "lbl:max_zoom":18.0,
@@ -24,6 +26,9 @@
     ],
     "name:eng_x_preferred":[
         "Shimizu"
+    ],
+    "name:eng_x_variant":[
+        "Shimizu Town"
     ],
     "name:fin_x_preferred":[
         "Shimizu"
@@ -80,7 +85,18 @@
     "qs:level":"locality",
     "qs:loc":"Shimizu",
     "qs:loc_lc":"1852416",
+    "qs:name":"\u6e05\u6c34\u753a",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9759\u5ca1\u770c",
+    "qs:photos":217,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":217,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -96,7 +112,13 @@
     "wof:concordances":{
         "gn:id":1852416,
         "gp:id":28438736,
+        "qs_pg:id":15166,
         "wd:id":"Q299273"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            24723000
+        ]
     },
     "wof:coterminous":[
         1108742225
@@ -113,13 +135,15 @@
         }
     ],
     "wof:id":102031387,
-    "wof:lastmodified":1690937602,
+    "wof:lastmodified":1706240248,
     "wof:name":"Shimizu",
     "wof:parent_id":1108742225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890532209
+    ],
     "wof:tags":[]
 },
   "bbox": [

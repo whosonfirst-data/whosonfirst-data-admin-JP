@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":11402882
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11402881
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"1459fbe7606c578d6e701ac73a960651",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276844169,
-    "wof:lastmodified":1566725619,
+    "wof:lastmodified":1706240322,
     "wof:name":"Kuzuwatari",
     "wof:parent_id":1108743157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292959553
+    ],
     "wof:tags":[]
 },
   "bbox": [

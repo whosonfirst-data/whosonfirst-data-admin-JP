@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"140.38077,35.48,140.38077,35.48",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shimizu"
@@ -73,7 +75,7 @@
         "gn:id":11134794
     },
     "wof:country":"JP",
-    "wof:geomhash":"00b321182a0dae73b586ddf0d2f32c82",
+    "wof:geomhash":"bb0fb1880734283289b716956e102ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,20 +86,22 @@
         }
     ],
     "wof:id":1310228471,
-    "wof:lastmodified":1566726035,
+    "wof:lastmodified":1706240321,
     "wof:name":"Shimizu",
     "wof:parent_id":1108741649,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209638883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    140.38076999999998,
+    140.38077,
     35.48,
-    140.38076999999998,
+    140.38077,
     35.48
 ],
-  "geometry": {"coordinates":[140.38076999999998,35.48],"type":"Point"}
+  "geometry": {"coordinates":[140.38077000000001,35.48],"type":"Point"}
 }

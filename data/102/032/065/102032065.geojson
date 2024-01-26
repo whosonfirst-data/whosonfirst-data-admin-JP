@@ -11,7 +11,9 @@
     "geom:longitude":142.36084,
     "gn:latitude":43.35,
     "gn:longitude":142.38333,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"142.357502,43.327152,142.397502,43.367152",
     "lbl:latitude":43.345155,
     "lbl:longitude":142.36084,
     "lbl:max_zoom":18.0,
@@ -59,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Furano"
+    ],
+    "name:eng_x_variant":[
+        "Furano City"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u0631\u0627\u0646\u0648\u060c \u0647\u0648\u06a9\u0627\u06cc\u062f\u0648"
@@ -218,7 +223,18 @@
     "qs:level":"locality",
     "qs:loc":"Furano",
     "qs:loc_lc":"2130306",
+    "qs:name":"\u5bcc\u826f\u91ce\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5317\u6d77\u9053",
+    "qs:photos":3587,
+    "qs:photos_1k":727,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3587,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -234,7 +250,13 @@
     "wof:concordances":{
         "gn:id":2130306,
         "gp:id":28382607,
+        "qs_pg:id":1111006,
         "wd:id":"Q654738"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117112
+        ]
     },
     "wof:country":"JP",
     "wof:geomhash":"c29ca2d21a66b6292d483ca500990709",
@@ -248,13 +270,15 @@
         }
     ],
     "wof:id":102032065,
-    "wof:lastmodified":1690937621,
+    "wof:lastmodified":1706240252,
     "wof:name":"Furano",
     "wof:parent_id":890523935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890530755
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"128.66684,27.4193,128.66684,27.4193",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u897f\u539f"
@@ -50,7 +52,7 @@
         "gn:id":1855338
     },
     "wof:country":"JP",
-    "wof:geomhash":"e9816f6e3e57451b58d1e55a086781ca",
+    "wof:geomhash":"04d001899962d17c83b01629f59928e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1327097143,
-    "wof:lastmodified":1566724755,
+    "wof:lastmodified":1706240322,
     "wof:name":"Nishibaru",
     "wof:parent_id":1108743365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1277051519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    128.66683999999998,
+    128.66684,
     27.4193,
-    128.66683999999998,
+    128.66684,
     27.4193
 ],
-  "geometry": {"coordinates":[128.66683999999998,27.4193],"type":"Point"}
+  "geometry": {"coordinates":[128.66684000000001,27.4193],"type":"Point"}
 }

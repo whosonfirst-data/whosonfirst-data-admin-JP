@@ -10,6 +10,7 @@
     "geom:latitude":35.867115,
     "geom:longitude":139.508838,
     "gn:id":"",
+    "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"139.503838,35.862115,139.513838,35.872115",
     "lbl:latitude":35.867115,
@@ -54,7 +55,14 @@
     "qs:name_local":"\u3075\u3058\u307f\u91ce\u5e02",
     "qs:photo_max":27,
     "qs:photo_sum":42,
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
     "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
     "qs:quad_count":6,
     "qs:woe_adm0":23424856,
     "qs:woe_adm1":2345883,
@@ -79,6 +87,14 @@
         "gp:id":28524370,
         "qs_pg:id":990292
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28524358
+        ],
+        "qs_pg:id":[
+            1315249
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes"
@@ -98,13 +114,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344420,
+    "wof:lastmodified":1706240000,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102032149,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890522835
+    ],
     "wof:tags":[]
 },
   "bbox": [

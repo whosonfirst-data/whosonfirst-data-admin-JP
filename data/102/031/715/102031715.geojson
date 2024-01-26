@@ -10,7 +10,9 @@
     "geom:latitude":33.275436,
     "geom:longitude":129.858397,
     "gn:population":57940,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"129.857796,33.251816,129.897796,33.291816",
     "lbl:latitude":33.280028,
     "lbl:longitude":129.841919,
     "lbl:max_zoom":14.0,
@@ -55,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Imari"
+    ],
+    "name:eng_x_variant":[
+        "Imari City"
     ],
     "name:est_x_preferred":[
         "Imari"
@@ -211,7 +216,18 @@
     "qs:level":"locality",
     "qs:loc":"Imari",
     "qs:loc_lc":"1861677",
+    "qs:name":"\u4f0a\u4e07\u91cc\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u4f50\u8cc0\u770c",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -234,6 +250,14 @@
         "wd:id":"Q857266",
         "wk:page":"Imari, Saga"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117300
+        ],
+        "qs_pg:id":[
+            484510
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -249,7 +273,7 @@
         }
     ],
     "wof:id":102031715,
-    "wof:lastmodified":1690937548,
+    "wof:lastmodified":1706240250,
     "wof:name":"Imari",
     "wof:parent_id":890520109,
     "wof:placetype":"locality",
@@ -257,7 +281,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890522941
+    ],
     "wof:tags":[]
 },
   "bbox": [

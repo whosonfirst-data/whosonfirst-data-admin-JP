@@ -10,7 +10,9 @@
     "geom:latitude":34.515662,
     "geom:longitude":131.500966,
     "gn:population":43826,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"131.387738,34.394674,131.427738,34.434674",
     "lbl:latitude":34.619647,
     "lbl:longitude":131.599731,
     "lbl:max_zoom":14.0,
@@ -61,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Hagi"
+    ],
+    "name:eng_x_variant":[
+        "Hagi City"
     ],
     "name:est_x_preferred":[
         "Hagi"
@@ -232,7 +237,18 @@
     "qs:level":"locality",
     "qs:loc":"Hagi",
     "qs:loc_lc":"1863418",
+    "qs:name":"\u8429\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5c71\u53e3\u770c",
+    "qs:photos":545,
+    "qs:photos_1k":110,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":903,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -255,6 +271,14 @@
         "wd:id":"Q378225",
         "wk:page":"Hagi, Yamaguchi"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117145
+        ],
+        "qs_pg:id":[
+            1086908
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -270,7 +294,7 @@
         }
     ],
     "wof:id":102031769,
-    "wof:lastmodified":1690937560,
+    "wof:lastmodified":1706240250,
     "wof:name":"Hagi",
     "wof:parent_id":890523829,
     "wof:placetype":"locality",
@@ -278,7 +302,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529647
+    ],
     "wof:tags":[]
 },
   "bbox": [

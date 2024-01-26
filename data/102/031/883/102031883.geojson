@@ -9,7 +9,22 @@
     "geom:bbox":"139.575814,35.14234,139.630727,35.178332",
     "geom:latitude":35.160337,
     "geom:longitude":139.60327,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1856849.0",
+    "gn:asciiname":"Misaki",
+    "gn:country_code":"JP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1857019,
+    "gn:latitude":35.14149,
+    "gn:longitude":139.61942,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Misaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"139.59942,35.12149,139.63942,35.16149",
     "lbl:latitude":35.169318,
     "lbl:longitude":139.586792,
     "lbl:max_zoom":18.0,
@@ -30,6 +45,10 @@
     ],
     "name:jpn_x_preferred":[
         "\u4e09\u5d0e\u753a"
+    ],
+    "name:jpn_x_variant":[
+        "\u307f\u3055\u304d",
+        "\u30df\u30b5\u30ad"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc0ac\ud0a4\uc815"
@@ -67,6 +86,11 @@
         "wd:id":"Q8190515",
         "wk:page":"Misaki, Ehime"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1857019
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"5ebdfd4135dd5f956dd210ec8e4eade0",
     "wof:hierarchy":[
@@ -78,13 +102,15 @@
         }
     ],
     "wof:id":102031883,
-    "wof:lastmodified":1690937572,
+    "wof:lastmodified":1706240251,
     "wof:name":"Misaki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209071275
+    ],
     "wof:tags":[]
 },
   "bbox": [

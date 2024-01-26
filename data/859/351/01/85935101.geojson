@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:jpn_x_preferred":[
         "\uff08\u4e01\u76ee\u306a\u3057\uff09"
@@ -51,11 +52,30 @@
     "qs:woe_lau":1108231,
     "qs:woe_local":1117502,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff08\u4e01\u76ee\u306a\u3057\uff09",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs_pg:photos":277,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":277,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1310044,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":90009969,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672805,
         102191569,
@@ -67,6 +87,14 @@
     "wof:concordances":{
         "gp:id":90009969,
         "qs_pg:id":1310044
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            90009969
+        ],
+        "qs_pg:id":[
+            1310044
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -87,13 +115,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344451,
+    "wof:lastmodified":1706240245,
     "wof:name":"\uff08\u4e01\u76ee\u306a\u3057\uff09",
     "wof:parent_id":102031627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126083037
+    ],
     "wof:tags":[]
 },
   "bbox": [

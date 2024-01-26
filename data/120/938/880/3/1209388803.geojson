@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":11242474
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11242473
+        ]
+    },
     "wof:country":"JP",
-    "wof:geomhash":"8172bed481950ffb93371a977ed66e1e",
+    "wof:geomhash":"b60cf813fb7166082b82dd0589fc0438",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1209388803,
-    "wof:lastmodified":1566725663,
+    "wof:lastmodified":1706240320,
     "wof:name":"Tamame",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259741927
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    131.16418000000002,
+    131.16418,
     32.75341,
-    131.16418000000002,
+    131.16418,
     32.75341
 ],
-  "geometry": {"coordinates":[131.16418000000002,32.75341],"type":"Point"}
+  "geometry": {"coordinates":[131.16417999999999,32.75341],"type":"Point"}
 }

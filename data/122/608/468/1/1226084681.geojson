@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":10481268
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10479132
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"144dab314be239036a422755024ad6ed",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226084681,
-    "wof:lastmodified":1566726916,
+    "wof:lastmodified":1706240321,
     "wof:name":"Kagiana",
     "wof:parent_id":1108742185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310553069
+    ],
     "wof:tags":[]
 },
   "bbox": [

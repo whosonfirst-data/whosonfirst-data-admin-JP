@@ -12,11 +12,14 @@
     "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"127.68318,26.211402,127.69318,26.221402",
+    "lbl:latitude":26.214553,
+    "lbl:longitude":127.688081,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs:name":"\uff12\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u6c96\u7e04\u770c",
@@ -28,6 +31,26 @@
     "qs:photos_sr":5,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6c96\u7e04\u770c",
+    "qs_pg:photos":325,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":325,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897207,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28583315,
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6c96\u7e04\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672867,
         102191569,
@@ -39,6 +62,14 @@
     "wof:concordances":{
         "gp:id":28583312,
         "qs_pg:id":374727
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28583315
+        ],
+        "qs_pg:id":[
+            897207
+        ]
     },
     "wof:country":"JP",
     "wof:created":1469056326,
@@ -54,13 +85,15 @@
         }
     ],
     "wof:id":890524075,
-    "wof:lastmodified":1640730973,
+    "wof:lastmodified":1706240278,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031495,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126084625
+    ],
     "wof:tags":[]
 },
   "bbox": [

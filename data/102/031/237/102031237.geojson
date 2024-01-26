@@ -10,7 +10,9 @@
     "geom:latitude":35.263083,
     "geom:longitude":139.674169,
     "gn:population":428992,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.653824,35.248046,139.693824,35.288046",
     "lbl:latitude":35.245609,
     "lbl:longitude":139.683808,
     "lbl:max_zoom":13.0,
@@ -77,6 +79,9 @@
     ],
     "name:eng_x_preferred":[
         "Yokosuka"
+    ],
+    "name:eng_x_variant":[
+        "Yokosuka City"
     ],
     "name:epo_x_preferred":[
         "Jokosuka"
@@ -293,7 +298,18 @@
     "qs:level":"locality",
     "qs:loc":"Yokosuka",
     "qs:loc_lc":"1848313",
+    "qs:name":"\u6a2a\u9808\u8cc0\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs:photos":1349,
+    "qs:photos_1k":273,
+    "qs:photos_9k":45,
+    "qs:photos_9r":16,
+    "qs:photos_all":10262,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -311,9 +327,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1848313,
+        "gp:id":1118552,
         "qs_pg:id":137060,
         "wd:id":"Q200578",
         "wk:page":"Yokosuka, Kanagawa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1087005
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -330,7 +352,7 @@
         }
     ],
     "wof:id":102031237,
-    "wof:lastmodified":1690937591,
+    "wof:lastmodified":1706240248,
     "wof:name":"Yokosuka",
     "wof:parent_id":890519941,
     "wof:placetype":"locality",
@@ -338,7 +360,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529897
+    ],
     "wof:tags":[]
 },
   "bbox": [

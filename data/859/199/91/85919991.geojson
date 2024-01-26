@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Yokohama 2 Chome"
@@ -66,12 +67,31 @@
     "qs:woe_lau":28483315,
     "qs:woe_local":1117099,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u798f\u5ca1\u770c",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":512612,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28578842,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u798f\u5ca1\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672697,
         102191569,
@@ -85,7 +105,12 @@
         "qs_pg:id":230076
     },
     "wof:concordances_alt":{
-        "qs_pg:id":512612
+        "gp:id":[
+            28578842
+        ],
+        "qs_pg:id":[
+            512612
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -107,13 +132,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344453,
+    "wof:lastmodified":1706240230,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031795,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126109337
+    ],
     "wof:tags":[]
 },
   "bbox": [

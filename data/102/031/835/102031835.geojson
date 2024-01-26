@@ -10,7 +10,9 @@
     "geom:latitude":33.297895,
     "geom:longitude":131.490623,
     "gn:population":125065,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"131.465576,33.265095,131.505576,33.305095",
     "lbl:latitude":33.284697,
     "lbl:longitude":131.487995,
     "lbl:max_zoom":14.0,
@@ -58,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Beppu"
+    ],
+    "name:eng_x_variant":[
+        "Beppu City"
     ],
     "name:epo_x_preferred":[
         "Beppu"
@@ -244,7 +249,18 @@
     "qs:level":"locality",
     "qs:loc":"Beppu",
     "qs:loc_lc":"1864750",
+    "qs:name":"\u5225\u5e9c\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5927\u5206\u770c",
+    "qs:photos":3449,
+    "qs:photos_1k":699,
+    "qs:photos_9k":23,
+    "qs:photos_9r":14,
+    "qs:photos_all":5112,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -267,6 +283,14 @@
         "wd:id":"Q273880",
         "wk:page":"Beppu, \u014cita"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117022
+        ],
+        "qs_pg:id":[
+            899005
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -282,7 +306,7 @@
         }
     ],
     "wof:id":102031835,
-    "wof:lastmodified":1690937536,
+    "wof:lastmodified":1706240251,
     "wof:name":"Beppu",
     "wof:parent_id":890520429,
     "wof:placetype":"locality",
@@ -290,7 +314,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890526291
+    ],
     "wof:tags":[]
 },
   "bbox": [

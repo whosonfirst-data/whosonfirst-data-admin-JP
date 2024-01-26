@@ -13,6 +13,7 @@
     "gn:admin2_code":"1848350.0",
     "gn:admin3_code":"14113.0",
     "gn:asciiname":"Nagatsutacho",
+    "gn:cc2":"JP",
     "gn:country_code":"JP",
     "gn:dem":47,
     "gn:feature_class":"P",
@@ -56,6 +57,11 @@
     "wof:concordances":{
         "gn:id":1856087
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1856086
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"aeb71ee6dadb43c58ab80b3e6f0de0e3",
     "wof:hierarchy":[
@@ -68,13 +74,15 @@
         }
     ],
     "wof:id":1260142195,
-    "wof:lastmodified":1566725891,
+    "wof:lastmodified":1706240321,
     "wof:name":"Nagatsutacho",
     "wof:parent_id":1108741785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276615929
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":135.526699,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"135.523483,34.683557,135.533483,34.693557",
     "lbl:latitude":34.689755,
     "lbl:longitude":135.526699,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Katamachi 1 Chome"
@@ -62,11 +64,30 @@
     "qs:woe_lau":28457115,
     "qs:woe_local":15015370,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff11\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5927\u962a\u5e9c",
+    "qs_pg:photos":1520,
+    "qs_pg:photos_1k":308,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1520,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1277359,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28559607,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5927\u962a\u5e9c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672785,
         102191569,
@@ -78,6 +99,14 @@
     "wof:concordances":{
         "gp:id":28557906,
         "qs_pg:id":1088430
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28557906
+        ],
+        "qs_pg:id":[
+            1088430
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -98,13 +127,16 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640894325,
+    "wof:lastmodified":1706240172,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126094233,
+        1126093809
+    ],
     "wof:tags":[]
 },
   "bbox": [

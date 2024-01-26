@@ -9,10 +9,23 @@
     "geom:bbox":"139.498815,35.839974,139.531946,35.875808",
     "geom:latitude":35.858279,
     "geom:longitude":139.516753,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"7464128.0",
+    "gn:asciiname":"Fujimino",
+    "gn:country_code":"JP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11611220,
     "gn:latitude":35.90196,
     "gn:longitude":139.52489,
+    "gn:modification_date":"2018-01-13",
+    "gn:name":"Fujimino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.49532,35.84142,139.53532,35.88142",
     "lbl:latitude":35.857084,
     "lbl:longitude":139.520066,
     "lbl:max_zoom":18.0,
@@ -250,6 +263,11 @@
         "wd:id":"Q873590",
         "wk:page":"Fujimino, Saitama"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11611220
+        ]
+    },
     "wof:coterminous":[
         890520393
     ],
@@ -265,13 +283,15 @@
         }
     ],
     "wof:id":102032149,
-    "wof:lastmodified":1690937650,
+    "wof:lastmodified":1706240252,
     "wof:name":"Fujimino",
     "wof:parent_id":890520393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209459801
+    ],
     "wof:tags":[]
 },
   "bbox": [

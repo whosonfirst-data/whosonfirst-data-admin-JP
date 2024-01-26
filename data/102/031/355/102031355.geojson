@@ -10,7 +10,9 @@
     "geom:latitude":34.53915,
     "geom:longitude":135.432987,
     "gn:population":60511,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"135.405376,34.516766,135.445376,34.556766",
     "lbl:latitude":34.539361,
     "lbl:longitude":135.433354,
     "lbl:max_zoom":14.0,
@@ -55,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Takaishi"
+    ],
+    "name:eng_x_variant":[
+        "Takaishi City"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u0627\u06cc\u0634\u06cc\u060c \u0627\u0648\u0633\u0627\u06a9\u0627"
@@ -217,7 +222,18 @@
     "qs:level":"locality",
     "qs:loc":"Takaishi",
     "qs:loc_lc":"1851125",
+    "qs:name":"\u9ad8\u77f3\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5927\u962a\u5e9c",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -235,8 +251,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1851125,
+        "gp:id":1115255,
         "qs_pg:id":277657,
         "wd:id":"Q857218"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1122108
+        ]
     },
     "wof:coterminous":[
         890524617
@@ -256,7 +278,7 @@
         }
     ],
     "wof:id":102031355,
-    "wof:lastmodified":1690937516,
+    "wof:lastmodified":1706240248,
     "wof:name":"Takaishi",
     "wof:parent_id":890524617,
     "wof:placetype":"locality",
@@ -264,7 +286,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890531097
+    ],
     "wof:tags":[]
 },
   "bbox": [

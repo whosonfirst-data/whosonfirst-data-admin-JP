@@ -9,7 +9,24 @@
     "geom:bbox":"139.213208,35.480734,139.460557,35.617197",
     "geom:latitude":35.557995,
     "geom:longitude":139.347087,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1853293.0",
+    "gn:admin3_code":"14151.0",
+    "gn:asciiname":"Sagamihara",
+    "gn:country_code":"JP",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11611609,
+    "gn:latitude":35.56707,
+    "gn:longitude":139.24167,
+    "gn:modification_date":"2018-01-18",
+    "gn:name":"Sagamihara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.22167,35.54707,139.26167,35.58707",
     "lbl:latitude":35.569018,
     "lbl:longitude":139.348976,
     "lbl:max_zoom":18.0,
@@ -294,7 +311,18 @@
     "qs:level":"locality",
     "qs:loc":"Sagamihara",
     "qs:loc_lc":"1853295",
+    "qs:name":"\u76f8\u6a21\u539f\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs:photos":1328,
+    "qs:photos_1k":269,
+    "qs:photos_9k":23,
+    "qs:photos_9r":14,
+    "qs:photos_all":5179,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -316,6 +344,17 @@
         "qs_pg:id":351339,
         "wd:id":"Q209779"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11611609
+        ],
+        "gp:id":[
+            1118072
+        ],
+        "qs_pg:id":[
+            362149
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -334,13 +373,16 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1690937570,
+    "wof:lastmodified":1706240249,
     "wof:name":"Sagamihara",
     "wof:parent_id":890524363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327096439,
+        890523347
+    ],
     "wof:tags":[]
 },
   "bbox": [

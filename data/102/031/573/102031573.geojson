@@ -9,7 +9,9 @@
     "geom:bbox":"138.586848,36.619747,138.609198,36.637761",
     "geom:latitude":36.628754,
     "geom:longitude":138.598022,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"138.574477,36.603255,138.614477,36.643255",
     "lbl:latitude":36.628754,
     "lbl:longitude":138.598022,
     "lbl:max_zoom":18.0,
@@ -42,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Kusatsu"
+    ],
+    "name:eng_x_variant":[
+        "Kusatsu Town"
     ],
     "name:epo_x_preferred":[
         "Kusacu"
@@ -123,7 +128,18 @@
     "qs:level":"locality",
     "qs:loc":"Kusatsu",
     "qs:loc_lc":"1858066",
+    "qs:name":"\u8349\u6d25\u753a",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u7fa4\u99ac\u770c",
+    "qs:photos":2667,
+    "qs:photos_1k":540,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2667,
+    "qs:photos_sr":18,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -139,7 +155,13 @@
     "wof:concordances":{
         "gn:id":1858066,
         "gp:id":28407403,
+        "qs_pg:id":1086896,
         "wd:id":"Q1358949"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1111381
+        ]
     },
     "wof:country":"JP",
     "wof:geomhash":"2351d99eda4a2afc0b510a2217420aca",
@@ -153,13 +175,15 @@
         }
     ],
     "wof:id":102031573,
-    "wof:lastmodified":1690937553,
+    "wof:lastmodified":1706240249,
     "wof:name":"Kusatsu",
     "wof:parent_id":1108740391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529727
+    ],
     "wof:tags":[]
 },
   "bbox": [

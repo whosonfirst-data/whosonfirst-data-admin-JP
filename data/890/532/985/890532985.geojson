@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"141.354012,43.067657,141.354012,43.067657",
@@ -14,7 +16,7 @@
     "lbl:bbox":"141.349012,43.062657,141.359012,43.072657",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "qs:name":"\uff11\u4e01\u76ee",
@@ -40,6 +42,14 @@
         "gp:id":28494942,
         "qs_pg:id":116844
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28494971
+        ],
+        "qs_pg:id":[
+            116845
+        ]
+    },
     "wof:country":"JP",
     "wof:created":1469056726,
     "wof:geomhash":"791c838577a56d73bc843c2adecc05d1",
@@ -54,13 +64,22 @@
         }
     ],
     "wof:id":890532985,
-    "wof:lastmodified":1640730807,
+    "wof:lastmodified":1706240312,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102032015,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        890530879,
+        890532071,
+        890532983
+    ],
+    "wof:supersedes":[
+        890535417,
+        890533713,
+        890533153,
+        890532987
+    ],
     "wof:tags":[]
 },
   "bbox": [

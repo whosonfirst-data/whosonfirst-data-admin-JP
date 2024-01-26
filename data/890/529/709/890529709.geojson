@@ -9,7 +9,21 @@
     "geom:bbox":"127.302666,26.22383,127.302666,26.22383",
     "geom:latitude":26.22383,
     "geom:longitude":127.302666,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Zamami",
+    "gn:cc2":"JP",
     "gn:country":"JP",
+    "gn:country_code":"JP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1848002,
+    "gn:latitude":26.22417,
+    "gn:longitude":127.30111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zamami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
     "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"127.282666,26.20383,127.322666,26.24383",
@@ -27,6 +41,10 @@
     "name:jpn_x_preferred":[
         "\u5ea7\u9593\u5473\u6751"
     ],
+    "name:und_x_variant":[
+        "Zaman",
+        "Zamami"
+    ],
     "qs:name":"\u5ea7\u9593\u5473\u6751",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u6c96\u7e04\u770c",
@@ -41,11 +59,12 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        1108743425,
-        85672867
+        85672867,
+        1108743425
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1848002,
         "gp:id":1116896,
         "qs_pg:id":1086548
     },
@@ -62,13 +81,15 @@
         }
     ],
     "wof:id":890529709,
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1706240302,
     "wof:name":"Zamami",
     "wof:parent_id":1108743425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259713429
+    ],
     "wof:tags":[]
 },
   "bbox": [

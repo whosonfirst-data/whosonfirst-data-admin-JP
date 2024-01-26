@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.2,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Higashiarinodai 5 Chome"
@@ -63,12 +64,31 @@
     "qs:woe_lau":28461111,
     "qs:woe_local":1117545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff15\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5175\u5eab\u770c",
+    "qs_pg:photos":628,
+    "qs_pg:photos_1k":127,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":628,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225038,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28566503,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5175\u5eab\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672769,
         102191569,
@@ -81,7 +101,12 @@
         "qs_pg:id":225038
     },
     "wof:concordances_alt":{
-        "qs_pg:id":911687
+        "gp:id":[
+            28566503
+        ],
+        "qs_pg:id":[
+            225038
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -103,13 +128,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1641416973,
+    "wof:lastmodified":1706240199,
     "wof:name":"\uff15\u4e01\u76ee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126093805
+    ],
     "wof:tags":[]
 },
   "bbox": [

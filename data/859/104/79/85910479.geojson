@@ -11,6 +11,7 @@
     "geom:longitude":139.732396,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"139.727789,35.659166,139.737789,35.669166",
     "lbl:latitude":35.664623,
     "lbl:longitude":139.732396,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Roppongi 4 Chome"
@@ -63,11 +65,30 @@
     "qs:woe_lau":28494567,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff14\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6771\u4eac\u90fd",
+    "qs_pg:photos":5708,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":25,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5708,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":502177,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28527441,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6771\u4eac\u90fd",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672817,
         102191569,
@@ -79,6 +100,14 @@
     "wof:concordances":{
         "gp:id":28527441,
         "qs_pg:id":502177
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28527441
+        ],
+        "qs_pg:id":[
+            502177
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -99,13 +128,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640894322,
+    "wof:lastmodified":1706240032,
     "wof:name":"\uff14\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126108475
+    ],
     "wof:tags":[]
 },
   "bbox": [

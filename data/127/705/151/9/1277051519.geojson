@@ -31,6 +31,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:jpn_x_preferred":[
+        "\u897f\u539f"
+    ],
+    "name:und_x_variant":[
+        "Nishibara",
+        "Nishibaru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,8 +49,13 @@
     "wof:concordances":{
         "gn:id":1855337
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1855338
+        ]
+    },
     "wof:country":"JP",
-    "wof:geomhash":"ac62b68c3383f93503d17f43fb9a7739",
+    "wof:geomhash":"f2948d0d479b48ea4980a115fc1fd9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,20 +66,22 @@
         }
     ],
     "wof:id":1277051519,
-    "wof:lastmodified":1566725579,
+    "wof:lastmodified":1706240322,
     "wof:name":"Nishibaru",
     "wof:parent_id":1108743365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327097143
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    128.66666999999998,
+    128.66667,
     27.41667,
-    128.66666999999998,
+    128.66667,
     27.41667
 ],
-  "geometry": {"coordinates":[128.66666999999998,27.41667],"type":"Point"}
+  "geometry": {"coordinates":[128.66667000000001,27.41667],"type":"Point"}
 }

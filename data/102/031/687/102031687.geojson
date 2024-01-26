@@ -9,9 +9,23 @@
     "geom:bbox":"130.314724,32.059591,130.36887,32.124168",
     "geom:latitude":32.085542,
     "geom:longitude":130.3409,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1861090.0",
+    "gn:asciiname":"Izumi",
+    "gn:country_code":"JP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1861108,
+    "gn:latitude":32.08333,
+    "gn:longitude":130.36667,
+    "gn:modification_date":"2017-07-22",
+    "gn:name":"Izumi",
     "gn:population":39217,
+    "gn:timezone":"Asia/Tokyo",
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"130.34667,32.06333,130.38667,32.10333",
     "lbl:latitude":32.080372,
     "lbl:longitude":130.355972,
     "lbl:max_zoom":14.0,
@@ -251,7 +265,15 @@
         "wk:page":"Izumi, Kagoshima"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":466689
+        "gn:id":[
+            1861108
+        ],
+        "qs_pg:id":[
+            466689
+        ],
+        "wk:page":[
+            "Izumi%2C_Kagoshima"
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -268,7 +290,7 @@
         }
     ],
     "wof:id":102031687,
-    "wof:lastmodified":1690937528,
+    "wof:lastmodified":1706240250,
     "wof:name":"Izumi",
     "wof:parent_id":890524689,
     "wof:placetype":"locality",
@@ -276,7 +298,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209791437
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,27 +3,32 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":114769.562616,
     "geom:bbox":"135.50755,34.690977,135.50755,34.690977",
     "geom:latitude":34.690977,
     "geom:longitude":135.50755,
     "gn:id":"",
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"135.504,34.686979,135.514,34.696979",
     "lbl:latitude":34.690977,
     "lbl:longitude":135.50755,
     "lbl:max_zoom":18.0,
     "mps:latitude":34.690802,
     "mps:longitude":135.507033,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Imabashi 1 Chome"
@@ -54,7 +59,14 @@
     "qs:name_local":"\u5927\u962a\u5e02",
     "qs:photo_max":47,
     "qs:photo_sum":229,
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
     "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
     "qs:quad_count":9,
     "qs:woe_adm0":23424856,
     "qs:woe_adm1":2345881,
@@ -62,11 +74,30 @@
     "qs:woe_lau":28457613,
     "qs:woe_local":15015370,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff11\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5927\u962a\u5e9c",
+    "qs_pg:photos":585,
+    "qs_pg:photos_1k":119,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":585,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088455,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28559591,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5927\u962a\u5e9c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672785,
         102191569,
@@ -78,6 +109,14 @@
     "wof:concordances":{
         "gp:id":28559559,
         "qs_pg:id":374161
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28559591
+        ],
+        "qs_pg:id":[
+            1088455
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -98,13 +137,21 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640891944,
+    "wof:lastmodified":1706240183,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        85917255
+    ],
+    "wof:supersedes":[
+        1126093925,
+        1126092205,
+        1126065523,
+        890526925,
+        85917345
+    ],
     "wof:tags":[]
 },
   "bbox": [
