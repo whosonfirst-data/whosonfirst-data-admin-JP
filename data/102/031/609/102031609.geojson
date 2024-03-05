@@ -9,8 +9,23 @@
     "geom:bbox":"139.443903,35.701917,139.498969,35.743789",
     "geom:latitude":35.723232,
     "geom:longitude":139.471117,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"1859115.0",
+    "gn:asciiname":"Kodaira",
+    "gn:country_code":"JP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11611930,
+    "gn:latitude":35.72603,
+    "gn:longitude":139.48508,
+    "gn:modification_date":"2017-07-27",
+    "gn:name":"Kodaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tokyo",
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.46508,35.70603,139.50508,35.74603",
     "lbl:latitude":35.72351,
     "lbl:longitude":139.470702,
     "lbl:max_zoom":18.0,
@@ -281,7 +296,12 @@
         "wd:id":"Q213278"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1033394
+        "gn:id":[
+            11611930
+        ],
+        "qs_pg:id":[
+            1033394
+        ]
     },
     "wof:coterminous":[
         890520051
@@ -301,13 +321,15 @@
         }
     ],
     "wof:id":102031609,
-    "wof:lastmodified":1690937595,
+    "wof:lastmodified":1706240249,
     "wof:name":"Kodaira",
     "wof:parent_id":890520051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193061971
+    ],
     "wof:tags":[]
 },
   "bbox": [

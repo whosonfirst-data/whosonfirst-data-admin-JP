@@ -11,7 +11,9 @@
     "geom:longitude":140.245972,
     "gn:latitude":40.2763,
     "gn:longitude":140.55815,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"140.233524,35.8172975,140.273524,35.8572975",
     "lbl:latitude":35.840081,
     "lbl:longitude":140.245972,
     "lbl:max_zoom":18.0,
@@ -49,7 +51,18 @@
     "qs:level":"locality",
     "qs:loc":"Sakaemachi",
     "qs:loc_lc":"8458824",
+    "qs:name":"\u6804\u753a",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5343\u8449\u770c",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2507,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -64,6 +77,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8458824,
+        "gp:id":24721806,
+        "qs_pg:id":1069919,
         "wd:id":"Q7402752"
     },
     "wof:country":"JP",
@@ -78,13 +93,15 @@
         }
     ],
     "wof:id":102032339,
-    "wof:lastmodified":1690937614,
+    "wof:lastmodified":1706240253,
     "wof:name":"Sakaemachi",
     "wof:parent_id":1108741641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529623
+    ],
     "wof:tags":[]
 },
   "bbox": [

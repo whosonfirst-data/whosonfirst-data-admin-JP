@@ -11,6 +11,7 @@
     "geom:longitude":139.662801,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"139.656922,35.517733,139.666922,35.527733",
     "lbl:latitude":35.522044,
     "lbl:longitude":139.662801,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.5,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Shimosueyoshi 6 Chome"
@@ -62,12 +64,31 @@
     "qs:woe_lau":28415557,
     "qs:woe_local":1118550,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff16\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1270322,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28531913,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672805,
         102191569,
@@ -81,7 +102,12 @@
         "qs_pg:id":911646
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1270322
+        "gp:id":[
+            28531913
+        ],
+        "qs_pg:id":[
+            1270322
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -103,13 +129,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640894337,
+    "wof:lastmodified":1706240107,
     "wof:name":"\uff16\u4e01\u76ee",
     "wof:parent_id":102031239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126075651
+    ],
     "wof:tags":[]
 },
   "bbox": [

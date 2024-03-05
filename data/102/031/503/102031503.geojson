@@ -9,7 +9,9 @@
     "geom:bbox":"130.435474,32.9213,130.45686,32.939336",
     "geom:latitude":32.930318,
     "geom:longitude":130.446167,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"130.435261,32.914927,130.475261,32.954927",
     "lbl:latitude":32.930318,
     "lbl:longitude":130.446167,
     "lbl:max_zoom":18.0,
@@ -36,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Nagasu"
+    ],
+    "name:eng_x_variant":[
+        "Nagasu Town"
     ],
     "name:epo_x_preferred":[
         "Nagasu"
@@ -98,7 +103,18 @@
     "qs:level":"locality",
     "qs:loc":"Nagasu",
     "qs:loc_lc":"1856120",
+    "qs:name":"\u9577\u6d32\u753a",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u718a\u672c\u770c",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -114,8 +130,14 @@
     "wof:concordances":{
         "gn:id":1856120,
         "gp:id":28489450,
+        "qs_pg:id":985905,
         "wd:id":"Q1156411",
         "wk:page":"Nagasu, Kumamoto"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117812
+        ]
     },
     "wof:coterminous":[
         1108743171
@@ -132,13 +154,15 @@
         }
     ],
     "wof:id":102031503,
-    "wof:lastmodified":1690937516,
+    "wof:lastmodified":1706240249,
     "wof:name":"Nagasu",
     "wof:parent_id":1108743171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890527919
+    ],
     "wof:tags":[]
 },
   "bbox": [

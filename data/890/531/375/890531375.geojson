@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"137.383595,34.763687,137.383595,34.763687",
@@ -14,7 +16,7 @@
     "lbl:bbox":"137.378595,34.758687,137.388595,34.768687",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "qs:name":"\uff11\u4e01\u76ee",
@@ -54,12 +56,15 @@
         }
     ],
     "wof:id":890531375,
-    "wof:lastmodified":1640730928,
+    "wof:lastmodified":1706240266,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031359,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85916087,
+        890522399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

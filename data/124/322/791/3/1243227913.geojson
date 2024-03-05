@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":10209190
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10209189
+        ]
+    },
     "wof:country":"JP",
-    "wof:geomhash":"ceb4e18648c2041c20c7a0616f129cd9",
+    "wof:geomhash":"b1d6aa9863d25a4430a04c1f84838b03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1243227913,
-    "wof:lastmodified":1566726585,
+    "wof:lastmodified":1706240321,
     "wof:name":"Ebirase",
     "wof:parent_id":1108743227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243322265
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    130.60536000000002,
+    130.60536,
     32.32188,
-    130.60536000000002,
+    130.60536,
     32.32188
 ],
-  "geometry": {"coordinates":[130.60536000000002,32.32188],"type":"Point"}
+  "geometry": {"coordinates":[130.60535999999999,32.32188],"type":"Point"}
 }

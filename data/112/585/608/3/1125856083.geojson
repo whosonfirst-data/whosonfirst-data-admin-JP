@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"139.61917,35.14,139.61917,35.14",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -247,14 +249,16 @@
         }
     ],
     "wof:id":1125856083,
-    "wof:lastmodified":1690938028,
+    "wof:lastmodified":1706240251,
     "wof:name":"Miura",
     "wof:parent_id":890519685,
     "wof:placetype":"locality",
     "wof:population":51483,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102031877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

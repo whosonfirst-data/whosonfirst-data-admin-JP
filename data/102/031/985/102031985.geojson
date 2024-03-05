@@ -10,7 +10,9 @@
     "geom:latitude":36.590411,
     "geom:longitude":140.646023,
     "gn:population":186307,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"140.628517,36.572514,140.668517,36.612514",
     "lbl:latitude":36.514051,
     "lbl:longitude":140.603028,
     "lbl:max_zoom":14.0,
@@ -74,6 +76,9 @@
     ],
     "name:eng_x_preferred":[
         "Hitachi"
+    ],
+    "name:eng_x_variant":[
+        "Hitachi City"
     ],
     "name:epo_x_preferred":[
         "Hita\u0109i"
@@ -299,7 +304,18 @@
     "qs:level":"locality",
     "qs:loc":"Hitachi",
     "qs:loc_lc":"2112708",
+    "qs:name":"\u65e5\u7acb\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u8328\u57ce\u770c",
+    "qs:photos":108,
+    "qs:photos_1k":22,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1843,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -317,8 +333,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2112708,
+        "gp:id":1117230,
         "qs_pg:id":355889,
         "wd:id":"Q633922"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1086914
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -335,7 +357,7 @@
         }
     ],
     "wof:id":102031985,
-    "wof:lastmodified":1690937550,
+    "wof:lastmodified":1706240251,
     "wof:name":"Hitachi",
     "wof:parent_id":890520685,
     "wof:placetype":"locality",
@@ -343,7 +365,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529749
+    ],
     "wof:tags":[]
 },
   "bbox": [

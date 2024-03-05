@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"141.356105,43.062178,141.356105,43.062178",
@@ -12,11 +14,14 @@
     "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"141.351105,43.057178,141.361105,43.067178",
+    "lbl:latitude":43.06452,
+    "lbl:longitude":141.355676,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs:name":"\uff11\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u5317\u6d77\u9053",
@@ -28,6 +33,26 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "qs_pg:name":"\uff11\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5317\u6d77\u9053",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000809,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28494811,
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5317\u6d77\u9053",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672761,
         102191569,
@@ -39,6 +64,14 @@
     "wof:concordances":{
         "gp:id":28494764,
         "qs_pg:id":485499
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28495138
+        ],
+        "qs_pg:id":[
+            990207
+        ]
     },
     "wof:country":"JP",
     "wof:created":1469056393,
@@ -54,13 +87,21 @@
         }
     ],
     "wof:id":890525861,
-    "wof:lastmodified":1640730932,
+    "wof:lastmodified":1706240283,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102032015,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        85908057,
+        890521813
+    ],
+    "wof:supersedes":[
+        1126076451,
+        1126074725,
+        890531511,
+        890528195
+    ],
     "wof:tags":[]
 },
   "bbox": [

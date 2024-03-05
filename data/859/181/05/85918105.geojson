@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Higashikawasakicho 2 Chome"
@@ -63,11 +64,30 @@
     "qs:woe_lau":28461215,
     "qs:woe_local":1117545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5175\u5eab\u770c",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229216,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28566880,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5175\u5eab\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672769,
         102191569,
@@ -79,6 +99,14 @@
     "wof:concordances":{
         "gp:id":28566880,
         "qs_pg:id":229216
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28566880
+        ],
+        "qs_pg:id":[
+            229216
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -99,13 +127,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1582344437,
+    "wof:lastmodified":1706240202,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031613,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126095299
+    ],
     "wof:tags":[]
 },
   "bbox": [

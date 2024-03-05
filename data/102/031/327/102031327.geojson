@@ -10,7 +10,9 @@
     "geom:latitude":36.26082,
     "geom:longitude":139.50813,
     "gn:population":81274,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.51907,36.222471,139.55907,36.262471",
     "lbl:latitude":36.24871,
     "lbl:longitude":139.529151,
     "lbl:max_zoom":14.0,
@@ -55,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Tatebayashi"
+    ],
+    "name:eng_x_variant":[
+        "Tatebayashi City"
     ],
     "name:epo_x_preferred":[
         "Tatebaja\u015di"
@@ -214,7 +219,18 @@
     "qs:level":"locality",
     "qs:loc":"Tatebayashi",
     "qs:loc_lc":"1850559",
+    "qs:name":"\u9928\u6797\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u7fa4\u99ac\u770c",
+    "qs:photos":318,
+    "qs:photos_1k":64,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1608,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -232,9 +248,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1850559,
+        "gp:id":1118333,
         "qs_pg:id":137090,
         "wd:id":"Q858016",
         "wk:page":"Tatebayashi, Gunma"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            362217
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -251,7 +273,7 @@
         }
     ],
     "wof:id":102031327,
-    "wof:lastmodified":1690937597,
+    "wof:lastmodified":1706240248,
     "wof:name":"Tatebayashi",
     "wof:parent_id":890520387,
     "wof:placetype":"locality",
@@ -259,7 +281,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890523355
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":10481269
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10481270
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"b50693ded3969391d2f6d31c88057ce7",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209457853,
-    "wof:lastmodified":1566725798,
+    "wof:lastmodified":1706240320,
     "wof:name":"Ojiro",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209758559
+    ],
     "wof:tags":[]
 },
   "bbox": [

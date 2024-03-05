@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"130.35446,32.40357,130.35446,32.40357",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u5883\u76ee"
@@ -49,7 +51,7 @@
         "gn:id":11270525
     },
     "wof:country":"JP",
-    "wof:geomhash":"edba4f2df14a2f10bf890c7b1d96a6b0",
+    "wof:geomhash":"32e479d9d05d01e3b418686bb1e13fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1276397873,
-    "wof:lastmodified":1566725640,
+    "wof:lastmodified":1706240320,
     "wof:name":"Sakaime",
     "wof:parent_id":890524819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193252367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    130.35446000000002,
+    130.35446,
     32.40357,
-    130.35446000000002,
+    130.35446,
     32.40357
 ],
-  "geometry": {"coordinates":[130.35446000000002,32.40357],"type":"Point"}
+  "geometry": {"coordinates":[130.35445999999999,32.40357],"type":"Point"}
 }

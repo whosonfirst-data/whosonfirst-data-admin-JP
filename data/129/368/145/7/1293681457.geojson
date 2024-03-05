@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":9864965
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1848584
+        ]
+    },
     "wof:country":"JP",
-    "wof:geomhash":"e383e5cff174fa4342114addc0a0a80c",
+    "wof:geomhash":"250e0b9d5ddba24101a93487b3778d44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1293681457,
-    "wof:lastmodified":1566725407,
+    "wof:lastmodified":1706240322,
     "wof:name":"Maruokacho-yamazaki-sanga",
     "wof:parent_id":85672767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327225969
+    ],
     "wof:tags":[]
 },
   "bbox": [
     136.29551,
-    36.13764000000001,
+    36.13764,
     136.29551,
-    36.13764000000001
+    36.13764
 ],
-  "geometry": {"coordinates":[136.29551000000001,36.13764000000001],"type":"Point"}
+  "geometry": {"coordinates":[136.29551000000001,36.13764],"type":"Point"}
 }

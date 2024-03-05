@@ -10,7 +10,9 @@
     "geom:latitude":34.714368,
     "geom:longitude":137.864287,
     "gn:population":88509,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"137.819983,34.693536,137.859983,34.733536",
     "lbl:latitude":34.717876,
     "lbl:longitude":137.863638,
     "lbl:max_zoom":14.0,
@@ -62,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Iwata"
+    ],
+    "name:eng_x_variant":[
+        "Iwata City"
     ],
     "name:est_x_preferred":[
         "Iwata"
@@ -230,7 +235,18 @@
     "qs:level":"locality",
     "qs:loc":"Iwata",
     "qs:loc_lc":"1861171",
+    "qs:name":"\u78d0\u7530\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9759\u5ca1\u770c",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":300,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -248,9 +264,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1861171,
+        "gp:id":1117351,
         "qs_pg:id":137174,
         "wd:id":"Q386651",
         "wk:page":"Iwata, Shizuoka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            466687
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -267,7 +289,7 @@
         }
     ],
     "wof:id":102031689,
-    "wof:lastmodified":1690937526,
+    "wof:lastmodified":1706240250,
     "wof:name":"Iwata",
     "wof:parent_id":890524687,
     "wof:placetype":"locality",
@@ -275,7 +297,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890525703
+    ],
     "wof:tags":[]
 },
   "bbox": [

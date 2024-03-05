@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"138.57454,35.14888,138.57454,35.14888",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u9375\u7a74"
@@ -45,7 +47,7 @@
         "gn:id":10479132
     },
     "wof:country":"JP",
-    "wof:geomhash":"bddd0689742337c1dddcb04181f7fb6e",
+    "wof:geomhash":"989bb03a49239cb128c9166d8de80608",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1310553069,
-    "wof:lastmodified":1566726061,
+    "wof:lastmodified":1706240321,
     "wof:name":"Kagiana",
     "wof:parent_id":890524473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226084681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    138.57453999999998,
+    138.57454,
     35.14888,
-    138.57453999999998,
+    138.57454,
     35.14888
 ],
-  "geometry": {"coordinates":[138.57453999999998,35.14888],"type":"Point"}
+  "geometry": {"coordinates":[138.57454000000001,35.14888],"type":"Point"}
 }

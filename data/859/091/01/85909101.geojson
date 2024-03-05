@@ -10,6 +10,7 @@
     "geom:latitude":36.561017,
     "geom:longitude":139.883293,
     "gn:id":"",
+    "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"139.878293,36.556017,139.888293,36.566017",
     "lbl:latitude":36.561017,
@@ -25,6 +26,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.2,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Nishi 1 Chome"
@@ -54,7 +56,14 @@
     "qs:name_local":"\u5b87\u90fd\u5bae\u5e02",
     "qs:photo_max":47,
     "qs:photo_sum":204,
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
     "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
     "qs:quad_count":13,
     "qs:woe_adm0":23424856,
     "qs:woe_adm1":2345887,
@@ -62,11 +71,30 @@
     "qs:woe_lau":28404551,
     "qs:woe_local":1118483,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff11\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6803\u6728\u770c",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1264957,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28520846,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6803\u6728\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191569,
         102031261,
@@ -77,6 +105,14 @@
     "wof:concordances":{
         "gp:id":28520827,
         "qs_pg:id":961216
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28520816
+        ],
+        "qs_pg:id":[
+            970089
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -96,13 +132,16 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1641416966,
+    "wof:lastmodified":1706239988,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031261,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126075303,
+        890523691
+    ],
     "wof:tags":[]
 },
   "bbox": [

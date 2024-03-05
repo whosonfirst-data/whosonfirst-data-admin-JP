@@ -10,7 +10,9 @@
     "geom:latitude":35.500928,
     "geom:longitude":135.741577,
     "gn:population":32896,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"135.722097,35.475897,135.762097,35.515897",
     "lbl:latitude":35.500928,
     "lbl:longitude":135.741577,
     "lbl:max_zoom":14.0,
@@ -55,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Obama"
+    ],
+    "name:eng_x_variant":[
+        "Obama City"
     ],
     "name:epo_x_preferred":[
         "Obama"
@@ -265,7 +270,18 @@
     "qs:level":"locality",
     "qs:loc":"Obama",
     "qs:loc_lc":"1854849",
+    "qs:name":"\u5c0f\u6d5c\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u798f\u4e95\u770c",
+    "qs:photos":636,
+    "qs:photos_1k":129,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":829,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -282,8 +298,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1854849,
+        "gp:id":1117925,
         "qs_pg:id":137121,
         "wd:id":"Q41773"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            896741
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -299,7 +321,7 @@
         }
     ],
     "wof:id":102031469,
-    "wof:lastmodified":1690937584,
+    "wof:lastmodified":1706240249,
     "wof:name":"Obama",
     "wof:parent_id":1108741907,
     "wof:placetype":"locality",
@@ -307,7 +329,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890533943
+    ],
     "wof:tags":[]
 },
   "bbox": [

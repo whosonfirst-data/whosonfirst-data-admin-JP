@@ -12,11 +12,14 @@
     "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"136.650936,36.566666,136.660936,36.576666",
+    "lbl:latitude":36.571182,
+    "lbl:longitude":136.656666,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs:name":"\uff12\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u77f3\u5ddd\u770c",
@@ -28,6 +31,26 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u77f3\u5ddd\u770c",
+    "qs_pg:photos":139,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":139,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1273402,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28537933,
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u77f3\u5ddd\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672741,
         102191569,
@@ -39,6 +62,14 @@
     "wof:concordances":{
         "gp:id":28538101,
         "qs_pg:id":229079
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28537933
+        ],
+        "qs_pg:id":[
+            1273402
+        ]
     },
     "wof:country":"JP",
     "wof:created":1469056785,
@@ -54,13 +85,15 @@
         }
     ],
     "wof:id":890534515,
-    "wof:lastmodified":1640730797,
+    "wof:lastmodified":1706240317,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031655,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126077631
+    ],
     "wof:tags":[]
 },
   "bbox": [

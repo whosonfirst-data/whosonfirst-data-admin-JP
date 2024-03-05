@@ -10,7 +10,9 @@
     "geom:latitude":35.292728,
     "geom:longitude":138.605111,
     "gn:population":121515,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"138.569782,35.3285,138.609782,35.3685",
     "lbl:latitude":35.225538,
     "lbl:longitude":138.612721,
     "lbl:max_zoom":14.0,
@@ -243,7 +245,18 @@
     "qs:level":"locality",
     "qs:loc":"Fujinomiya",
     "qs:loc_lc":"1864105",
+    "qs:name":"\u5bcc\u58eb\u5bae\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9759\u5ca1\u770c",
+    "qs:photos":4687,
+    "qs:photos_1k":950,
+    "qs:photos_9k":21,
+    "qs:photos_9r":13,
+    "qs:photos_all":4687,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -266,6 +279,14 @@
         "qs_pg:id":1033406,
         "wd:id":"Q496072"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117084
+        ],
+        "qs_pg:id":[
+            1312163
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -284,7 +305,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1690937542,
+    "wof:lastmodified":1706240251,
     "wof:name":"Fujinomiya",
     "wof:parent_id":1108742191,
     "wof:placetype":"locality",
@@ -292,7 +313,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890522787
+    ],
     "wof:tags":[]
 },
   "bbox": [

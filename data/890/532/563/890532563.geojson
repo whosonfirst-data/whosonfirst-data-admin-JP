@@ -12,11 +12,14 @@
     "gp:adm0":23424856,
     "iso:country":"JP",
     "lbl:bbox":"139.7758865,35.691011,139.7858865,35.701011",
+    "lbl:latitude":35.695702,
+    "lbl:longitude":139.78373,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.5,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs:name":"\uff12\u4e01\u76ee",
     "qs:name_adm0":"\u65e5\u672c",
     "qs:name_adm1":"\u6771\u4eac\u90fd",
@@ -28,6 +31,26 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6771\u4eac\u90fd",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":485666,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28527300,
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6771\u4eac\u90fd",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672817,
         102191569,
@@ -39,6 +62,14 @@
     "wof:concordances":{
         "gp:id":28527231,
         "qs_pg:id":485642
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28527300
+        ],
+        "qs_pg:id":[
+            485666
+        ]
     },
     "wof:country":"JP",
     "wof:created":1469056709,
@@ -54,13 +85,15 @@
         }
     ],
     "wof:id":890532563,
-    "wof:lastmodified":1640902137,
+    "wof:lastmodified":1706240311,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126107701
+    ],
     "wof:tags":[]
 },
   "bbox": [

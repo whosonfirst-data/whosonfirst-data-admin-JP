@@ -12,7 +12,9 @@
     "gn:latitude":35.90807,
     "gn:longitude":139.65657,
     "gn:population":1193350,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.6098145,35.890975,139.6498145,35.930975",
     "lbl:latitude":35.859414,
     "lbl:longitude":139.606266,
     "lbl:max_zoom":13.0,
@@ -87,6 +89,9 @@
     ],
     "name:eng_x_preferred":[
         "Saitama"
+    ],
+    "name:eng_x_variant":[
+        "Saitama City"
     ],
     "name:epo_x_preferred":[
         "Saitama"
@@ -355,7 +360,18 @@
     "qs:level":"locality",
     "qs:loc":"Saitama",
     "qs:loc_lc":"6940394",
+    "qs:name":"\u3055\u3044\u305f\u307e\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u57fc\u7389\u770c",
+    "qs:photos":950,
+    "qs:photos_1k":193,
+    "qs:photos_9k":50,
+    "qs:photos_9r":16,
+    "qs:photos_all":11256,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -377,6 +393,14 @@
         "qs_pg:id":160997,
         "wd:id":"Q134635"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1116753
+        ],
+        "qs_pg:id":[
+            1287847
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -392,7 +416,7 @@
         }
     ],
     "wof:id":102032221,
-    "wof:lastmodified":1690937618,
+    "wof:lastmodified":1706240252,
     "wof:name":"Saitama",
     "wof:parent_id":1108740421,
     "wof:placetype":"locality",
@@ -400,7 +424,9 @@
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890522639
+    ],
     "wof:tags":[]
 },
   "bbox": [

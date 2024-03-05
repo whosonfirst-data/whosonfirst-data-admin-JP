@@ -11,6 +11,7 @@
     "geom:longitude":139.654853,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"139.649083,35.548001,139.659083,35.558001",
     "lbl:latitude":35.554486,
     "lbl:longitude":139.654853,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Hiyoshi 3 Chome"
@@ -62,11 +64,30 @@
     "qs:woe_lau":28415985,
     "qs:woe_local":1118550,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff13\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs_pg:photos":430,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":430,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088330,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28532630,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672805,
         102191569,
@@ -78,6 +99,14 @@
     "wof:concordances":{
         "gp:id":28532630,
         "qs_pg:id":1088330
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28532630
+        ],
+        "qs_pg:id":[
+            1088330
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -98,13 +127,15 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640892019,
+    "wof:lastmodified":1706240120,
     "wof:name":"\uff13\u4e01\u76ee",
     "wof:parent_id":102031239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126093279
+    ],
     "wof:tags":[]
 },
   "bbox": [

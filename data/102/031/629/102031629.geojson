@@ -9,9 +9,23 @@
     "geom:bbox":"135.379073,34.863394,135.433921,34.926484",
     "geom:latitude":34.890439,
     "geom:longitude":135.408328,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1859671.0",
+    "gn:asciiname":"Kawanishi",
+    "gn:country_code":"JP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11611623,
+    "gn:latitude":34.88114,
+    "gn:longitude":135.3986,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Kawanishi",
     "gn:population":160520,
+    "gn:timezone":"Asia/Tokyo",
     "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"135.3786,34.86114,135.4186,34.90114",
     "lbl:latitude":34.917467,
     "lbl:longitude":135.422974,
     "lbl:max_zoom":14.0,
@@ -119,6 +133,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u0928\u0936\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Kawanishi"
     ],
     "name:msa_x_preferred":[
         "Kawanishi"
@@ -250,7 +267,12 @@
         "wk:page":"Kawanishi, Hy\u014dgo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1243532
+        "gn:id":[
+            11611623
+        ],
+        "qs_pg:id":[
+            1243532
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -267,7 +289,7 @@
         }
     ],
     "wof:id":102031629,
-    "wof:lastmodified":1690937529,
+    "wof:lastmodified":1706240250,
     "wof:name":"Kawanishi",
     "wof:parent_id":890520727,
     "wof:placetype":"locality",
@@ -275,7 +297,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276319607
+    ],
     "wof:tags":[]
 },
   "bbox": [

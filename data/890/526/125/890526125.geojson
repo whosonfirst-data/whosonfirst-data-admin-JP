@@ -40,6 +40,14 @@
         "gp:id":28532165,
         "qs_pg:id":512413
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28532108
+        ],
+        "qs_pg:id":[
+            512396
+        ]
+    },
     "wof:country":"JP",
     "wof:created":1469056402,
     "wof:geomhash":"8af3d0271707cce7da7440677258bdee",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":890526125,
-    "wof:lastmodified":1640902115,
+    "wof:lastmodified":1706240285,
     "wof:name":"\uff13\u4e01\u76ee",
     "wof:parent_id":102031239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890532089
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,7 +11,9 @@
     "geom:longitude":139.160808,
     "gn:latitude":40.83999,
     "gn:longitude":140.3317,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.119324,35.231183,139.159324,35.271183",
     "lbl:latitude":35.259071,
     "lbl:longitude":139.154867,
     "lbl:max_zoom":18.0,
@@ -71,6 +73,9 @@
     ],
     "name:eng_x_preferred":[
         "Odawara"
+    ],
+    "name:eng_x_variant":[
+        "Odawara city"
     ],
     "name:epo_x_preferred":[
         "Oda\u016dara"
@@ -259,7 +264,18 @@
     "qs:level":"locality",
     "qs:loc":"Odawara",
     "qs:loc_lc":"8442443",
+    "qs:name":"\u5c0f\u7530\u539f\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u795e\u5948\u5ddd\u770c",
+    "qs:photos":1991,
+    "qs:photos_1k":403,
+    "qs:photos_9k":40,
+    "qs:photos_9r":15,
+    "qs:photos_all":9027,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -276,8 +292,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1854747,
+        "gp:id":1117936,
         "qs_pg:id":1033388,
         "wd:id":"Q267258"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            896742
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -294,13 +316,15 @@
         }
     ],
     "wof:id":102032335,
-    "wof:lastmodified":1690937631,
+    "wof:lastmodified":1706240252,
     "wof:name":"Odawara",
     "wof:parent_id":890522899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890533945
+    ],
     "wof:tags":[]
 },
   "bbox": [

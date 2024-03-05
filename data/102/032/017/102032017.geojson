@@ -11,7 +11,9 @@
     "geom:longitude":138.471679,
     "gn:latitude":44.74919,
     "gn:longitude":142.05029,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"138.455387,36.222992,138.495387,36.262992",
     "lbl:latitude":36.275279,
     "lbl:longitude":138.466186,
     "lbl:max_zoom":18.0,
@@ -32,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Saku"
+    ],
+    "name:eng_x_variant":[
+        "Saku City"
     ],
     "name:fin_x_preferred":[
         "Saku"
@@ -94,7 +99,18 @@
     "qs:level":"locality",
     "qs:loc":"Saku",
     "qs:loc_lc":"2128341",
+    "qs:name":"\u4f50\u4e45\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u9577\u91ce\u770c",
+    "qs:photos":552,
+    "qs:photos_1k":112,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":678,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -110,7 +126,13 @@
     "wof:concordances":{
         "gn:id":2128341,
         "gp:id":28432206,
+        "qs_pg:id":1086962,
         "wd:id":"Q294710"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1118090
+        ]
     },
     "wof:country":"JP",
     "wof:geomhash":"5dd38c610c3ace2808a1cf0d758fcdcb",
@@ -124,13 +146,15 @@
         }
     ],
     "wof:id":102032017,
-    "wof:lastmodified":1690937639,
+    "wof:lastmodified":1706240252,
     "wof:name":"Saku",
     "wof:parent_id":890520709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890529827
+    ],
     "wof:tags":[]
 },
   "bbox": [

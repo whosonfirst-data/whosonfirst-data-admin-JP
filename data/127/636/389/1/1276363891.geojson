@@ -12,6 +12,7 @@
     "gn:admin1_code":"45",
     "gn:admin2_code":"1852222.0",
     "gn:asciiname":"Yoshimo",
+    "gn:cc2":"JP",
     "gn:country_code":"JP",
     "gn:dem":48,
     "gn:feature_class":"P",
@@ -49,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1848177
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1848176
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"9a41054b770c091222de98cbb1a4a3d9",
     "wof:hierarchy":[
@@ -61,13 +67,15 @@
         }
     ],
     "wof:id":1276363891,
-    "wof:lastmodified":1566725655,
+    "wof:lastmodified":1706240321,
     "wof:name":"Yoshimo",
     "wof:parent_id":890520241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310627593
+    ],
     "wof:tags":[]
 },
   "bbox": [

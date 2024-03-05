@@ -9,8 +9,11 @@
     "geom:bbox":"139.85867,35.32633,139.985068,35.483106",
     "geom:latitude":35.401883,
     "geom:longitude":139.929437,
+    "gn:country":"JP",
     "gn:population":122524,
+    "gp:adm0":23424856,
     "iso:country":"JP",
+    "lbl:bbox":"139.855011,35.443606,139.895011,35.483606",
     "lbl:latitude":35.38426,
     "lbl:longitude":139.938996,
     "lbl:max_zoom":14.0,
@@ -244,7 +247,18 @@
     "qs:level":"locality",
     "qs:loc":"Kisarazu",
     "qs:loc_lc":"1859393",
+    "qs:name":"\u6728\u66f4\u6d25\u5e02",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5343\u8449\u770c",
+    "qs:photos":1393,
+    "qs:photos_1k":282,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2116,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -268,6 +282,14 @@
         "wd:id":"Q335427",
         "wk:page":"Kisarazu"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1117525
+        ],
+        "qs_pg:id":[
+            899022
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -285,7 +307,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1690937524,
+    "wof:lastmodified":1706240249,
     "wof:name":"Kisarazu",
     "wof:parent_id":1108741591,
     "wof:placetype":"locality",
@@ -293,7 +315,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890534003
+    ],
     "wof:tags":[]
 },
   "bbox": [

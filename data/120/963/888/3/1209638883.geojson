@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":11134797
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11134794
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"4d3cdbe596faaa8e6eee66e49761b209",
     "wof:hierarchy":[
@@ -78,13 +83,15 @@
         }
     ],
     "wof:id":1209638883,
-    "wof:lastmodified":1566725691,
+    "wof:lastmodified":1706240321,
     "wof:name":"Shimizu",
     "wof:parent_id":85632429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310228471
+    ],
     "wof:tags":[]
 },
   "bbox": [

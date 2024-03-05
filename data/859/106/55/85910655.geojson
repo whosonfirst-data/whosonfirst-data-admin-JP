@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":152997.292292,
     "geom:bbox":"139.783796,35.698996,139.783796,35.698996",
@@ -11,19 +13,21 @@
     "geom:longitude":139.783796,
     "gn:id":"",
     "iso:country":"JP",
+    "lbl:bbox":"139.77917,35.693815,139.78917,35.703815",
     "lbl:latitude":35.698996,
     "lbl:longitude":139.783796,
     "lbl:max_zoom":18.0,
     "mps:latitude":35.700344,
     "mps:longitude":139.784362,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.5,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":6,
     "name:eng_x_preferred":[
         "Asakusabashi 2 Chome"
@@ -63,11 +67,30 @@
     "qs:woe_lau":28414127,
     "qs:woe_local":1118370,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\uff12\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6771\u4eac\u90fd",
+    "qs_pg:photos":632,
+    "qs_pg:photos_1k":128,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":632,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":371212,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28527603,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6771\u4eac\u90fd",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672817,
         102191569,
@@ -79,6 +102,14 @@
     "wof:concordances":{
         "gp:id":28527603,
         "qs_pg:id":371212
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28527697
+        ],
+        "qs_pg:id":[
+            986380
+        ]
     },
     "wof:country":"JP",
     "wof:geom_alt":[
@@ -99,13 +130,18 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1640894350,
+    "wof:lastmodified":1706240040,
     "wof:name":"\uff12\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        85910273
+    ],
+    "wof:supersedes":[
+        1126090929,
+        85910749
+    ],
     "wof:tags":[]
 },
   "bbox": [

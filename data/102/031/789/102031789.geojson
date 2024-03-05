@@ -9,8 +9,22 @@
     "geom:bbox":"139.943848,35.66167,140.083993,35.777816",
     "geom:latitude":35.723548,
     "geom:longitude":140.011078,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1863903.0",
+    "gn:asciiname":"Funabashi",
+    "gn:country_code":"JP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11611630,
+    "gn:latitude":35.72045,
+    "gn:longitude":140.01148,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Funabashi",
     "gn:population":560743,
+    "gn:timezone":"Asia/Tokyo",
     "iso:country":"JP",
+    "lbl:bbox":"139.99148,35.70045,140.03148,35.74045",
     "lbl:latitude":35.727099,
     "lbl:longitude":140.009753,
     "lbl:max_zoom":13.0,
@@ -311,6 +325,11 @@
         "wd:id":"Q271417",
         "wk:page":"Funabashi, Chiba"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11611630
+        ]
+    },
     "wof:country":"JP",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -329,7 +348,7 @@
     "wof:lang":[
         "jpn"
     ],
-    "wof:lastmodified":1690937605,
+    "wof:lastmodified":1706240250,
     "wof:name":"Funabashi",
     "wof:parent_id":890520691,
     "wof:placetype":"locality",
@@ -337,7 +356,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326535691
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,11 @@
     "geom:bbox":"139.619764,35.124372,139.641711,35.142401",
     "geom:latitude":35.133387,
     "geom:longitude":139.630737,
+    "gn:country":"JP",
+    "gn:fcode":"PPL",
     "gn:population":51483,
     "iso:country":"JP",
+    "lbl:bbox":"139.59917,35.12,139.63917,35.16",
     "lbl:latitude":35.133386,
     "lbl:longitude":139.630737,
     "lbl:max_zoom":14.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0648\u0631\u0627"
     ],
@@ -216,6 +220,17 @@
     "qs:loc_lc":"1907309",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "qs_pg:aaroncc":"JP",
+    "qs_pg:gn_country":"JP",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1907309,
+    "qs_pg:gn_pop":51483,
+    "qs_pg:name":"Miura",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":351473,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -229,6 +244,17 @@
         "wd:id":"Q823886",
         "wk:page":"Miura, Kanagawa"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1907309
+        ],
+        "qs_pg:id":[
+            351473
+        ],
+        "wd:id":[
+            "Q823886"
+        ]
+    },
     "wof:country":"JP",
     "wof:geomhash":"436e71b028df9646f33d05bb99f1bdd5",
     "wof:hierarchy":[
@@ -240,7 +266,7 @@
         }
     ],
     "wof:id":102031877,
-    "wof:lastmodified":1690937572,
+    "wof:lastmodified":1706240251,
     "wof:name":"Miura",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -248,7 +274,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125856083
+    ],
     "wof:tags":[]
 },
   "bbox": [

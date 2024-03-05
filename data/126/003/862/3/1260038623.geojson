@@ -48,8 +48,13 @@
     "wof:concordances":{
         "gn:id":11273989
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11274028
+        ]
+    },
     "wof:country":"JP",
-    "wof:geomhash":"1437195297402b98cb932d50b9ac3207",
+    "wof:geomhash":"7973e007fd4a28838c0a1d9d704001a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1260038623,
-    "wof:lastmodified":1566725925,
+    "wof:lastmodified":1706240321,
     "wof:name":"Kuramitsu",
     "wof:parent_id":890524495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343425211
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    130.43898000000002,
+    130.43898,
     32.95944,
-    130.43898000000002,
+    130.43898,
     32.95944
 ],
-  "geometry": {"coordinates":[130.43898000000002,32.95944],"type":"Point"}
+  "geometry": {"coordinates":[130.43897999999999,32.95944],"type":"Point"}
 }
