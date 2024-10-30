@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tonan Han Kinen Kanko"
+    ],
+    "name:eng_x_variant":[
+        "Tonan Han Kinen Kanko Mura"
+    ],
     "name:jpn_x_preferred":[
         "\u6597\u5357\u85e9\u8a18\u5ff5\u89b3\u5149\u6751"
     ],
@@ -44,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672831,
-        890524885
+        890524885,
+        85672831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8395275
     },
     "wof:country":"JP",
-    "wof:geomhash":"38ee2d6b0c16f184282d93c0c72b726c",
+    "wof:geomhash":"9482384faca931bd2ec28fe4c53ce597",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +69,8 @@
         }
     ],
     "wof:id":1259690973,
-    "wof:lastmodified":1566726748,
-    "wof:name":"Tonan Han Kinen Kanko Mura",
+    "wof:lastmodified":1730271561,
+    "wof:name":"Tonan Han Kinen Kanko",
     "wof:parent_id":890524885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -73,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.36566000000005,
+    141.36566,
     40.78877,
-    141.36566000000005,
+    141.36566,
     40.78877
 ],
-  "geometry": {"coordinates":[141.36566000000005,40.78877],"type":"Point"}
+  "geometry": {"coordinates":[141.36565999999999,40.78877],"type":"Point"}
 }
