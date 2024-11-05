@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Katsuno"
+    ],
+    "name:eng_x_variant":[
+        "Katsuno-ni"
+    ],
     "name:jpn_x_preferred":[
         "\u52dd\u91ce\u4e8c"
     ],
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632429,
-        85672697,
-        1108743053
+        1108743053,
+        85672697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10266450
     },
     "wof:country":"JP",
-    "wof:geomhash":"10f769b95d33b38148abd83e30b80c9a",
+    "wof:geomhash":"233fe0afaac16afc36b92d5bacfe2f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243383919,
-    "wof:lastmodified":1566726508,
-    "wof:name":"Katsuno-ni",
+    "wof:lastmodified":1730271560,
+    "wof:name":"Katsuno",
     "wof:parent_id":1108743053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jp",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.70266999999998,
-    33.69439000000001,
-    130.70266999999998,
-    33.69439000000001
+    130.70267,
+    33.69439,
+    130.70267,
+    33.69439
 ],
-  "geometry": {"coordinates":[130.70266999999998,33.69439000000001],"type":"Point"}
+  "geometry": {"coordinates":[130.70267000000001,33.69439],"type":"Point"}
 }
